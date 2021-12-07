@@ -1,0 +1,1185 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Bílá velryba",
+    "identifier": "urn:uuid:9c3c9e25-daa8-4528-8e91-4305eb8c5e8d",
+    "author": "Herman Melville",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2021-12-07T10:50:41.658Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_068.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_069.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_070.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_071.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_072.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_073.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_074.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_075.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_076.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_077.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_078.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_079.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_080.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_081.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_082.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_083.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_084.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_085.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_086.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_087.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_088.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_089.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_090.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_091.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_092.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_093.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_094.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_095.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_096.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_097.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_098.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_099.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_100.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_101.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_102.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_103.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_104.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_105.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_106.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_107.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_108.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_109.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_110.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_111.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_112.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_113.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_114.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_115.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_116.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_117.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_118.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_119.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_120.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_121.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_122.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_123.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_124.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_125.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_126.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_127.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_128.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_129.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_130.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_131.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_132.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_133.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_134.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_135.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_136.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_137.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_138.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_139.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_140.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_141.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_142.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_143.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_144.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_145.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bila_velryba_146.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/bila_velry_idstyles.css"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image001_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/obalka_bila_velryba_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/upoutavka_eknihy_bw_fmt.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obr01.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "PŮVOD JMÉNA VELRYBY",
+      "href": "OEBPS/Text/bila_velryba_006.xhtml#toc_marker-1"
+    },
+    {
+      "title": "CITÁTY",
+      "href": "OEBPS/Text/bila_velryba_008.xhtml#toc_marker-2"
+    },
+    {
+      "title": "I. PŘELUDY",
+      "href": "OEBPS/Text/bila_velryba_010.xhtml#toc_marker-3"
+    },
+    {
+      "title": "II. TLUMOK",
+      "href": "OEBPS/Text/bila_velryba_011.xhtml#toc_marker-4"
+    },
+    {
+      "title": "III. HOSTINEC „U VELRYBY“",
+      "href": "OEBPS/Text/bila_velryba_012.xhtml#toc_marker-5"
+    },
+    {
+      "title": "IV. PŘIKRÝVKA",
+      "href": "OEBPS/Text/bila_velryba_013.xhtml#toc_marker-6"
+    },
+    {
+      "title": "V. SNÍDANĚ",
+      "href": "OEBPS/Text/bila_velryba_014.xhtml#toc_marker-7"
+    },
+    {
+      "title": "VI. ULICE",
+      "href": "OEBPS/Text/bila_velryba_015.xhtml#toc_marker-8"
+    },
+    {
+      "title": "VII. KAPLE",
+      "href": "OEBPS/Text/bila_velryba_016.xhtml#toc_marker-9"
+    },
+    {
+      "title": "VIII. KAZATELNA",
+      "href": "OEBPS/Text/bila_velryba_017.xhtml#toc_marker-10"
+    },
+    {
+      "title": "IX. KÁZÁNÍ",
+      "href": "OEBPS/Text/bila_velryba_018.xhtml#toc_marker-11"
+    },
+    {
+      "title": "X. DŮVĚRNÝ PŘÍTEL",
+      "href": "OEBPS/Text/bila_velryba_019.xhtml#toc_marker-12"
+    },
+    {
+      "title": "XI. NOČNÍ KOŠILE",
+      "href": "OEBPS/Text/bila_velryba_020.xhtml#toc_marker-13"
+    },
+    {
+      "title": "XII. ŽIVOTOPISNÁ",
+      "href": "OEBPS/Text/bila_velryba_021.xhtml#toc_marker-14"
+    },
+    {
+      "title": "XIII. TRAKAŘ",
+      "href": "OEBPS/Text/bila_velryba_022.xhtml#toc_marker-15"
+    },
+    {
+      "title": "XIV. NANTUCKET",
+      "href": "OEBPS/Text/bila_velryba_023.xhtml#toc_marker-16"
+    },
+    {
+      "title": "XV. ŠKEBLÍ POLÉVKA",
+      "href": "OEBPS/Text/bila_velryba_024.xhtml#toc_marker-17"
+    },
+    {
+      "title": "XVI. LOĎ",
+      "href": "OEBPS/Text/bila_velryba_025.xhtml#toc_marker-18"
+    },
+    {
+      "title": "XVII. RAMADÁN",
+      "href": "OEBPS/Text/bila_velryba_026.xhtml#toc_marker-19"
+    },
+    {
+      "title": "XVIII. JEHO ZNAČKA",
+      "href": "OEBPS/Text/bila_velryba_027.xhtml#toc_marker-20"
+    },
+    {
+      "title": "XIX. PROROK",
+      "href": "OEBPS/Text/bila_velryba_028.xhtml#toc_marker-21"
+    },
+    {
+      "title": "XX. PŘÍPRAVY K ODPLUTÍ",
+      "href": "OEBPS/Text/bila_velryba_029.xhtml#toc_marker-22"
+    },
+    {
+      "title": "XXI. CESTOU NA LOĎ",
+      "href": "OEBPS/Text/bila_velryba_030.xhtml#toc_marker-23"
+    },
+    {
+      "title": "XXII. VESELÉ VÁNOCE",
+      "href": "OEBPS/Text/bila_velryba_031.xhtml#toc_marker-24"
+    },
+    {
+      "title": "XXIII. BŘEH NA STRANĚ ZÁVĚTRNÉ",
+      "href": "OEBPS/Text/bila_velryba_032.xhtml#toc_marker-25"
+    },
+    {
+      "title": "XXIV. OBHÁJCE",
+      "href": "OEBPS/Text/bila_velryba_033.xhtml#toc_marker-26"
+    },
+    {
+      "title": "XXV. DODATEK",
+      "href": "OEBPS/Text/bila_velryba_034.xhtml#toc_marker-27"
+    },
+    {
+      "title": "XXVI. RYTÍŘI A PANOŠI",
+      "href": "OEBPS/Text/bila_velryba_035.xhtml#toc_marker-28"
+    },
+    {
+      "title": "XXVII. RYTÍŘI A PANOŠI",
+      "href": "OEBPS/Text/bila_velryba_036.xhtml#toc_marker-29"
+    },
+    {
+      "title": "XXVIII. ACHAB",
+      "href": "OEBPS/Text/bila_velryba_037.xhtml#toc_marker-30"
+    },
+    {
+      "title": "XXIX. VCHÁZÍ ACHAB, K NĚMU PŘISTUPUJE STUBB",
+      "href": "OEBPS/Text/bila_velryba_038.xhtml#toc_marker-31"
+    },
+    {
+      "title": "XXX. DÝMKA",
+      "href": "OEBPS/Text/bila_velryba_039.xhtml#toc_marker-32"
+    },
+    {
+      "title": "XXXI. KRÁLOVNA MAB",
+      "href": "OEBPS/Text/bila_velryba_040.xhtml#toc_marker-33"
+    },
+    {
+      "title": "XXXII. CETOLOGIE",
+      "href": "OEBPS/Text/bila_velryba_041.xhtml#toc_marker-34"
+    },
+    {
+      "title": "XXXIII. VRCHNÍ HARPUNÁŘ",
+      "href": "OEBPS/Text/bila_velryba_042.xhtml#toc_marker-35"
+    },
+    {
+      "title": "XXXIV. STŮL V KAJUTĚ",
+      "href": "OEBPS/Text/bila_velryba_043.xhtml#toc_marker-36"
+    },
+    {
+      "title": "XXXV. VRCHOL STOŽÁRU",
+      "href": "OEBPS/Text/bila_velryba_044.xhtml#toc_marker-37"
+    },
+    {
+      "title": "XXXVI. VELITELSKÁ PALUBA",
+      "href": "OEBPS/Text/bila_velryba_045.xhtml#toc_marker-38"
+    },
+    {
+      "title": "XXXVII. ZÁPAD SLUNCE",
+      "href": "OEBPS/Text/bila_velryba_046.xhtml#toc_marker-39"
+    },
+    {
+      "title": "XXXVIII. SOUMRAK",
+      "href": "OEBPS/Text/bila_velryba_047.xhtml#toc_marker-40"
+    },
+    {
+      "title": "XXXIX. PRVNÍ NOČNÍ HLÍDKA PŘEDNÍ KOŠ",
+      "href": "OEBPS/Text/bila_velryba_048.xhtml#toc_marker-41"
+    },
+    {
+      "title": "XL. PŮLNOC NA PŘÍDI",
+      "href": "OEBPS/Text/bila_velryba_049.xhtml#toc_marker-42"
+    },
+    {
+      "title": "XLI. MOBY DICK",
+      "href": "OEBPS/Text/bila_velryba_050.xhtml#toc_marker-43"
+    },
+    {
+      "title": "XLII. BĚLOST VELRYBY",
+      "href": "OEBPS/Text/bila_velryba_051.xhtml#toc_marker-44"
+    },
+    {
+      "title": "XLIII. SLYŠ!",
+      "href": "OEBPS/Text/bila_velryba_052.xhtml#toc_marker-45"
+    },
+    {
+      "title": "XLIV. MAPA MOŘE",
+      "href": "OEBPS/Text/bila_velryba_053.xhtml#toc_marker-46"
+    },
+    {
+      "title": "XLV. OSVĚDČENÍ",
+      "href": "OEBPS/Text/bila_velryba_054.xhtml#toc_marker-47"
+    },
+    {
+      "title": "XLVI. DOHADY",
+      "href": "OEBPS/Text/bila_velryba_055.xhtml#toc_marker-48"
+    },
+    {
+      "title": "XLVII. TKADLEC",
+      "href": "OEBPS/Text/bila_velryba_056.xhtml#toc_marker-49"
+    },
+    {
+      "title": "XLVIII. PRVNÍ SPUŠTĚNÍ ČLUNŮ",
+      "href": "OEBPS/Text/bila_velryba_057.xhtml#toc_marker-50"
+    },
+    {
+      "title": "XLIX. HYENA",
+      "href": "OEBPS/Text/bila_velryba_058.xhtml#toc_marker-51"
+    },
+    {
+      "title": "L. ACHABŮV ČLUN A POSÁDKA — FEDALLAH",
+      "href": "OEBPS/Text/bila_velryba_059.xhtml#toc_marker-52"
+    },
+    {
+      "title": "LI. PŘÍZRAČNÝ VODOMET",
+      "href": "OEBPS/Text/bila_velryba_060.xhtml#toc_marker-53"
+    },
+    {
+      "title": "LII. ALBATROS",
+      "href": "OEBPS/Text/bila_velryba_061.xhtml#toc_marker-54"
+    },
+    {
+      "title": "LIII. GAM",
+      "href": "OEBPS/Text/bila_velryba_062.xhtml#toc_marker-55"
+    },
+    {
+      "title": "LIV. PŘÍBĚH LODI TOWN-HO",
+      "href": "OEBPS/Text/bila_velryba_063.xhtml#toc_marker-56"
+    },
+    {
+      "title": "LV. O NESTVŮRNÝCH ZOBRAZENÍCH VELRYB",
+      "href": "OEBPS/Text/bila_velryba_064.xhtml#toc_marker-57"
+    },
+    {
+      "title": "LVI. O MÉNĚ NESPRÁVNÝCH OBRAZECH VELRYB A O PRAVDIVÝCH ZOBRAZENÍCH LOVU NA VELRYBY",
+      "href": "OEBPS/Text/bila_velryba_065.xhtml#toc_marker-58"
+    },
+    {
+      "title": "LVII. O VELRYBÁCH NA PLÁTNĚ, NA ZUBECH, NA DŘEVĚ, NA PLECHU, NA KAMENI, NA HORÁCH A VE HVĚZDÁCH",
+      "href": "OEBPS/Text/bila_velryba_066.xhtml#toc_marker-59"
+    },
+    {
+      "title": "LVIII. PLANKTON",
+      "href": "OEBPS/Text/bila_velryba_067.xhtml#toc_marker-60"
+    },
+    {
+      "title": "LIX. CHOBOTNICE",
+      "href": "OEBPS/Text/bila_velryba_068.xhtml#toc_marker-61"
+    },
+    {
+      "title": "LX. PROVAZEC",
+      "href": "OEBPS/Text/bila_velryba_069.xhtml#toc_marker-62"
+    },
+    {
+      "title": "LXI. STUBB ZABÍJÍ VELRYBU",
+      "href": "OEBPS/Text/bila_velryba_070.xhtml#toc_marker-63"
+    },
+    {
+      "title": "LXII. VRH HARPUNOU",
+      "href": "OEBPS/Text/bila_velryba_071.xhtml#toc_marker-64"
+    },
+    {
+      "title": "LXIII. VIDLICE",
+      "href": "OEBPS/Text/bila_velryba_072.xhtml#toc_marker-65"
+    },
+    {
+      "title": "LXIV. STUBBOVA VEČEŘE",
+      "href": "OEBPS/Text/bila_velryba_073.xhtml#toc_marker-66"
+    },
+    {
+      "title": "LXV. VELRYBA JAKO JÍDLO",
+      "href": "OEBPS/Text/bila_velryba_074.xhtml#toc_marker-67"
+    },
+    {
+      "title": "LXVI. MASAKR ŽRALOKŮ",
+      "href": "OEBPS/Text/bila_velryba_075.xhtml#toc_marker-68"
+    },
+    {
+      "title": "LXVII. ROZSEKÁVÁNÍ VELRYBY",
+      "href": "OEBPS/Text/bila_velryba_076.xhtml#toc_marker-69"
+    },
+    {
+      "title": "LXVIII. POKRÝVKA",
+      "href": "OEBPS/Text/bila_velryba_077.xhtml#toc_marker-70"
+    },
+    {
+      "title": "LXIX. POHŘEB",
+      "href": "OEBPS/Text/bila_velryba_078.xhtml#toc_marker-71"
+    },
+    {
+      "title": "LXX. SFINGA",
+      "href": "OEBPS/Text/bila_velryba_079.xhtml#toc_marker-72"
+    },
+    {
+      "title": "LXXI. PŘÍBĚH JEROBOAMŮV",
+      "href": "OEBPS/Text/bila_velryba_080.xhtml#toc_marker-73"
+    },
+    {
+      "title": "LXXII. OPIČÍ ŠŇŮRA",
+      "href": "OEBPS/Text/bila_velryba_081.xhtml#toc_marker-74"
+    },
+    {
+      "title": "LXXIII. STUBB A FLASK ZABIJÍ GRÓNSKOU VELRYBU A POTOM O NÍ ROZMLOUVAJÍ",
+      "href": "OEBPS/Text/bila_velryba_082.xhtml#toc_marker-75"
+    },
+    {
+      "title": "LXXIV. HLAVA VORVANĚ — Z HLEDISKA SROVNÁVACÍHO",
+      "href": "OEBPS/Text/bila_velryba_083.xhtml#toc_marker-76"
+    },
+    {
+      "title": "LXXV. HLAVA VELRYBY GRÓNSKÉ — Z HLEDISKA SROVNÁVACÍHO",
+      "href": "OEBPS/Text/bila_velryba_084.xhtml#toc_marker-77"
+    },
+    {
+      "title": "LXXVI. BERAN",
+      "href": "OEBPS/Text/bila_velryba_085.xhtml#toc_marker-78"
+    },
+    {
+      "title": "LXXVII. VELIKÝ SUD HEIDELBERSKÝ",
+      "href": "OEBPS/Text/bila_velryba_086.xhtml#toc_marker-79"
+    },
+    {
+      "title": "LXXVIII. CISTERNY A OKOVY",
+      "href": "OEBPS/Text/bila_velryba_087.xhtml#toc_marker-80"
+    },
+    {
+      "title": "LXXIX. PRÉRIE",
+      "href": "OEBPS/Text/bila_velryba_088.xhtml#toc_marker-81"
+    },
+    {
+      "title": "LXXX. ZÁVITNICE",
+      "href": "OEBPS/Text/bila_velryba_089.xhtml#toc_marker-82"
+    },
+    {
+      "title": "LXXXI. PEQUOD POTKÁVÁ PANNU",
+      "href": "OEBPS/Text/bila_velryba_090.xhtml#toc_marker-83"
+    },
+    {
+      "title": "LXXXII. ČEST A SLÁVA VELRYBÁŘSTVÍ",
+      "href": "OEBPS/Text/bila_velryba_091.xhtml#toc_marker-84"
+    },
+    {
+      "title": "LXXXIII. JONÁŠ Z HLEDISKA HISTORICKÉHO",
+      "href": "OEBPS/Text/bila_velryba_092.xhtml#toc_marker-85"
+    },
+    {
+      "title": "LXXXIV. DLOUHÝ VRH KOPÍM",
+      "href": "OEBPS/Text/bila_velryba_093.xhtml#toc_marker-86"
+    },
+    {
+      "title": "LXXXV. FONTÁNA",
+      "href": "OEBPS/Text/bila_velryba_094.xhtml#toc_marker-87"
+    },
+    {
+      "title": "LXXXVI. OCAS",
+      "href": "OEBPS/Text/bila_velryba_095.xhtml#toc_marker-88"
+    },
+    {
+      "title": "LXXXVII. VELKOLEPÁ FLOTILA",
+      "href": "OEBPS/Text/bila_velryba_096.xhtml#toc_marker-89"
+    },
+    {
+      "title": "LXXXVIII. ŠKOLY A UČITELÉ",
+      "href": "OEBPS/Text/bila_velryba_097.xhtml#toc_marker-90"
+    },
+    {
+      "title": "LXXXIX. PŘIPOUTANÁ RYBA A VOLNÁ RYBA",
+      "href": "OEBPS/Text/bila_velryba_098.xhtml#toc_marker-91"
+    },
+    {
+      "title": "XC. HLAVY NEBO OCASY",
+      "href": "OEBPS/Text/bila_velryba_099.xhtml#toc_marker-92"
+    },
+    {
+      "title": "XCI. PEQUOD POTKÁVÁ RŮŽOVÉ POUPĚ",
+      "href": "OEBPS/Text/bila_velryba_100.xhtml#toc_marker-93"
+    },
+    {
+      "title": "XCII. AMBRA",
+      "href": "OEBPS/Text/bila_velryba_101.xhtml#toc_marker-94"
+    },
+    {
+      "title": "XCIII. VYVRŽENEC",
+      "href": "OEBPS/Text/bila_velryba_102.xhtml#toc_marker-95"
+    },
+    {
+      "title": "XCIV. STISK RUKY",
+      "href": "OEBPS/Text/bila_velryba_103.xhtml#toc_marker-96"
+    },
+    {
+      "title": "XCV. TALÁR",
+      "href": "OEBPS/Text/bila_velryba_104.xhtml#toc_marker-97"
+    },
+    {
+      "title": "XCVI. ŠKVAŘENÍ",
+      "href": "OEBPS/Text/bila_velryba_105.xhtml#toc_marker-98"
+    },
+    {
+      "title": "XCVII. LAMPA",
+      "href": "OEBPS/Text/bila_velryba_106.xhtml#toc_marker-99"
+    },
+    {
+      "title": "XCVIII. ULOŽENÍ A ÚKLID",
+      "href": "OEBPS/Text/bila_velryba_107.xhtml#toc_marker-100"
+    },
+    {
+      "title": "XCIX. DUBLON",
+      "href": "OEBPS/Text/bila_velryba_108.xhtml#toc_marker-101"
+    },
+    {
+      "title": "C. NOHA A RUKA PEQUOD Z NANTUCKETU SE SETKÁVÁ SE SAMUELEM ENDERBYM Z LONDÝNA",
+      "href": "OEBPS/Text/bila_velryba_109.xhtml#toc_marker-102"
+    },
+    {
+      "title": "Cl. KARAFA",
+      "href": "OEBPS/Text/bila_velryba_110.xhtml#toc_marker-103"
+    },
+    {
+      "title": "CII. HÁJ NA ARSACIDÁCH",
+      "href": "OEBPS/Text/bila_velryba_111.xhtml#toc_marker-104"
+    },
+    {
+      "title": "CIII. ROZMĚRY VELRYBÍ KOSTRY",
+      "href": "OEBPS/Text/bila_velryba_112.xhtml#toc_marker-105"
+    },
+    {
+      "title": "CIV. VELRYBA FOSILNÍ",
+      "href": "OEBPS/Text/bila_velryba_113.xhtml#toc_marker-106"
+    },
+    {
+      "title": "CV. ZMENŠUJE SE VELIKOST VELRYBY? — VYHYNE?",
+      "href": "OEBPS/Text/bila_velryba_114.xhtml#toc_marker-107"
+    },
+    {
+      "title": "CVI. ACHABOVA NOHA",
+      "href": "OEBPS/Text/bila_velryba_115.xhtml#toc_marker-108"
+    },
+    {
+      "title": "CVII. TESAŘ",
+      "href": "OEBPS/Text/bila_velryba_116.xhtml#toc_marker-109"
+    },
+    {
+      "title": "CVIII. ACHAB A TESAŘ",
+      "href": "OEBPS/Text/bila_velryba_117.xhtml#toc_marker-110"
+    },
+    {
+      "title": "CIX. ACHAB A STARBUCK V KAJUTĚ",
+      "href": "OEBPS/Text/bila_velryba_118.xhtml#toc_marker-111"
+    },
+    {
+      "title": "CX. KVÍKVEG V RAKVI",
+      "href": "OEBPS/Text/bila_velryba_119.xhtml#toc_marker-112"
+    },
+    {
+      "title": "CXI. TICHÝ OCEÁN",
+      "href": "OEBPS/Text/bila_velryba_120.xhtml#toc_marker-113"
+    },
+    {
+      "title": "CXII. KOVÁŘ",
+      "href": "OEBPS/Text/bila_velryba_121.xhtml#toc_marker-114"
+    },
+    {
+      "title": "CXIII. KOVÁRNA",
+      "href": "OEBPS/Text/bila_velryba_122.xhtml#toc_marker-115"
+    },
+    {
+      "title": "CXIV. POZLACOVAČ",
+      "href": "OEBPS/Text/bila_velryba_123.xhtml#toc_marker-116"
+    },
+    {
+      "title": "CXV. PEQUOD POTKÁVÁ MLÁDENCE",
+      "href": "OEBPS/Text/bila_velryba_124.xhtml#toc_marker-117"
+    },
+    {
+      "title": "CXVI. UMÍRAJÍCÍ VELRYBA",
+      "href": "OEBPS/Text/bila_velryba_125.xhtml#toc_marker-118"
+    },
+    {
+      "title": "CXVII. HLÍDKA U VELRYBY",
+      "href": "OEBPS/Text/bila_velryba_126.xhtml#toc_marker-119"
+    },
+    {
+      "title": "CXVIII. KVADRANT",
+      "href": "OEBPS/Text/bila_velryba_127.xhtml#toc_marker-120"
+    },
+    {
+      "title": "CXIX. SVÍČKY",
+      "href": "OEBPS/Text/bila_velryba_128.xhtml#toc_marker-121"
+    },
+    {
+      "title": "CXX. PALUBA KE KONCI PRVNÍ NOČNÍ HLÍDKY",
+      "href": "OEBPS/Text/bila_velryba_129.xhtml#toc_marker-122"
+    },
+    {
+      "title": "CXXI. PŮLNOC — ZÁBRADLÍNA PŘEDNÍ PALUBĚ",
+      "href": "OEBPS/Text/bila_velryba_130.xhtml#toc_marker-123"
+    },
+    {
+      "title": "CXXII. O PŮLNOCI NA STOŽÁRU HROMY A BLESKY",
+      "href": "OEBPS/Text/bila_velryba_131.xhtml#toc_marker-124"
+    },
+    {
+      "title": "CXXIII. MUŠKETA",
+      "href": "OEBPS/Text/bila_velryba_132.xhtml#toc_marker-125"
+    },
+    {
+      "title": "CXXIV. MAGNETICKÁ STŘELKA",
+      "href": "OEBPS/Text/bila_velryba_133.xhtml#toc_marker-126"
+    },
+    {
+      "title": "CXXV. RYCHLOMĚR A ŠŇŮRA",
+      "href": "OEBPS/Text/bila_velryba_134.xhtml#toc_marker-127"
+    },
+    {
+      "title": "CXXVI. ZÁCHRANNÁ PLAVATKA",
+      "href": "OEBPS/Text/bila_velryba_135.xhtml#toc_marker-128"
+    },
+    {
+      "title": "CXXVII. PALUBA",
+      "href": "OEBPS/Text/bila_velryba_136.xhtml#toc_marker-129"
+    },
+    {
+      "title": "CXXVIII. PEQUOD POTKÁVÁ RÁCHEL",
+      "href": "OEBPS/Text/bila_velryba_137.xhtml#toc_marker-130"
+    },
+    {
+      "title": "CXXIX. KAJUTA",
+      "href": "OEBPS/Text/bila_velryba_138.xhtml#toc_marker-131"
+    },
+    {
+      "title": "CXXX. KLOBOUK",
+      "href": "OEBPS/Text/bila_velryba_139.xhtml#toc_marker-132"
+    },
+    {
+      "title": "CXXXI. PEQUOD POTKÁVÁ ROZKOŠ",
+      "href": "OEBPS/Text/bila_velryba_140.xhtml#toc_marker-133"
+    },
+    {
+      "title": "CXXXII. SYMFONIE",
+      "href": "OEBPS/Text/bila_velryba_141.xhtml#toc_marker-134"
+    },
+    {
+      "title": "CXXXIII. STÍHÁNÍ — PRVNÍ DEN",
+      "href": "OEBPS/Text/bila_velryba_142.xhtml#toc_marker-135"
+    },
+    {
+      "title": "CXXXIV. STÍHÁNÍ — DRUHÝ DEN",
+      "href": "OEBPS/Text/bila_velryba_143.xhtml#toc_marker-136"
+    },
+    {
+      "title": "CXXXV. STÍHÁNÍ — TŘETÍ DEN",
+      "href": "OEBPS/Text/bila_velryba_144.xhtml#toc_marker-137"
+    },
+    {
+      "title": "EPILOG",
+      "href": "OEBPS/Text/bila_velryba_145.xhtml#toc_marker-138"
+    }
+  ]
+}
