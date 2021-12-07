@@ -1,1 +1,2349 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "title": "Bílá velryba",
+      "identifier": "urn:uuid:9c3c9e25-daa8-4528-8e91-4305eb8c5e8d",
+      "author": "Herman Melville",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-12-07T10:50:41.658Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie",
+      "languageCode": "cs"
+    },
+    "elements": {
+      "title": "MLP-uroven2-kapitola ",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "",
+      "brAfter": "",
+      "blockquote": "",
+      "figure": "",
+      "em": "",
+      "strong": "",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "bila_velryba_001.md",
+            "xhtml": "bila_velryba_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_002.md",
+            "xhtml": "bila_velryba_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_003.md",
+            "xhtml": "bila_velryba_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_004.md",
+            "xhtml": "bila_velryba_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_005.md",
+            "xhtml": "bila_velryba_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_006.md",
+            "xhtml": "bila_velryba_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_007.md",
+            "xhtml": "bila_velryba_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_008.md",
+            "xhtml": "bila_velryba_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_009.md",
+            "xhtml": "bila_velryba_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_010.md",
+            "xhtml": "bila_velryba_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_011.md",
+            "xhtml": "bila_velryba_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_012.md",
+            "xhtml": "bila_velryba_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_013.md",
+            "xhtml": "bila_velryba_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_014.md",
+            "xhtml": "bila_velryba_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_015.md",
+            "xhtml": "bila_velryba_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_016.md",
+            "xhtml": "bila_velryba_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_017.md",
+            "xhtml": "bila_velryba_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_018.md",
+            "xhtml": "bila_velryba_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_019.md",
+            "xhtml": "bila_velryba_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_020.md",
+            "xhtml": "bila_velryba_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_021.md",
+            "xhtml": "bila_velryba_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_022.md",
+            "xhtml": "bila_velryba_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_023.md",
+            "xhtml": "bila_velryba_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_024.md",
+            "xhtml": "bila_velryba_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_025.md",
+            "xhtml": "bila_velryba_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_026.md",
+            "xhtml": "bila_velryba_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_027.md",
+            "xhtml": "bila_velryba_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_028.md",
+            "xhtml": "bila_velryba_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_029.md",
+            "xhtml": "bila_velryba_029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_030.md",
+            "xhtml": "bila_velryba_030.xhtml",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_031.md",
+            "xhtml": "bila_velryba_031.xhtml",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_032.md",
+            "xhtml": "bila_velryba_032.xhtml",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_033.md",
+            "xhtml": "bila_velryba_033.xhtml",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_034.md",
+            "xhtml": "bila_velryba_034.xhtml",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_035.md",
+            "xhtml": "bila_velryba_035.xhtml",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_036.md",
+            "xhtml": "bila_velryba_036.xhtml",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_037.md",
+            "xhtml": "bila_velryba_037.xhtml",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_038.md",
+            "xhtml": "bila_velryba_038.xhtml",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_039.md",
+            "xhtml": "bila_velryba_039.xhtml",
+            "id": 38,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_040.md",
+            "xhtml": "bila_velryba_040.xhtml",
+            "id": 39,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_041.md",
+            "xhtml": "bila_velryba_041.xhtml",
+            "id": 40,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_042.md",
+            "xhtml": "bila_velryba_042.xhtml",
+            "id": 41,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_043.md",
+            "xhtml": "bila_velryba_043.xhtml",
+            "id": 42,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_044.md",
+            "xhtml": "bila_velryba_044.xhtml",
+            "id": 43,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_045.md",
+            "xhtml": "bila_velryba_045.xhtml",
+            "id": 44,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_046.md",
+            "xhtml": "bila_velryba_046.xhtml",
+            "id": 45,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_047.md",
+            "xhtml": "bila_velryba_047.xhtml",
+            "id": 46,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_048.md",
+            "xhtml": "bila_velryba_048.xhtml",
+            "id": 47,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_049.md",
+            "xhtml": "bila_velryba_049.xhtml",
+            "id": 48,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_050.md",
+            "xhtml": "bila_velryba_050.xhtml",
+            "id": 49,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_051.md",
+            "xhtml": "bila_velryba_051.xhtml",
+            "id": 50,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_052.md",
+            "xhtml": "bila_velryba_052.xhtml",
+            "id": 51,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_053.md",
+            "xhtml": "bila_velryba_053.xhtml",
+            "id": 52,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_054.md",
+            "xhtml": "bila_velryba_054.xhtml",
+            "id": 53,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_055.md",
+            "xhtml": "bila_velryba_055.xhtml",
+            "id": 54,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_056.md",
+            "xhtml": "bila_velryba_056.xhtml",
+            "id": 55,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_057.md",
+            "xhtml": "bila_velryba_057.xhtml",
+            "id": 56,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_058.md",
+            "xhtml": "bila_velryba_058.xhtml",
+            "id": 57,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_059.md",
+            "xhtml": "bila_velryba_059.xhtml",
+            "id": 58,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_060.md",
+            "xhtml": "bila_velryba_060.xhtml",
+            "id": 59,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_061.md",
+            "xhtml": "bila_velryba_061.xhtml",
+            "id": 60,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_062.md",
+            "xhtml": "bila_velryba_062.xhtml",
+            "id": 61,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_063.md",
+            "xhtml": "bila_velryba_063.xhtml",
+            "id": 62,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_064.md",
+            "xhtml": "bila_velryba_064.xhtml",
+            "id": 63,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_065.md",
+            "xhtml": "bila_velryba_065.xhtml",
+            "id": 64,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_066.md",
+            "xhtml": "bila_velryba_066.xhtml",
+            "id": 65,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_067.md",
+            "xhtml": "bila_velryba_067.xhtml",
+            "id": 66,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_068.md",
+            "xhtml": "bila_velryba_068.xhtml",
+            "id": 67,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_069.md",
+            "xhtml": "bila_velryba_069.xhtml",
+            "id": 68,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_070.md",
+            "xhtml": "bila_velryba_070.xhtml",
+            "id": 69,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_071.md",
+            "xhtml": "bila_velryba_071.xhtml",
+            "id": 70,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_072.md",
+            "xhtml": "bila_velryba_072.xhtml",
+            "id": 71,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_073.md",
+            "xhtml": "bila_velryba_073.xhtml",
+            "id": 72,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_074.md",
+            "xhtml": "bila_velryba_074.xhtml",
+            "id": 73,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_075.md",
+            "xhtml": "bila_velryba_075.xhtml",
+            "id": 74,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_076.md",
+            "xhtml": "bila_velryba_076.xhtml",
+            "id": 75,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_077.md",
+            "xhtml": "bila_velryba_077.xhtml",
+            "id": 76,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_078.md",
+            "xhtml": "bila_velryba_078.xhtml",
+            "id": 77,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_079.md",
+            "xhtml": "bila_velryba_079.xhtml",
+            "id": 78,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_080.md",
+            "xhtml": "bila_velryba_080.xhtml",
+            "id": 79,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_081.md",
+            "xhtml": "bila_velryba_081.xhtml",
+            "id": 80,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_082.md",
+            "xhtml": "bila_velryba_082.xhtml",
+            "id": 81,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_083.md",
+            "xhtml": "bila_velryba_083.xhtml",
+            "id": 82,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_084.md",
+            "xhtml": "bila_velryba_084.xhtml",
+            "id": 83,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_085.md",
+            "xhtml": "bila_velryba_085.xhtml",
+            "id": 84,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_086.md",
+            "xhtml": "bila_velryba_086.xhtml",
+            "id": 85,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_087.md",
+            "xhtml": "bila_velryba_087.xhtml",
+            "id": 86,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_088.md",
+            "xhtml": "bila_velryba_088.xhtml",
+            "id": 87,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_089.md",
+            "xhtml": "bila_velryba_089.xhtml",
+            "id": 88,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_090.md",
+            "xhtml": "bila_velryba_090.xhtml",
+            "id": 89,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_091.md",
+            "xhtml": "bila_velryba_091.xhtml",
+            "id": 90,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_092.md",
+            "xhtml": "bila_velryba_092.xhtml",
+            "id": 91,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_093.md",
+            "xhtml": "bila_velryba_093.xhtml",
+            "id": 92,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_094.md",
+            "xhtml": "bila_velryba_094.xhtml",
+            "id": 93,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_095.md",
+            "xhtml": "bila_velryba_095.xhtml",
+            "id": 94,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_096.md",
+            "xhtml": "bila_velryba_096.xhtml",
+            "id": 95,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_097.md",
+            "xhtml": "bila_velryba_097.xhtml",
+            "id": 96,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_098.md",
+            "xhtml": "bila_velryba_098.xhtml",
+            "id": 97,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_099.md",
+            "xhtml": "bila_velryba_099.xhtml",
+            "id": 98,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_100.md",
+            "xhtml": "bila_velryba_100.xhtml",
+            "id": 99,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_101.md",
+            "xhtml": "bila_velryba_101.xhtml",
+            "id": 100,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_102.md",
+            "xhtml": "bila_velryba_102.xhtml",
+            "id": 101,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_103.md",
+            "xhtml": "bila_velryba_103.xhtml",
+            "id": 102,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_104.md",
+            "xhtml": "bila_velryba_104.xhtml",
+            "id": 103,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_105.md",
+            "xhtml": "bila_velryba_105.xhtml",
+            "id": 104,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_106.md",
+            "xhtml": "bila_velryba_106.xhtml",
+            "id": 105,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_107.md",
+            "xhtml": "bila_velryba_107.xhtml",
+            "id": 106,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_108.md",
+            "xhtml": "bila_velryba_108.xhtml",
+            "id": 107,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_109.md",
+            "xhtml": "bila_velryba_109.xhtml",
+            "id": 108,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_110.md",
+            "xhtml": "bila_velryba_110.xhtml",
+            "id": 109,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_111.md",
+            "xhtml": "bila_velryba_111.xhtml",
+            "id": 110,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_112.md",
+            "xhtml": "bila_velryba_112.xhtml",
+            "id": 111,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_113.md",
+            "xhtml": "bila_velryba_113.xhtml",
+            "id": 112,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_114.md",
+            "xhtml": "bila_velryba_114.xhtml",
+            "id": 113,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_115.md",
+            "xhtml": "bila_velryba_115.xhtml",
+            "id": 114,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_116.md",
+            "xhtml": "bila_velryba_116.xhtml",
+            "id": 115,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_117.md",
+            "xhtml": "bila_velryba_117.xhtml",
+            "id": 116,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_118.md",
+            "xhtml": "bila_velryba_118.xhtml",
+            "id": 117,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_119.md",
+            "xhtml": "bila_velryba_119.xhtml",
+            "id": 118,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_120.md",
+            "xhtml": "bila_velryba_120.xhtml",
+            "id": 119,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_121.md",
+            "xhtml": "bila_velryba_121.xhtml",
+            "id": 120,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_122.md",
+            "xhtml": "bila_velryba_122.xhtml",
+            "id": 121,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_123.md",
+            "xhtml": "bila_velryba_123.xhtml",
+            "id": 122,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_124.md",
+            "xhtml": "bila_velryba_124.xhtml",
+            "id": 123,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_125.md",
+            "xhtml": "bila_velryba_125.xhtml",
+            "id": 124,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_126.md",
+            "xhtml": "bila_velryba_126.xhtml",
+            "id": 125,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_127.md",
+            "xhtml": "bila_velryba_127.xhtml",
+            "id": 126,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_128.md",
+            "xhtml": "bila_velryba_128.xhtml",
+            "id": 127,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_129.md",
+            "xhtml": "bila_velryba_129.xhtml",
+            "id": 128,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_130.md",
+            "xhtml": "bila_velryba_130.xhtml",
+            "id": 129,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_131.md",
+            "xhtml": "bila_velryba_131.xhtml",
+            "id": 130,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_132.md",
+            "xhtml": "bila_velryba_132.xhtml",
+            "id": 131,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_133.md",
+            "xhtml": "bila_velryba_133.xhtml",
+            "id": 132,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_134.md",
+            "xhtml": "bila_velryba_134.xhtml",
+            "id": 133,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_135.md",
+            "xhtml": "bila_velryba_135.xhtml",
+            "id": 134,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_136.md",
+            "xhtml": "bila_velryba_136.xhtml",
+            "id": 135,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_137.md",
+            "xhtml": "bila_velryba_137.xhtml",
+            "id": 136,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_138.md",
+            "xhtml": "bila_velryba_138.xhtml",
+            "id": 137,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_139.md",
+            "xhtml": "bila_velryba_139.xhtml",
+            "id": 138,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_140.md",
+            "xhtml": "bila_velryba_140.xhtml",
+            "id": 139,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_141.md",
+            "xhtml": "bila_velryba_141.xhtml",
+            "id": 140,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_142.md",
+            "xhtml": "bila_velryba_142.xhtml",
+            "id": 141,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_143.md",
+            "xhtml": "bila_velryba_143.xhtml",
+            "id": 142,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_144.md",
+            "xhtml": "bila_velryba_144.xhtml",
+            "id": 143,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_145.md",
+            "xhtml": "bila_velryba_145.xhtml",
+            "id": 144,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bila_velryba_146.md",
+            "xhtml": "bila_velryba_146.xhtml",
+            "id": 145,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Bílá velryba",
+      "identifier": "urn:uuid:9c3c9e25-daa8-4528-8e91-4305eb8c5e8d",
+      "author": "Herman Melville",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-12-07T10:50:41.658Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie",
+      "languageCode": "cs"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_001.md",
+        "xhtml": "bila_velryba_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_002.md",
+        "xhtml": "bila_velryba_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_003.md",
+        "xhtml": "bila_velryba_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_004.md",
+        "xhtml": "bila_velryba_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_005.md",
+        "xhtml": "bila_velryba_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_006.md",
+        "xhtml": "bila_velryba_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_007.md",
+        "xhtml": "bila_velryba_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_008.md",
+        "xhtml": "bila_velryba_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_009.md",
+        "xhtml": "bila_velryba_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_010.md",
+        "xhtml": "bila_velryba_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_011.md",
+        "xhtml": "bila_velryba_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_012.md",
+        "xhtml": "bila_velryba_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_013.md",
+        "xhtml": "bila_velryba_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_014.md",
+        "xhtml": "bila_velryba_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_015.md",
+        "xhtml": "bila_velryba_015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_016.md",
+        "xhtml": "bila_velryba_016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_017.md",
+        "xhtml": "bila_velryba_017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_018.md",
+        "xhtml": "bila_velryba_018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_019.md",
+        "xhtml": "bila_velryba_019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_020.md",
+        "xhtml": "bila_velryba_020.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_021.md",
+        "xhtml": "bila_velryba_021.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_022.md",
+        "xhtml": "bila_velryba_022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_023.md",
+        "xhtml": "bila_velryba_023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_024.md",
+        "xhtml": "bila_velryba_024.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_025.md",
+        "xhtml": "bila_velryba_025.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_026.md",
+        "xhtml": "bila_velryba_026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_027.md",
+        "xhtml": "bila_velryba_027.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_028.md",
+        "xhtml": "bila_velryba_028.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_029.md",
+        "xhtml": "bila_velryba_029.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_030.md",
+        "xhtml": "bila_velryba_030.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_031.md",
+        "xhtml": "bila_velryba_031.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_032.md",
+        "xhtml": "bila_velryba_032.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_033.md",
+        "xhtml": "bila_velryba_033.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_034.md",
+        "xhtml": "bila_velryba_034.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_035.md",
+        "xhtml": "bila_velryba_035.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_036.md",
+        "xhtml": "bila_velryba_036.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_037.md",
+        "xhtml": "bila_velryba_037.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_038.md",
+        "xhtml": "bila_velryba_038.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_039.md",
+        "xhtml": "bila_velryba_039.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_040.md",
+        "xhtml": "bila_velryba_040.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_041.md",
+        "xhtml": "bila_velryba_041.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_042.md",
+        "xhtml": "bila_velryba_042.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_043.md",
+        "xhtml": "bila_velryba_043.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_044.md",
+        "xhtml": "bila_velryba_044.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_045.md",
+        "xhtml": "bila_velryba_045.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_046.md",
+        "xhtml": "bila_velryba_046.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_047.md",
+        "xhtml": "bila_velryba_047.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_048.md",
+        "xhtml": "bila_velryba_048.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_049.md",
+        "xhtml": "bila_velryba_049.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_050.md",
+        "xhtml": "bila_velryba_050.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_051.md",
+        "xhtml": "bila_velryba_051.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_052.md",
+        "xhtml": "bila_velryba_052.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_053.md",
+        "xhtml": "bila_velryba_053.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_054.md",
+        "xhtml": "bila_velryba_054.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_055.md",
+        "xhtml": "bila_velryba_055.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_056.md",
+        "xhtml": "bila_velryba_056.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_057.md",
+        "xhtml": "bila_velryba_057.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_058.md",
+        "xhtml": "bila_velryba_058.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_059.md",
+        "xhtml": "bila_velryba_059.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_060.md",
+        "xhtml": "bila_velryba_060.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_061.md",
+        "xhtml": "bila_velryba_061.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_062.md",
+        "xhtml": "bila_velryba_062.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_063.md",
+        "xhtml": "bila_velryba_063.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_064.md",
+        "xhtml": "bila_velryba_064.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_065.md",
+        "xhtml": "bila_velryba_065.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_066.md",
+        "xhtml": "bila_velryba_066.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_067.md",
+        "xhtml": "bila_velryba_067.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_068.md",
+        "xhtml": "bila_velryba_068.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_069.md",
+        "xhtml": "bila_velryba_069.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_070.md",
+        "xhtml": "bila_velryba_070.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_071.md",
+        "xhtml": "bila_velryba_071.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_072.md",
+        "xhtml": "bila_velryba_072.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_073.md",
+        "xhtml": "bila_velryba_073.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_074.md",
+        "xhtml": "bila_velryba_074.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_075.md",
+        "xhtml": "bila_velryba_075.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_076.md",
+        "xhtml": "bila_velryba_076.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_077.md",
+        "xhtml": "bila_velryba_077.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_078.md",
+        "xhtml": "bila_velryba_078.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_079.md",
+        "xhtml": "bila_velryba_079.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_080.md",
+        "xhtml": "bila_velryba_080.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_081.md",
+        "xhtml": "bila_velryba_081.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_082.md",
+        "xhtml": "bila_velryba_082.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_083.md",
+        "xhtml": "bila_velryba_083.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_084.md",
+        "xhtml": "bila_velryba_084.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_085.md",
+        "xhtml": "bila_velryba_085.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_086.md",
+        "xhtml": "bila_velryba_086.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_087.md",
+        "xhtml": "bila_velryba_087.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_088.md",
+        "xhtml": "bila_velryba_088.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_089.md",
+        "xhtml": "bila_velryba_089.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_090.md",
+        "xhtml": "bila_velryba_090.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_091.md",
+        "xhtml": "bila_velryba_091.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_092.md",
+        "xhtml": "bila_velryba_092.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_093.md",
+        "xhtml": "bila_velryba_093.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_094.md",
+        "xhtml": "bila_velryba_094.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_095.md",
+        "xhtml": "bila_velryba_095.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_096.md",
+        "xhtml": "bila_velryba_096.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_097.md",
+        "xhtml": "bila_velryba_097.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_098.md",
+        "xhtml": "bila_velryba_098.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_099.md",
+        "xhtml": "bila_velryba_099.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_100.md",
+        "xhtml": "bila_velryba_100.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_101.md",
+        "xhtml": "bila_velryba_101.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_102.md",
+        "xhtml": "bila_velryba_102.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_103.md",
+        "xhtml": "bila_velryba_103.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_104.md",
+        "xhtml": "bila_velryba_104.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_105.md",
+        "xhtml": "bila_velryba_105.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_106.md",
+        "xhtml": "bila_velryba_106.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_107.md",
+        "xhtml": "bila_velryba_107.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_108.md",
+        "xhtml": "bila_velryba_108.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_109.md",
+        "xhtml": "bila_velryba_109.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_110.md",
+        "xhtml": "bila_velryba_110.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_111.md",
+        "xhtml": "bila_velryba_111.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_112.md",
+        "xhtml": "bila_velryba_112.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_113.md",
+        "xhtml": "bila_velryba_113.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_114.md",
+        "xhtml": "bila_velryba_114.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_115.md",
+        "xhtml": "bila_velryba_115.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_116.md",
+        "xhtml": "bila_velryba_116.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_117.md",
+        "xhtml": "bila_velryba_117.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_118.md",
+        "xhtml": "bila_velryba_118.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_119.md",
+        "xhtml": "bila_velryba_119.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_120.md",
+        "xhtml": "bila_velryba_120.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_121.md",
+        "xhtml": "bila_velryba_121.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_122.md",
+        "xhtml": "bila_velryba_122.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_123.md",
+        "xhtml": "bila_velryba_123.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_124.md",
+        "xhtml": "bila_velryba_124.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_125.md",
+        "xhtml": "bila_velryba_125.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_126.md",
+        "xhtml": "bila_velryba_126.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_127.md",
+        "xhtml": "bila_velryba_127.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_128.md",
+        "xhtml": "bila_velryba_128.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_129.md",
+        "xhtml": "bila_velryba_129.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_130.md",
+        "xhtml": "bila_velryba_130.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_131.md",
+        "xhtml": "bila_velryba_131.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_132.md",
+        "xhtml": "bila_velryba_132.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_133.md",
+        "xhtml": "bila_velryba_133.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_134.md",
+        "xhtml": "bila_velryba_134.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_135.md",
+        "xhtml": "bila_velryba_135.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_136.md",
+        "xhtml": "bila_velryba_136.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_137.md",
+        "xhtml": "bila_velryba_137.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_138.md",
+        "xhtml": "bila_velryba_138.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_139.md",
+        "xhtml": "bila_velryba_139.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_140.md",
+        "xhtml": "bila_velryba_140.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_141.md",
+        "xhtml": "bila_velryba_141.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_142.md",
+        "xhtml": "bila_velryba_142.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_143.md",
+        "xhtml": "bila_velryba_143.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_144.md",
+        "xhtml": "bila_velryba_144.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_145.md",
+        "xhtml": "bila_velryba_145.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bila_velryba_146.md",
+        "xhtml": "bila_velryba_146.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/bila_velry_idstyles.css"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image001_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/obalka_bila_velryba_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/upoutavka_eknihy_bw_fmt.png"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obr01.jpg"
+      }
+    ],
+    "classes": [
+      "Footnote-reference",
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-dopis--I",
+      "MLP-dopis-bez1radku--I",
+      "MLP-dopis-podpis--I",
+      "MLP-dopis-podpis-velryba",
+      "MLP-hvezdicky",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-pozn-pod-carou",
+      "MLP-text",
+      "MLP-text--0-12",
+      "MLP-text--12-0",
+      "MLP-text--I",
+      "MLP-text--I---0-12",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-text-bez1radku--I",
+      "MLP-text-bez1radku--I---0-12",
+      "MLP-text-bez1radku--I---12-0",
+      "MLP-text-bez1radku--I---12-12",
+      "MLP-text-uprostred",
+      "MLP-text-uprostred--I",
+      "MLP-text-uprostred-9b",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-titulka-prekladatel",
+      "MLP-uroven2-kapitola",
+      "MLP-venovani",
+      "MLP-verse",
+      "MLP-verse--I",
+      "MLP-znak-kapitalky",
+      "MLP-znak-kurziva-11b",
+      "Normal",
+      "Text-pozn--pod--arou-Char",
+      "char-style-override-1",
+      "char-style-override-10",
+      "char-style-override-11",
+      "char-style-override-2",
+      "char-style-override-4",
+      "char-style-override-5",
+      "char-style-override-6",
+      "char-style-override-7",
+      "char-style-override-8",
+      "char-style-override-9",
+      "footnote",
+      "footnote-anchor",
+      "footnote-link",
+      "footnotes",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3",
+      "para-style-override-4",
+      "para-style-override-5",
+      "para-style-override-6",
+      "para-style-override-7",
+      "para-style-override-8",
+      "para-style-override-9"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "melville-bila-velryba"
+    },
+    "generatedAt": 1638874242846
+  }
+}
