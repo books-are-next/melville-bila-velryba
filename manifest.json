@@ -1,0 +1,2949 @@
+{
+  "author": "Herman Melville",
+  "edition": "beletrie",
+  "identifier": "melville-bila-velryba-00e3cd9",
+  "languagecode": "cs",
+  "modified": "2021-12-07T10:50:41.658Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Bílá velryba",
+  "revision": "00e3cd9",
+  "generatedAt": {
+    "date": "Tue Dec 07 2021 10:57:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638874658525
+  },
+  "documents": [
+    {
+      "title": "Bílá velryba",
+      "file": "bila_velryba_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "bila_velryba_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bílá velryba",
+      "file": "bila_velryba_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "bila_velryba_001.html",
+      "next": "bila_velryba_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bílá velryba",
+      "file": "bila_velryba_003.html",
+      "words": 11,
+      "chars": 72,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 2,
+      "prev": "bila_velryba_002.html",
+      "next": "bila_velryba_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bílá velryba",
+      "file": "bila_velryba_004.html",
+      "words": 90,
+      "chars": 590,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "bila_velryba_003.html",
+      "next": "bila_velryba_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bílá velryba",
+      "file": "bila_velryba_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 4,
+      "prev": "bila_velryba_004.html",
+      "next": "bila_velryba_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PŮVOD JMÉNA VELRYBY • Bílá velryba",
+      "file": "bila_velryba_006.html",
+      "words": 136,
+      "chars": 907,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 5,
+      "prev": "bila_velryba_005.html",
+      "next": "bila_velryba_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PŮVOD JMÉNA VELRYBY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bílá velryba",
+      "file": "bila_velryba_007.html",
+      "words": 24,
+      "chars": 214,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 6,
+      "prev": "bila_velryba_006.html",
+      "next": "bila_velryba_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CITÁTY • Bílá velryba",
+      "file": "bila_velryba_008.html",
+      "words": 268,
+      "chars": 1671,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 7,
+      "prev": "bila_velryba_007.html",
+      "next": "bila_velryba_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CITÁTY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bílá velryba",
+      "file": "bila_velryba_009.html",
+      "words": 2427,
+      "chars": 15236,
+      "ideas": 235,
+      "role": "chapter",
+      "order": 8,
+      "prev": "bila_velryba_008.html",
+      "next": "bila_velryba_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I.PŘELUDY • Bílá velryba",
+      "file": "bila_velryba_010.html",
+      "words": 1894,
+      "chars": 11367,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 9,
+      "prev": "bila_velryba_009.html",
+      "next": "bila_velryba_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I.PŘELUDY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II.TLUMOK • Bílá velryba",
+      "file": "bila_velryba_011.html",
+      "words": 1165,
+      "chars": 7039,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 10,
+      "prev": "bila_velryba_010.html",
+      "next": "bila_velryba_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II.TLUMOK",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III.HOSTINEC „U VELRYBY“ • Bílá velryba",
+      "file": "bila_velryba_012.html",
+      "words": 4766,
+      "chars": 28544,
+      "ideas": 75,
+      "role": "chapter",
+      "order": 11,
+      "prev": "bila_velryba_011.html",
+      "next": "bila_velryba_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III.HOSTINEC „U VELRYBY“",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV.PŘIKRÝVKA • Bílá velryba",
+      "file": "bila_velryba_013.html",
+      "words": 1350,
+      "chars": 7961,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 12,
+      "prev": "bila_velryba_012.html",
+      "next": "bila_velryba_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV.PŘIKRÝVKA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V.SNÍDANĚ • Bílá velryba",
+      "file": "bila_velryba_014.html",
+      "words": 619,
+      "chars": 3778,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 13,
+      "prev": "bila_velryba_013.html",
+      "next": "bila_velryba_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V.SNÍDANĚ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI.ULICE • Bílá velryba",
+      "file": "bila_velryba_015.html",
+      "words": 730,
+      "chars": 4573,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 14,
+      "prev": "bila_velryba_014.html",
+      "next": "bila_velryba_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI.ULICE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII.KAPLE • Bílá velryba",
+      "file": "bila_velryba_016.html",
+      "words": 799,
+      "chars": 4951,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 15,
+      "prev": "bila_velryba_015.html",
+      "next": "bila_velryba_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII.KAPLE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII.KAZATELNA • Bílá velryba",
+      "file": "bila_velryba_017.html",
+      "words": 733,
+      "chars": 4656,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 16,
+      "prev": "bila_velryba_016.html",
+      "next": "bila_velryba_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII.KAZATELNA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX.KÁZÁNÍ • Bílá velryba",
+      "file": "bila_velryba_018.html",
+      "words": 2999,
+      "chars": 17967,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 17,
+      "prev": "bila_velryba_017.html",
+      "next": "bila_velryba_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX.KÁZÁNÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X.DŮVĚRNÝ PŘÍTEL • Bílá velryba",
+      "file": "bila_velryba_019.html",
+      "words": 1361,
+      "chars": 8093,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 18,
+      "prev": "bila_velryba_018.html",
+      "next": "bila_velryba_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X.DŮVĚRNÝ PŘÍTEL",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI.NOČNÍ KOŠILE • Bílá velryba",
+      "file": "bila_velryba_020.html",
+      "words": 564,
+      "chars": 3439,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 19,
+      "prev": "bila_velryba_019.html",
+      "next": "bila_velryba_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI.NOČNÍ KOŠILE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII.ŽIVOTOPISNÁ • Bílá velryba",
+      "file": "bila_velryba_021.html",
+      "words": 779,
+      "chars": 4665,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 20,
+      "prev": "bila_velryba_020.html",
+      "next": "bila_velryba_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII.ŽIVOTOPISNÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII.TRAKAŘ • Bílá velryba",
+      "file": "bila_velryba_022.html",
+      "words": 1497,
+      "chars": 9154,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 21,
+      "prev": "bila_velryba_021.html",
+      "next": "bila_velryba_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII.TRAKAŘ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV.NANTUCKET • Bílá velryba",
+      "file": "bila_velryba_023.html",
+      "words": 666,
+      "chars": 4046,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 22,
+      "prev": "bila_velryba_022.html",
+      "next": "bila_velryba_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV.NANTUCKET",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV.ŠKEBLÍ POLÉVKA • Bílá velryba",
+      "file": "bila_velryba_024.html",
+      "words": 1000,
+      "chars": 6041,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 23,
+      "prev": "bila_velryba_023.html",
+      "next": "bila_velryba_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV.ŠKEBLÍ POLÉVKA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI.LOĎ • Bílá velryba",
+      "file": "bila_velryba_025.html",
+      "words": 4552,
+      "chars": 27900,
+      "ideas": 81,
+      "role": "chapter",
+      "order": 24,
+      "prev": "bila_velryba_024.html",
+      "next": "bila_velryba_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI.LOĎ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII.RAMADÁN • Bílá velryba",
+      "file": "bila_velryba_026.html",
+      "words": 1879,
+      "chars": 11256,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 25,
+      "prev": "bila_velryba_025.html",
+      "next": "bila_velryba_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII.RAMADÁN",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVIII.JEHO ZNAČKA • Bílá velryba",
+      "file": "bila_velryba_027.html",
+      "words": 1195,
+      "chars": 7299,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 26,
+      "prev": "bila_velryba_026.html",
+      "next": "bila_velryba_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVIII.JEHO ZNAČKA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIX.PROROK • Bílá velryba",
+      "file": "bila_velryba_028.html",
+      "words": 1012,
+      "chars": 5721,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 27,
+      "prev": "bila_velryba_027.html",
+      "next": "bila_velryba_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIX.PROROK",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XX.PŘÍPRAVY K ODPLUTÍ • Bílá velryba",
+      "file": "bila_velryba_029.html",
+      "words": 778,
+      "chars": 4635,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 28,
+      "prev": "bila_velryba_028.html",
+      "next": "bila_velryba_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XX.PŘÍPRAVY K ODPLUTÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXI.CESTOU NA LOĎ • Bílá velryba",
+      "file": "bila_velryba_030.html",
+      "words": 969,
+      "chars": 5786,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 29,
+      "prev": "bila_velryba_029.html",
+      "next": "bila_velryba_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXI.CESTOU NA LOĎ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXII.VESELÉ VÁNOCE • Bílá velryba",
+      "file": "bila_velryba_031.html",
+      "words": 1451,
+      "chars": 8718,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 30,
+      "prev": "bila_velryba_030.html",
+      "next": "bila_velryba_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXII.VESELÉ VÁNOCE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIII.BŘEH NA STRANĚ ZÁVĚTRNÉ • Bílá velryba",
+      "file": "bila_velryba_032.html",
+      "words": 359,
+      "chars": 2210,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 31,
+      "prev": "bila_velryba_031.html",
+      "next": "bila_velryba_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIII.BŘEH NA STRANĚ ZÁVĚTRNÉ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIV.OBHÁJCE • Bílá velryba",
+      "file": "bila_velryba_033.html",
+      "words": 1389,
+      "chars": 9095,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 32,
+      "prev": "bila_velryba_032.html",
+      "next": "bila_velryba_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIV.OBHÁJCE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXV.DODATEK • Bílá velryba",
+      "file": "bila_velryba_034.html",
+      "words": 237,
+      "chars": 1449,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 33,
+      "prev": "bila_velryba_033.html",
+      "next": "bila_velryba_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXV.DODATEK",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVI.RYTÍŘI A PANOŠI • Bílá velryba",
+      "file": "bila_velryba_035.html",
+      "words": 1002,
+      "chars": 6494,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 34,
+      "prev": "bila_velryba_034.html",
+      "next": "bila_velryba_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVI.RYTÍŘI A PANOŠI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVII.RYTÍŘI A PANOŠI • Bílá velryba",
+      "file": "bila_velryba_036.html",
+      "words": 1318,
+      "chars": 8409,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 35,
+      "prev": "bila_velryba_035.html",
+      "next": "bila_velryba_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVII.RYTÍŘI A PANOŠI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVIII.ACHAB • Bílá velryba",
+      "file": "bila_velryba_037.html",
+      "words": 1151,
+      "chars": 7137,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 36,
+      "prev": "bila_velryba_036.html",
+      "next": "bila_velryba_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVIII.ACHAB",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIX.VCHÁZÍ ACHAB,K NĚMU PŘISTUPUJE STUBB • Bílá velryba",
+      "file": "bila_velryba_038.html",
+      "words": 1035,
+      "chars": 6128,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 37,
+      "prev": "bila_velryba_037.html",
+      "next": "bila_velryba_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIX.VCHÁZÍ ACHAB,K NĚMU PŘISTUPUJE STUBB",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXX.DÝMKA • Bílá velryba",
+      "file": "bila_velryba_039.html",
+      "words": 259,
+      "chars": 1553,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 38,
+      "prev": "bila_velryba_038.html",
+      "next": "bila_velryba_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXX.DÝMKA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXI.KRÁLOVNA MAB • Bílá velryba",
+      "file": "bila_velryba_040.html",
+      "words": 713,
+      "chars": 4099,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 39,
+      "prev": "bila_velryba_039.html",
+      "next": "bila_velryba_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXI.KRÁLOVNA MAB",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXII.CETOLOGIE • Bílá velryba",
+      "file": "bila_velryba_041.html",
+      "words": 4204,
+      "chars": 26882,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 40,
+      "prev": "bila_velryba_040.html",
+      "next": "bila_velryba_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXII.CETOLOGIE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIII.VRCHNÍ HARPUNÁŘ • Bílá velryba",
+      "file": "bila_velryba_042.html",
+      "words": 789,
+      "chars": 5152,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 41,
+      "prev": "bila_velryba_041.html",
+      "next": "bila_velryba_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIII.VRCHNÍ HARPUNÁŘ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIV.STŮL V KAJUTĚ • Bílá velryba",
+      "file": "bila_velryba_043.html",
+      "words": 1747,
+      "chars": 10936,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 42,
+      "prev": "bila_velryba_042.html",
+      "next": "bila_velryba_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIV.STŮL V KAJUTĚ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXV.VRCHOL STOŽÁRU • Bílá velryba",
+      "file": "bila_velryba_044.html",
+      "words": 2127,
+      "chars": 13648,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 43,
+      "prev": "bila_velryba_043.html",
+      "next": "bila_velryba_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXV.VRCHOL STOŽÁRU",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVI.VELITELSKÁ PALUBA • Bílá velryba",
+      "file": "bila_velryba_045.html",
+      "words": 2450,
+      "chars": 15093,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 44,
+      "prev": "bila_velryba_044.html",
+      "next": "bila_velryba_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVI.VELITELSKÁ PALUBA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVII.ZÁPAD SLUNCE • Bílá velryba",
+      "file": "bila_velryba_046.html",
+      "words": 493,
+      "chars": 2856,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 45,
+      "prev": "bila_velryba_045.html",
+      "next": "bila_velryba_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVII.ZÁPAD SLUNCE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVIII.SOUMRAK • Bílá velryba",
+      "file": "bila_velryba_047.html",
+      "words": 386,
+      "chars": 2248,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 46,
+      "prev": "bila_velryba_046.html",
+      "next": "bila_velryba_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVIII.SOUMRAK",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIX.PRVNÍ NOČNÍ HLÍDKAPŘEDNÍ KOŠ • Bílá velryba",
+      "file": "bila_velryba_048.html",
+      "words": 269,
+      "chars": 1502,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 47,
+      "prev": "bila_velryba_047.html",
+      "next": "bila_velryba_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIX.PRVNÍ NOČNÍ HLÍDKAPŘEDNÍ KOŠ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XL.PŮLNOC NA PŘÍDI • Bílá velryba",
+      "file": "bila_velryba_049.html",
+      "words": 1523,
+      "chars": 8953,
+      "ideas": 109,
+      "role": "chapter",
+      "order": 48,
+      "prev": "bila_velryba_048.html",
+      "next": "bila_velryba_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XL.PŮLNOC NA PŘÍDI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLI.MOBY DICK • Bílá velryba",
+      "file": "bila_velryba_050.html",
+      "words": 3166,
+      "chars": 20192,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 49,
+      "prev": "bila_velryba_049.html",
+      "next": "bila_velryba_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLI.MOBY DICK",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLII.BĚLOST VELRYBY • Bílá velryba",
+      "file": "bila_velryba_051.html",
+      "words": 2983,
+      "chars": 19184,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 50,
+      "prev": "bila_velryba_050.html",
+      "next": "bila_velryba_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLII.BĚLOST VELRYBY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIII.SLYŠ! • Bílá velryba",
+      "file": "bila_velryba_052.html",
+      "words": 274,
+      "chars": 1598,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 51,
+      "prev": "bila_velryba_051.html",
+      "next": "bila_velryba_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIII.SLYŠ!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIV.MAPA MOŘE • Bílá velryba",
+      "file": "bila_velryba_053.html",
+      "words": 1721,
+      "chars": 10610,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 52,
+      "prev": "bila_velryba_052.html",
+      "next": "bila_velryba_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIV.MAPA MOŘE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLV.OSVĚDČENÍ • Bílá velryba",
+      "file": "bila_velryba_054.html",
+      "words": 2816,
+      "chars": 17661,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 53,
+      "prev": "bila_velryba_053.html",
+      "next": "bila_velryba_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLV.OSVĚDČENÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVI.DOHADY • Bílá velryba",
+      "file": "bila_velryba_055.html",
+      "words": 855,
+      "chars": 5425,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 54,
+      "prev": "bila_velryba_054.html",
+      "next": "bila_velryba_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVI.DOHADY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVII.TKADLEC • Bílá velryba",
+      "file": "bila_velryba_056.html",
+      "words": 770,
+      "chars": 4857,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 55,
+      "prev": "bila_velryba_055.html",
+      "next": "bila_velryba_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVII.TKADLEC",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVIII.PRVNÍ SPUŠTĚNÍ ČLUNŮ • Bílá velryba",
+      "file": "bila_velryba_057.html",
+      "words": 3263,
+      "chars": 19979,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 56,
+      "prev": "bila_velryba_056.html",
+      "next": "bila_velryba_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVIII.PRVNÍ SPUŠTĚNÍ ČLUNŮ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIX.HYENA • Bílá velryba",
+      "file": "bila_velryba_058.html",
+      "words": 714,
+      "chars": 4324,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 57,
+      "prev": "bila_velryba_057.html",
+      "next": "bila_velryba_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIX.HYENA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "L.ACHABŮV ČLUN A POSÁDKA — FEDALLAH • Bílá velryba",
+      "file": "bila_velryba_059.html",
+      "words": 827,
+      "chars": 5015,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 58,
+      "prev": "bila_velryba_058.html",
+      "next": "bila_velryba_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "L.ACHABŮV ČLUN A POSÁDKA — FEDALLAH",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LI.PŘÍZRAČNÝ VODOMET • Bílá velryba",
+      "file": "bila_velryba_060.html",
+      "words": 1348,
+      "chars": 8102,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 59,
+      "prev": "bila_velryba_059.html",
+      "next": "bila_velryba_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LI.PŘÍZRAČNÝ VODOMET",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LII.ALBATROS • Bílá velryba",
+      "file": "bila_velryba_061.html",
+      "words": 620,
+      "chars": 3827,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 60,
+      "prev": "bila_velryba_060.html",
+      "next": "bila_velryba_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LII.ALBATROS",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LIII.GAM • Bílá velryba",
+      "file": "bila_velryba_062.html",
+      "words": 1327,
+      "chars": 8338,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 61,
+      "prev": "bila_velryba_061.html",
+      "next": "bila_velryba_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LIII.GAM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LIV.PŘÍBĚH LODI TOWN-HO • Bílá velryba",
+      "file": "bila_velryba_063.html",
+      "words": 6527,
+      "chars": 40545,
+      "ideas": 113,
+      "role": "chapter",
+      "order": 62,
+      "prev": "bila_velryba_062.html",
+      "next": "bila_velryba_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LIV.PŘÍBĚH LODI TOWN-HO",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LV.O NESTVŮRNÝCH ZOBRAZENÍCH VELRYB • Bílá velryba",
+      "file": "bila_velryba_064.html",
+      "words": 1531,
+      "chars": 9926,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 63,
+      "prev": "bila_velryba_063.html",
+      "next": "bila_velryba_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LV.O NESTVŮRNÝCH ZOBRAZENÍCH VELRYB",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LVI.O MÉNĚ NESPRÁVNÝCH OBRAZECH VELRYB A O PRAVDIVÝCH ZOBRAZENÍCH LOVU NA VELRYBY • Bílá velryba",
+      "file": "bila_velryba_065.html",
+      "words": 1025,
+      "chars": 6692,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 64,
+      "prev": "bila_velryba_064.html",
+      "next": "bila_velryba_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LVI.O MÉNĚ NESPRÁVNÝCH OBRAZECH VELRYB A O PRAVDIVÝCH ZOBRAZENÍCH LOVU NA VELRYBY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LVII.O VELRYBÁCH NA PLÁTNĚ,NA ZUBECH, NA DŘEVĚ,NA PLECHU, NA KAMENI,NA HORÁCH A VE HVĚZDÁCH • Bílá velryba",
+      "file": "bila_velryba_066.html",
+      "words": 787,
+      "chars": 5227,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 65,
+      "prev": "bila_velryba_065.html",
+      "next": "bila_velryba_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LVII.O VELRYBÁCH NA PLÁTNĚ,NA ZUBECH, NA DŘEVĚ,NA PLECHU, NA KAMENI,NA HORÁCH A VE HVĚZDÁCH",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LVIII.PLANKTON • Bílá velryba",
+      "file": "bila_velryba_067.html",
+      "words": 809,
+      "chars": 5168,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 66,
+      "prev": "bila_velryba_066.html",
+      "next": "bila_velryba_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LVIII.PLANKTON",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LIX.CHOBOTNICE • Bílá velryba",
+      "file": "bila_velryba_068.html",
+      "words": 793,
+      "chars": 4919,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 67,
+      "prev": "bila_velryba_067.html",
+      "next": "bila_velryba_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LIX.CHOBOTNICE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LX.PROVAZEC • Bílá velryba",
+      "file": "bila_velryba_069.html",
+      "words": 1158,
+      "chars": 7205,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 68,
+      "prev": "bila_velryba_068.html",
+      "next": "bila_velryba_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LX.PROVAZEC",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXI.STUBB ZABÍJÍ VELRYBU • Bílá velryba",
+      "file": "bila_velryba_070.html",
+      "words": 1637,
+      "chars": 10082,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 69,
+      "prev": "bila_velryba_069.html",
+      "next": "bila_velryba_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXI.STUBB ZABÍJÍ VELRYBU",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXII.VRH HARPUNOU • Bílá velryba",
+      "file": "bila_velryba_071.html",
+      "words": 456,
+      "chars": 2838,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 70,
+      "prev": "bila_velryba_070.html",
+      "next": "bila_velryba_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXII.VRH HARPUNOU",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXIII.VIDLICE • Bílá velryba",
+      "file": "bila_velryba_072.html",
+      "words": 407,
+      "chars": 2457,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 71,
+      "prev": "bila_velryba_071.html",
+      "next": "bila_velryba_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXIII.VIDLICE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXIV.STUBBOVA VEČEŘE • Bílá velryba",
+      "file": "bila_velryba_073.html",
+      "words": 2567,
+      "chars": 15314,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 72,
+      "prev": "bila_velryba_072.html",
+      "next": "bila_velryba_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXIV.STUBBOVA VEČEŘE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXV.VELRYBA JAKO JÍDLO • Bílá velryba",
+      "file": "bila_velryba_074.html",
+      "words": 815,
+      "chars": 5070,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 73,
+      "prev": "bila_velryba_073.html",
+      "next": "bila_velryba_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXV.VELRYBA JAKO JÍDLO",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXVI.MASAKR ŽRALOKŮ • Bílá velryba",
+      "file": "bila_velryba_075.html",
+      "words": 523,
+      "chars": 3224,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 74,
+      "prev": "bila_velryba_074.html",
+      "next": "bila_velryba_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXVI.MASAKR ŽRALOKŮ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXVII.ROZSEKÁVÁNÍ VELRYBY • Bílá velryba",
+      "file": "bila_velryba_076.html",
+      "words": 549,
+      "chars": 3485,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 75,
+      "prev": "bila_velryba_075.html",
+      "next": "bila_velryba_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXVII.ROZSEKÁVÁNÍ VELRYBY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXVIII.POKRÝVKA • Bílá velryba",
+      "file": "bila_velryba_077.html",
+      "words": 996,
+      "chars": 6136,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 76,
+      "prev": "bila_velryba_076.html",
+      "next": "bila_velryba_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXVIII.POKRÝVKA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXIX.POHŘEB • Bílá velryba",
+      "file": "bila_velryba_078.html",
+      "words": 385,
+      "chars": 2473,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 77,
+      "prev": "bila_velryba_077.html",
+      "next": "bila_velryba_079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXIX.POHŘEB",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXX.SFINGA • Bílá velryba",
+      "file": "bila_velryba_079.html",
+      "words": 740,
+      "chars": 4508,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 78,
+      "prev": "bila_velryba_078.html",
+      "next": "bila_velryba_080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXX.SFINGA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXI.PŘÍBĚH JEROBOAMŮV • Bílá velryba",
+      "file": "bila_velryba_080.html",
+      "words": 1825,
+      "chars": 11402,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 79,
+      "prev": "bila_velryba_079.html",
+      "next": "bila_velryba_081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXI.PŘÍBĚH JEROBOAMŮV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXII.OPIČÍ ŠŇŮRA • Bílá velryba",
+      "file": "bila_velryba_081.html",
+      "words": 1391,
+      "chars": 8575,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 80,
+      "prev": "bila_velryba_080.html",
+      "next": "bila_velryba_082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXII.OPIČÍ ŠŇŮRA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXIII.STUBB A FLASKZABIJÍ GRÓNSKOU VELRYBU A POTOM O NÍ ROZMLOUVAJÍ • Bílá velryba",
+      "file": "bila_velryba_082.html",
+      "words": 1769,
+      "chars": 10388,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 81,
+      "prev": "bila_velryba_081.html",
+      "next": "bila_velryba_083.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXIII.STUBB A FLASKZABIJÍ GRÓNSKOU VELRYBU A POTOM O NÍ ROZMLOUVAJÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXIV.HLAVA VORVANĚ — Z HLEDISKA SROVNÁVACÍHO • Bílá velryba",
+      "file": "bila_velryba_083.html",
+      "words": 1300,
+      "chars": 7994,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 82,
+      "prev": "bila_velryba_082.html",
+      "next": "bila_velryba_084.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXIV.HLAVA VORVANĚ — Z HLEDISKA SROVNÁVACÍHO",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXV.HLAVA VELRYBY GRÓNSKÉ —Z HLEDISKA SROVNÁVACÍHO • Bílá velryba",
+      "file": "bila_velryba_084.html",
+      "words": 981,
+      "chars": 6203,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 83,
+      "prev": "bila_velryba_083.html",
+      "next": "bila_velryba_085.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXV.HLAVA VELRYBY GRÓNSKÉ —Z HLEDISKA SROVNÁVACÍHO",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXVI.BERAN • Bílá velryba",
+      "file": "bila_velryba_085.html",
+      "words": 713,
+      "chars": 4386,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 84,
+      "prev": "bila_velryba_084.html",
+      "next": "bila_velryba_086.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXVI.BERAN",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXVII.VELIKÝ SUD HEIDELBERSKÝ • Bílá velryba",
+      "file": "bila_velryba_086.html",
+      "words": 501,
+      "chars": 3320,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 85,
+      "prev": "bila_velryba_085.html",
+      "next": "bila_velryba_087.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXVII.VELIKÝ SUD HEIDELBERSKÝ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXVIII.CISTERNY A OKOVY • Bílá velryba",
+      "file": "bila_velryba_087.html",
+      "words": 1329,
+      "chars": 8116,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 86,
+      "prev": "bila_velryba_086.html",
+      "next": "bila_velryba_088.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXVIII.CISTERNY A OKOVY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXIX.PRÉRIE • Bílá velryba",
+      "file": "bila_velryba_088.html",
+      "words": 766,
+      "chars": 4900,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 87,
+      "prev": "bila_velryba_087.html",
+      "next": "bila_velryba_089.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXIX.PRÉRIE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXX.ZÁVITNICE • Bílá velryba",
+      "file": "bila_velryba_089.html",
+      "words": 704,
+      "chars": 4557,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 88,
+      "prev": "bila_velryba_088.html",
+      "next": "bila_velryba_090.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXX.ZÁVITNICE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXXI.PEQUOD POTKÁVÁ PANNU • Bílá velryba",
+      "file": "bila_velryba_090.html",
+      "words": 3676,
+      "chars": 22562,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 89,
+      "prev": "bila_velryba_089.html",
+      "next": "bila_velryba_091.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXXI.PEQUOD POTKÁVÁ PANNU",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXXII.ČEST A SLÁVA VELRYBÁŘSTVÍ • Bílá velryba",
+      "file": "bila_velryba_091.html",
+      "words": 916,
+      "chars": 5804,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 90,
+      "prev": "bila_velryba_090.html",
+      "next": "bila_velryba_092.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXXII.ČEST A SLÁVA VELRYBÁŘSTVÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXXIII.JONÁŠ Z HLEDISKA HISTORICKÉHO • Bílá velryba",
+      "file": "bila_velryba_092.html",
+      "words": 660,
+      "chars": 4069,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 91,
+      "prev": "bila_velryba_091.html",
+      "next": "bila_velryba_093.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXXIII.JONÁŠ Z HLEDISKA HISTORICKÉHO",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXXIV.DLOUHÝ VRH KOPÍM • Bílá velryba",
+      "file": "bila_velryba_093.html",
+      "words": 707,
+      "chars": 4399,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 92,
+      "prev": "bila_velryba_092.html",
+      "next": "bila_velryba_094.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXXIV.DLOUHÝ VRH KOPÍM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXXV.FONTÁNA • Bílá velryba",
+      "file": "bila_velryba_094.html",
+      "words": 1636,
+      "chars": 10097,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 93,
+      "prev": "bila_velryba_093.html",
+      "next": "bila_velryba_095.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXXV.FONTÁNA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXXVI.OCAS • Bílá velryba",
+      "file": "bila_velryba_095.html",
+      "words": 1516,
+      "chars": 9402,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 94,
+      "prev": "bila_velryba_094.html",
+      "next": "bila_velryba_096.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXXVI.OCAS",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXXVII.VELKOLEPÁ FLOTILA • Bílá velryba",
+      "file": "bila_velryba_096.html",
+      "words": 3970,
+      "chars": 25060,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 95,
+      "prev": "bila_velryba_095.html",
+      "next": "bila_velryba_097.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXXVII.VELKOLEPÁ FLOTILA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXXVIII.ŠKOLY A UČITELÉ • Bílá velryba",
+      "file": "bila_velryba_097.html",
+      "words": 1014,
+      "chars": 6520,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 96,
+      "prev": "bila_velryba_096.html",
+      "next": "bila_velryba_098.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXXVIII.ŠKOLY A UČITELÉ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXXIX.PŘIPOUTANÁ RYBA A VOLNÁ RYBA • Bílá velryba",
+      "file": "bila_velryba_098.html",
+      "words": 1169,
+      "chars": 7554,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 97,
+      "prev": "bila_velryba_097.html",
+      "next": "bila_velryba_099.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXXIX.PŘIPOUTANÁ RYBA A VOLNÁ RYBA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XC.HLAVY NEBO OCASY • Bílá velryba",
+      "file": "bila_velryba_099.html",
+      "words": 854,
+      "chars": 5346,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 98,
+      "prev": "bila_velryba_098.html",
+      "next": "bila_velryba_100.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XC.HLAVY NEBO OCASY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XCI.PEQUOD POTKÁVÁ RŮŽOVÉ POUPĚ • Bílá velryba",
+      "file": "bila_velryba_100.html",
+      "words": 2092,
+      "chars": 12643,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 99,
+      "prev": "bila_velryba_099.html",
+      "next": "bila_velryba_101.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XCI.PEQUOD POTKÁVÁ RŮŽOVÉ POUPĚ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XCII.AMBRA • Bílá velryba",
+      "file": "bila_velryba_101.html",
+      "words": 791,
+      "chars": 4947,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 100,
+      "prev": "bila_velryba_100.html",
+      "next": "bila_velryba_102.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XCII.AMBRA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XCIII.VYVRŽENEC • Bílá velryba",
+      "file": "bila_velryba_102.html",
+      "words": 1365,
+      "chars": 8614,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 101,
+      "prev": "bila_velryba_101.html",
+      "next": "bila_velryba_103.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XCIII.VYVRŽENEC",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XCIV.STISK RUKY • Bílá velryba",
+      "file": "bila_velryba_103.html",
+      "words": 1062,
+      "chars": 6607,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 102,
+      "prev": "bila_velryba_102.html",
+      "next": "bila_velryba_104.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XCIV.STISK RUKY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XCV.TALÁR • Bílá velryba",
+      "file": "bila_velryba_104.html",
+      "words": 397,
+      "chars": 2462,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 103,
+      "prev": "bila_velryba_103.html",
+      "next": "bila_velryba_105.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XCV.TALÁR",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XCVI.ŠKVAŘENÍ • Bílá velryba",
+      "file": "bila_velryba_105.html",
+      "words": 1528,
+      "chars": 9443,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 104,
+      "prev": "bila_velryba_104.html",
+      "next": "bila_velryba_106.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XCVI.ŠKVAŘENÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XCVII.LAMPA • Bílá velryba",
+      "file": "bila_velryba_106.html",
+      "words": 206,
+      "chars": 1223,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 105,
+      "prev": "bila_velryba_105.html",
+      "next": "bila_velryba_107.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XCVII.LAMPA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XCVIII.ULOŽENÍ A ÚKLID • Bílá velryba",
+      "file": "bila_velryba_107.html",
+      "words": 855,
+      "chars": 5211,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 106,
+      "prev": "bila_velryba_106.html",
+      "next": "bila_velryba_108.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XCVIII.ULOŽENÍ A ÚKLID",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XCIX.DUBLON • Bílá velryba",
+      "file": "bila_velryba_108.html",
+      "words": 2169,
+      "chars": 12819,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 107,
+      "prev": "bila_velryba_107.html",
+      "next": "bila_velryba_109.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XCIX.DUBLON",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "C.NOHA A RUKAPEQUOD Z NANTUCKETU SE SETKÁVÁ SE SAMUELEM ENDERBYM Z LONDÝNA • Bílá velryba",
+      "file": "bila_velryba_109.html",
+      "words": 2321,
+      "chars": 13684,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 108,
+      "prev": "bila_velryba_108.html",
+      "next": "bila_velryba_110.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "C.NOHA A RUKAPEQUOD Z NANTUCKETU SE SETKÁVÁ SE SAMUELEM ENDERBYM Z LONDÝNA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cl.KARAFA • Bílá velryba",
+      "file": "bila_velryba_110.html",
+      "words": 1506,
+      "chars": 9500,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 109,
+      "prev": "bila_velryba_109.html",
+      "next": "bila_velryba_111.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cl.KARAFA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CII.HÁJ NA ARSACIDÁCH • Bílá velryba",
+      "file": "bila_velryba_111.html",
+      "words": 1353,
+      "chars": 8481,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 110,
+      "prev": "bila_velryba_110.html",
+      "next": "bila_velryba_112.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CII.HÁJ NA ARSACIDÁCH",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CIII.ROZMĚRY VELRYBÍ KOSTRY • Bílá velryba",
+      "file": "bila_velryba_112.html",
+      "words": 736,
+      "chars": 4610,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 111,
+      "prev": "bila_velryba_111.html",
+      "next": "bila_velryba_113.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CIII.ROZMĚRY VELRYBÍ KOSTRY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CIV.VELRYBA FOSILNÍ • Bílá velryba",
+      "file": "bila_velryba_113.html",
+      "words": 1182,
+      "chars": 7745,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 112,
+      "prev": "bila_velryba_112.html",
+      "next": "bila_velryba_114.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CIV.VELRYBA FOSILNÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CV.ZMENŠUJE SE VELIKOST VELRYBY?— VYHYNE? • Bílá velryba",
+      "file": "bila_velryba_114.html",
+      "words": 1264,
+      "chars": 8199,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 113,
+      "prev": "bila_velryba_113.html",
+      "next": "bila_velryba_115.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CV.ZMENŠUJE SE VELIKOST VELRYBY?— VYHYNE?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CVI.ACHABOVA NOHA • Bílá velryba",
+      "file": "bila_velryba_115.html",
+      "words": 698,
+      "chars": 4434,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 114,
+      "prev": "bila_velryba_114.html",
+      "next": "bila_velryba_116.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CVI.ACHABOVA NOHA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CVII.TESAŘ • Bílá velryba",
+      "file": "bila_velryba_116.html",
+      "words": 932,
+      "chars": 5862,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 115,
+      "prev": "bila_velryba_115.html",
+      "next": "bila_velryba_117.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CVII.TESAŘ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CVIII.ACHAB A TESAŘ • Bílá velryba",
+      "file": "bila_velryba_117.html",
+      "words": 1458,
+      "chars": 8166,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 116,
+      "prev": "bila_velryba_116.html",
+      "next": "bila_velryba_118.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CVIII.ACHAB A TESAŘ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CIX.ACHAB A STARBUCK V KAJUTĚ • Bílá velryba",
+      "file": "bila_velryba_118.html",
+      "words": 784,
+      "chars": 4880,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 117,
+      "prev": "bila_velryba_117.html",
+      "next": "bila_velryba_119.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CIX.ACHAB A STARBUCK V KAJUTĚ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CX.KVÍKVEG V RAKVI • Bílá velryba",
+      "file": "bila_velryba_119.html",
+      "words": 1916,
+      "chars": 11680,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 118,
+      "prev": "bila_velryba_118.html",
+      "next": "bila_velryba_120.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CX.KVÍKVEG V RAKVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXI.TICHÝ OCEÁN • Bílá velryba",
+      "file": "bila_velryba_120.html",
+      "words": 389,
+      "chars": 2509,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 119,
+      "prev": "bila_velryba_119.html",
+      "next": "bila_velryba_121.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXI.TICHÝ OCEÁN",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXII.KOVÁŘ • Bílá velryba",
+      "file": "bila_velryba_121.html",
+      "words": 797,
+      "chars": 5051,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 120,
+      "prev": "bila_velryba_120.html",
+      "next": "bila_velryba_122.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXII.KOVÁŘ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXIII.KOVÁRNA • Bílá velryba",
+      "file": "bila_velryba_122.html",
+      "words": 1057,
+      "chars": 6362,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 121,
+      "prev": "bila_velryba_121.html",
+      "next": "bila_velryba_123.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXIII.KOVÁRNA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXIV.POZLACOVAČ • Bílá velryba",
+      "file": "bila_velryba_123.html",
+      "words": 599,
+      "chars": 3688,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 122,
+      "prev": "bila_velryba_122.html",
+      "next": "bila_velryba_124.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXIV.POZLACOVAČ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXV.PEQUOD POTKÁVÁ MLÁDENCE • Bílá velryba",
+      "file": "bila_velryba_124.html",
+      "words": 771,
+      "chars": 4713,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 123,
+      "prev": "bila_velryba_123.html",
+      "next": "bila_velryba_125.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXV.PEQUOD POTKÁVÁ MLÁDENCE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXVI.UMÍRAJÍCÍ VELRYBA • Bílá velryba",
+      "file": "bila_velryba_125.html",
+      "words": 489,
+      "chars": 3021,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 124,
+      "prev": "bila_velryba_124.html",
+      "next": "bila_velryba_126.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXVI.UMÍRAJÍCÍ VELRYBA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXVII.HLÍDKA U VELRYBY • Bílá velryba",
+      "file": "bila_velryba_126.html",
+      "words": 427,
+      "chars": 2505,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 125,
+      "prev": "bila_velryba_125.html",
+      "next": "bila_velryba_127.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXVII.HLÍDKA U VELRYBY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXVIII.KVADRANT • Bílá velryba",
+      "file": "bila_velryba_127.html",
+      "words": 773,
+      "chars": 4661,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 126,
+      "prev": "bila_velryba_126.html",
+      "next": "bila_velryba_128.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXVIII.KVADRANT",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXIX.SVÍČKY • Bílá velryba",
+      "file": "bila_velryba_128.html",
+      "words": 2150,
+      "chars": 13096,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 127,
+      "prev": "bila_velryba_127.html",
+      "next": "bila_velryba_129.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXIX.SVÍČKY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXX.PALUBA KE KONCIPRVNÍ NOČNÍ HLÍDKY • Bílá velryba",
+      "file": "bila_velryba_129.html",
+      "words": 159,
+      "chars": 971,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 128,
+      "prev": "bila_velryba_128.html",
+      "next": "bila_velryba_130.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXX.PALUBA KE KONCIPRVNÍ NOČNÍ HLÍDKY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXXI.PŮLNOC — ZÁBRADLÍNA PŘEDNÍ PALUBĚ • Bílá velryba",
+      "file": "bila_velryba_130.html",
+      "words": 537,
+      "chars": 3126,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 129,
+      "prev": "bila_velryba_129.html",
+      "next": "bila_velryba_131.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXXI.PŮLNOC — ZÁBRADLÍNA PŘEDNÍ PALUBĚ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXXII.O PŮLNOCI NA STOŽÁRUHROMY A BLESKY • Bílá velryba",
+      "file": "bila_velryba_131.html",
+      "words": 49,
+      "chars": 280,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 130,
+      "prev": "bila_velryba_130.html",
+      "next": "bila_velryba_132.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXXII.O PŮLNOCI NA STOŽÁRUHROMY A BLESKY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXXIII.MUŠKETA • Bílá velryba",
+      "file": "bila_velryba_132.html",
+      "words": 1075,
+      "chars": 6382,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 131,
+      "prev": "bila_velryba_131.html",
+      "next": "bila_velryba_133.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXXIII.MUŠKETA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXXIV.MAGNETICKÁ STŘELKA • Bílá velryba",
+      "file": "bila_velryba_133.html",
+      "words": 1001,
+      "chars": 6394,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 132,
+      "prev": "bila_velryba_132.html",
+      "next": "bila_velryba_134.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXXIV.MAGNETICKÁ STŘELKA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXXV.RYCHLOMĚR A ŠŇŮRA • Bílá velryba",
+      "file": "bila_velryba_134.html",
+      "words": 1028,
+      "chars": 6091,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 133,
+      "prev": "bila_velryba_133.html",
+      "next": "bila_velryba_135.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXXV.RYCHLOMĚR A ŠŇŮRA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXXVI.ZÁCHRANNÁ PLAVATKA • Bílá velryba",
+      "file": "bila_velryba_135.html",
+      "words": 1150,
+      "chars": 6986,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 134,
+      "prev": "bila_velryba_134.html",
+      "next": "bila_velryba_136.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXXVI.ZÁCHRANNÁ PLAVATKA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXXVII.PALUBA • Bílá velryba",
+      "file": "bila_velryba_136.html",
+      "words": 645,
+      "chars": 3769,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 135,
+      "prev": "bila_velryba_135.html",
+      "next": "bila_velryba_137.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXXVII.PALUBA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXXVIII.PEQUOD POTKÁVÁ RÁCHEL • Bílá velryba",
+      "file": "bila_velryba_137.html",
+      "words": 1245,
+      "chars": 7391,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 136,
+      "prev": "bila_velryba_136.html",
+      "next": "bila_velryba_138.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXXVIII.PEQUOD POTKÁVÁ RÁCHEL",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXXIX.KAJUTA • Bílá velryba",
+      "file": "bila_velryba_138.html",
+      "words": 535,
+      "chars": 3076,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 137,
+      "prev": "bila_velryba_137.html",
+      "next": "bila_velryba_139.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXXIX.KAJUTA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXXX.KLOBOUK • Bílá velryba",
+      "file": "bila_velryba_139.html",
+      "words": 1420,
+      "chars": 8600,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 138,
+      "prev": "bila_velryba_138.html",
+      "next": "bila_velryba_140.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXXX.KLOBOUK",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXXXI.PEQUOD POTKÁVÁ ROZKOŠ • Bílá velryba",
+      "file": "bila_velryba_140.html",
+      "words": 373,
+      "chars": 2351,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 139,
+      "prev": "bila_velryba_139.html",
+      "next": "bila_velryba_141.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXXXI.PEQUOD POTKÁVÁ ROZKOŠ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXXXII.SYMFONIE • Bílá velryba",
+      "file": "bila_velryba_141.html",
+      "words": 1462,
+      "chars": 8746,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 140,
+      "prev": "bila_velryba_140.html",
+      "next": "bila_velryba_142.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXXXII.SYMFONIE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXXXIII.STÍHÁNÍ — PRVNÍ DEN • Bílá velryba",
+      "file": "bila_velryba_142.html",
+      "words": 3116,
+      "chars": 19019,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 141,
+      "prev": "bila_velryba_141.html",
+      "next": "bila_velryba_143.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXXXIII.STÍHÁNÍ — PRVNÍ DEN",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXXXIV.STÍHÁNÍ — DRUHÝ DEN • Bílá velryba",
+      "file": "bila_velryba_143.html",
+      "words": 2904,
+      "chars": 17571,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 142,
+      "prev": "bila_velryba_142.html",
+      "next": "bila_velryba_144.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXXXIV.STÍHÁNÍ — DRUHÝ DEN",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "CXXXV.STÍHÁNÍ — TŘETÍ DEN • Bílá velryba",
+      "file": "bila_velryba_144.html",
+      "words": 4034,
+      "chars": 24034,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 143,
+      "prev": "bila_velryba_143.html",
+      "next": "bila_velryba_145.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CXXXV.STÍHÁNÍ — TŘETÍ DEN",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "EPILOG • Bílá velryba",
+      "file": "bila_velryba_145.html",
+      "words": 240,
+      "chars": 1436,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 144,
+      "prev": "bila_velryba_144.html",
+      "next": "bila_velryba_146.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "EPILOG",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bílá velryba",
+      "file": "bila_velryba_146.html",
+      "words": 60,
+      "chars": 383,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 145,
+      "prev": "bila_velryba_145.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 180058,
+      "chars": 1108623,
+      "ideas": 2975
+    },
+    "chapters": {
+      "words": 180051,
+      "chars": 1108580,
+      "ideas": 2970
+    }
+  }
+}
