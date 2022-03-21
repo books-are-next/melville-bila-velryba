@@ -1,5 +1,6 @@
 ---
 title: XXVIII.ACHAB
+contentType: prose
 ---
 
 Po několik dnů od vyplutí z Nantucketu nespatřili jsme kapitána Achaba na palubě. Důstojníci se pravidelně střídali na hlídkách, a protože tu nic nesvědčilo o opaku, zdálo se, že oni jsou jedinými veliteli lodi; jenže někdy vyšli z kajuty s rozkazy tak nečekanými a rozhodnými, že bylo přece jen docela jasné, že velí jen jako zástupci. Ano, byl tu jejich nejvyšší pán a diktátor, i když jej dosud nespatřily oči nikoho, komu nebylo dovoleno proniknout do posvátného soukromí jeho kajuty.

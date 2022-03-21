@@ -1,5 +1,6 @@
 ---
 title: "LXXV.HLAVA VELRYBY GRÓNSKÉ\_—Z\_HLEDISKA SROVNÁVACÍHO"
+contentType: prose
 ---
 
 Přejděme teď přes palubu a důkladně si prohlédněme hlavu velryby grónské.

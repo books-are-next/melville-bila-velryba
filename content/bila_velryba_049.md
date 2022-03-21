@@ -1,5 +1,6 @@
 ---
 title: XL.PŮLNOC NA PŘÍDI
+contentType: prose
 ---
 
 HARPUNÁŘI A NÁMOŘNÍCI:

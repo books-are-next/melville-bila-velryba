@@ -1,5 +1,6 @@
 ---
 title: LXXVI.BERAN
+contentType: prose
 ---
 
 Nežli navždy opustíme hlavu vorvaně, chtěl bych, aby si každý z vás jako rozumný fyziolog zvlášť dobře povšiml, jak vypadá její přední část ve vší své pevné soustředěnosti. Chtěl bych, abyste ji teď zkoumali jen z toho hlediska a mohli bez nadsázky rozumně odhadnout, jaká drtivá síla v ní asi je utajena. Je to velmi důležitá věc, poněvadž tuto otázku si musíme buď sami uspokojivě vyřešit, nebo navždy zůstat nevěřící, pokud jde o jednu z nejděsivějších a přitom neméně pravdivých událostí, jaké kdy najdeme v písemných památkách minulých dob.

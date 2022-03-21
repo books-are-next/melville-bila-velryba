@@ -1,5 +1,6 @@
 ---
 title: "LXXXII.ČEST A\_SLÁVA VELRYBÁŘSTVÍ"
+contentType: prose
 ---
 
 Jsou některá podnikání, při nichž je nejlepší metodou pečlivý nepořádek.

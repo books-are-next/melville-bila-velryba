@@ -1,5 +1,6 @@
 ---
 title: LXXVII.VELIKÝ SUD HEIDELBERSKÝ
+contentType: prose
 ---
 
 Nyní přijde stáčení sudu. Abychom je správně pochopili, musíme se dovědět něco o zvláštní vnitřní stavbě oné věci.

@@ -1,5 +1,6 @@
 ---
 title: LXIII.VIDLICE
+contentType: prose
 ---
 
 Z kmene vyrůstají větve, z větví větvičky. Tak u obsáhlého námětu vznikají kapitoly.

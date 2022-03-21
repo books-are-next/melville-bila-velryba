@@ -1,5 +1,6 @@
 ---
 title: LXVIII.POKRÝVKA
+contentType: prose
 ---
 
 Věnovali jsme nemalou pozornost onomu předmětu velmi spornému, totiž kůži velryby. Mluvil jsem o ní se zkušenými velrybáři na vodě a s učenými přírodopisci na souši. Můj původní názor zůstává nezměněn, ale je to jenom názor.

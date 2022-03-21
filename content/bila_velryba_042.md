@@ -1,5 +1,6 @@
 ---
 title: XXXIII.VRCHNÍ HARPUNÁŘ
+contentType: prose
 ---
 
 Pokud jde o důstojníky velrybářské lodi, zdá se, že tady je vhodné místo, abych popsal drobnou zvláštnost domácího zřízení na palubě, jež vznikla z harpunářské třídy důstojníků, třídy ovšem neznámé u jiného loďstva než u velrybářské flotily.

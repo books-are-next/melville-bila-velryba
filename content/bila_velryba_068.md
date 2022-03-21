@@ -1,5 +1,6 @@
 ---
 title: LIX.CHOBOTNICE
+contentType: prose
 ---
 
 Pomalu se brouzdajíc planktonovými lukami, Pequod se stále držela svého směru na severovýchod k ostrovu Jávě. Mírný vítr poháněl její kýl klidnými vodami, takže se její tři vysoké hrotité stožáry lehce kývaly v slabém vánku jako tři vlídné palmy na rovině. A dosud – v dlouhých mezidobích – bylo za měsíčných nocí stále vidět lákající vodotrysk.

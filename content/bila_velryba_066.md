@@ -1,5 +1,6 @@
 ---
 title: "LVII.O\_VELRYBÁCH NA PLÁTNĚ,NA ZUBECH, NA DŘEVĚ,NA PLECHU, NA KAMENI,NA HORÁCH A\_VE HVĚZDÁCH"
+contentType: prose
 ---
 
 Sestupujete-li do londýnských doků, můžete spatřit na Tower-hillu zmrzačeného žebráka (nebo kotvaře, jak říkají námořníci), jenž před sebou drží pomalovanou tabuli, představující tragickou scénu, kdy ztratil nohu. Jsou na ní tři velryby a tři čluny; jeden člun (obsahující prý ztracenou nohu ve vší původní neporušenosti) je drcen vpředu čelistmi velryby. Každého dne po celých deset let, jak mi bylo řečeno, držel žebrák před sebou onen obraz a ukazoval pahýl své nohy nevěřícímu světu. Nyní přišel čas, kdy bude ospravedlněn. Jeho tři velryby jsou určitě stejně dobré jako kterékoli jiné velryby, o kterých si kdy vyprávěli v námořnických krčmách, a jeho pahýl je stejně nepochybný jako všechny pařezy, které najdete na mýtinách na západě. Ač místo nohy má navždy pahýl, přece ten chudák velrybář o něm nikdy neřeční, nýbrž stojí se sklopenýma očima a smutně uvažuje o své ztrátě.

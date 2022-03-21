@@ -1,5 +1,6 @@
 ---
 title: CXVIII.KVADRANT
+contentType: prose
 ---
 
 Konečně se blížila sezona na lince. A každého dne, když Achab vyšel ze své kajuty a pohlédl vzhůru, pohyboval bdělý kormidelník nápadně držadly kormidla a horliví námořníci se rychle hnali k zvratným lanům a stávali tam, upírajíce oči doprostřed na přibitý dublon, a čekali netrpělivě na rozkaz, aby příď lodi zamířila k rovníku. Když bylo na čase, rozkaz přišel. Bylo právě poledne a Achab, sedící na přídi svého vysoko zavěšeného člunu, konal obvyklé denní pozorování slunce, aby určil zeměpisnou šířku.

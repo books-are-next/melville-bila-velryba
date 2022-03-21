@@ -1,5 +1,6 @@
 ---
 title: XXXII.CETOLOGIE
+contentType: prose
 ---
 
 Již jsme odvážně daleko nad hlubinami oceánu, ale brzy budeme ztraceni v jeho nesmírnosti bez břehů a přístavů. Než se tak stane, nežli se trup Pequody, ověšený řasami, požene podle trupu leviatana pokrytého vilejši, je třeba hned na začátku důkladně probrat látku téměř nezbytnou, máme-li dokonale pochopit všemožné odbornější narážky a výklady o leviatanech, které se později vyskytnou.

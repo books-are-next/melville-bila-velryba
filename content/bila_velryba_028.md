@@ -1,5 +1,6 @@
 ---
 title: XIX.PROROK
+contentType: prose
 ---
 
 Plavci, dali jste se najmout na tu loď?“

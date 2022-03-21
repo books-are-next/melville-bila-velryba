@@ -1,5 +1,6 @@
 ---
 title: CXIX.SVÍČKY
+contentType: prose
 ---
 
 Nejteplejší podnebí jen živí nejkrutější drápy – bengálský tygr se krčí v prostorných hájích věčně zelených. Nejzářivější obloha jen skrývá nejsmrtelnější bouře – nádherná Kuba zná tornáda, jaká se nikdy nepřeženou přes mírné země severní. Tak i v těchto třpytných japonských mořích se námořník setkává s nejhroznější ze všech bouří, s tajfunem. Někdy se snese z bezmračné oblohy jako vybuchující puma na omámené a ospalé město.

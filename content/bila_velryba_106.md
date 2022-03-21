@@ -1,5 +1,6 @@
 ---
 title: XCVII.LAMPA
+contentType: prose
 ---
 
 Kdybyste byli sestoupili od kotlů Pequody do podpalubí na přídi, kde spali muži, kteří právě neměli hlídku, mohli jste se na okamžik domnívat, že stojíte v ozářené kapli kanonizovaných králů a rádců. Leželi tu v svých trojhranných dubových kryptách, každý námořník jako vytesaná němota, a dvacet lamp vrhalo záři na jejich zakryté oči.

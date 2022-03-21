@@ -1,5 +1,6 @@
 ---
 title: "C.NOHA A\_RUKAPEQUOD Z\_NANTUCKETU SE SETKÁVÁ SE SAMUELEM ENDERBYM Z\_LONDÝNA"
+contentType: prose
 ---
 
 „Ahoj, lodi! Viděli jste bílou velrybu?“

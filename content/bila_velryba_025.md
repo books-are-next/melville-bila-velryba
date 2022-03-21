@@ -1,5 +1,6 @@
 ---
 title: XVI.LOĎ
+contentType: prose
 ---
 
 V posteli jsme si umlouvali plány na zítřek. K mému překvapení a nemalé starosti mi teď Kvíkveg najednou naznačil, že se pilně radil s Jojem – tak se jmenoval jeho černý malý bůžek – a Jojo mu dvakrát nebo třikrát opakoval a důrazně na tom trval, abychom k velrybářské flotile v přístavu nechodili společně a nehledali loď oba dva. Jojo výslovně přikazoval, abych loď vybral já sám; Jojo prý zamýšlí být nám nápomocen, a proto nám už vybral loď, kterou já, Izmael, neomylně najdu, neboť je mi jakoby určena osudem. Na tuto loď se musím dát okamžitě najmout a o Kvíkvega se zatím nestarat.

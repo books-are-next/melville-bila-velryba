@@ -1,5 +1,6 @@
 ---
 title: XCIII.VYVRŽENEC
+contentType: prose
 ---
 
 Uplynulo teprve několik dnů od setkání s francouzskou lodí, když se přihodila velmi významná událost nejméně významnému členu posádky Pequody; událost nanejvýš žalostná, která mužstvu, občas bláznivě veselému a pověrčivému, nakonec dala živoucí a stále přítomnou předpověď, jaký děsivý osud může stihnout i je.

@@ -1,5 +1,6 @@
 ---
 title: XLIV.MAPA MOŘE
+contentType: prose
 ---
 
 Kdybyste byli následovali kapitána Achaba do kajuty po oné bouři, která zuřila v noci po tom večeru, kdy posádka nadšeně schválila jeho záměr, byli byste viděli, že přistoupil k zásuvce v nosníku, vyňal z ní velký svitek pomačkaných, zežloutlých námořních map, rozprostřel je před sebou na stole přišroubovaném k podlaze a potom si k nim sedl. Bedlivě zkoumal různé čáry a stínování, které na nich bylo vidět, a potom pomalu, ale jistou rukou zakresloval tužkou další kurzy na místa dosud prázdná. Občas nahlížel do kupy starých lodních deníků vedle sebe; byla v nich zaznamenána roční období a místa, kdy a kde byli za různých dřívějších plaveb různých lodí chyceni nebo spatřeni vorvani.

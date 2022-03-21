@@ -1,5 +1,6 @@
 ---
 title: XXV.DODATEK
+contentType: prose
 ---
 
 Pokud jde o důstojnost velrybaření, rád bych uvedl jenom ověřené skutečnosti. Kdyby chtěl obhájce před soudem úplně zamlčet dohad ne sice právě nerozumný, ale výmluvně svědčící o jeho případu – byl by jistě hoden pokárání.

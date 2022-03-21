@@ -1,5 +1,6 @@
 ---
 title: VI.ULICE
+contentType: prose
 ---
 
 Žasl-li jsem při pohledu na individuum tak cizokrajné, jako byl Kvíkveg, pohybující se v slušné společnosti civilizovaného města, tento úžas brzo zmizel, hned při první procházce ulicemi New Bedfordu za denního světla.

@@ -1,5 +1,6 @@
 ---
 title: LXX.SFINGA
+contentType: prose
 ---
 
 Neměli bychom vynechat zmínku o tom, že dříve než jsme tělo leviatanovo úplně stáhli, oddělili jsme mu hlavu. Useknout vorvaňovi hlavu je vědecký, anatomický výkon, jímž se zkušení velrybářští chirurgové velmi pyšní, a mají proč.

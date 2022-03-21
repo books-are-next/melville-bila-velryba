@@ -1,5 +1,6 @@
 ---
 title: XLII.BĚLOST VELRYBY
+contentType: prose
 ---
 
 Čím byla bílá velryba Achabovi, to už jsme naznačili; čím byla někdy mně, to dosud řečeno nebylo.

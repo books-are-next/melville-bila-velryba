@@ -1,5 +1,6 @@
 ---
 title: LII.ALBATROS
+contentType: prose
 ---
 
 Jihovýchodně od Mysu, u vzdálených ostrovů Crozetských, kde je dobré loviště velryb grónských, objevila se před námi plachta lodi pojmenované Albatros. Z mého vysokého stanoviště na předním stožáru bylo dobře vidět, jak se pomalu přibližuje – zajisté pozoruhodná podívaná pro nováčka v dalekých mořských lovištích: velrybářská loď na moři, tak dlouho z domova.

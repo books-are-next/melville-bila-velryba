@@ -1,5 +1,6 @@
 ---
 title: CXXXI.PEQUOD POTKÁVÁ ROZKOŠ
+contentType: prose
 ---
 
 Pequod horlivě plula dál; kolem ní se valily vlny a dny; rakev teď přeměněná v záchrannou plavatku se lehce houpala; vtom byla hlášena jiná loď, pojmenovaná velmi nešťastně Rozkoš. Jak se blížila, utkvěly všechny očí na širokých trámech, které na některých velrybářských lodích běží nad zadní palubou ve výši osmi nebo devíti stop; na trámech bývají náhradní, nevystrojené nebo poškozené čluny.

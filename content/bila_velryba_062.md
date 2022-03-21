@@ -1,5 +1,6 @@
 ---
 title: LIII.GAM
+contentType: prose
 ---
 
 Proč Achab nešel na palubu oné velrybářské lodi, o níž jsme se zmínili? Zdánlivě proto, že vítr a moře věštily bouři. Ale byl by na ni patrně nevstoupil ani za příznivějšího počasí – soudě podle jeho jednání při podobných příležitostech pozdějších – kdyby byl dostal při rozmluvě zápornou odpověď na svou otázku. Jak se později ukázalo, nestál totiž o společnost žádného cizího kapitána ani na pět minut, ledaže mu kapitán mohl dát nějakou zprávu o tom, co tak zaujatě hledal. Ale to všechno by se neobjevilo v plném významu, kdybychom tu neřekli něco o zvláštních zvycích velrybářských lodí, když se potkají v cizích mořích, a zejména ve společném lovišti.

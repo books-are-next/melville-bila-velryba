@@ -1,5 +1,6 @@
 ---
 title: LXXXVI.OCAS
+contentType: prose
 ---
 
 Jiní básníci zpívali chválu mírných očí antilopy a krásného peří toho ptáka, který nikdy nevzlétne: já, člověk méně božský, oslavuji ocas.

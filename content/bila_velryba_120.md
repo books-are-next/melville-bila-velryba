@@ -1,5 +1,6 @@
 ---
 title: CXI.TICHÝ OCEÁN
+contentType: prose
 ---
 
 Proklouzli jsme kolem ostrovů Batanských a vypluli konečně do velkého Jižního moře, takže jsem mohl pozdravit svůj drahý Pacifik nesčetnými díky – když ne za nic jiného, tedy aspoň za to, že nyní se konečně splnilo dávné přání mého mládí a klidný oceán přede mnou rozestřel na východ tisíc mil modři.

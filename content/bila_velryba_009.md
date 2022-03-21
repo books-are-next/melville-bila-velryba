@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 I stvořil Bůh velryby veliké.

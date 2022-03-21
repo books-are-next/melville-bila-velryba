@@ -1,5 +1,6 @@
 ---
 title: Cl.KARAFA
+contentType: prose
 ---
 
 Nežli anglická loď zmizí z dohledu, budiž tady zapsáno, že pochází z Londýna a že byla pojmenována po zesnulém Samuelu Enderbym, obchodníku z onoho města, zakladateli proslulého velrybářského domu Enderby & synové; podniku, který podle mého skromného velrybářského mínění nezůstává daleko za spojenými královskými rody Tudorovců a Bourbonů, pokud jde o opravdový dějinný význam. Jak dlouho před rokem 1775 existoval tento velký velrybářský dům, to moje četné velrybářské listiny nesdělují; ale v onom roce (1775) vystrojil první lodi, které se věnovaly lovu vorvaňů, ačkoli mnoho let předtím (už od roku 1726) naši stateční Coffinové a Maceyové z Nantucketu a z Vineyardu ve velkých flotilách pronásledovali leviatana, ale jen v severním a jižním Atlantiku, nikde jinde. Budiž zde jasně zaznamenáno, že Nantuckeťané první ze všech lidí harpunovali velkého vorvaně civilizovanou ocelí a že půl století byli jedinými lidmi na celé zeměkouli, kteří ho tak harpunovali.

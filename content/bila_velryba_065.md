@@ -1,5 +1,6 @@
 ---
 title: "LVI.O\_MÉNĚ NESPRÁVNÝCH OBRAZECH VELRYB A\_O\_PRAVDIVÝCH ZOBRAZENÍCH LOVU NA VELRYBY"
+contentType: prose
 ---
 
 Zmiňuji-li se o obludných obrazech velryb, velmi mě to láká, abych se tu zabýval ještě obludnějšími příběhy o nich, které lze najít v jistých knihách jak starých, tak moderních, zvláště v Pliniovi, Purchasovi, Hackluytovi, Harrisovi, Cuvierovi atd. Ale ponechám to stranou.

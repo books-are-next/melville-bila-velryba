@@ -1,5 +1,6 @@
 ---
 title: VII.KAPLE
+contentType: prose
 ---
 
 V tomto New Bedfordu stojí velrybářská kaple a jen málo zasmušilých rybářů, kteří se zakrátko mají vydat na Indický nebo Tichý oceán, sem v neděli nezajde. Já jsem k nim nepatřil.

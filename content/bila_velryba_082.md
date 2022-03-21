@@ -1,5 +1,6 @@
 ---
 title: "LXXIII.STUBB A FLASKZABIJÍ GRÓNSKOU VELRYBU A\_POTOM O\_NÍ ROZMLOUVAJÍ"
+contentType: prose
 ---
 
 Nesmíme zapomenout, že po celý ten čas nám visela po boku Pequody obrovská hlava vorvaňova. Musíme ji tam nechat viset, dokud se nenaskytne příležitost, abychom se jí zabývali. Pro tuto chvíli spěchají jiné věci a jediné, co nyní pro tu hlavu můžeme udělat, je prosit nebe, aby kladkostroj vydržel.

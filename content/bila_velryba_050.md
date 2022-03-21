@@ -1,5 +1,6 @@
 ---
 title: XLI.MOBY DICK
+contentType: prose
 ---
 
 Já, Izmael, jsem patřil do této posádky, mé výkřiky splývaly s výkřiky ostatních, má přísaha se spájela s jejich přísahou; křičel jsem hlasitěji a svou přísahu jsem kul a vyztužoval pevněji, protože mi v hloubi duše bylo úzko. Měl jsem fantastický, tajemný pocit spřízněnosti; Achabova neuhasitelná zášť jako by byla záští mou. Lačným sluchem jsem lapal příběh o vražedné obludě, které jsme já a všichni ostatní přísahali boj a pomstu.

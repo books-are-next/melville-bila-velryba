@@ -1,5 +1,6 @@
 ---
 title: PŮVOD JMÉNA VELRYBY
+contentType: prose
 ---
 
 (SESTAVENO STŘEDOŠKOLSKÝM SUPLENTEM, KTERÝ ZEMŘEL NA SOUCHOTINY)

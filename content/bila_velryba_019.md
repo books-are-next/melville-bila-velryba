@@ -1,5 +1,6 @@
 ---
 title: X.DŮVĚRNÝ PŘÍTEL
+contentType: prose
 ---
 
 Z kaple jsem se vrátil do hostince „U velryby“ a našel jsem tam Kvíkvega samotného. Odešel z kaple krátce před požehnáním. Seděl na lavici u ohně, nohy měl opřeny o krb a jednou rukou si držel u obličeje toho malého černého bůžka; upřeně se mu díval do tváře a zavírákem mu jemně přiřezával nos, brumlaje si přitom po pohansku.

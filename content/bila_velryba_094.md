@@ -1,5 +1,6 @@
 ---
 title: LXXXV.FONTÁNA
+contentType: prose
 ---
 
 Ačkoli po šest tisíc let – a nikdo neví, kolik milionů věků předtím – velké velryby vyrážely vodotrysky všude nad mořem, kropíce i a zamlžujíce zahrady hlubin jakoby samými kropícími nebo zamlžovacími konvemi; ačkoli po mnohá století tisíce lovců bývalo u samé velrybí fontány a pozorovalo její kropení a vodomet – ačkoli se dálo to všechno, přece až do této požehnané minuty (jedna hodina a patnáct a čtvrt minuty odpoledne 16. prosince L. P. 1851) zůstává ještě problémem, jsou-li fontány opravdu fontánami vody nebo pouhé páry – to je zajisté hodno pozoru.

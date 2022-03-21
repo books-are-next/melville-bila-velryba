@@ -1,5 +1,6 @@
 ---
 title: "LV.O\_NESTVŮRNÝCH ZOBRAZENÍCH VELRYB"
+contentType: prose
 ---
 
 Vymaluji vám zanedlouho, pokud je to bez plátna možné, skutečnou podobu velryby, jak se opravdu jeví zraku velrybáře, když je přivázána podél velrybářské lodi, takže si na ni může klidně stoupnout. Proto snad bude záhodno, abych vás nejdřív upozornil na ty podivné, vymyšlené podoby velryby, které jsou obyvatelům pevniny podnes drze předkládány k věření. Je na čase, aby se v této věci svět dověděl pravdu a zjistil, že takové podoby velryb jsou docela falešné.

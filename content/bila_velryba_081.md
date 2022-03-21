@@ -1,5 +1,6 @@
 ---
 title: LXXII.OPIČÍ ŠŇŮRA
+contentType: prose
 ---
 
 Při lomozném rozsekávání a zpracovávání velryby musí mužstvo posádky často přebíhat z přídě na záď. Hned je třeba pomocníka tady, hned zas chtějí někoho jinde. Nikdo nemůže zůstat stále na jednom místě, protože je třeba udělat všechno všude najednou. Podobně se vede i tomu, kdo se snaží vylíčit tyto výjevy. Musíme se nyní trochu vrátit. Už jsme řekli, že při prvním záseku do zad velryby se hák na tuk vsunuje do zvláštní díry vysekané rýči důstojníků. Ale jak se věc tak nemotorná a těžká, jako je hák, do oné díry upevňuje? Zasadil jej tam můj důvěrný přítel Kvíkveg, který měl jako harpunář povinnost sestoupit kvůli tomu na hřbet obludy. V přemnohých případech však okolnosti vyžadují, aby harpunář zůstal na velrybě, dokud se neskončí celé odlupování nebo odkrajování. Podotýkám, že velryba je skoro celá ponořena, až na ony části, které se právě zpracovávají. Tam dole tedy, nějakých deset stop pod úrovní paluby, zmítá se chudák harpunář zpola na velrybě, zpola ve vodě, jak se ohromná masa pod ním otáčí jako kolo šlapacího mlýna. Při této příležitosti Kvíkveg vystupoval ve skotském úboru – měl košili a ponožky – v nichž se, aspoň mému zraku, jevil neobyčejně výhodně, a nikdo neměl lepší příležitost ho pozorovat, jak hned uvidíme.

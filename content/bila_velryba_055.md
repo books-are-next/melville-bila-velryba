@@ -1,5 +1,6 @@
 ---
 title: XLVI.DOHADY
+contentType: prose
 ---
 
 Ačkoli Achab, sžíraný žhavým ohněm svého záměru, měl při všech myšlenkách a činech neustále na zřeteli konečné polapení Moby Dicka, ačkoli byl zřejmě ochoten obětovat této jediné vášni všechny pozemské zájmy, přece se mohlo stát, že byl povahou a dlouhým zvykem natolik srostlý s velrybářským řemeslem, že se nedovedl zcela vzdát vedlejšího cíle plavby. Nebo aspoň, bylo-li tomu jinak, nechyběly tu jiné pohnutky, které naň měly větší vliv. Zašli bychom asi příliš daleko, kdybychom při zmínce o jeho monománii i jen naznačili, že se mstivá nenávist k bílé velrybě snad mohla do jisté míry vztahovat na všechny vorvaně, a tudíž čím více těchto oblud zabije, tím že je pravděpodobnější, že každá příští velryba, s níž se utká, bude ta nenáviděná, kterou pronásleduje. Takové domněnce můžete odporovat, ale zůstávají tu další úvahy, jež ho přece jen mohly ovlivňovat, ač se snad přímo nesrovnávaly s divokostí jeho hlavní vášně.

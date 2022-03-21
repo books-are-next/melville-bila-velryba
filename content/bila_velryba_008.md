@@ -1,5 +1,6 @@
 ---
 title: CITÁTY
+contentType: prose
 ---
 
 (SESTAVENÉ KNIHOVNICKÝM PRAKTIKANTEM)

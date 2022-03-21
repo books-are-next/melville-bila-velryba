@@ -1,5 +1,6 @@
 ---
 title: XXXIX.PRVNÍ NOČNÍ HLÍDKAPŘEDNÍ KOŠ
+contentType: prose
 ---
 
 \[Stubb samoten, opravuje zvratné lano.\]

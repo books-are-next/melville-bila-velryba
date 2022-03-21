@@ -1,5 +1,6 @@
 ---
 title: XXXVII.ZÁPAD SLUNCE
+contentType: prose
 ---
 
 \[Kajuta, u oken na zádi; Achab sedí sám a zírá ven.\]

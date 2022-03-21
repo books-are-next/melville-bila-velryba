@@ -1,5 +1,6 @@
 ---
 title: XLVII.TKADLEC
+contentType: prose
 ---
 
 Bylo zamračené, dusné odpoledne. Námořníci se líně ploužili po palubě nebo tupě civěli na olověnou vodu. Kvíkveg a já jsme byli příjemně zaměstnáni pletením tak zvané mečové rohože, kterou jsme chtěli ještě připevnit na svůj člun. Všude bylo takové ticho a klid nabitý očekáváním a ve vzduchu se vznášela taková zakletá nálada, že každý zamlklý námořník se zdál pohroužen do svého neviditelného já.

@@ -1,5 +1,6 @@
 ---
 title: CII.HÁJ NA ARSACIDÁCH
+contentType: prose
 ---
 
 Až dosud jsem se při popisu vorvaně zabýval hlavně divy jeho zevnějšku a jenom jednotlivě a v určitých maličkostech některými vnitřními ústrojími. Ale máte-li vorvaně pochopit hlouběji a důkladněji, je nutno, abych jej ještě více rozepjal, rozvázal mu šňůrky u nohavic pod koleny, rozepjal podvazky a uvolnil háčky a oka kloubů jeho nejvnitřnějších kostí, a tak ho před vás postavil v jeho poslední podobě, totiž jako nezahalenou kostru.

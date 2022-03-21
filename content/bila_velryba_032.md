@@ -1,5 +1,6 @@
 ---
 title: XXIII.BŘEH NA STRANĚ ZÁVĚTRNÉ
+contentType: prose
 ---
 
 V jedné dřívější kapitole jsme se zmínili o jakémsi Bulkingtonovi – byl to ten vytáhlý námořník, právě se vrátivší z plavby, s nímž jsem se setkal v hostinci v New Bedfordu.

@@ -1,5 +1,6 @@
 ---
 title: LX.PROVAZEC
+contentType: prose
 ---
 
 Se zřetelem k velrybářské scéně, kterou zakrátko vylíčím, a také abyste lépe porozuměli všem podobným výjevům uvedeným jinde, musíme zde promluvit o magickém, často hrozném velrybářském provazci.

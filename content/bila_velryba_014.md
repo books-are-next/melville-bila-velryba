@@ -1,5 +1,6 @@
 ---
 title: V.SNÍDANĚ
+contentType: prose
 ---
 
 Rychle jsem následoval jeho příkladu, sešel do nálevny a docela přátelsky jsem se tam pozdravil se zubícím se hostinským. Nehněval jsem se na něho, ačkoli si mě nemálo dobíral pro mého spoluspáče.

@@ -1,5 +1,6 @@
 ---
 title: I.PŘELUDY
+contentType: prose
 ---
 
 Říkejte mi Izmael. Před několika lety – nezáleží na tom, kdy to přesně bylo – měl jsem v peněžence sotva pár grošů a nic zvláštního mě nepoutalo k pevnině; napadlo mi tedy, že bych mohl na moře, trochu se zas podívat na tu vodní část světa. Dělávám to tak, chci-li zahnat omrzelost a upravit si krevní oběh. Kdykoli zpozoruji, že se začínám tvářit zatrpkle, kdykoli má duše prožívá svůj teskně mživý listopad, kdykoli si všimnu, že se nevědomky zastavuji před obchody s rakvemi a kráčím v poslední řadě každého pohřebního průvodu, který potkám, ale zejména kdykoli těžkomyslnost nabude nade mnou takové moci, že musím volat na pomoc všecky své mravní zásady, abych záměrně nešel na ulici a soustavně lidem nesrážel klobouky z hlavy – tehdy vím, že je svrchovaný čas, abych se co nejrychleji dostal na moře. Nahrazuje mi to kulku z revolveru. Kato s filozofickou okázalostí nalehl na meč; já prostě odcházím na loď. Není na tom nic překvapujícího. Téměř všichni lidé v podobném stavu, kdyby si to jen uvědomili, dříve nebo později zatouží po moři bezmála stejně jako já.
