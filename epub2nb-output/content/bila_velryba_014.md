@@ -3,6 +3,8 @@ title: V.SNÍDANĚ
 contentType: prose
 ---
 
+  
+
 Rychle jsem následoval jeho příkladu, sešel do nálevny a docela přátelsky jsem se tam pozdravil se zubícím se hostinským. Nehněval jsem se na něho, ačkoli si mě nemálo dobíral pro mého spoluspáče.
 
 Zdravý smích je tuze dobrá věc, a nadto příliš vzácná – tím hůře pro nás! Když některý člověk už sám sebou dává někomu námět pro dobrý vtip, ať tedy neuhýbá, naopak, ať ochotně dovolí, aby se na jeho účet lidé zasmáli, člověk, který má v sobě od přírody něco blahodárně směšného, má věru daleko víc, než byste myslili.

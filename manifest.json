@@ -1,38 +1,19 @@
 {
   "author": "Herman Melville",
+  "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "melville-bila-velryba-6f106a3",
+  "identifier": "melville-bila-velryba-e79b211",
   "languagecode": "cs",
   "modified": "2021-12-07T10:50:41.658Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Bílá velryba",
-  "revision": "6f106a3",
+  "revision": "e79b211",
   "generatedAt": {
-    "date": "Mon Mar 21 2022 20:28:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647894499783
+    "date": "Mon Mar 21 2022 21:09:02 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647896942101
   },
   "documents": [
-    {
-      "title": "Bílá velryba",
-      "file": "bila_velryba_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "bila_velryba_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Bílá velryba",
       "file": "bila_velryba_002.html",
@@ -40,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "bila_velryba_001.html",
-      "next": "bila_velryba_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Bílá velryba",
-      "file": "bila_velryba_003.html",
-      "words": 11,
-      "chars": 72,
-      "ideas": 4,
-      "role": "chapter",
-      "order": 2,
-      "prev": "bila_velryba_002.html",
-      "next": "bila_velryba_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Bílá velryba",
-      "file": "bila_velryba_004.html",
-      "words": 90,
-      "chars": 590,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "bila_velryba_003.html",
+      "order": 0,
+      "prev": null,
       "next": "bila_velryba_005.html",
       "toc": [
         {
@@ -100,8 +41,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 4,
-      "prev": "bila_velryba_004.html",
+      "order": 1,
+      "prev": "bila_velryba_002.html",
       "next": "bila_velryba_006.html",
       "toc": [
         {
@@ -120,7 +61,7 @@
       "chars": 907,
       "ideas": 9,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "bila_velryba_005.html",
       "next": "bila_velryba_007.html",
       "toc": [
@@ -140,7 +81,7 @@
       "chars": 214,
       "ideas": 12,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "bila_velryba_006.html",
       "next": "bila_velryba_008.html",
       "toc": [
@@ -156,38 +97,18 @@
     {
       "title": "CITÁTY • Bílá velryba",
       "file": "bila_velryba_008.html",
-      "words": 268,
-      "chars": 1671,
-      "ideas": 4,
+      "words": 2695,
+      "chars": 16913,
+      "ideas": 239,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "bila_velryba_007.html",
-      "next": "bila_velryba_009.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "CITÁTY",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Bílá velryba",
-      "file": "bila_velryba_009.html",
-      "words": 2427,
-      "chars": 15236,
-      "ideas": 235,
-      "role": "chapter",
-      "order": 8,
-      "prev": "bila_velryba_008.html",
       "next": "bila_velryba_010.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "CITÁTY",
           "id": null,
           "children": []
         }
@@ -200,8 +121,8 @@
       "chars": 11367,
       "ideas": 19,
       "role": "chapter",
-      "order": 9,
-      "prev": "bila_velryba_009.html",
+      "order": 5,
+      "prev": "bila_velryba_008.html",
       "next": "bila_velryba_011.html",
       "toc": [
         {
@@ -220,7 +141,7 @@
       "chars": 7039,
       "ideas": 14,
       "role": "chapter",
-      "order": 10,
+      "order": 6,
       "prev": "bila_velryba_010.html",
       "next": "bila_velryba_012.html",
       "toc": [
@@ -240,7 +161,7 @@
       "chars": 28544,
       "ideas": 75,
       "role": "chapter",
-      "order": 11,
+      "order": 7,
       "prev": "bila_velryba_011.html",
       "next": "bila_velryba_013.html",
       "toc": [
@@ -260,7 +181,7 @@
       "chars": 7961,
       "ideas": 8,
       "role": "chapter",
-      "order": 12,
+      "order": 8,
       "prev": "bila_velryba_012.html",
       "next": "bila_velryba_014.html",
       "toc": [
@@ -280,7 +201,7 @@
       "chars": 3778,
       "ideas": 10,
       "role": "chapter",
-      "order": 13,
+      "order": 9,
       "prev": "bila_velryba_013.html",
       "next": "bila_velryba_015.html",
       "toc": [
@@ -300,7 +221,7 @@
       "chars": 4573,
       "ideas": 10,
       "role": "chapter",
-      "order": 14,
+      "order": 10,
       "prev": "bila_velryba_014.html",
       "next": "bila_velryba_016.html",
       "toc": [
@@ -320,7 +241,7 @@
       "chars": 4951,
       "ideas": 41,
       "role": "chapter",
-      "order": 15,
+      "order": 11,
       "prev": "bila_velryba_015.html",
       "next": "bila_velryba_017.html",
       "toc": [
@@ -340,7 +261,7 @@
       "chars": 4656,
       "ideas": 8,
       "role": "chapter",
-      "order": 16,
+      "order": 12,
       "prev": "bila_velryba_016.html",
       "next": "bila_velryba_018.html",
       "toc": [
@@ -360,7 +281,7 @@
       "chars": 17967,
       "ideas": 43,
       "role": "chapter",
-      "order": 17,
+      "order": 13,
       "prev": "bila_velryba_017.html",
       "next": "bila_velryba_019.html",
       "toc": [
@@ -380,7 +301,7 @@
       "chars": 8093,
       "ideas": 12,
       "role": "chapter",
-      "order": 18,
+      "order": 14,
       "prev": "bila_velryba_018.html",
       "next": "bila_velryba_020.html",
       "toc": [
@@ -400,7 +321,7 @@
       "chars": 3439,
       "ideas": 5,
       "role": "chapter",
-      "order": 19,
+      "order": 15,
       "prev": "bila_velryba_019.html",
       "next": "bila_velryba_021.html",
       "toc": [
@@ -420,7 +341,7 @@
       "chars": 4665,
       "ideas": 9,
       "role": "chapter",
-      "order": 20,
+      "order": 16,
       "prev": "bila_velryba_020.html",
       "next": "bila_velryba_022.html",
       "toc": [
@@ -440,7 +361,7 @@
       "chars": 9154,
       "ideas": 16,
       "role": "chapter",
-      "order": 21,
+      "order": 17,
       "prev": "bila_velryba_021.html",
       "next": "bila_velryba_023.html",
       "toc": [
@@ -460,7 +381,7 @@
       "chars": 4046,
       "ideas": 6,
       "role": "chapter",
-      "order": 22,
+      "order": 18,
       "prev": "bila_velryba_022.html",
       "next": "bila_velryba_024.html",
       "toc": [
@@ -480,7 +401,7 @@
       "chars": 6041,
       "ideas": 18,
       "role": "chapter",
-      "order": 23,
+      "order": 19,
       "prev": "bila_velryba_023.html",
       "next": "bila_velryba_025.html",
       "toc": [
@@ -500,7 +421,7 @@
       "chars": 27900,
       "ideas": 81,
       "role": "chapter",
-      "order": 24,
+      "order": 20,
       "prev": "bila_velryba_024.html",
       "next": "bila_velryba_026.html",
       "toc": [
@@ -520,7 +441,7 @@
       "chars": 11256,
       "ideas": 31,
       "role": "chapter",
-      "order": 25,
+      "order": 21,
       "prev": "bila_velryba_025.html",
       "next": "bila_velryba_027.html",
       "toc": [
@@ -540,7 +461,7 @@
       "chars": 7299,
       "ideas": 26,
       "role": "chapter",
-      "order": 26,
+      "order": 22,
       "prev": "bila_velryba_026.html",
       "next": "bila_velryba_028.html",
       "toc": [
@@ -560,7 +481,7 @@
       "chars": 5721,
       "ideas": 36,
       "role": "chapter",
-      "order": 27,
+      "order": 23,
       "prev": "bila_velryba_027.html",
       "next": "bila_velryba_029.html",
       "toc": [
@@ -580,7 +501,7 @@
       "chars": 4635,
       "ideas": 9,
       "role": "chapter",
-      "order": 28,
+      "order": 24,
       "prev": "bila_velryba_028.html",
       "next": "bila_velryba_030.html",
       "toc": [
@@ -600,7 +521,7 @@
       "chars": 5786,
       "ideas": 38,
       "role": "chapter",
-      "order": 29,
+      "order": 25,
       "prev": "bila_velryba_029.html",
       "next": "bila_velryba_031.html",
       "toc": [
@@ -620,7 +541,7 @@
       "chars": 8718,
       "ideas": 25,
       "role": "chapter",
-      "order": 30,
+      "order": 26,
       "prev": "bila_velryba_030.html",
       "next": "bila_velryba_032.html",
       "toc": [
@@ -640,7 +561,7 @@
       "chars": 2210,
       "ideas": 5,
       "role": "chapter",
-      "order": 31,
+      "order": 27,
       "prev": "bila_velryba_031.html",
       "next": "bila_velryba_033.html",
       "toc": [
@@ -660,7 +581,7 @@
       "chars": 9095,
       "ideas": 24,
       "role": "chapter",
-      "order": 32,
+      "order": 28,
       "prev": "bila_velryba_032.html",
       "next": "bila_velryba_034.html",
       "toc": [
@@ -680,7 +601,7 @@
       "chars": 1449,
       "ideas": 5,
       "role": "chapter",
-      "order": 33,
+      "order": 29,
       "prev": "bila_velryba_033.html",
       "next": "bila_velryba_035.html",
       "toc": [
@@ -700,7 +621,7 @@
       "chars": 6494,
       "ideas": 7,
       "role": "chapter",
-      "order": 34,
+      "order": 30,
       "prev": "bila_velryba_034.html",
       "next": "bila_velryba_036.html",
       "toc": [
@@ -720,7 +641,7 @@
       "chars": 8409,
       "ideas": 10,
       "role": "chapter",
-      "order": 35,
+      "order": 31,
       "prev": "bila_velryba_035.html",
       "next": "bila_velryba_037.html",
       "toc": [
@@ -740,7 +661,7 @@
       "chars": 7137,
       "ideas": 8,
       "role": "chapter",
-      "order": 36,
+      "order": 32,
       "prev": "bila_velryba_036.html",
       "next": "bila_velryba_038.html",
       "toc": [
@@ -760,7 +681,7 @@
       "chars": 6128,
       "ideas": 11,
       "role": "chapter",
-      "order": 37,
+      "order": 33,
       "prev": "bila_velryba_037.html",
       "next": "bila_velryba_039.html",
       "toc": [
@@ -780,7 +701,7 @@
       "chars": 1553,
       "ideas": 5,
       "role": "chapter",
-      "order": 38,
+      "order": 34,
       "prev": "bila_velryba_038.html",
       "next": "bila_velryba_040.html",
       "toc": [
@@ -800,7 +721,7 @@
       "chars": 4099,
       "ideas": 7,
       "role": "chapter",
-      "order": 39,
+      "order": 35,
       "prev": "bila_velryba_039.html",
       "next": "bila_velryba_041.html",
       "toc": [
@@ -816,11 +737,11 @@
     {
       "title": "XXXII.CETOLOGIE • Bílá velryba",
       "file": "bila_velryba_041.html",
-      "words": 4204,
-      "chars": 26882,
-      "ideas": 50,
+      "words": 4201,
+      "chars": 26879,
+      "ideas": 49,
       "role": "chapter",
-      "order": 40,
+      "order": 36,
       "prev": "bila_velryba_040.html",
       "next": "bila_velryba_042.html",
       "toc": [
@@ -840,7 +761,7 @@
       "chars": 5152,
       "ideas": 8,
       "role": "chapter",
-      "order": 41,
+      "order": 37,
       "prev": "bila_velryba_041.html",
       "next": "bila_velryba_043.html",
       "toc": [
@@ -860,7 +781,7 @@
       "chars": 10936,
       "ideas": 12,
       "role": "chapter",
-      "order": 42,
+      "order": 38,
       "prev": "bila_velryba_042.html",
       "next": "bila_velryba_044.html",
       "toc": [
@@ -880,7 +801,7 @@
       "chars": 13648,
       "ideas": 15,
       "role": "chapter",
-      "order": 43,
+      "order": 39,
       "prev": "bila_velryba_043.html",
       "next": "bila_velryba_045.html",
       "toc": [
@@ -900,7 +821,7 @@
       "chars": 15093,
       "ideas": 51,
       "role": "chapter",
-      "order": 44,
+      "order": 40,
       "prev": "bila_velryba_044.html",
       "next": "bila_velryba_046.html",
       "toc": [
@@ -920,7 +841,7 @@
       "chars": 2856,
       "ideas": 5,
       "role": "chapter",
-      "order": 45,
+      "order": 41,
       "prev": "bila_velryba_045.html",
       "next": "bila_velryba_047.html",
       "toc": [
@@ -940,7 +861,7 @@
       "chars": 2248,
       "ideas": 5,
       "role": "chapter",
-      "order": 46,
+      "order": 42,
       "prev": "bila_velryba_046.html",
       "next": "bila_velryba_048.html",
       "toc": [
@@ -960,7 +881,7 @@
       "chars": 1502,
       "ideas": 8,
       "role": "chapter",
-      "order": 47,
+      "order": 43,
       "prev": "bila_velryba_047.html",
       "next": "bila_velryba_049.html",
       "toc": [
@@ -977,10 +898,10 @@
       "title": "XL.PŮLNOC NA PŘÍDI • Bílá velryba",
       "file": "bila_velryba_049.html",
       "words": 1523,
-      "chars": 8953,
+      "chars": 8957,
       "ideas": 109,
       "role": "chapter",
-      "order": 48,
+      "order": 44,
       "prev": "bila_velryba_048.html",
       "next": "bila_velryba_050.html",
       "toc": [
@@ -1000,7 +921,7 @@
       "chars": 20192,
       "ideas": 25,
       "role": "chapter",
-      "order": 49,
+      "order": 45,
       "prev": "bila_velryba_049.html",
       "next": "bila_velryba_051.html",
       "toc": [
@@ -1020,7 +941,7 @@
       "chars": 19184,
       "ideas": 32,
       "role": "chapter",
-      "order": 50,
+      "order": 46,
       "prev": "bila_velryba_050.html",
       "next": "bila_velryba_052.html",
       "toc": [
@@ -1040,7 +961,7 @@
       "chars": 1598,
       "ideas": 14,
       "role": "chapter",
-      "order": 51,
+      "order": 47,
       "prev": "bila_velryba_051.html",
       "next": "bila_velryba_053.html",
       "toc": [
@@ -1060,7 +981,7 @@
       "chars": 10610,
       "ideas": 13,
       "role": "chapter",
-      "order": 52,
+      "order": 48,
       "prev": "bila_velryba_052.html",
       "next": "bila_velryba_054.html",
       "toc": [
@@ -1080,7 +1001,7 @@
       "chars": 17661,
       "ideas": 26,
       "role": "chapter",
-      "order": 53,
+      "order": 49,
       "prev": "bila_velryba_053.html",
       "next": "bila_velryba_055.html",
       "toc": [
@@ -1100,7 +1021,7 @@
       "chars": 5425,
       "ideas": 7,
       "role": "chapter",
-      "order": 54,
+      "order": 50,
       "prev": "bila_velryba_054.html",
       "next": "bila_velryba_056.html",
       "toc": [
@@ -1116,11 +1037,11 @@
     {
       "title": "XLVII.TKADLEC • Bílá velryba",
       "file": "bila_velryba_056.html",
-      "words": 770,
-      "chars": 4857,
-      "ideas": 15,
+      "words": 767,
+      "chars": 4852,
+      "ideas": 14,
       "role": "chapter",
-      "order": 55,
+      "order": 51,
       "prev": "bila_velryba_055.html",
       "next": "bila_velryba_057.html",
       "toc": [
@@ -1140,7 +1061,7 @@
       "chars": 19979,
       "ideas": 49,
       "role": "chapter",
-      "order": 56,
+      "order": 52,
       "prev": "bila_velryba_056.html",
       "next": "bila_velryba_058.html",
       "toc": [
@@ -1160,7 +1081,7 @@
       "chars": 4324,
       "ideas": 10,
       "role": "chapter",
-      "order": 57,
+      "order": 53,
       "prev": "bila_velryba_057.html",
       "next": "bila_velryba_059.html",
       "toc": [
@@ -1176,11 +1097,11 @@
     {
       "title": "L.ACHABŮV ČLUN A POSÁDKA — FEDALLAH • Bílá velryba",
       "file": "bila_velryba_059.html",
-      "words": 827,
-      "chars": 5015,
-      "ideas": 10,
+      "words": 824,
+      "chars": 5010,
+      "ideas": 9,
       "role": "chapter",
-      "order": 58,
+      "order": 54,
       "prev": "bila_velryba_058.html",
       "next": "bila_velryba_060.html",
       "toc": [
@@ -1200,7 +1121,7 @@
       "chars": 8102,
       "ideas": 13,
       "role": "chapter",
-      "order": 59,
+      "order": 55,
       "prev": "bila_velryba_059.html",
       "next": "bila_velryba_061.html",
       "toc": [
@@ -1220,7 +1141,7 @@
       "chars": 3827,
       "ideas": 9,
       "role": "chapter",
-      "order": 60,
+      "order": 56,
       "prev": "bila_velryba_060.html",
       "next": "bila_velryba_062.html",
       "toc": [
@@ -1240,7 +1161,7 @@
       "chars": 8338,
       "ideas": 10,
       "role": "chapter",
-      "order": 61,
+      "order": 57,
       "prev": "bila_velryba_061.html",
       "next": "bila_velryba_063.html",
       "toc": [
@@ -1256,11 +1177,11 @@
     {
       "title": "LIV.PŘÍBĚH LODI TOWN-HO • Bílá velryba",
       "file": "bila_velryba_063.html",
-      "words": 6527,
-      "chars": 40545,
-      "ideas": 113,
+      "words": 6524,
+      "chars": 40540,
+      "ideas": 112,
       "role": "chapter",
-      "order": 62,
+      "order": 58,
       "prev": "bila_velryba_062.html",
       "next": "bila_velryba_064.html",
       "toc": [
@@ -1280,7 +1201,7 @@
       "chars": 9926,
       "ideas": 15,
       "role": "chapter",
-      "order": 63,
+      "order": 59,
       "prev": "bila_velryba_063.html",
       "next": "bila_velryba_065.html",
       "toc": [
@@ -1300,7 +1221,7 @@
       "chars": 6692,
       "ideas": 9,
       "role": "chapter",
-      "order": 64,
+      "order": 60,
       "prev": "bila_velryba_064.html",
       "next": "bila_velryba_066.html",
       "toc": [
@@ -1320,7 +1241,7 @@
       "chars": 5227,
       "ideas": 13,
       "role": "chapter",
-      "order": 65,
+      "order": 61,
       "prev": "bila_velryba_065.html",
       "next": "bila_velryba_067.html",
       "toc": [
@@ -1340,7 +1261,7 @@
       "chars": 5168,
       "ideas": 13,
       "role": "chapter",
-      "order": 66,
+      "order": 62,
       "prev": "bila_velryba_066.html",
       "next": "bila_velryba_068.html",
       "toc": [
@@ -1360,7 +1281,7 @@
       "chars": 4919,
       "ideas": 14,
       "role": "chapter",
-      "order": 67,
+      "order": 63,
       "prev": "bila_velryba_067.html",
       "next": "bila_velryba_069.html",
       "toc": [
@@ -1380,7 +1301,7 @@
       "chars": 7205,
       "ideas": 11,
       "role": "chapter",
-      "order": 68,
+      "order": 64,
       "prev": "bila_velryba_068.html",
       "next": "bila_velryba_070.html",
       "toc": [
@@ -1400,7 +1321,7 @@
       "chars": 10082,
       "ideas": 24,
       "role": "chapter",
-      "order": 69,
+      "order": 65,
       "prev": "bila_velryba_069.html",
       "next": "bila_velryba_071.html",
       "toc": [
@@ -1420,7 +1341,7 @@
       "chars": 2838,
       "ideas": 6,
       "role": "chapter",
-      "order": 70,
+      "order": 66,
       "prev": "bila_velryba_070.html",
       "next": "bila_velryba_072.html",
       "toc": [
@@ -1440,7 +1361,7 @@
       "chars": 2457,
       "ideas": 6,
       "role": "chapter",
-      "order": 71,
+      "order": 67,
       "prev": "bila_velryba_071.html",
       "next": "bila_velryba_073.html",
       "toc": [
@@ -1460,7 +1381,7 @@
       "chars": 15314,
       "ideas": 60,
       "role": "chapter",
-      "order": 72,
+      "order": 68,
       "prev": "bila_velryba_072.html",
       "next": "bila_velryba_074.html",
       "toc": [
@@ -1480,7 +1401,7 @@
       "chars": 5070,
       "ideas": 8,
       "role": "chapter",
-      "order": 73,
+      "order": 69,
       "prev": "bila_velryba_073.html",
       "next": "bila_velryba_075.html",
       "toc": [
@@ -1500,7 +1421,7 @@
       "chars": 3224,
       "ideas": 6,
       "role": "chapter",
-      "order": 74,
+      "order": 70,
       "prev": "bila_velryba_074.html",
       "next": "bila_velryba_076.html",
       "toc": [
@@ -1520,7 +1441,7 @@
       "chars": 3485,
       "ideas": 4,
       "role": "chapter",
-      "order": 75,
+      "order": 71,
       "prev": "bila_velryba_075.html",
       "next": "bila_velryba_077.html",
       "toc": [
@@ -1540,7 +1461,7 @@
       "chars": 6136,
       "ideas": 9,
       "role": "chapter",
-      "order": 76,
+      "order": 72,
       "prev": "bila_velryba_076.html",
       "next": "bila_velryba_078.html",
       "toc": [
@@ -1560,7 +1481,7 @@
       "chars": 2473,
       "ideas": 7,
       "role": "chapter",
-      "order": 77,
+      "order": 73,
       "prev": "bila_velryba_077.html",
       "next": "bila_velryba_079.html",
       "toc": [
@@ -1580,7 +1501,7 @@
       "chars": 4508,
       "ideas": 11,
       "role": "chapter",
-      "order": 78,
+      "order": 74,
       "prev": "bila_velryba_078.html",
       "next": "bila_velryba_080.html",
       "toc": [
@@ -1600,7 +1521,7 @@
       "chars": 11402,
       "ideas": 30,
       "role": "chapter",
-      "order": 79,
+      "order": 75,
       "prev": "bila_velryba_079.html",
       "next": "bila_velryba_081.html",
       "toc": [
@@ -1620,7 +1541,7 @@
       "chars": 8575,
       "ideas": 21,
       "role": "chapter",
-      "order": 80,
+      "order": 76,
       "prev": "bila_velryba_080.html",
       "next": "bila_velryba_082.html",
       "toc": [
@@ -1640,7 +1561,7 @@
       "chars": 10388,
       "ideas": 43,
       "role": "chapter",
-      "order": 81,
+      "order": 77,
       "prev": "bila_velryba_081.html",
       "next": "bila_velryba_083.html",
       "toc": [
@@ -1660,7 +1581,7 @@
       "chars": 7994,
       "ideas": 15,
       "role": "chapter",
-      "order": 82,
+      "order": 78,
       "prev": "bila_velryba_082.html",
       "next": "bila_velryba_084.html",
       "toc": [
@@ -1680,7 +1601,7 @@
       "chars": 6203,
       "ideas": 12,
       "role": "chapter",
-      "order": 83,
+      "order": 79,
       "prev": "bila_velryba_083.html",
       "next": "bila_velryba_085.html",
       "toc": [
@@ -1700,7 +1621,7 @@
       "chars": 4386,
       "ideas": 5,
       "role": "chapter",
-      "order": 84,
+      "order": 80,
       "prev": "bila_velryba_084.html",
       "next": "bila_velryba_086.html",
       "toc": [
@@ -1720,7 +1641,7 @@
       "chars": 3320,
       "ideas": 9,
       "role": "chapter",
-      "order": 85,
+      "order": 81,
       "prev": "bila_velryba_085.html",
       "next": "bila_velryba_087.html",
       "toc": [
@@ -1740,7 +1661,7 @@
       "chars": 8116,
       "ideas": 16,
       "role": "chapter",
-      "order": 86,
+      "order": 82,
       "prev": "bila_velryba_086.html",
       "next": "bila_velryba_088.html",
       "toc": [
@@ -1760,7 +1681,7 @@
       "chars": 4900,
       "ideas": 7,
       "role": "chapter",
-      "order": 87,
+      "order": 83,
       "prev": "bila_velryba_087.html",
       "next": "bila_velryba_089.html",
       "toc": [
@@ -1780,7 +1701,7 @@
       "chars": 4557,
       "ideas": 8,
       "role": "chapter",
-      "order": 88,
+      "order": 84,
       "prev": "bila_velryba_088.html",
       "next": "bila_velryba_090.html",
       "toc": [
@@ -1800,7 +1721,7 @@
       "chars": 22562,
       "ideas": 47,
       "role": "chapter",
-      "order": 89,
+      "order": 85,
       "prev": "bila_velryba_089.html",
       "next": "bila_velryba_091.html",
       "toc": [
@@ -1820,7 +1741,7 @@
       "chars": 5804,
       "ideas": 10,
       "role": "chapter",
-      "order": 90,
+      "order": 86,
       "prev": "bila_velryba_090.html",
       "next": "bila_velryba_092.html",
       "toc": [
@@ -1840,7 +1761,7 @@
       "chars": 4069,
       "ideas": 6,
       "role": "chapter",
-      "order": 91,
+      "order": 87,
       "prev": "bila_velryba_091.html",
       "next": "bila_velryba_093.html",
       "toc": [
@@ -1860,7 +1781,7 @@
       "chars": 4399,
       "ideas": 9,
       "role": "chapter",
-      "order": 92,
+      "order": 88,
       "prev": "bila_velryba_092.html",
       "next": "bila_velryba_094.html",
       "toc": [
@@ -1880,7 +1801,7 @@
       "chars": 10097,
       "ideas": 13,
       "role": "chapter",
-      "order": 93,
+      "order": 89,
       "prev": "bila_velryba_093.html",
       "next": "bila_velryba_095.html",
       "toc": [
@@ -1900,7 +1821,7 @@
       "chars": 9402,
       "ideas": 16,
       "role": "chapter",
-      "order": 94,
+      "order": 90,
       "prev": "bila_velryba_094.html",
       "next": "bila_velryba_096.html",
       "toc": [
@@ -1920,7 +1841,7 @@
       "chars": 25060,
       "ideas": 36,
       "role": "chapter",
-      "order": 95,
+      "order": 91,
       "prev": "bila_velryba_095.html",
       "next": "bila_velryba_097.html",
       "toc": [
@@ -1940,7 +1861,7 @@
       "chars": 6520,
       "ideas": 12,
       "role": "chapter",
-      "order": 96,
+      "order": 92,
       "prev": "bila_velryba_096.html",
       "next": "bila_velryba_098.html",
       "toc": [
@@ -1960,7 +1881,7 @@
       "chars": 7554,
       "ideas": 18,
       "role": "chapter",
-      "order": 97,
+      "order": 93,
       "prev": "bila_velryba_097.html",
       "next": "bila_velryba_099.html",
       "toc": [
@@ -1980,7 +1901,7 @@
       "chars": 5346,
       "ideas": 23,
       "role": "chapter",
-      "order": 98,
+      "order": 94,
       "prev": "bila_velryba_098.html",
       "next": "bila_velryba_100.html",
       "toc": [
@@ -2000,7 +1921,7 @@
       "chars": 12643,
       "ideas": 50,
       "role": "chapter",
-      "order": 99,
+      "order": 95,
       "prev": "bila_velryba_099.html",
       "next": "bila_velryba_101.html",
       "toc": [
@@ -2020,7 +1941,7 @@
       "chars": 4947,
       "ideas": 8,
       "role": "chapter",
-      "order": 100,
+      "order": 96,
       "prev": "bila_velryba_100.html",
       "next": "bila_velryba_102.html",
       "toc": [
@@ -2040,7 +1961,7 @@
       "chars": 8614,
       "ideas": 15,
       "role": "chapter",
-      "order": 101,
+      "order": 97,
       "prev": "bila_velryba_101.html",
       "next": "bila_velryba_103.html",
       "toc": [
@@ -2056,11 +1977,11 @@
     {
       "title": "XCIV.STISK RUKY • Bílá velryba",
       "file": "bila_velryba_103.html",
-      "words": 1062,
-      "chars": 6607,
-      "ideas": 15,
+      "words": 1059,
+      "chars": 6602,
+      "ideas": 14,
       "role": "chapter",
-      "order": 102,
+      "order": 98,
       "prev": "bila_velryba_102.html",
       "next": "bila_velryba_104.html",
       "toc": [
@@ -2080,7 +2001,7 @@
       "chars": 2462,
       "ideas": 5,
       "role": "chapter",
-      "order": 103,
+      "order": 99,
       "prev": "bila_velryba_103.html",
       "next": "bila_velryba_105.html",
       "toc": [
@@ -2100,7 +2021,7 @@
       "chars": 9443,
       "ideas": 13,
       "role": "chapter",
-      "order": 104,
+      "order": 100,
       "prev": "bila_velryba_104.html",
       "next": "bila_velryba_106.html",
       "toc": [
@@ -2120,7 +2041,7 @@
       "chars": 1223,
       "ideas": 4,
       "role": "chapter",
-      "order": 105,
+      "order": 101,
       "prev": "bila_velryba_105.html",
       "next": "bila_velryba_107.html",
       "toc": [
@@ -2140,7 +2061,7 @@
       "chars": 5211,
       "ideas": 9,
       "role": "chapter",
-      "order": 106,
+      "order": 102,
       "prev": "bila_velryba_106.html",
       "next": "bila_velryba_108.html",
       "toc": [
@@ -2160,7 +2081,7 @@
       "chars": 12819,
       "ideas": 23,
       "role": "chapter",
-      "order": 107,
+      "order": 103,
       "prev": "bila_velryba_107.html",
       "next": "bila_velryba_109.html",
       "toc": [
@@ -2180,7 +2101,7 @@
       "chars": 13684,
       "ideas": 42,
       "role": "chapter",
-      "order": 108,
+      "order": 104,
       "prev": "bila_velryba_108.html",
       "next": "bila_velryba_110.html",
       "toc": [
@@ -2200,7 +2121,7 @@
       "chars": 9500,
       "ideas": 23,
       "role": "chapter",
-      "order": 109,
+      "order": 105,
       "prev": "bila_velryba_109.html",
       "next": "bila_velryba_111.html",
       "toc": [
@@ -2220,7 +2141,7 @@
       "chars": 8481,
       "ideas": 15,
       "role": "chapter",
-      "order": 110,
+      "order": 106,
       "prev": "bila_velryba_110.html",
       "next": "bila_velryba_112.html",
       "toc": [
@@ -2240,7 +2161,7 @@
       "chars": 4610,
       "ideas": 12,
       "role": "chapter",
-      "order": 111,
+      "order": 107,
       "prev": "bila_velryba_111.html",
       "next": "bila_velryba_113.html",
       "toc": [
@@ -2260,7 +2181,7 @@
       "chars": 7745,
       "ideas": 12,
       "role": "chapter",
-      "order": 112,
+      "order": 108,
       "prev": "bila_velryba_112.html",
       "next": "bila_velryba_114.html",
       "toc": [
@@ -2280,7 +2201,7 @@
       "chars": 8199,
       "ideas": 16,
       "role": "chapter",
-      "order": 113,
+      "order": 109,
       "prev": "bila_velryba_113.html",
       "next": "bila_velryba_115.html",
       "toc": [
@@ -2300,7 +2221,7 @@
       "chars": 4434,
       "ideas": 7,
       "role": "chapter",
-      "order": 114,
+      "order": 110,
       "prev": "bila_velryba_114.html",
       "next": "bila_velryba_116.html",
       "toc": [
@@ -2320,7 +2241,7 @@
       "chars": 5862,
       "ideas": 7,
       "role": "chapter",
-      "order": 115,
+      "order": 111,
       "prev": "bila_velryba_115.html",
       "next": "bila_velryba_117.html",
       "toc": [
@@ -2340,7 +2261,7 @@
       "chars": 8166,
       "ideas": 39,
       "role": "chapter",
-      "order": 116,
+      "order": 112,
       "prev": "bila_velryba_116.html",
       "next": "bila_velryba_118.html",
       "toc": [
@@ -2360,7 +2281,7 @@
       "chars": 4880,
       "ideas": 20,
       "role": "chapter",
-      "order": 117,
+      "order": 113,
       "prev": "bila_velryba_117.html",
       "next": "bila_velryba_119.html",
       "toc": [
@@ -2380,7 +2301,7 @@
       "chars": 11680,
       "ideas": 21,
       "role": "chapter",
-      "order": 118,
+      "order": 114,
       "prev": "bila_velryba_118.html",
       "next": "bila_velryba_120.html",
       "toc": [
@@ -2400,7 +2321,7 @@
       "chars": 2509,
       "ideas": 5,
       "role": "chapter",
-      "order": 119,
+      "order": 115,
       "prev": "bila_velryba_119.html",
       "next": "bila_velryba_121.html",
       "toc": [
@@ -2420,7 +2341,7 @@
       "chars": 5051,
       "ideas": 9,
       "role": "chapter",
-      "order": 120,
+      "order": 116,
       "prev": "bila_velryba_120.html",
       "next": "bila_velryba_122.html",
       "toc": [
@@ -2440,7 +2361,7 @@
       "chars": 6362,
       "ideas": 28,
       "role": "chapter",
-      "order": 121,
+      "order": 117,
       "prev": "bila_velryba_121.html",
       "next": "bila_velryba_123.html",
       "toc": [
@@ -2460,7 +2381,7 @@
       "chars": 3688,
       "ideas": 12,
       "role": "chapter",
-      "order": 122,
+      "order": 118,
       "prev": "bila_velryba_122.html",
       "next": "bila_velryba_124.html",
       "toc": [
@@ -2480,7 +2401,7 @@
       "chars": 4713,
       "ideas": 15,
       "role": "chapter",
-      "order": 123,
+      "order": 119,
       "prev": "bila_velryba_123.html",
       "next": "bila_velryba_125.html",
       "toc": [
@@ -2500,7 +2421,7 @@
       "chars": 3021,
       "ideas": 8,
       "role": "chapter",
-      "order": 124,
+      "order": 120,
       "prev": "bila_velryba_124.html",
       "next": "bila_velryba_126.html",
       "toc": [
@@ -2520,7 +2441,7 @@
       "chars": 2505,
       "ideas": 15,
       "role": "chapter",
-      "order": 125,
+      "order": 121,
       "prev": "bila_velryba_125.html",
       "next": "bila_velryba_127.html",
       "toc": [
@@ -2540,7 +2461,7 @@
       "chars": 4661,
       "ideas": 8,
       "role": "chapter",
-      "order": 126,
+      "order": 122,
       "prev": "bila_velryba_126.html",
       "next": "bila_velryba_128.html",
       "toc": [
@@ -2560,7 +2481,7 @@
       "chars": 13096,
       "ideas": 52,
       "role": "chapter",
-      "order": 127,
+      "order": 123,
       "prev": "bila_velryba_127.html",
       "next": "bila_velryba_129.html",
       "toc": [
@@ -2580,7 +2501,7 @@
       "chars": 971,
       "ideas": 8,
       "role": "chapter",
-      "order": 128,
+      "order": 124,
       "prev": "bila_velryba_128.html",
       "next": "bila_velryba_130.html",
       "toc": [
@@ -2600,7 +2521,7 @@
       "chars": 3126,
       "ideas": 6,
       "role": "chapter",
-      "order": 129,
+      "order": 125,
       "prev": "bila_velryba_129.html",
       "next": "bila_velryba_131.html",
       "toc": [
@@ -2620,7 +2541,7 @@
       "chars": 280,
       "ideas": 3,
       "role": "chapter",
-      "order": 130,
+      "order": 126,
       "prev": "bila_velryba_130.html",
       "next": "bila_velryba_132.html",
       "toc": [
@@ -2640,7 +2561,7 @@
       "chars": 6382,
       "ideas": 14,
       "role": "chapter",
-      "order": 131,
+      "order": 127,
       "prev": "bila_velryba_131.html",
       "next": "bila_velryba_133.html",
       "toc": [
@@ -2660,7 +2581,7 @@
       "chars": 6394,
       "ideas": 21,
       "role": "chapter",
-      "order": 132,
+      "order": 128,
       "prev": "bila_velryba_132.html",
       "next": "bila_velryba_134.html",
       "toc": [
@@ -2680,7 +2601,7 @@
       "chars": 6091,
       "ideas": 31,
       "role": "chapter",
-      "order": 133,
+      "order": 129,
       "prev": "bila_velryba_133.html",
       "next": "bila_velryba_135.html",
       "toc": [
@@ -2700,7 +2621,7 @@
       "chars": 6986,
       "ideas": 20,
       "role": "chapter",
-      "order": 134,
+      "order": 130,
       "prev": "bila_velryba_134.html",
       "next": "bila_velryba_136.html",
       "toc": [
@@ -2720,7 +2641,7 @@
       "chars": 3769,
       "ideas": 24,
       "role": "chapter",
-      "order": 135,
+      "order": 131,
       "prev": "bila_velryba_135.html",
       "next": "bila_velryba_137.html",
       "toc": [
@@ -2740,7 +2661,7 @@
       "chars": 7391,
       "ideas": 19,
       "role": "chapter",
-      "order": 136,
+      "order": 132,
       "prev": "bila_velryba_136.html",
       "next": "bila_velryba_138.html",
       "toc": [
@@ -2760,7 +2681,7 @@
       "chars": 3076,
       "ideas": 11,
       "role": "chapter",
-      "order": 137,
+      "order": 133,
       "prev": "bila_velryba_137.html",
       "next": "bila_velryba_139.html",
       "toc": [
@@ -2780,7 +2701,7 @@
       "chars": 8600,
       "ideas": 16,
       "role": "chapter",
-      "order": 138,
+      "order": 134,
       "prev": "bila_velryba_138.html",
       "next": "bila_velryba_140.html",
       "toc": [
@@ -2800,7 +2721,7 @@
       "chars": 2351,
       "ideas": 12,
       "role": "chapter",
-      "order": 139,
+      "order": 135,
       "prev": "bila_velryba_139.html",
       "next": "bila_velryba_141.html",
       "toc": [
@@ -2820,7 +2741,7 @@
       "chars": 8746,
       "ideas": 20,
       "role": "chapter",
-      "order": 140,
+      "order": 136,
       "prev": "bila_velryba_140.html",
       "next": "bila_velryba_142.html",
       "toc": [
@@ -2840,7 +2761,7 @@
       "chars": 19019,
       "ideas": 52,
       "role": "chapter",
-      "order": 141,
+      "order": 137,
       "prev": "bila_velryba_141.html",
       "next": "bila_velryba_143.html",
       "toc": [
@@ -2860,7 +2781,7 @@
       "chars": 17571,
       "ideas": 48,
       "role": "chapter",
-      "order": 142,
+      "order": 138,
       "prev": "bila_velryba_142.html",
       "next": "bila_velryba_144.html",
       "toc": [
@@ -2880,7 +2801,7 @@
       "chars": 24034,
       "ideas": 63,
       "role": "chapter",
-      "order": 143,
+      "order": 139,
       "prev": "bila_velryba_143.html",
       "next": "bila_velryba_145.html",
       "toc": [
@@ -2897,12 +2818,12 @@
       "title": "EPILOG • Bílá velryba",
       "file": "bila_velryba_145.html",
       "words": 240,
-      "chars": 1436,
+      "chars": 1440,
       "ideas": 6,
       "role": "chapter",
-      "order": 144,
+      "order": 140,
       "prev": "bila_velryba_144.html",
-      "next": "bila_velryba_146.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -2914,20 +2835,20 @@
       ]
     },
     {
-      "title": "Bílá velryba",
-      "file": "bila_velryba_146.html",
-      "words": 60,
-      "chars": 383,
-      "ideas": 14,
-      "role": "chapter",
-      "order": 145,
+      "title": "Tiráž • Bílá velryba",
+      "file": "colophon.html",
+      "words": 162,
+      "chars": 1050,
+      "ideas": 26,
+      "role": "colophon",
+      "order": null,
       "prev": "bila_velryba_145.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -2936,14 +2857,14 @@
   ],
   "totals": {
     "all": {
-      "words": 180058,
-      "chars": 1108623,
-      "ideas": 2975
+      "words": 180043,
+      "chars": 1108614,
+      "ideas": 2970
     },
     "chapters": {
-      "words": 180051,
-      "chars": 1108580,
-      "ideas": 2970
+      "words": 179875,
+      "chars": 1107526,
+      "ideas": 2940
     }
   }
 }

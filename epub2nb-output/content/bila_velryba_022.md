@@ -3,6 +3,8 @@ title: XIII.TRAKAŘ
 contentType: prose
 ---
 
+  
+
 Příštího rána, v pondělí, zbavil jsem se balzamované hlavy, kterou jsem dal holičovi jako vlásenkářskou palici, a zaplatil jsem účet svůj a kamarádův, použiv ovšem přítelových peněz. Šklebící se hostinský a stejně i strávníci byli neobyčejně pobaveni náhlým přátelstvím, které jsme s Kvíkvegem uzavřeli, zvláště když mě předtím tak poplašily prolhané historky Petra Rakve právě o Kvíkvegovi, k němuž jsem se teď přidružil.
 
 Vypůjčili jsme si trakař, naložili své věci, můj ubohý cestovní tlumok a Kvíkvegův vak z plachtoviny a síťové lůžko, a ubírali jsme se dolů k Mechu, což byl malý nantucketský škuner, zakotvený u přístaviště. Cestou na nás lidé vyvalovali oči; nepřekvapoval je ani tak Kvíkveg – byli totiž zvyklí vidět podobné lidojedy na ulicích – jako spíš to, že jsme my dva spolu tak důvěrní. Nevšímali jsme si jich, střídavě jsme tlačili trakař a Kvíkveg se občas zastavil, aby urovnal pochvu na špici své harpuny. Zeptal jsem se ho, proč nosí takovou nepohodlnou věc na pevninu a nemají-li všechny velrybářské lodi vlastní harpuny. Na to odpověděl, že je sice v podstatě celkem pravda, co říkám, ale on že přece jen má rád svou harpunu, poněvadž je zhotovena ze spolehlivého materiálu, je dobře vyzkoušena v mnohých smrtelných utkáních a srdce velryb jsou jí důvěrně známa. Zkrátka, jako mnozí sekáči a ženci, kteří chodí k sedlákovi na luka vyzbrojeni vlastními kosami – ačkoli si je přinášet nemusí – tak i Kvíkveg z osobních důvodů dával přednost své vlastní harpuně.

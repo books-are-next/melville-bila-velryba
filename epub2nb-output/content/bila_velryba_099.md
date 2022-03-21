@@ -3,9 +3,11 @@ title: XC.HLAVY NEBO OCASY
 contentType: prose
 ---
 
-„De balena vero sufficit, si rex habeat caput, et regina caudam.“
+_„De balena vero sufficit, si rex habeat caput, et regina caudam.“_
 
 de Bracton, l. 3, c. 3.
+
+  
 
 Tento latinský citát z anglického zákoníku znamená v souvislosti s ostatním textem, že ze všech velryb, chycených kýmkoli u pobřeží oné země, musí hlavu dostat král jakožto čestný Velký harpunář a královně má být uctivě nabídnut ocas. Rozdělení, které se u velryby hodně podobá rozpůlení jablka; mezi těmi dvěma částmi uprostřed už nic nezbývá. Poněvadž tento zákon v pozměněné formě dosud v Anglii platí a poněvadž je po některých stránkách podivnou odchylkou od všeobecného zákona o rybě připoutané a volné, promluvíme o něm ve zvláštní kapitole podle téže zásady zdvořilosti, s níž anglické železnice vydržují na vlastní náklad zvláštní vůz, vyhrazený jedině pro královskou rodinu. Abych především dokázal, že zmíněný zákon dosud platí, vylíčím vám jednu příhodu, která se udála v posledních dvou letech.
 

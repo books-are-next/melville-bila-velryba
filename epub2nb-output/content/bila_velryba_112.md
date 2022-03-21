@@ -3,6 +3,8 @@ title: CIII.ROZMĚRY VELRYBÍ KOSTRY
 contentType: prose
 ---
 
+  
+
 Předně vám chci podat přehlednou a srozumitelnou zprávu o živé váze a velikosti leviatana, jehož kostrou se máme brzo zabývat. Takové údaje tady mohou být užitečné.
 
 Své vlastní přesné výpočty zčásti opírám o odhad kapitána Scoresbyho, že totiž největší grónská velryba, dlouhá šedesát stop, váží sedmdesát tun. Podle mého pečlivého výpočtu tedy vorvaň největší velikosti, který je dlouhý pětaosmdesát až devadesát stop a kolem těla měří na nejširším místě necelých čtyřicet stop, taková velryba bude vážit nejméně devadesát tun. Počítáme-li na jednu tunu třináct mužů, pak by ten vorvaň váhou hodně převýšil veškeré obyvatelstvo jedné vesnice, čítající tisíc jedno sto obyvatel.

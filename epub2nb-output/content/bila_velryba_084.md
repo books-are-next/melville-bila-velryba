@@ -3,6 +3,8 @@ title: "LXXV.HLAVA VELRYBY GRÓNSKÉ\_—Z\_HLEDISKA SROVNÁVACÍHO"
 contentType: prose
 ---
 
+  
+
 Přejděme teď přes palubu a důkladně si prohlédněme hlavu velryby grónské.
 
 Jako lze vznešenou hlavu vorvaně v celkové její podobě srovnat s římským válečným vozem (zejména vpředu, kde je tak široce zaokrouhlena), tak zase hlava velryby grónské vypadá zhruba jako obrovská vysoká bota – podobnost poněkud neelegantní! Před dvěma sty lety holandský cestovatel přirovnal její tvar k ševcovskému kopytu. A v takovém kopytě nebo botě – jako je to v té chůvině pohádce o staré ženě s celým rojem dětí – může být velmi pohodlně ubytována ta žena i všechno její potomstvo.

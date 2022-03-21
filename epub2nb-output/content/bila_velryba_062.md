@@ -3,6 +3,8 @@ title: LIII.GAM
 contentType: prose
 ---
 
+  
+
 Proč Achab nešel na palubu oné velrybářské lodi, o níž jsme se zmínili? Zdánlivě proto, že vítr a moře věštily bouři. Ale byl by na ni patrně nevstoupil ani za příznivějšího počasí – soudě podle jeho jednání při podobných příležitostech pozdějších – kdyby byl dostal při rozmluvě zápornou odpověď na svou otázku. Jak se později ukázalo, nestál totiž o společnost žádného cizího kapitána ani na pět minut, ledaže mu kapitán mohl dát nějakou zprávu o tom, co tak zaujatě hledal. Ale to všechno by se neobjevilo v plném významu, kdybychom tu neřekli něco o zvláštních zvycích velrybářských lodí, když se potkají v cizích mořích, a zejména ve společném lovišti.
 
 Setkají-li se dva cizinci v lesích Pine Barrens ve státě New York nebo na stejně pusté Salisbury Plains v Anglii, potkají-li se náhodou v těchto nehostinných divočinách, tedy se ti dva za nic na světě nemohou dobře vyhnout tomu, aby se nepozdravili; zastaví se na chvilku, povědí si nejnovější zprávy a snad dokonce nakrátko usednou a odpočinou si spolu. Je tedy jistě mnohem přirozenější, že na nekonečných pustinách oceánu, na mořských Pine Barrens a Salisbury Plains, spatří-li se dvě velrybářské lodi na konci světa – u osamělého Fanningova ostrova nebo u vzdálených King’s Mills, jářku, je ještě přirozenější, že se za takových okolností tyto lodi nejen pozdraví, ale i navážou styky ještě důvěrnější, přátelštější a družnější. A zejména by tak měly jednat lodi z jednoho přístavu, jejichž kapitáni, důstojníci a mnozí z mužstva se osobně znají a mohou si tedy pohovořit o mnoha milých zážitcích z domova.

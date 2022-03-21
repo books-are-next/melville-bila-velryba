@@ -3,6 +3,8 @@ title: CXIX.SVÍČKY
 contentType: prose
 ---
 
+  
+
 Nejteplejší podnebí jen živí nejkrutější drápy – bengálský tygr se krčí v prostorných hájích věčně zelených. Nejzářivější obloha jen skrývá nejsmrtelnější bouře – nádherná Kuba zná tornáda, jaká se nikdy nepřeženou přes mírné země severní. Tak i v těchto třpytných japonských mořích se námořník setkává s nejhroznější ze všech bouří, s tajfunem. Někdy se snese z bezmračné oblohy jako vybuchující puma na omámené a ospalé město.
 
 K večeru toho dne měla Pequod plachty servané a musela zápasit o holých stěžních s tajfunem, který ji napadl přímo zpředu. Když se setmělo, nebe a moře řvaly a pukaly duněním hromu, ozařovány blesky, které osvětlovaly ochromené stožáry, kde se tu a tam třepetaly cáry, jež tam první zuřivý nápor bouře nechal na později.
@@ -11,21 +13,21 @@ Starbuck stál na velitelské palubě a držel se lana. Při každém zablesknu
 
 „Mizerná práce, mizerná, pane Starbucku,“ řekl Stubb, pohlížeje na vrak, „ale moře si musí provést svou. Stubb aspoň nedovede proti němu bojovat. Víte, pane Starbucku, nežli vlna skočí, má takový dlouhý rozběh, běží kolem celého světa a potom se teprve vymrští! Kdežto mám-li se s ní srazit já, mám rozběh jen tady přes palubu. Ale nevadí, to jsou všechno jen takové žertíky, jak praví stará píseň (zpívá):
 
-Oh, veselo je s nečasem,  
-vorvaň si mrská ocasem  
-a s žertem plave tam a sem.  
-Toť šelma, taškář, kopa, vtipkář, hračkář,  
-eskamotér moře, hoj!  
-Ten úprk divoký, ten cval —  
-to si jen drink svůj namíchal  
-a s přísadami promíchal.  
-Toť šelma, taškář, kopa, vtipkář, hračkář,  
-eskamotér moře, hoj!  
-Blesk tříská lodím v bok,  
-on však jen mlaskne, dá si lok  
-a ochutnává ten svůj mok.  
-Toť šelma, taškář, kopa, vtipkář, hračkář,  
-eskamotér moře, hoj!
+> Oh, veselo je s nečasem,  
+> vorvaň si mrská ocasem  
+> a s žertem plave tam a sem.  
+> Toť šelma, taškář, kopa, vtipkář, hračkář,  
+> eskamotér moře, hoj!  
+> Ten úprk divoký, ten cval —  
+> to si jen drink svůj namíchal  
+> a s přísadami promíchal.  
+> Toť šelma, taškář, kopa, vtipkář, hračkář,  
+> eskamotér moře, hoj!  
+> Blesk tříská lodím v bok,  
+> on však jen mlaskne, dá si lok  
+> a ochutnává ten svůj mok.  
+> Toť šelma, taškář, kopa, vtipkář, hračkář,  
+> eskamotér moře, hoj!
 
 „Dost už, Stubbe,“ zvolal Starbuck, „nech zpívat tajfun, ať si hraje na harfu tady v našem ráhnoví. Jsi-li však statečný muž, zachováš klid.“
 

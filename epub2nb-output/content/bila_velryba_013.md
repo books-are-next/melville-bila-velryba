@@ -3,6 +3,8 @@ title: IV.PŘIKRÝVKA
 contentType: prose
 ---
 
+  
+
 Když jsem se nazítří za bílého dne probudil, shledal jsem, že Kvíkvegova paže je ovinuta kolem mne nesmírně láskyplně a oddaně. Někdo by si mohl bezmála myslit, že jsem jeho manželka. Přikrývka byla sešívaná z různobarevných kusů, plná zvláštních malých mnohobarevných čtverečků a trojúhelníků. Jeho paže, tetovaná po celé délce nekonečným krétským bludištěm obrazů, z nichž se žádný odstínem nepodobal druhému – snad proto, že paže byla na moři vystavena slunci a stínu nesoustavně, poněvadž rukávy košile bývají vyhrnuty v různých dobách nestejně – ta paže, musím říci, vypadala jako pruh naší sešívané přikrývky. Opravdu, když jsem se probudil a jeho paže ležela na přikrývce, stěží jsem ji od ní rozeznal, tak barvy splývaly; jen podle tíhy a tlaku jsem poznal, že mě Kvíkveg objímá.
 
 Měl jsem divné pocity. Dovolte, pokusím se je vysvětlit. Vzpomínám si, že se mi přihodilo něco podobného ještě v dětství; nikdy jsem si nebyl zcela jist, byl-li to sen či skutečnost. Takhle to bylo. Provedl jsem nějaké darebáctví – myslím, že jsem se pokoušel vlézt do komína, poněvadž jsem před několika dny viděl kominíka, jak tam leze. Moje macecha, jež mě beztoho neustále bila nebo mě posílala bez večeře spat, vytáhla mě za nohu z komína a poslala mě do postele, neohlížejíc se na to, že jsou dvě hodiny odpoledne, dne 21. června, nejdelšího dne v roce na naší polokouli. Bylo mi hrozně. Nedalo se nic dělat, proto jsem šel nahoru do svého pokojíčka v druhém patře, svlékal jsem se co nejpomaleji, jen abych zabil čas, a s hořkým povzdechem jsem zalezl pod přikrývku.

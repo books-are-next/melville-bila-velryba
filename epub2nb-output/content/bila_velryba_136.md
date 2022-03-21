@@ -3,7 +3,11 @@ title: CXXVII.PALUBA
 contentType: prose
 ---
 
+  
+
 \[Rakev leží na dvou bubnech pro stočený provazec, mezi tesařovým ponkem a otevřeným otvorem do podpalubí. Tesař ucpává spáry rakve; přitom se mu na prsou rozvinuje soukaný konopný provázek z velkého klubka, zastrčeného pod kabátem. – Achab přichází pomalu z chodby ke kajutě a slyší, jak Pip jde za ním.\]
+
+  
 
 „Jdi zpátky, hochu. Vrátím se k tobě za chvilinku. Jde! Ani vlastní ruka neposlouchá mého rozmaru ochotněji než ten chlapec. – Střední lodi chrámová! Co je to tady?“
 

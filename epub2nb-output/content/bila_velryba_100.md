@@ -3,9 +3,11 @@ title: XCI.PEQUOD POTKÁVÁ RŮŽOVÉ POUPĚ
 contentType: prose
 ---
 
-„Marně jsme prohrabávali žaludek tohoto leviatana, hledajíce ambru. Nesnesitelný zápach znemožnil hledání.“
+_„Marně jsme prohrabávali žaludek tohoto leviatana, hledajíce ambru. Nesnesitelný zápach znemožnil hledání.“_
 
 Sir T. Browne, V. E.
+
+  
 
 Za nějaký týden po velrybářské scéně naposled vylíčené, když jsme pomalu pluli po ospalém, mlžném poledním moři, osvědčily se mnohé nosy na palubě Pequod jako hlídky mnohem bdělejší než tři páry očí na vrcholcích stožárů. Zvláštní, nepříliš příjemný pach bylo cítit z moře.
 

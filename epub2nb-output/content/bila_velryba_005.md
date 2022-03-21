@@ -1,8 +1,9 @@
 ---
 title: ''
+hiddenTitle: true
 contentType: prose
 ---
 
-TATO KNIHA JE PŘIPSÁNA  
+_TATO KNIHA JE PŘIPSÁNA  
 NATHANIELU HAWTHORNOVI  
-Z OBDIVU K JEHO GÉNIU
+Z OBDIVU K JEHO GÉNIU_

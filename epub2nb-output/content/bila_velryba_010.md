@@ -3,6 +3,8 @@ title: I.PŘELUDY
 contentType: prose
 ---
 
+  
+
 Říkejte mi Izmael. Před několika lety – nezáleží na tom, kdy to přesně bylo – měl jsem v peněžence sotva pár grošů a nic zvláštního mě nepoutalo k pevnině; napadlo mi tedy, že bych mohl na moře, trochu se zas podívat na tu vodní část světa. Dělávám to tak, chci-li zahnat omrzelost a upravit si krevní oběh. Kdykoli zpozoruji, že se začínám tvářit zatrpkle, kdykoli má duše prožívá svůj teskně mživý listopad, kdykoli si všimnu, že se nevědomky zastavuji před obchody s rakvemi a kráčím v poslední řadě každého pohřebního průvodu, který potkám, ale zejména kdykoli těžkomyslnost nabude nade mnou takové moci, že musím volat na pomoc všecky své mravní zásady, abych záměrně nešel na ulici a soustavně lidem nesrážel klobouky z hlavy – tehdy vím, že je svrchovaný čas, abych se co nejrychleji dostal na moře. Nahrazuje mi to kulku z revolveru. Kato s filozofickou okázalostí nalehl na meč; já prostě odcházím na loď. Není na tom nic překvapujícího. Téměř všichni lidé v podobném stavu, kdyby si to jen uvědomili, dříve nebo později zatouží po moři bezmála stejně jako já.
 
 Tady máte to své ostrovní město kmene Manhattů, kol dokola obehnané doky jako Indické ostrovy korálovými útesy – obchod je obklopuje svým příbojem. Vpravo vlevo vedou vás ulice k vodě. Dole na nejzazším konci města jsou Baterie, kde to honosné nábřeží omývají vlny a ochlazují vánky, které ještě před několika hodinami byly nedozírně daleko. Všimněte si, jaké davy se tu soustředěně dívají na vodu.
@@ -27,7 +29,7 @@ A ještě něco: na moře se vždycky vydám jako plavčík, poněvadž takto m
 
 Konečně odcházím na moře vždy jako námořník, protože je to zdravý tělocvik a protože na přídi lodi, kde spí mužstvo, je čistý vzduch. Jako větry vanoucí proti vám jsou na tomto světě častější než větry, které vám foukají do zad (to jest, neporušíte-li nikdy Pythagorovu poučku), tak i velitel eskadry na horní palubě většinou dostává vzduch až z druhé ruky, od námořníků na přídi. Myslí, že jej dýchá první, ale není tomu tak. Podobně v mnoha jiných případech obec vede své vůdce, a ti o tom nemají ani potuchy. Několikrát jsem dýchal mořský vzduch jako námořník na obchodní lodi; jak to, že jsem se teď rozhodl pro velrybářskou výpravu? Na to může odpovědět neviditelný policista Sudiček, který mě má stále pod dozorem, krok za krokem mě potají sleduje a nějak záhadně na mne působí – ten může odpovědět lépe než kdo jiný. A není pochyby: že jsem se pustil na tu velrybářskou výpravu, to právě patřilo do velkolepého programu Prozřetelnosti, stanoveného dávno předtím. Přišlo to jako krátká mezihra a sólový výstup mezi delšími scénami. Domnívám se, že tato část divadelní cedule zněla asi takto:
 
-Velký volební boj o prezidentství Spojených států
+_Velký volební boj o prezidentství Spojených států_
 
 VELRYBÁŘSKÁ VÝPRAVA JAKÉHOSI IZMAELA
 

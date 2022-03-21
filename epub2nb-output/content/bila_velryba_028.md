@@ -3,6 +3,8 @@ title: XIX.PROROK
 contentType: prose
 ---
 
+  
+
 Plavci, dali jste se najmout na tu loď?“
 
 Kvíkveg a já jsme právě opustili Pequod a vzdalovali jsme se pomalu od vody, každý na okamžik zabrán do svých vlastních myšlenek; vtom nás takto oslovil cizinec, který se před námi zastavil a ukázal těžkým ukazovákem na naši loď. Byl ošuměle oděn ve vybledlý kabátec a záplatované kalhoty; kolem krku měl cár černého šátku. Neštovice se mu rozlily všemi směry po obličeji a ten zůstal poznamenán spletí vrásek jako koryto rozvodněné řeky, když proudící voda vyschla.

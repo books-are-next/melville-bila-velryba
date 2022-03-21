@@ -3,6 +3,8 @@ title: "LXXXIII.JONÁŠ Z\_HLEDISKA HISTORICKÉHO"
 contentType: prose
 ---
 
+  
+
 V předešlé kapitole jsme se dotkli historického příběhu o Jonášovi a velrybě. Ale někteří Nantuckeťané tomuto historickému příběhu o Jonášovi a velrybě příliš nevěří. Ovšem také někteří skeptičtí Řekové a Římané, vynikající nad pravověrné pohany své doby, stejně nedůvěřovali příběhu o Heraklovi a velrybě, o Arionovi a delfínu, a přece jejich pochybnosti neučinily z těchto tradic fakta o nic méně pravdivá.
 
 Jeden starý rybář ze Sag Harboru uváděl za hlavní důvod svých pochyb o pravdě hebrejského příběhu toto: Má prý jednu z těch zvláštních starosvětských biblí, vyzdobenou podivnými, nevědeckými rytinami; jedna z nich ukazuje Jonášovu velrybu se dvěma vodotrysky na hlavě – zvláštnost, která je typická jen u jednoho druhu leviatana (u grónské velryby a jejích odrůd); je to velryba, o níž velrybáři říkají: „Houstičkou by se udusila“, tak malý má hltan. Ale na to má biskup Jebb odpověď již napřed připravenou. Není třeba, praví biskup, představovat si, že byl Jonáš pohřben v břiše velryby, nýbrž mohl být dočasně ukryt v některé části její tlamy. A to se zdá od toho dobrého biskupa docela rozumné. Věru, grónská velryba by mohla pojmout do tlamy dva hrací stolky a pohodlně k nim usadit všechny hráče whistu. Snad se také mohl Jonáš schovat ve vykotlaném zubu. Ale rozvážíme-li si to, řekneme, že grónská velryba zuby nemá.

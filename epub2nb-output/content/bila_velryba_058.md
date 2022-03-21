@@ -3,6 +3,8 @@ title: XLIX.HYENA
 contentType: prose
 ---
 
+  
+
 V této podivné, ztřeštěné motanici, které říkáme život, jsou jisté zvláštní chvíle a okolnosti, kdy člověk považuje celý náš vesmír za nesmírně podařený šprým, i když tuší jeho vtip jen nejasně a spíš má podezření, že se tu šprýmuje jen a jen na jeho účet. A přece mu nic nevezme odvahu a nic mu nestojí za to, aby ztrácel čas nějakými námitkami. Spolkne všechny události, všechna přesvědčení, názory a přemlouvání, všechny útrapy viditelné a neviditelné, nechť jsou mu sebevíc proti mysli, jako pštros dobře trávící spolyká kule a křesací kameny. A pokud jde o drobné nesnáze a starosti, vyhlídky na náhlé pohromy, na smrtelné nebezpečí nebo úraz, to všechno, i sama smrt, připadá mu jen jako lehké, dobromyslné štulce a rozjařená rýpnutí do boku, která mu uštědřuje neviděný a nevypočitatelný starý vtipálek. Takováto podivně vrtošivá nálada, o níž mluvím, přepadá člověka jen v době největšího trápení, přichází, když je člověk nejvážnější, takže záležitost, která se mu právě předtím snad zdála nesmírně významná, vypadá teď jen jako složka toho celkového šprýmu. Pro tenhle bezstarostný a nenucený způsob utěšené filozofie zoufalců není lepší živné půdy než nebezpečí lovu na velryby. A právě z tohoto hlediska jsem se začal dívat na celou plavbu Pequody a na její velký cíl, bílou velrybu.
 
 „Kvíkvegu,“ řekl jsem, když mě posledního vytáhli na palubu a když jsem se ještě v kazajce otřepával, abych se zbavil vody: „Kvíkvegu, můj skvělý příteli, jsou takové příhody časté?“ Ačkoli byl promočen jako já, dal mi bez velkého vzrušení na srozuměnou, že se stávají často.

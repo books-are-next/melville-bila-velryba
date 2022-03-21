@@ -3,6 +3,8 @@ title: "CXXV.RYCHLOMĚR A\_ŠŇŮRA"
 contentType: prose
 ---
 
+  
+
 Ačkoli Pequod, osudem stíhaná, byla za této plavby již tak dlouho na moři, užívali jejího rychloměru na šňůře jen zřídka. Některé lodi obchodní a mnohé velrybářské zanedbávají úplně měření, zejména když křižují. Pevně spoléhají na jiné způsoby, jak určit postavení lodi. Zároveň ovšem, a často spíše jen pro formu a pro nic jiného, zaznamenávají pravidelně každou hodinu na obvyklou tabulku směr, kterým loď pluje, i odhadnutou průměrnou rychlost. Tak tomu bylo i na Pequodě. Dřevěné kolo s připojeným hranatým rychloměrem visely dlouho netknuty pod zábradlím na zádi. Deštěm a vodní sprší navlhly, na slunci a ve větru se zbortily a přístroj, visící tak dlouho nečinně, zpuchřel spojeným působením všech živlů. Ale Achab toho všeho nedbal, ovládnut svým rozmarem, a když se za několik hodin po scéně s magnetkou podíval na kolo, uvědomil si, že kvadrant už nemá, a vzpomněl si na svou vášnivou přísahu o rychloměru. Loď při plavbě zapadala, vzadu se vlny bouřlivě vzdouvaly.
 
 „Haló, vy tam vpředu! Spustit rychloměr!“

@@ -3,7 +3,11 @@ title: "CXXI.PŮLNOC\_— ZÁBRADLÍNA PŘEDNÍ PALUBĚ"
 contentType: prose
 ---
 
+  
+
 \[Stubb a Flask sedí na zábradlí a připoutávají zavěšené tam kotvy dalšími lany.\]
+
+  
 
 Ne, Stubbe, můžeš tam do toho uzlu tlouci, jak chceš, ale do mne nikdy nevtlučeš, cos právě povídal. Jak je to dlouho, cos říkal pravý opak? Neříkals jednou, že každá loď, na které pluje Achab, měla by platit zvláštní zvýšené pojistné, jako kdyby byla naložena na zádi soudky prachu a na přídi bedničkami sirek? Počkej, neříkals to?“
 

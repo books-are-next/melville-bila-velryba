@@ -3,6 +3,8 @@ title: "CV.ZMENŠUJE SE VELIKOST VELRYBY?—\_VYHYNE?"
 contentType: prose
 ---
 
+  
+
 Když k nám takto leviatan připlouvá od pramenů věčnosti, je snad vhodné se otázat, zda v dlouhém sledu pokolení nedegeneroval proti původní velikosti svých předků.
 
 Při zkoumání však shledáme, že dnešní velryby jsou nejen mohutnější nežli ty, jejichž fosilní pozůstatky se vyskytují v útvaru třetihorním (který zaujímá určitou geologickou periodu před člověkem), nýbrž že z velryb třetihorního útvaru jsou příslušnice jeho časnějších formací co do velikosti předstihovány velrybami z formací pozdějších.

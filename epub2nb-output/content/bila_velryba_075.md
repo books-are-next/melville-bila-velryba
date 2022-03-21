@@ -3,6 +3,8 @@ title: LXVI.MASAKR ŽRALOKŮ
 contentType: prose
 ---
 
+  
+
 Když rybáři na jihu přivlekou uloveného vorvaně po dlouhé a namáhavé práci pozdě na noc k lodi, nebývá zpravidla zvykem pustit se okamžitě do rozsekávání ryby. Tato práce je neobyčejně těžká, trvá dlouho a vyžaduje úsilí celé posádky. Proto bývá zvykem svinout všechny plachty, připoutat kormidlo na stranu závětrnou a nechat jen nezbytné stráže u kotev. Vždy dva a dva z posádky se po hodině vystřídají na palubě, aby dohlédli, zda je vše v pořádku.
 
 Ale někdy se toto uspořádání vůbec neosvědčuje, zvláště na lince v Tichém oceáně, poněvadž se kolem připoutané velryby shromáždí neslýchané množství žraloků, a kdyby je nechali v plné práci řekněme šest hodin, do rána by z velryby nezbylo o mnoho víc než kostra. V mnoha jiných částech oceánu, kde není takový nadbytek těchto ryb, lze občas jejich úžasnou žravost podstatně omezit tím, že se na ně útočí ostrými velrybářskými rýči, avšak toto opatření je v některých případech jen ještě vydráždí k zvýšené činnosti. Ale nebylo tomu tak tentokrát u žraloků kolem Pequody; ačkoli nutno přiznat, že každý, kdo není zvyklý tomuto divadlu, mohl si oné noci při pohledu přes lodní zábradlí pomyslit, že celé moře kolem dokola je jediným obrovským sýrem a ti žraloci že se v něm hemží jako červi.

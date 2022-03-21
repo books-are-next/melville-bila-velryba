@@ -3,9 +3,15 @@ title: XXXVIII.SOUMRAK
 contentType: prose
 ---
 
+  
+
 \[U hlavního stožáru, o který se opírá Starbuck.\]
 
+  
+
 Můj duch potkal víc než sobě rovného; je přemožen, a nadto šílencem! Nesnesitelně palčivé pomyšlení, že zdravý rozum musel složit zbraně na tomto bojišti! On však zaryl příliš hluboko a vyrazil ze mne všechen rozum! Tuším jeho bezbožný konec, ale cítím, že musím přispět svou pomocí, aby k němu dospěl. Ať chci nebo nechci, cosi nevyslovitelného mě k němu připoutalo; táhne mě to jako lano a já nemám nůž, aby je přeřízl. Hrozný stařec! Křičí: Kdo je nade mne? – Ano, je demokratický vůči všem nahoře; a hle, jak se vypíná nade všechny, kdo jsou dole! Ach! Vidím zřetelně svůj žalostný úděl – poslouchat a bouřit se proti tomu, a co horší, nenávidět, a přitom litovat. Vždyť v jeho očích čtu jakýsi temný žal, který by mě zkrušil, kdybych jím trpěl sám. A přece je tu naděje. Čas a příliv se rozlévají do široka. Nenáviděná velryba může plout ve vodách celé zeměkoule, jako může zlatá rybička plavat ve skleněné kouli. Snad ho Bůh odvrátí od jeho záměru, který uráží nebesa. Rád bych se vzmužil, kdybych neměl srdce jako z olova. Ale můj hodinový stroj došel; nemám klíček, kterým bych jej opět natáhl a zdvihl závaží svého srdce, jež řídí celý stroj.
+
+  
 
 \[Výbuch bujného veselí z místnosti mužstva na přídi.\]
 

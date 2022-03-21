@@ -3,7 +3,11 @@ title: CXXIX.KAJUTA
 contentType: prose
 ---
 
+  
+
 \[Achab chce odejít na palubu, Pip ho chytí za ruku, chtěje s ním.\]
+
+  
 
 „Hochu, hochu, říkám ti, že teď nesmíš za Achabem. Přichází hodina, kdy tě Achab nechce mít u sebe, třebaže tě nechce od sebe odhánět. Je v tobě cosi, ubohý hochu, co je pro mou nemoc příliš hojivé. Stejné uzdravuje stejné. A při tomto lovu mi moje nemoc poslouží jako nejcennější zdraví. Zůstaň pěkně dole, kde tě budou obsluhovat, jako kdybys byl kapitánem. Ano, hochu, budeš sedět tady, na mé přišroubované židli. Budeš jejím dalším šroubem!“
 

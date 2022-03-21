@@ -3,7 +3,11 @@ title: CXX.PALUBA KE KONCIPRVNÍ NOČNÍ HLÍDKY
 contentType: prose
 ---
 
+  
+
 \[Achab stojí u kormidla. Starbuck přichází k němu.\]
+
+  
 
 Musíme sejmout ráhno hlavní košové plachty, pane! Úvazek se uvolňuje a ráhnový zvedák na straně závětrné je skoro zničen. Mám je strhnout, pane?“
 

@@ -3,6 +3,8 @@ title: XII.ŽIVOTOPISNÁ
 contentType: prose
 ---
 
+  
+
 Kvíkveg se narodil na ostrově Rokovoko, daleko na jihozápadě. Na žádné mapě není vyznačen; správná místa nikdy nebývají.
 
 Když ještě jako divoch nedávno narozený pobíhal bezstarostně po rodných lesích v zástěrce z trávy, sledován mlsnými kozami, jako by sám byl zeleným stromečkem, už tenkrát dřímala v Kvíkvegově ctižádostivé duši silná touha spatřit z křesťanského světa více než sem tam nějakého toho velrybáře. Jeho otec byl velkým náčelníkem, králem; strýc veleknězem; z matčiny strany měl tety, které byly manželkami nepřemožitelných válečníků. V jeho žilách proudila znamenitá krev – krev královská – i když, jak se obávám, hodně pokažená lidojedskými sklony, kterým holdoval v mládí, kdy na něho nikdo nedozíral.

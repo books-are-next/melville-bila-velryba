@@ -3,6 +3,8 @@ title: CXIII.KOVÁRNA
 contentType: prose
 ---
 
+  
+
 S rozcuchanou bradou, opásán zkornatělou zástěrou ze žraločí kůže, stál Perth asi o polednách mezi kovářskou výhní a kovadlinou, kterou měl na špalku pobitém plechem. Jednou rukou držel v ohni hlavici kopí a druhou dmýchal měchem. V tu chvíli přicházel kapitán Achab, v ruce kožený váček rezavé barvy. Ještě kousek před kovárnou se zadumaný Achab zastavil. Perth konečně vytáhl železo z ohně a začal do něho na kovadlině bušit perlíkem. Z rozžhaveného železa sršely husté snopy jisker, z nichž některé doletovaly až k Achabovi.
 
 „To jsou tvoji buřňáci, Perthe? Lítají ustavičně za tebou. Jsou to ptáci, kteří věští štěstí, ale ne pro každého; – podívej se, jak pálí; ale ty – ty mezi nimi žiješ, a nejsi popálen.“

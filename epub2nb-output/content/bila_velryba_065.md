@@ -3,6 +3,8 @@ title: "LVI.O\_MÉNĚ NESPRÁVNÝCH OBRAZECH VELRYB A\_O\_PRAVDIVÝCH ZOBRAZENÍ
 contentType: prose
 ---
 
+  
+
 Zmiňuji-li se o obludných obrazech velryb, velmi mě to láká, abych se tu zabýval ještě obludnějšími příběhy o nich, které lze najít v jistých knihách jak starých, tak moderních, zvláště v Pliniovi, Purchasovi, Hackluytovi, Harrisovi, Cuvierovi atd. Ale ponechám to stranou.
 
 Znám jen čtyři uveřejněná díla o vorvaňovi: Colnettovo, Hug­ginsovo, Fréderica Cuviera a Bealeovo. V předchozí kapitole byla zmínka o Colnettovi a Cuvierovi. Hugginsovo dílo je mnohem lepší než práce oněch dvou, ale daleko nejlepší je dílo Bealeovo. Všechny Bealeovy kresby velryby jsou dobré, až na prostředního tvora na obraze tří velryb v různých polohách, který je v čele druhé kapitoly. Frontispice představuje čluny napadající vorvaně; je sice nakreslen tak, že může vzbudit vážné pochybnosti u některých lidí ze salonů, ale přece je obdivuhodně správný a celkový dojem odpovídá skutečnosti. Některé kresby vorvaňů u J. Rossa Browna jsou v obrysech dosti správné, ale jsou to špatné rytiny. To ovšem není jeho chyba.

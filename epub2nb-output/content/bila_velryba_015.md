@@ -3,6 +3,8 @@ title: VI.ULICE
 contentType: prose
 ---
 
+  
+
 Žasl-li jsem při pohledu na individuum tak cizokrajné, jako byl Kvíkveg, pohybující se v slušné společnosti civilizovaného města, tento úžas brzo zmizel, hned při první procházce ulicemi New Bedfordu za denního světla.
 
 Na ulicích každého většího mořského přístavu často potkáme blízko doků postavy nejpodivnějšího vzezření z cizích končin světa. I na Broadwayi a Chestnutu někdy námořníci ze Středozemního moře vrazí do polekaných dam. Regent Street není neznámá námořníkům z Indie a Malajska; a v Bombaji, v Apollo Green, živí Yankeeové často vyděsili domorodce. New Bedford však předčí všechny přístavní ulice a námořní čtvrti. V těchto čtvrtích spatříte jen námořníky, ale v New Bedfordu stojí na nárožích a rozprávějí opravdoví lidojedi, praví divoši; mnozí z nich ještě mají na kostech pohanské maso. Cizinec na nich div oči nenechá.

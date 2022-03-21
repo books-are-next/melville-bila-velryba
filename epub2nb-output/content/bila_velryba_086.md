@@ -3,6 +3,8 @@ title: LXXVII.VELIKÝ SUD HEIDELBERSKÝ
 contentType: prose
 ---
 
+  
+
 Nyní přijde stáčení sudu. Abychom je správně pochopili, musíme se dovědět něco o zvláštní vnitřní stavbě oné věci.
 
 Považujeme-li vorvaňovu hlavu za pravoúhlý plný hranol, můžeme ji šikmou rovinou rozdělit ve dva klíny[^17], z nichž spodní tvoří kostěná stavba lebky a čelisti, kdežto vrchní klín je z tukové hmoty naprosto bez kostí a jeho široký přední konec tvoří rozšířené, svislé zdánlivé čelo velryby. Rozdělte tento vrchní klín vodorovně uprostřed čela, a dostanete dvě skoro stejné části, které už příroda rozdělila vnitřní stěnou z tuhé, šlachovité látky.
