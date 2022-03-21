@@ -3,7 +3,11 @@ title: XXXVII.ZÁPAD SLUNCE
 contentType: prose
 ---
 
+  
+
 \[Kajuta, u oken na zádi; Achab sedí sám a zírá ven.\]
+
+  
 
 Kudy pluji, všude za sebou nechávám bílou a bouřlivou stopu, bledé vody a ještě bledší tváře. Závistivé vlny z boku se vzdouvají, aby zakryly mé stopy, nechť si; já kráčím první. Tamhle, na okraji toho věčně přetékajícího poháru, vlahé vlny se rdí jako víno. Zlatá olovnice se spouští do modrých vod. Slunce – potápěč – zvolna klesá – zapadá; můj duch stoupá vzhůru; je unaven stoupáním do nekonečného vrchu. Je snad koruna, kterou nosím, příliš těžká – ta železná koruna lombardská? A přece září mnoha drahokamy; já, její nositel, nevidím její daleké záření, jen temně tuším, že nosím něco oslnivého, co uvádí v úžas. Je ze železa – to vím – ne ze zlata. Je také puklá – cítím to, nerovný okraj mě dře do krve; můj mozek jako by narážel na pevný kov, ano, mám ocelovou lebku. Ta nepotřebuje helmice v boji, kdy mozek je nejvíc ohrožen.
 

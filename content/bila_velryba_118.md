@@ -3,6 +3,8 @@ title: "CIX.ACHAB A\_STARBUCK V\_KAJUTĚ"
 contentType: prose
 ---
 
+  
+
 Nazítří zrána čerpali jako obvykle vodu z lodi; a hle! s vodou vycházelo nemalé množství oleje. Sudy dole měly asi ošklivou trhlinu. Vzbudilo to mnoho obav; Starbuck sešel do kajuty, hlásit tuto nepříjemnou zprávu.[^21] Pequod, plující od jihozápadu, blížila se nyní k Tajvanu a k ostrovům Batanes, mezi kterými leží tropická brána z vod čínských do Tichého oceánu. Starbuck tedy našel Achaba nad rozvinutou celkovou mapou východních souostroví a ještě nad jinou, představující dlouhá východní pobřeží japonských ostrovů – Nipponu, Matsmai a Šikoku. Sněhobílou novou nohu ze slonoviny měl opřenu o přišroubovanou nohu stolu a v ruce držel dlouhý nůž, zahnutý jako zahradnická žabka. Podivuhodný stařec, obrácen zády ke dveřím, vraštil čelo a znovu sledoval své staré plavby.
 
 „Kdo je tu?“ zvolal, když uslyšel kroky u dveří, ale neobrátil se. „Na palubu! Zmiz!“

@@ -3,7 +3,11 @@ title: XXXVI.VELITELSKÁ PALUBA
 contentType: prose
 ---
 
+  
+
 \[Vstoupí Achab, potom všichni.\]
+
+  
 
 Nedlouho po té události s dýmkou vystoupil Achab, jak bývalo jeho zvykem, jednoho rána, hned jak posnídal, po schodech od kajuty na palubu. Tam se v tu dobu obyčejně prochází většina námořních kapitánů, jako se venkovští páni po snídani několikrát projdou po zahradě.
 

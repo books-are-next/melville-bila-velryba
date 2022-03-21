@@ -3,6 +3,8 @@ title: XXXV.VRCHOL STOŽÁRU
 contentType: prose
 ---
 
+  
+
 Bylo už příjemnější počasí, když na mne došlo v povinném střídání s ostatními námořníky, abych konal hlídku na vrcholu stožáru.
 
 U většiny amerických velrybářských lodí bývá zvykem, že se téměř hned při vyplutí lodi z přístavu stavějí na vrchol stožáru hlídky, třebaže loď má před sebou patnáct tisíc mil i víc, než dospěje k vlastnímu lovišti. A když se po třech, čtyřech nebo pěti letech plavby blíží k domovu a má někde ještě něco prázdného, řekněme jen prázdnou láhev – tedy jsou vrcholky jejích stožárů obsazeny hlídkami do poslední chvíle, a teprve když se její nejvyšší plachty ztrácejí mezi věžemi přístavu, vzdává se zcela naděje, že chytne ještě jednu velrybu.
@@ -21,8 +23,8 @@ Musím zde otevřeně a upřímně přiznat, že jsem nijak dobře nehlídkoval
 
 Dovolte, majitelé lodí z Nantucketu, abych vás na tomto místě důtklivě varoval! Střežte se najímat do bdělých rybářských posádek mladíky s hubeným obličejem a vpadlýma očima, kteří se oddávají nevhodnému přemítání a nabízejí se k práci na lodi, ač mají v hlavě spíše Phaedona než Bowditche. Pravím, chraňte se takových mládenců; vaše velryby nemohou být chyceny, dokud je někdo nespatří, a tento mladý platonik se zapadlýma očima desetkrát zbrázdí moře kolem světa a neobohatí vás ani o jediný žejdlík vorvaniny. Tohle varování není nijak zbytečné. Vždyť velrybářství skýtá dnes útočiště mnoha romantickým, melancholickým a zapomnětlivým mladým mužům, kterým se znechutily trampoty na pevnině a kteří hledají smysl života v ovzduší dehtu a rybího ruku. Childe Harold vyleze často na vrchol stožáru některé nešťastné a smolařské velrybářské lodi a zádumčivě vykřikuje:
 
-„Vzduj se, hluboké modré moře, vzduj!  
-Desetitisíce velrybářů tě brázdí marně.“
+> „Vzduj se, hluboké modré moře, vzduj!  
+> Desetitisíce velrybářů tě brázdí marně.“
 
 Kapitáni takových lodí velmi často vezmou roztržité mladé filozofy na paškál a vyčítají jim, že nemají dost „zájmu“ o plavbu; naznačují jim, že nikdy nepocítí čestnou ctižádost, poněvadž si v hloubi duše přejí velrybu raději nevidět nežli uvidět. Ale je to všechno marné. Tito mladí platonikové se domnívají, že jejich zrak je nedokonalý, jsou krátkozrací; proč by si tedy měli namáhat oční nerv? Divadelní kukátko nechali doma.
 

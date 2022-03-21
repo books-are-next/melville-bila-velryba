@@ -3,6 +3,8 @@ title: XX.PŘÍPRAVY K ODPLUTÍ
 contentType: prose
 ---
 
+  
+
 Uplynul den nebo dva a na palubě Pequody nastala horečná činnost. Nejenom se spravovaly staré plachty, ale na palubu se přinášely nové plachty, balíky plátna a kola lanoví; zkrátka všechno naznačovalo, že se přípravy k vyplutí lodi spěšně dokončují. Kapitán Peleg snad vůbec ani nechodil na břeh; seděl ve svém vigvamu a bystře dohlížel na všechno mužstvo, zatímco Bildad obstarával nákupy a zásoby v obchodech. Přístavní dělníci zaměstnaní ve skladišti a na stožárech pracovali ještě dlouho po západu slunce.
 
 Druhého dne po tom, kdy Kvíkveg podepsal smlouvu, bylo oznámeno ve všech hostincích, v kterých přespávala posádka lodi Pequod, že truhly námořníků musí být do večera na lodi, poněvadž se nedá říci, jak brzy loď vypluje. Kvíkveg a já jsme si tam dopravili své věci, ale byli jsme odhodláni spát na pevnině až do poslední chvíle. Jak se zdá, v těchto případech se dává výzva vždycky dlouho napřed; loď ještě několik dní nevyplula. A nebylo divu – bylo nutno ještě hodně udělat a nevědělo se, na kolik věcí si ještě kdo vzpomene, než bude Pequod plně vystrojena.

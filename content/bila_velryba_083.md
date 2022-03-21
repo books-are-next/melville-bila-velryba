@@ -3,6 +3,8 @@ title: LXXIV.HLAVA VORVANĚ — Z HLEDISKA SROVNÁVACÍHO
 contentType: prose
 ---
 
+  
+
 Zde tedy jsou dvě velké velryby a jejich hlavy leží vedle sebe. Přistupme k nim a dejme i my hlavy dohromady.
 
 Z velkého řádu foliových leviatanů jsou vorvaň a velryba grónská daleko nejpozoruhodnější. Jsou to jediné velryby, na které člověk pořádá pravidelný lov. Pro Nantuckeťana jsou to dvě krajnosti všech známých velrybích odrůd. Vnější rozdíl mezi nimi je nejpatrnější na hlavě, a protože v této chvíli visí hlavy obou velryb z boků Pequody a my můžeme pohodlně přecházet od jedné k druhé – máme to jen přes palubu – rád bych věděl, kde by se nám naskytla lepší příležitost k praktickému studiu cetologie nežli tady.

@@ -3,6 +3,8 @@ title: CXV.PEQUOD POTKÁVÁ MLÁDENCE
 contentType: prose
 ---
 
+  
+
 A byla věru příjemná ta podívaná i ty zvuky, které připlouvaly před větrem několik týdnů po tom, co byla ukuta Achabova harpuna.
 
 Byla to nantucketská loď Mládenec, jež právě naplnila poslední sud olejem a přirazila poklopy nad přecpanými skladišti, a teď, nežli zaměří svou příď k domovu, v radostné sváteční výstroji proplouvala vesele, třebas poněkud marnivě mezi loďmi na lovišti daleko od sebe rozptýlenými.

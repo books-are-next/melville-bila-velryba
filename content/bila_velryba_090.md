@@ -3,6 +3,8 @@ title: LXXXI.PEQUOD POTKÁVÁ PANNU
 contentType: prose
 ---
 
+  
+
 Nastal předurčený den, a jak se mělo stát, potkali jsme loď Jungfrau z Brém, jíž velel Derick De Deer. Holanďané a Němci, kdysi největší velrybářští národové na světě, jsou dnes mezi posledními. Ale tu a tam se dosud náhodou setkáte s jejich vlajkou na Tichém oceáně, ve velmi dlouhých rozmezích zeměpisné šíře a délky.
 
 Zdálo se, že Jungfrau by nás z nějakého důvodu velmi ráda navštívila. Ještě byla dosti daleko od Pequody, a již stočila plachty na jalovo, kapitán si dal spustit člun a zamířil k nám, stoje netrpělivě na přídi místo na zádi člunu.

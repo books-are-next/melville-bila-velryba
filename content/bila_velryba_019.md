@@ -3,6 +3,8 @@ title: X.DŮVĚRNÝ PŘÍTEL
 contentType: prose
 ---
 
+  
+
 Z kaple jsem se vrátil do hostince „U velryby“ a našel jsem tam Kvíkvega samotného. Odešel z kaple krátce před požehnáním. Seděl na lavici u ohně, nohy měl opřeny o krb a jednou rukou si držel u obličeje toho malého černého bůžka; upřeně se mu díval do tváře a zavírákem mu jemně přiřezával nos, brumlaje si přitom po pohansku.
 
 Vyrušil jsem ho, takže bůžka odložil; po chvíli šel ke stolu, vzal si tam velkou knihu, položil si ji na klín a začal počítat stránky, rozvážně a opatrně. U každé padesáté stránky – jak se mi zdálo – se na okamžik zastavil, rozhlédl se nepřítomným pohledem a táhle, klokotavě hvízdl úžasem. Potom se zas pustil do další padesátky; podle všeho začínal vždy od jednotky, jako by nedovedl počítat dál než do padesáti, a teprve když napočítal mnoho padesátek, byl ohromen tím množstvím stránek.

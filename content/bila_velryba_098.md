@@ -3,6 +3,8 @@ title: "LXXXIX.PŘIPOUTANÁ RYBA A\_VOLNÁ RYBA"
 contentType: prose
 ---
 
+  
+
 Zmínka o vlajkách a vlajkových tyčích v předminulé kapitole vyžaduje, abychom i trochu promluvili o velrybářských zákonech a pravidlech, za jejichž hlavní symbol a odznak lze považovat právě takovou tyč s vlajkou.
 
 Stává se často, když několik lodí křižuje společně, že jedna loď zasáhne velrybu, ta však unikne a nakonec ji zabije a chytí loď jiná. V tom už je nepřímo zahrnuto mnoho podružných nahodilostí, které všechny patří k jednomu případu hlavnímu. Například – po únavné a nebezpečné honbě je velryba polapena, ale její tělo se za silné bouře od lodi odpoutá, odplave daleko na stranu závětrnou a vyloví je jiná velrybářská loď, která si za klidného moře velrybu pohodlně připoutá k boku, neriskujíc přitom jediný život nebo provazec. Z toho by často mohly vzniknout mezi velrybáři spory velmi prudké a nebezpečné, kdyby tu nebyly jisté všeobecné, nepopiratelné zákony, psané nebo nepsané, které platí pro všechny případy.

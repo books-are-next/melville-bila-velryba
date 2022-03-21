@@ -3,6 +3,8 @@ title: Cl.KARAFA
 contentType: prose
 ---
 
+  
+
 Nežli anglická loď zmizí z dohledu, budiž tady zapsáno, že pochází z Londýna a že byla pojmenována po zesnulém Samuelu Enderbym, obchodníku z onoho města, zakladateli proslulého velrybářského domu Enderby & synové; podniku, který podle mého skromného velrybářského mínění nezůstává daleko za spojenými královskými rody Tudorovců a Bourbonů, pokud jde o opravdový dějinný význam. Jak dlouho před rokem 1775 existoval tento velký velrybářský dům, to moje četné velrybářské listiny nesdělují; ale v onom roce (1775) vystrojil první lodi, které se věnovaly lovu vorvaňů, ačkoli mnoho let předtím (už od roku 1726) naši stateční Coffinové a Maceyové z Nantucketu a z Vineyardu ve velkých flotilách pronásledovali leviatana, ale jen v severním a jižním Atlantiku, nikde jinde. Budiž zde jasně zaznamenáno, že Nantuckeťané první ze všech lidí harpunovali velkého vorvaně civilizovanou ocelí a že půl století byli jedinými lidmi na celé zeměkouli, kteří ho tak harpunovali.
 
 Roku 1778 pěkná loď Amelie, vystrojená právě k tomu účelu a pouze na náklad podnikavých Enderbyů, obeplula odvážně mys Horn a první ze všech národů spustila velrybářský člun, ať už byl jakýkoli, ve velkém Jižním moři. Plavba byla obratně řízena, měla úspěch, a když se Amelie vrátila na své kotviště s plným skladištěm vzácné vorvaniny, jiné lodi, anglické i americké, brzo následovaly jejího příkladu, a tak se otevřelo obrovské loviště vorvaňů na Tichém oceánu. Ale neúnavná rodina se nespokojila s tímto zdatným činem, nýbrž usilovala o něco nového: Samuel a všichni jeho synové – jen jejich matka ví, kolik jich bylo – vymohli si od britské vlády, že pod jejich přímým dozorem a zčásti nejspíš i na jejich náklad vyslala korvetu Rattler na výzkumnou velrybářskou cestu do Jižního moře. Za velení kapitána válečného loďstva vykonal Rattler znamenitou plavbu a prokázal platné služby – není však známo jaké. Ale to není všechno. Roku 1819 týž podnik vystrojil vlastní výzkumnou velrybářskou loď, která měla podniknout zkušební plavbu do vzdálených vod u Japonska. Tato loď– vhodně pojmenovaná Siréna – podnikla ušlechtilou pokusnou plavbu a tak se znamenitá loviště japonská stala poprvé všeobecně známými. Sirénu řídil na této slavné plavbě kapitán Coffin z Nantucketu.
@@ -19,25 +21,25 @@ Předchůdci Angličanů ve velrybářství byli Holanďané, Zélanďané a D�
 
 Při svém bádání o velrybářských dějinách jsem náhodou přišel na starou holandskou knihu, která už zatuchlým velrybářským pachem prozrazovala, že pojednává o velrybářství. Titul knihy byl „Dan Coopman“, a proto jsem usoudil, že to budou asi neocenitelné paměti nějakého amsterodamského lodního bednáře, neboť bednáře musí mít na palubě každá velrybářská loď. V tomto přesvědčení jsem byl utvrzen, když jsem spatřil, že je to dílo jakéhosi „Fitze Swackhammera“. Ale můj přítel dr. Snodhead, muž velmi učený, profesor jazyka nizozemského a hornoněmeckého na koleji Svatého Mikuláše a Svatého Petra, kterému jsem dal dílo přeložit a daroval mu za jeho námahu krabici svíček z vorvaního tuku – dr. Snodhead, sotva se na knihu podíval, hned mne ujistil, že „Dan Coopman“ neznamená „The Cooper“ (anglicky bednář), nýbrž „The Merchant“ (obchodník). Zkrátka, tato starobylá a učená kniha, psaná holandštinou, pojednávala o holandském obchodu a kromě jiných námětů obsahovala velmi zajímavou zprávu o holandském velrybářství. A právě v kapitole nadepsané „Smeer“ neboli „Tuk“ jsem našel dlouhý podrobný seznam všeho, čím byly vybaveny špižírny a sklepy sto osmdesáti holandských velrybářských plachetnic. Ze seznamu přeloženého dr. Snodheadem uvádím:
 
-400.000 liber hovězího,
+_400.000 liber hovězího,_
 
-60.000 liber fríského vepřového,
+_60.000 liber fríského vepřového,_
 
-150.000 liber sušených tresek,
+_150.000 liber sušených tresek,_
 
-550.000 liber sucharů,
+_550.000 liber sucharů,_
 
-72.000 liber chleba,
+_72.000 liber chleba,_
 
-2.000 soudků másla,
+_2.000 soudků másla,_
 
-20.000 liber sýra texelského a leydenského,
+_20.000 liber sýra texelského a leydenského,_
 
-144.000 liber sýra (patrně horší jakosti),
+_144.000 liber sýra (patrně horší jakosti),_
 
-555 soudků jalovcové,
+_555 soudků jalovcové,_
 
-10.800 sudů piva.
+_10.800 sudů piva._
 
 Většina statistických údajů je na čtení vyprahle suchá, ale ne v tomto případě, kdy je čtenář zaplaven celými soudky, sudy, čtvrtgalony a pintami znamenité jalovcové i výborné nálady.
 

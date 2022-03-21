@@ -3,6 +3,8 @@ title: XCVIII.ULOŽENÍ A ÚKLID
 contentType: prose
 ---
 
+  
+
 Vylíčili jsme již, jak bývá velký leviatan už zdálky ohlašován z vrcholu stožáru; jak bývá pronásledován po vodních pláních a zabíjen v údolích hlubin; jak jej potom přitahují k boku lodi a stínají; a jak se (podle zásady ze starých dob, kdy měl kat právo na oblek, v němž byl sťatý člověk popraven) jeho velký vycpávaný svrchník stává majetkem popravčího; jak jej v příslušné době odsoudí do kotlů a jak jeho vorvanina, tuk a kosti procházejí ohněm nedotčeny jako Sidrach, Mizach a Abdénágo. Nyní však zbývá ukončit poslední kapitolu této popisné části výkladem – zpěvem, smím-li tak říci – o romantickém postupu při stáčení tuku do sudů, které se potom skládají do útrob lodi, takže se leviatan znovu vrací do rodných hlubin, klouzaje pod povrchem jako předtím, ale, žel! již nikdy se nevynoří a nebude chrlit.
 
 Dokud je tuk ještě horký jako punč, nalévá se do šestibarelových sudů, a zatímco se loď kymácí a sem a tam kolébá v půlnočním moři, ohromné sudy se stahují obručemi a zabedňují jeden po druhém, často se nebezpečně smýkají po kluzké palubě jako laviny, až nakonec je námořníci rázně uchopí a zastaví jejich pouť. Kolem dokola se ozývají rány, buch, buch, na sudy dopadá tolik kladiv, kolik se jich tam vejde, protože teď je každý námořník ex officio bednářem.

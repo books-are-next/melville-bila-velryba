@@ -3,6 +3,8 @@ title: XLVIII.PRVNÍ SPUŠTĚNÍ ČLUNŮ
 contentType: prose
 ---
 
+  
+
 Přízraky – jak se v té chvíli všem zdálo – vrhly se na druhou stranu paluby a s nehlučnou hbitostí uvolnily lana a závěsy člunu, který se tam houpal. Tento člun byl vždy považován za náhradní, i když se mu odborně říkalo kapitánský, poněvadž visel na pravoboku. Postava, která teď stála u jeho přídě, byla vysoká, snědá, z ocelových rtů jí vyčníval zlověstný jediný bílý zub. Zmačkaná čínská kazajka z černé bavlněné látky a široké černé kalhoty z téže tmavé látky ji smutečně zahalovaly. A tuto ebenovou osobnost podivně korunoval zářivě bílý zřasený turban, kolem něhož se vinuly spletené vlasy. Její společníci nebyli tak tmaví, ale měli jasnou, tygrově žlutou pleť, příznačnou pro některé domorodce z Filipín – kterážto rasa je pověstna jakousi ďábelskou chytrostí: někteří poctiví bílí námořníci je považuji za placené vyzvědače a tajné donašeče ďáblovy ve vodách jejich pána, jenž prý má svou úřadovnu jinde.
 
 Zatímco překvapená lodní posádka upřeně hleděla na cizince, Achab křikl na muže v bílém turbanu, který je vedl: „Hotovo, Fedallahu?“

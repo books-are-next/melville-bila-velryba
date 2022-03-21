@@ -3,6 +3,8 @@ title: LX.PROVAZEC
 contentType: prose
 ---
 
+  
+
 Se zřetelem k velrybářské scéně, kterou zakrátko vylíčím, a také abyste lépe porozuměli všem podobným výjevům uvedeným jinde, musíme zde promluvit o magickém, často hrozném velrybářském provazci.
 
 Původně se v rybářství používalo provazce z nejlepšího konopí, který býval lehce napouštěn dehtovou párou, ale ne dehtem samým, jak tomu bývá u obyčejných lan. Obvyklé dehtování sice dodá konopí poddajnosti, provazník je snáze zvládne a námořník dostane lano vhodnější pro běžnou potřebu na lodi, ale při obvyklé dávce dehtu by velrybí provazec příliš ztuhl, neboť musí být navíjen hustě. Jak většina námořníků začíná poznávat, dehet lanu nijak nepřidává trvanlivosti ani síly, byť mu dodával tuhosti a hladkosti sebevíc.

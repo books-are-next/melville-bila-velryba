@@ -3,6 +3,8 @@ title: "LXXIII.STUBB A FLASKZABIJÍ GRÓNSKOU VELRYBU A\_POTOM O\_NÍ ROZMLOUVAJ
 contentType: prose
 ---
 
+  
+
 Nesmíme zapomenout, že po celý ten čas nám visela po boku Pequody obrovská hlava vorvaňova. Musíme ji tam nechat viset, dokud se nenaskytne příležitost, abychom se jí zabývali. Pro tuto chvíli spěchají jiné věci a jediné, co nyní pro tu hlavu můžeme udělat, je prosit nebe, aby kladkostroj vydržel.
 
 Za uplynulou noc a za dopoledne Pequod pomalu doplula na moře, které občasnými plochami žlutého planktonu dávalo neobvyklé znamení, že jsou nablízku grónské velryby, druh leviatanů, o kterých by jen málokdo předpokládal, že v tuto roční dobu budou někde poblíž. Ačkoli všichni námořníci obyčejně pohrdali lovem těchto nižších tvorů a třeba Pequod vůbec neměla za úkol je lovit, a přestože jsme jich u Crozetských ostrovů mnoho minuli a nespustili člun, přece nyní, když jsme přivlekli k lodi vorvaně a zbavili ho hlavy, k obecnému překvapení jsme uslyšeli, že onoho dne má být chycena grónská velryba, naskytne-li se příležitost.

@@ -3,6 +3,8 @@ title: "LXXXVIII.ŠKOLY A\_UČITELÉ"
 contentType: prose
 ---
 
+  
+
 Předešlá kapitola vylíčila obrovské společenstvo nebo stádo vorvaňů a také uvedla pravděpodobné příčiny těchto nesmírných shluků.
 
 I když se někdy setkáme s tak velkými společenstvy, přece se i za našich dnů, jak už jsme viděli, vyskytnou občas menší, samostatné skupiny o dvaceti až padesáti členech. Takové skupiny se nazývají školy. Jsou obyčejně dvojího druhu: jedny se skládají téměř jen ze samiček a druhé jedině z mladých, silných samců neboli býků, jak se jim obvykle říká.

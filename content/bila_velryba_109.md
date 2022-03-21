@@ -3,6 +3,8 @@ title: "C.NOHA A\_RUKAPEQUOD Z\_NANTUCKETU SE SETKÁVÁ SE SAMUELEM ENDERBYM Z\_
 contentType: prose
 ---
 
+  
+
 „Ahoj, lodi! Viděli jste bílou velrybu?“
 
 Tak vykřikl Achab, když znovu zdravil loď s anglickou vlajkou, přejíždějící na zádi. Starý muž stál s hlásnou troubou u úst ve svém člunu zavěšeném na pravoboku a jeho noha ze slonoviny byla zplna vystavena zraku cizího kapitána, jenž nedbale odpočíval na přídi svého člunu. Byl to muž do hněda opálený, hřmotný, dobromyslný, na pohled příjemný, asi tak šedesátník, oblečený v široký, krátký svrchník z hrubého modrého sukna, který na něm volně plandal, a jeden prázdný rukáv za ním vlál jako vyšívaný rukáv husarského kabátce.

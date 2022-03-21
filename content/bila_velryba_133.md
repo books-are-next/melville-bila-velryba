@@ -3,6 +3,8 @@ title: CXXIV.MAGNETICKÁ STŘELKA
 contentType: prose
 ---
 
+  
+
 Příštího jitra se po moři dosud neuklidněném valily dlouhé, pomalé vlny ohromné velikosti, které narážely na bublavou brázdu Pequody a postrkovaly loď jako rozevřené dlaně obra. Vítr vál bez ustání a byl tak silný, že se nebe podobalo obrovským nadmutým plachtám. Celý svět plul plnými plachtami před větrem. Plný jitřní jas obestíral neviditelné slunce, jež se prozrazovalo jen prudkým vyzařováním v místě, kde hromadně vyrážely dýky jeho paprsků. Všechno bylo zaplaveno zářením jako korunovaní babylonští králové a královny. Moře se podobalo tyglíku s roztaveným zlatem, které bublavě kypí světlem a žárem.
 
 Achab stál stranou, dlouho zachovávaje očarované mlčení, a kdykoli se kymácející loď zabořila přídí do vln, obrátil se, aby viděl jasné sluneční paprsky vpředu, a když zase hluboko poklesla zádí, otočil se zpátky a viděl vzadu opět slunce, jak splývá týmiž žlutými paprsky s přímou stopou lodi.

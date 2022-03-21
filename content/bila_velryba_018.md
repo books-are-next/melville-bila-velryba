@@ -3,6 +3,8 @@ title: IX.KÁZÁNÍ
 contentType: prose
 ---
 
+  
+
 Otec Javor se vzpřímil a mírným hlasem nevtíravé autority nařídil rozptýleným věřícím, aby se srazili k sobě. „Pravobok sem, sem! Levobok doprostřed, sem, k pravoboku! Do středu lodi, doprostřed!“
 
 Ozval se tlumený zvuk těžkých námořnických bot mezi lavicemi a ještě tišší šoupání ženských botek a všechno se zas uklidnilo a všechny oči byly upřeny na kazatele.
@@ -11,30 +13,30 @@ Na chvíli se odmlčel; potom poklekl na přídi kazatelny, velké snědé ruce 
 
 Skončil táhlými, slavnostními tóny, připomínajícími neustálé vyzvánění zvonu na lodi uváznuvší v mlze na skalisku – a v takovém tónu začal číst tuto hymnu. U závěrečných slok změnil však přednes a přešel v hlahol nadšený a radostný:
 
-Já s hrůzou žebra velryby  
-nad hlavou zřel se rozklenout —  
-na vlnách sluncem zalitých,  
-jež zkázu nesly mi a soud.
+> Já s hrůzou žebra velryby  
+> nad hlavou zřel se rozklenout —  
+> na vlnách sluncem zalitých,  
+> jež zkázu nesly mi a soud.
 
-Já temný jícen pekla zřel,  
-ta věčná muka, trýzně, zlo,  
-jež zná jen, kdo je vytrpěl.  
-Oh, zoufalství mne zmáhalo!
+> Já temný jícen pekla zřel,  
+> ta věčná muka, trýzně, zlo,  
+> jež zná jen, kdo je vytrpěl.  
+> Oh, zoufalství mne zmáhalo!
 
-V bídě jsem Boha vyzýval,  
-když víra má dál nemohla —  
-a On mým nářkům sluchu přál  
-a velryba mne vyvrhla.
+> V bídě jsem Boha vyzýval,  
+> když víra má dál nemohla —  
+> a On mým nářkům sluchu přál  
+> a velryba mne vyvrhla.
 
-On pospíšil mi pomoci,  
-jak by jej delfín unášel,  
-strašnou, však bleskem planoucí  
-tvář měl Bůh Osvoboditel!
+> On pospíšil mi pomoci,  
+> jak by jej delfín unášel,  
+> strašnou, však bleskem planoucí  
+> tvář měl Bůh Osvoboditel!
 
-Má píseň navždy uchová  
-tu chvíli štěstí v zoufalství,  
-v ní zvučí, Bože, sláva Tvá,  
-Tvá moc i milosrdenství!
+> Má píseň navždy uchová  
+> tu chvíli štěstí v zoufalství,  
+> v ní zvučí, Bože, sláva Tvá,  
+> Tvá moc i milosrdenství!
 
 Téměř všichni zpívali tuto hymnu, která se vzdouvala vysoko nad skučení bouře. Potom nastala krátká přestávka; kněz pomalu obracel listy v bibli a konečně, položiv ruku na příslušnou stránku, řekl: „Milovaní námořníci, chopte se řádně prvního verše druhé kapitoly o Jonášovi – ‚Nastrojil pak byl Hospodin rybu velikou, aby pozřela Jonáše‘.
 

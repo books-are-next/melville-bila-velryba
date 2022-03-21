@@ -3,6 +3,8 @@ title: CXXXV.STÍHÁNÍ — TŘETÍ DEN
 contentType: prose
 ---
 
+  
+
 Příjemné a svěží jitro třetího dne se rozbřesklo a osamělou noční hlídku na vrcholu předního stožáru opět vystřídaly skupiny denních pozorovatelů, kteří obsadili každý stožár a snad každé ráhno.
 
 „Vidíš ji?“ volal Achab. Ale velrybu nebylo možno spatřit.
@@ -121,7 +123,7 @@ Velryba se ponořila pod tonoucí loď a chvějíc se plula podél jejího kýl
 
 Harpuna byla vržena. Zasažená velryba vyrazila vpřed a šňůra probíhala planoucí rychlostí žlábkem; – náhle se zamotala. Achab se naklonil, aby ji narovnal; narovnal ji, ale letící šňůra ho chytila kolem krku, takže bez hlesu, jako turečtí vrahové uškrtí svou oběť, byl vymrštěn ze člunu, nežli si posádka uvědomila, že zmizel. V příštím okamžiku vyletělo těžké oko na konci šňůry z prázdného bubnu, srazilo jednoho veslaře, a bičujíc moře, zmizelo v jeho hlubinách.
 
-Strnulá posádka člunu zůstala na okamžik bez hnutí. Potom se obrátili: „Loď! Velký Bože, kde je loď?“ Brzy viděli mlhavým, klamavým ovzduším její podélný rozplývavý přelud jako prchavou fatu morganu. Jenom nejvyšší části stožárů čněly z vody. Pohanští harpunáři stáli dosud na svých kdysi vysokých příčkách – přimraženi buď ohromením, nebo věrností, nebo osudem – a rozhlíželi se po obzoru ze svých klesajících stanovišť. A teď soustředné kruhy zachvátily osamělý člun s celou jeho posádkou a každé plovoucí veslo i každé kopí, a otáčejíce jimi v jediném víru kolem dokola, živými i neživými, odnesly každý i sebemenší úlomek Pequody, a nebylo vidět nic.
+Strnulá posádka člunu zůstala na okamžik bez hnutí. Potom se obrátili: „Loď! Velký Bože, kde je loď?“ Brzy viděli mlhavým, klamavým ovzduším její podélný rozplývavý přelud jako prchavou fatu morganu. Jenom nejvyšší části stožárů čněly z vody. Pohanští harpunáři stáli dosud na svých kdysi vysokých příčkách – přimraženi buď ohromením, nebo věrností, nebo osudem – a rozhlíželi se po obzoru ze svých klesajících stanovišť. A teď soustředné kruhy zachvátily osamělý člun s celou jeho posádkou a každé plovoucí veslo i každé kopí, a otáčejíce jimi v jediném víru kolem dokola, živými i neživými, odnesly každý i sebemenší úlomek _Pequody_, a nebylo vidět nic.
 
 Ale když se poslední zátopa střídavě přelévala přes potopenou hlavu indiánovu na hlavním stožáru, bylo několik palců jeho čnělky ještě vidět nad vodou a na ní dlouhý, vlající prapor, který ironickou náhodou klidně povíval nad ničivými vlnami, jichž se téměř dotýkal. V tu chvíli bylo vidět, jak se rudá paže s kladivem zvedá nazad do vzduchu, jako když chce k ponořujícímu se stožáru přibíjet vlajku pevněji a pevněji. Jestřábovi, který se předtím výsměšně snesl k vrcholku hlavního stěžně ze svého přirozeného domova mezi hvězdami, kloval do vlajky a obtěžoval tam Taštega, tomuto ptáku se nyní dostalo široké mávající křídlo náhodou mezi kladivo a dřevo, a právě v tom okamžiku potopený divoch dole ucítil lehký záchvěv a v smrtelné křeči přitiskl kladivo pevně na křídlo. A tak se nebeský pták s archandělskými výkřiky potápěl, královský zobák vztažený vzhůru, zajaté tělo celé zahalené do Achabovy vlajky; potápěl se zároveň s lodí, která se jako Satan nemínila propadnout do pekla, dokud s sebou nestrhne živou část nebe a nepokryje se jí jako přílbou.
 

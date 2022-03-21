@@ -3,6 +3,8 @@ title: VII.KAPLE
 contentType: prose
 ---
 
+  
+
 V tomto New Bedfordu stojí velrybářská kaple a jen málo zasmušilých rybářů, kteří se zakrátko mají vydat na Indický nebo Tichý oceán, sem v neděli nezajde. Já jsem k nim nepatřil.
 
 Sotva jsem se vrátil z první ranní procházky, vyšel jsem znovu právě s tímto předsevzetím. Počasí se změnilo, místo jasného, slunečného chladna byla plískanice a mlha. Zahalen do ošumělého kalmuku, razil jsem si cestu proti úporné vichřici. Vstoupiv do kaple, spatřil jsem malé rozptýlené shromáždění námořníků, manželek námořníků a vdov po námořnících. Panovalo tu tlumené ticho, rušené pouze jekem vichru. Mlčeli. Žádný věřící zřejmě nepřisedl k sousedovi, ale úmyslně opodál, jako by každý ten tichý žal byl ostrovně osamělý a nesdělitelný. Kněz dosud nepřišel a mlčenlivé ostrůvky mužů a žen seděly a vytrvale se dívaly na několik mramorových desek s černými rámy, zasazených do zdi po obou stranách kazatelny. Tři z nich zněly asi takto, ale netvrdím, že je to doslovné znění:

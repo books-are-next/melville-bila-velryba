@@ -3,9 +3,15 @@ title: CVIII.ACHAB A TESAŘ
 contentType: prose
 ---
 
+  
+
 PALUBA — PRVNÍ NOČNÍ HLÍDKA
 
+  
+
 \[Tesař stojí u svěráku a při světle dvou svítilen horlivě piluje kostěný sloupek pro nohu, pevně sevřený ve svěráku. Na stole se povaluji pláty kosti, kožené řemeny, vycpávky, šrouby a nejrozmanitější nástroje. Vpředu je vidět rudý plamen výhně u kovadliny, kde pracuje kovář.\]
+
+  
 
 Čert aby vzal ten pilník a tu kost! Co má být měkké, je tvrdé, a co má být tvrdé, je měkké. Tak to máme, když chceme pilovat staré čelisti a holenní kosti. Zkusíme jinou. Ba, teď to jde líp (kýchne). Hrome, ten prach z kostí je (kýchne) – vždyť je (kýchne) – ba, to je (kýchne) – na mou duši, nepustí mě to k slovu! To má na stará kolena člověk za to, že pracuje s mrtvým dřevem. Řežte živý strom, a nedělá se vám přitom tenhle prach; uřezávejte živou kost, a nebudete ho mít (kýchne). Dělej, dělej, ty starý Moure, hoď sebou, ať už mám ten kroužek a šroubek k přezce; hned je budu potřebovat. Ještě štěstí (kýchne), že nemusím dělat kolenní kloub. To by byla pěkná páračka! Ale obyčejnou holenní kost – to nic není, to jako bych dělal chmelové tyčky. Jen bych to rád pěkně uhladil, čas, jen čas! Kdybych jen měl čas, dovedl bych mu udělat takovou krásnou nohu (kýchne), nejkrásnější, jaká kdy jen vysekla poklonu dámě v salonu. Ty jelení a telecí nohy, které jsem viděl ve výkladních skříních, ty by se s ní nedaly ani srovnávat. Ty vlhnou, ano, a dostanou revmatismus a musí je kurýrovat (kýchne) mazáním a koupáním stejně jako živé nohy. Tak; ale než ji odříznu, musím si zavolat starého velkého Mogula a podívat se, bude-li ta délka správná – zdá se mi, že bude naopak moc krátká. Aha, to je jeho chůze, mám štěstí, jde sem – nebo je to někdo jiný, to je jisté.
 

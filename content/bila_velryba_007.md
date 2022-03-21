@@ -1,28 +1,53 @@
 ---
 title: ''
+hiddenTitle: true
 contentType: prose
 ---
 
-κήτος (řecky)  
+  
 
-CETUS (latinsky)
+κήτος (_řecky)_  
 
-WHŒL (anglosasky)
+  
 
-HVAL (dánsky)
+CETUS _(latinsky)_
 
-WALVIS (holandsky)
+  
 
-VAL (švédsky)
+WHŒL _(anglosasky)_
 
-HVALUR (islandsky)
+  
 
-WHALE (anglicky)
+HVAL _(dánsky)_
 
-BALEINE (francouzsky)
+  
 
-BALLENA (španělsky)
+WALVIS _(holandsky)_
 
-PIKÍ-NUÍ-NUÍ (fidžijsky)
+  
 
-PIKÍ-NUÍ-NUÍ (eromangosky)
+VAL _(švédsky)_
+
+  
+
+HVALUR _(islandsky)_
+
+  
+
+WHALE _(anglicky)_
+
+  
+
+BALEINE _(francouzsky)_
+
+  
+
+BALLENA _(španělsky)_
+
+  
+
+PIKÍ-NUÍ-NUÍ _(fidžijsky)_
+
+  
+
+PIKÍ-NUÍ-NUÍ _(eromangosky)_

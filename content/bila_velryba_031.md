@@ -3,6 +3,8 @@ title: XXII.VESELÉ VÁNOCE
 contentType: prose
 ---
 
+  
+
 Konečně k polednímu, když přístavní dělníci byli propuštěni a Pequod odtažena z přístaviště a když věčně starostlivá Charita připlula k lodi v jednom velrybářském člunu, aby odevzdala poslední dárek – noční čepici pro svého švagra Stubba, druhého důstojníka, a náhradní bibli pro stewarda – po tom po všem oba kapitáni, Peleg a Bildad, vyšli z kajuty. Peleg se obrátil k prvnímu důstojníkovi:
 
 „Nuže, pane Starbucku, jste si jist, že je všechno v pořádku? Kapitán Achab je připraven – právě jsem s ním mluvil – nepotřebujeme už nic z města, co? Dobře, tak tedy svolejte mužstvo. Ať se shromáždí tamhle na zádi, aby je kat spral!“
@@ -29,10 +31,10 @@ Konečně byla kotva vyzdvižena, plachty napjaty a loď se hnula. Byl krátký
 
 Vyzáblý Bildad měl jako lodivod první hlídku. A zatímco se stará loď ponořovala do zeleného moře a zaplavovala palubu pronikavou zimou, zatímco větry skučely a lanoví skřípalo, ustavičně bylo slyšet pevný hlas lodivodův:
 
-Za prudkou řekou samý sladký lán,  
-zelení svěží oděná zem.  
-Tak před Židy stál starý Kanaán,  
-oddělen valícím se Jordánem.
+> Za prudkou řekou samý sladký lán,  
+> zelení svěží oděná zem.  
+> Tak před Židy stál starý Kanaán,  
+> oddělen valícím se Jordánem.
 
 Nikdy mi tato lahodná slova nezněla lahodněji než tehdy. Byla plna naděje a pohody. Přestože byla chladná zimní noc na burácejícím Atlantiku, přestože jsem měl nohy mokré a kabát by se byl dal ždímat, přece se mi zdálo, že na mne čekají mnohé rozkošné přístavy a lučiny a palouky tak věčně zelené, že tráva vyrostlá na jaře zůstane nepošlapána a nezvadne až do pozdního léta.
 
