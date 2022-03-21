@@ -1,14 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Bílá velryba",
       "identifier": "urn:uuid:9c3c9e25-daa8-4528-8e91-4305eb8c5e8d",
       "author": "Herman Melville",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-12-07T10:50:41.658Z",
       "publisherShort": "mkp",
-      "edition": "beletrie",
-      "languageCode": "cs"
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola ",
@@ -16,16 +17,16 @@
       "h2": "",
       "h3": "",
       "h4": "",
-      "hr": "",
+      "hr": "MLP-hvezdicky ",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "",
+      "brBefore": "MLP-text-bez1radku MLP-text-bez1radku--0-12 MLP-text-bez1radku--12-0 MLP-text-bez1radku--I MLP-text-bez1radku--I---0-12 MLP-text-bez1radku--I---12-0 MLP-text-bez1radku--I---12-12 ",
       "brAfter": "",
-      "blockquote": "",
-      "figure": "",
-      "em": "",
-      "strong": "",
+      "blockquote": "MLP-verse MLP-verse--I ",
+      "figure": "MLP-obrazky ",
+      "em": "MLP-znak-kurziva-11b MLP-venovani MLP-text-uprostred--I MLP-text--I  MLP-text--I---0-12 MLP-dopis--I MLP-dopis-bez1radku--I ",
+      "strong": "MLP-tiraz-autor-a-nazev ",
       "remove": "",
       "ignore": ""
     },
@@ -33,15 +34,18 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "bila_velryba_001.md",
             "xhtml": "bila_velryba_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "devoured": false
           },
           {
             "filename": "bila_velryba_002.md",
@@ -49,26 +53,32 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false
+            "inToc": false,
+            "hiddenTitle": false,
+            "children": [],
+            "devoured": false
           },
           {
             "filename": "bila_velryba_003.md",
             "xhtml": "bila_velryba_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "devoured": false
           },
           {
             "filename": "bila_velryba_004.md",
             "xhtml": "bila_velryba_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "devoured": false
           },
           {
             "filename": "bila_velryba_005.md",
@@ -77,7 +87,10 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování",
+            "devoured": false
           },
           {
             "filename": "bila_velryba_006.md",
@@ -86,7 +99,10 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Původ jména velryby",
+            "devoured": false
           },
           {
             "filename": "bila_velryba_007.md",
@@ -95,7 +111,10 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Velryba",
+            "devoured": false
           },
           {
             "filename": "bila_velryba_008.md",
@@ -104,7 +123,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Citáty",
+            "hungry": true,
+            "devoured": false
           },
           {
             "filename": "bila_velryba_009.md",
@@ -113,7 +136,10 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "devoured": true,
+            "hungry": false
           },
           {
             "filename": "bila_velryba_010.md",
@@ -122,7 +148,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "I.Přeludy",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_011.md",
@@ -131,7 +161,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "II.Tlumok",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_012.md",
@@ -140,7 +174,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "III.Hostinec „U velryby“",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_013.md",
@@ -149,7 +187,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "IV.Přikrývka",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_014.md",
@@ -158,7 +200,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "V.Snídaně",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_015.md",
@@ -167,7 +213,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "VI.Ulice",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_016.md",
@@ -176,7 +226,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "VII.Kaple",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_017.md",
@@ -185,7 +239,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "VIII.Kazatelna",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_018.md",
@@ -194,7 +252,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "IX.Kázání",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_019.md",
@@ -203,7 +265,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "X.Důvěrný přítel",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_020.md",
@@ -212,7 +278,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XI.Noční košile",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_021.md",
@@ -221,7 +291,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XII.Životopisná",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_022.md",
@@ -230,7 +304,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XIII.Trakař",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_023.md",
@@ -239,7 +317,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XIV.Natucket",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_024.md",
@@ -248,7 +330,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XV.Škeblí polévka",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_025.md",
@@ -257,7 +343,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XVI.Loď",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_026.md",
@@ -266,7 +356,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XVII.Ramadán",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_027.md",
@@ -275,7 +369,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XVIII.Jeho značka",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_028.md",
@@ -284,7 +382,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XIX.Prorok",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_029.md",
@@ -293,7 +395,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XX.Přípravy k odplutí",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_030.md",
@@ -302,7 +408,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XXI.Cestou na loď",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_031.md",
@@ -311,7 +421,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XXII.Veselé Vánoce",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_032.md",
@@ -320,7 +434,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XXIII.Břeh na straně závětrné",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_033.md",
@@ -329,7 +447,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XXIV.Obhájce",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_034.md",
@@ -338,7 +460,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XXV.Dodatek",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_035.md",
@@ -347,7 +473,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XXVI.Rytíři a panoši",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_036.md",
@@ -356,7 +486,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XXVII.Rytíři a panoši",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_037.md",
@@ -365,7 +499,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XXVIII.Achab",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_038.md",
@@ -374,7 +512,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XXIX.Vchází Achab,k němu přistupuje Stubb",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_039.md",
@@ -383,7 +525,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XXX.Dýmka",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_040.md",
@@ -392,7 +538,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XXXI.Královna Mab",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_041.md",
@@ -401,7 +551,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XXXII.Cetologie",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_042.md",
@@ -410,7 +564,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XXXIII.Vrchní harpunář",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_043.md",
@@ -419,7 +577,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XXXIV.Stůl v kajutě",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_044.md",
@@ -428,7 +590,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XXXV.Vrchol stožáru",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_045.md",
@@ -437,7 +603,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XXXVI.Velitelská paluba",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_046.md",
@@ -446,7 +616,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XXXVII.Západ slunce",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_047.md",
@@ -455,7 +629,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XXXVIII.Soumrak",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_048.md",
@@ -464,7 +642,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XXXIX.První noční hlídkapřední koš",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_049.md",
@@ -473,7 +655,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XL.Půlnoc na přídi",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_050.md",
@@ -482,7 +668,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XLI.Moby Dick",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_051.md",
@@ -491,7 +681,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XLII.Bělost velryby",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_052.md",
@@ -500,7 +694,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XLIII.Slyš!",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_053.md",
@@ -509,7 +707,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XLIV.Mapa moře",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_054.md",
@@ -518,7 +720,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XLV.Osvědčení",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_055.md",
@@ -527,7 +733,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XLVI.Dohady",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_056.md",
@@ -536,7 +746,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XLVII.Tkadlec",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_057.md",
@@ -545,7 +759,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XLVIII.První spuštění člunů",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_058.md",
@@ -554,7 +772,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XLIX.Hyena",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_059.md",
@@ -563,7 +785,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "L.Achabův člun a posádka — Fedallah",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_060.md",
@@ -572,7 +798,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LI.Přízračný vodomet",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_061.md",
@@ -581,7 +811,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LII.Albatros",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_062.md",
@@ -590,7 +824,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LIII.Gam",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_063.md",
@@ -599,7 +837,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LIV.Příběh lodi Town-ho",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_064.md",
@@ -608,7 +850,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LV.O nestvůrných zobrazeních velryb",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_065.md",
@@ -617,7 +863,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LVI.O méně nesprávných obrazech velryb a o pravdivých zobrazeních lovu na velryby",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_066.md",
@@ -626,7 +876,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LVII.O velrybách na plátně,na zubech, na dřevě,na plechu, na kameni,na horách a ve hvězdách",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_067.md",
@@ -635,7 +889,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LVIII.Plankton",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_068.md",
@@ -644,7 +902,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LIX.Chobotnice",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_069.md",
@@ -653,7 +915,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LX.Provazec",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_070.md",
@@ -662,7 +928,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXI.Stubb zabíjí velrybu",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_071.md",
@@ -671,7 +941,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXII.Vrh harpunou",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_072.md",
@@ -680,7 +954,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXIII.Vidlice",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_073.md",
@@ -689,7 +967,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXIV.Stubbova večeře",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_074.md",
@@ -698,7 +980,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXV.Velryba jako jídlo",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_075.md",
@@ -707,7 +993,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXVI.Masakr žraloků",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_076.md",
@@ -716,7 +1006,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXVII.Rozsekávání velryby",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_077.md",
@@ -725,7 +1019,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXVIII.Pokrývka",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_078.md",
@@ -734,7 +1032,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXIX.Pohřeb",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_079.md",
@@ -743,7 +1045,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXX.Sfinga",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_080.md",
@@ -752,7 +1058,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXXI.Příběh Jeroboamův",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_081.md",
@@ -761,7 +1071,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXXII.Opičí šňůra",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_082.md",
@@ -770,7 +1084,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXXIII.Stubb a Flask zabijí grónskou velrybu a potom o ní rozmlouvají",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_083.md",
@@ -779,7 +1097,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXXIV.Hlava vorvaně — z hlediska srovnávacího",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_084.md",
@@ -788,7 +1110,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXXV.Hlava velryby grónské — z hlediska srovnávacího",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_085.md",
@@ -797,7 +1123,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXXVI.Beran",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_086.md",
@@ -806,7 +1136,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXXVII.Veliký Sud Heidelberský",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_087.md",
@@ -815,7 +1149,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXXVIII.Cisterny a okovy",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_088.md",
@@ -824,7 +1162,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXXIX.Prérie",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_089.md",
@@ -833,7 +1175,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXXX.Závitnice",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_090.md",
@@ -842,7 +1188,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXXXI.Pequod potkává Pannu",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_091.md",
@@ -851,7 +1201,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXXXII.Čest a sláva velrybářství",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_092.md",
@@ -860,7 +1214,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXXXIII.Jonáš z hlediska historického",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_093.md",
@@ -869,7 +1227,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXXXIV.Dlouhý vrh kopím",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_094.md",
@@ -878,7 +1240,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXXXV.Fontána",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_095.md",
@@ -887,7 +1253,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXXXVI.Ocas",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_096.md",
@@ -896,7 +1266,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXXXVII.Velkolepá flotila",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_097.md",
@@ -905,7 +1279,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXXXVIII.Školy a učitelé",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_098.md",
@@ -914,7 +1292,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "LXXXIX.Připoutaná ryba a volná ryba",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_099.md",
@@ -923,7 +1305,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XC.Hlavy nebo ocasy",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_100.md",
@@ -932,7 +1318,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XCI.Pequod potkává růžové poupě",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_101.md",
@@ -941,7 +1331,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XCII.Ambra",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_102.md",
@@ -950,7 +1344,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XCIII.Vyvrženec",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_103.md",
@@ -959,7 +1357,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XCIV.Stisk ruky",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_104.md",
@@ -968,7 +1370,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XCV.Talár",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_105.md",
@@ -977,7 +1383,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XCVI.Škváření",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_106.md",
@@ -986,7 +1396,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XCVII.Lampa",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_107.md",
@@ -995,7 +1409,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XCVIII.Uložení a úklid",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_108.md",
@@ -1004,7 +1422,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "XCIX.Dublon",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_109.md",
@@ -1013,7 +1435,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "C.Noha a ruka Pequod z Nantucketu se setkává se Samuelem Enderbym z Londýna",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_110.md",
@@ -1022,7 +1448,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CI.Karafa",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_111.md",
@@ -1031,7 +1461,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CII.Háj na Arsacidách",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_112.md",
@@ -1040,7 +1474,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CIII.Rozměry velrýbí kostry",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_113.md",
@@ -1049,7 +1487,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CIV.Velryba fosilní",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_114.md",
@@ -1058,7 +1500,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CV.Zmenšuje se velikost velryby?— Vyhyne?",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_115.md",
@@ -1067,7 +1513,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CVI.Achabova noha",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_116.md",
@@ -1076,7 +1526,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CVII.Tesař",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_117.md",
@@ -1085,7 +1539,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CVIII.Achab a tesař",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_118.md",
@@ -1094,7 +1552,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CIX.Achab a Starbuck v kajutě",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_119.md",
@@ -1103,7 +1565,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CX.Kvíkveg v rakvi",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_120.md",
@@ -1112,7 +1578,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXI.Tichý oceán",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_121.md",
@@ -1121,7 +1591,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXII.Kovář",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_122.md",
@@ -1130,7 +1604,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXIII.Kovárna",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_123.md",
@@ -1139,7 +1617,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXIV.Pozlacovač",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_124.md",
@@ -1148,7 +1630,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXV.Pequod potkává mládence",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_125.md",
@@ -1157,7 +1643,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXVI.Umírající velryba",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_126.md",
@@ -1166,7 +1656,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXVII.Hlídka u velryby",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_127.md",
@@ -1175,7 +1669,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXVIII.Kvadrant",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_128.md",
@@ -1184,7 +1682,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXIX.Svíčky",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_129.md",
@@ -1193,7 +1695,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXX.Paluba ke konci první noční hlídky HLÍDKY",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_130.md",
@@ -1202,7 +1708,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXXI.Půlnoc — zábradlí na přední palubě",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_131.md",
@@ -1211,7 +1721,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXXII.O půlnoci na stožáru hromy a blesky",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_132.md",
@@ -1220,7 +1734,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXXIII.Mušketa",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_133.md",
@@ -1229,7 +1747,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXXIV.Magnetická střelka",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_134.md",
@@ -1238,7 +1760,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXXV.Rychloměr a šňůra",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_135.md",
@@ -1247,7 +1773,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXXVI.Záchranná plavatka",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_136.md",
@@ -1256,7 +1786,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXXVII.Paluba",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_137.md",
@@ -1265,7 +1799,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXXVIII.Pequod potkává Ráchel",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_138.md",
@@ -1274,7 +1812,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXXIX.Kajuta",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_139.md",
@@ -1283,7 +1825,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXXX.Klobouk",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_140.md",
@@ -1292,7 +1838,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXXXI.Pequod potává Rozkoš",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_141.md",
@@ -1301,7 +1851,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXXXII.Symfonie",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_142.md",
@@ -1310,7 +1864,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXXXIII.Stíhání — první den",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_143.md",
@@ -1319,7 +1877,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXXXIV.Stíhání — druhý den ",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_144.md",
@@ -1328,7 +1890,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "CXXXV.Stíhání — třetí den",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_145.md",
@@ -1337,20 +1903,29 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Epilog",
+            "devoured": false,
+            "hungry": true
           },
           {
             "filename": "bila_velryba_146.md",
             "xhtml": "bila_velryba_146.xhtml",
             "id": 145,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "devoured": false,
+            "hungry": true
           }
-        ]
+        ],
+        "devoured": false
       }
-    ]
+    ],
+    "replacements": []
   },
   "epub": {
     "metadata": {
@@ -1358,10 +1933,7 @@
       "identifier": "urn:uuid:9c3c9e25-daa8-4528-8e91-4305eb8c5e8d",
       "author": "Herman Melville",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-07T10:50:41.658Z",
-      "publisherShort": "mkp",
-      "edition": "beletrie",
-      "languageCode": "cs"
+      "modified": "2018-11-13T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -1395,7 +1967,7 @@
         "xhtml": "bila_velryba_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "PŮVOD JMÉNA VELRYBY",
         "subtitleSuggest": "",
         "filename": "bila_velryba_006.md",
         "xhtml": "bila_velryba_006.xhtml"
@@ -1407,7 +1979,7 @@
         "xhtml": "bila_velryba_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CITÁTY",
         "subtitleSuggest": "",
         "filename": "bila_velryba_008.md",
         "xhtml": "bila_velryba_008.xhtml"
@@ -1419,817 +1991,817 @@
         "xhtml": "bila_velryba_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "I.PŘELUDY",
         "subtitleSuggest": "",
         "filename": "bila_velryba_010.md",
         "xhtml": "bila_velryba_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "II.TLUMOK",
         "subtitleSuggest": "",
         "filename": "bila_velryba_011.md",
         "xhtml": "bila_velryba_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "III.HOSTINEC „U VELRYBY“",
         "subtitleSuggest": "",
         "filename": "bila_velryba_012.md",
         "xhtml": "bila_velryba_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IV.PŘIKRÝVKA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_013.md",
         "xhtml": "bila_velryba_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V.SNÍDANĚ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_014.md",
         "xhtml": "bila_velryba_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VI.ULICE",
         "subtitleSuggest": "",
         "filename": "bila_velryba_015.md",
         "xhtml": "bila_velryba_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VII.KAPLE",
         "subtitleSuggest": "",
         "filename": "bila_velryba_016.md",
         "xhtml": "bila_velryba_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VIII.KAZATELNA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_017.md",
         "xhtml": "bila_velryba_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IX.KÁZÁNÍ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_018.md",
         "xhtml": "bila_velryba_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "X.DŮVĚRNÝ PŘÍTEL",
         "subtitleSuggest": "",
         "filename": "bila_velryba_019.md",
         "xhtml": "bila_velryba_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XI.NOČNÍ KOŠILE",
         "subtitleSuggest": "",
         "filename": "bila_velryba_020.md",
         "xhtml": "bila_velryba_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XII.ŽIVOTOPISNÁ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_021.md",
         "xhtml": "bila_velryba_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIII.TRAKAŘ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_022.md",
         "xhtml": "bila_velryba_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIV.NANTUCKET",
         "subtitleSuggest": "",
         "filename": "bila_velryba_023.md",
         "xhtml": "bila_velryba_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XV.ŠKEBLÍ POLÉVKA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_024.md",
         "xhtml": "bila_velryba_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVI.LOĎ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_025.md",
         "xhtml": "bila_velryba_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVII.RAMADÁN",
         "subtitleSuggest": "",
         "filename": "bila_velryba_026.md",
         "xhtml": "bila_velryba_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVIII.JEHO ZNAČKA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_027.md",
         "xhtml": "bila_velryba_027.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIX.PROROK",
         "subtitleSuggest": "",
         "filename": "bila_velryba_028.md",
         "xhtml": "bila_velryba_028.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XX.PŘÍPRAVY K ODPLUTÍ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_029.md",
         "xhtml": "bila_velryba_029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXI.CESTOU NA LOĎ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_030.md",
         "xhtml": "bila_velryba_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXII.VESELÉ VÁNOCE",
         "subtitleSuggest": "",
         "filename": "bila_velryba_031.md",
         "xhtml": "bila_velryba_031.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXIII.BŘEH NA STRANĚ ZÁVĚTRNÉ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_032.md",
         "xhtml": "bila_velryba_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXIV.OBHÁJCE",
         "subtitleSuggest": "",
         "filename": "bila_velryba_033.md",
         "xhtml": "bila_velryba_033.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXV.DODATEK",
         "subtitleSuggest": "",
         "filename": "bila_velryba_034.md",
         "xhtml": "bila_velryba_034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXVI.RYTÍŘI A PANOŠI",
         "subtitleSuggest": "",
         "filename": "bila_velryba_035.md",
         "xhtml": "bila_velryba_035.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXVII.RYTÍŘI A PANOŠI",
         "subtitleSuggest": "",
         "filename": "bila_velryba_036.md",
         "xhtml": "bila_velryba_036.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXVIII.ACHAB",
         "subtitleSuggest": "",
         "filename": "bila_velryba_037.md",
         "xhtml": "bila_velryba_037.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXIX.VCHÁZÍ ACHAB,K NĚMU PŘISTUPUJE STUBB",
         "subtitleSuggest": "",
         "filename": "bila_velryba_038.md",
         "xhtml": "bila_velryba_038.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXX.DÝMKA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_039.md",
         "xhtml": "bila_velryba_039.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXXI.KRÁLOVNA MAB",
         "subtitleSuggest": "",
         "filename": "bila_velryba_040.md",
         "xhtml": "bila_velryba_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXXII.CETOLOGIE",
         "subtitleSuggest": "",
         "filename": "bila_velryba_041.md",
         "xhtml": "bila_velryba_041.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXXIII.VRCHNÍ HARPUNÁŘ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_042.md",
         "xhtml": "bila_velryba_042.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXXIV.STŮL V KAJUTĚ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_043.md",
         "xhtml": "bila_velryba_043.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXXV.VRCHOL STOŽÁRU",
         "subtitleSuggest": "",
         "filename": "bila_velryba_044.md",
         "xhtml": "bila_velryba_044.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXXVI.VELITELSKÁ PALUBA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_045.md",
         "xhtml": "bila_velryba_045.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXXVII.ZÁPAD SLUNCE",
         "subtitleSuggest": "",
         "filename": "bila_velryba_046.md",
         "xhtml": "bila_velryba_046.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXXVIII.SOUMRAK",
         "subtitleSuggest": "",
         "filename": "bila_velryba_047.md",
         "xhtml": "bila_velryba_047.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXXIX.PRVNÍ NOČNÍ HLÍDKAPŘEDNÍ KOŠ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_048.md",
         "xhtml": "bila_velryba_048.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XL.PŮLNOC NA PŘÍDI",
         "subtitleSuggest": "",
         "filename": "bila_velryba_049.md",
         "xhtml": "bila_velryba_049.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XLI.MOBY DICK",
         "subtitleSuggest": "",
         "filename": "bila_velryba_050.md",
         "xhtml": "bila_velryba_050.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XLII.BĚLOST VELRYBY",
         "subtitleSuggest": "",
         "filename": "bila_velryba_051.md",
         "xhtml": "bila_velryba_051.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XLIII.SLYŠ!",
         "subtitleSuggest": "",
         "filename": "bila_velryba_052.md",
         "xhtml": "bila_velryba_052.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XLIV.MAPA MOŘE",
         "subtitleSuggest": "",
         "filename": "bila_velryba_053.md",
         "xhtml": "bila_velryba_053.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XLV.OSVĚDČENÍ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_054.md",
         "xhtml": "bila_velryba_054.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XLVI.DOHADY",
         "subtitleSuggest": "",
         "filename": "bila_velryba_055.md",
         "xhtml": "bila_velryba_055.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XLVII.TKADLEC",
         "subtitleSuggest": "",
         "filename": "bila_velryba_056.md",
         "xhtml": "bila_velryba_056.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XLVIII.PRVNÍ SPUŠTĚNÍ ČLUNŮ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_057.md",
         "xhtml": "bila_velryba_057.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XLIX.HYENA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_058.md",
         "xhtml": "bila_velryba_058.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "L.ACHABŮV ČLUN A POSÁDKA — FEDALLAH",
         "subtitleSuggest": "",
         "filename": "bila_velryba_059.md",
         "xhtml": "bila_velryba_059.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LI.PŘÍZRAČNÝ VODOMET",
         "subtitleSuggest": "",
         "filename": "bila_velryba_060.md",
         "xhtml": "bila_velryba_060.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LII.ALBATROS",
         "subtitleSuggest": "",
         "filename": "bila_velryba_061.md",
         "xhtml": "bila_velryba_061.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LIII.GAM",
         "subtitleSuggest": "",
         "filename": "bila_velryba_062.md",
         "xhtml": "bila_velryba_062.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LIV.PŘÍBĚH LODI TOWN-HO",
         "subtitleSuggest": "",
         "filename": "bila_velryba_063.md",
         "xhtml": "bila_velryba_063.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LV.O NESTVŮRNÝCH ZOBRAZENÍCH VELRYB",
         "subtitleSuggest": "",
         "filename": "bila_velryba_064.md",
         "xhtml": "bila_velryba_064.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LVI.O MÉNĚ NESPRÁVNÝCH OBRAZECH VELRYB A O PRAVDIVÝCH ZOBRAZENÍCH LOVU NA VELRYBY",
         "subtitleSuggest": "",
         "filename": "bila_velryba_065.md",
         "xhtml": "bila_velryba_065.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LVII.O VELRYBÁCH NA PLÁTNĚ,NA ZUBECH, NA DŘEVĚ,NA PLECHU, NA KAMENI,NA HORÁCH A VE HVĚZDÁCH",
         "subtitleSuggest": "",
         "filename": "bila_velryba_066.md",
         "xhtml": "bila_velryba_066.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LVIII.PLANKTON",
         "subtitleSuggest": "",
         "filename": "bila_velryba_067.md",
         "xhtml": "bila_velryba_067.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LIX.CHOBOTNICE",
         "subtitleSuggest": "",
         "filename": "bila_velryba_068.md",
         "xhtml": "bila_velryba_068.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LX.PROVAZEC",
         "subtitleSuggest": "",
         "filename": "bila_velryba_069.md",
         "xhtml": "bila_velryba_069.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXI.STUBB ZABÍJÍ VELRYBU",
         "subtitleSuggest": "",
         "filename": "bila_velryba_070.md",
         "xhtml": "bila_velryba_070.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXII.VRH HARPUNOU",
         "subtitleSuggest": "",
         "filename": "bila_velryba_071.md",
         "xhtml": "bila_velryba_071.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXIII.VIDLICE",
         "subtitleSuggest": "",
         "filename": "bila_velryba_072.md",
         "xhtml": "bila_velryba_072.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXIV.STUBBOVA VEČEŘE",
         "subtitleSuggest": "",
         "filename": "bila_velryba_073.md",
         "xhtml": "bila_velryba_073.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXV.VELRYBA JAKO JÍDLO",
         "subtitleSuggest": "",
         "filename": "bila_velryba_074.md",
         "xhtml": "bila_velryba_074.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXVI.MASAKR ŽRALOKŮ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_075.md",
         "xhtml": "bila_velryba_075.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXVII.ROZSEKÁVÁNÍ VELRYBY",
         "subtitleSuggest": "",
         "filename": "bila_velryba_076.md",
         "xhtml": "bila_velryba_076.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXVIII.POKRÝVKA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_077.md",
         "xhtml": "bila_velryba_077.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXIX.POHŘEB",
         "subtitleSuggest": "",
         "filename": "bila_velryba_078.md",
         "xhtml": "bila_velryba_078.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXX.SFINGA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_079.md",
         "xhtml": "bila_velryba_079.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXXI.PŘÍBĚH JEROBOAMŮV",
         "subtitleSuggest": "",
         "filename": "bila_velryba_080.md",
         "xhtml": "bila_velryba_080.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXXII.OPIČÍ ŠŇŮRA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_081.md",
         "xhtml": "bila_velryba_081.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXXIII.STUBB A FLASKZABIJÍ GRÓNSKOU VELRYBU A POTOM O NÍ ROZMLOUVAJÍ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_082.md",
         "xhtml": "bila_velryba_082.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXXIV.HLAVA VORVANĚ — Z HLEDISKA SROVNÁVACÍHO",
         "subtitleSuggest": "",
         "filename": "bila_velryba_083.md",
         "xhtml": "bila_velryba_083.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXXV.HLAVA VELRYBY GRÓNSKÉ —Z HLEDISKA SROVNÁVACÍHO",
         "subtitleSuggest": "",
         "filename": "bila_velryba_084.md",
         "xhtml": "bila_velryba_084.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXXVI.BERAN",
         "subtitleSuggest": "",
         "filename": "bila_velryba_085.md",
         "xhtml": "bila_velryba_085.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXXVII.VELIKÝ SUD HEIDELBERSKÝ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_086.md",
         "xhtml": "bila_velryba_086.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXXVIII.CISTERNY A OKOVY",
         "subtitleSuggest": "",
         "filename": "bila_velryba_087.md",
         "xhtml": "bila_velryba_087.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXXIX.PRÉRIE",
         "subtitleSuggest": "",
         "filename": "bila_velryba_088.md",
         "xhtml": "bila_velryba_088.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXXX.ZÁVITNICE",
         "subtitleSuggest": "",
         "filename": "bila_velryba_089.md",
         "xhtml": "bila_velryba_089.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXXXI.PEQUOD POTKÁVÁ PANNU",
         "subtitleSuggest": "",
         "filename": "bila_velryba_090.md",
         "xhtml": "bila_velryba_090.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXXXII.ČEST A SLÁVA VELRYBÁŘSTVÍ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_091.md",
         "xhtml": "bila_velryba_091.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXXXIII.JONÁŠ Z HLEDISKA HISTORICKÉHO",
         "subtitleSuggest": "",
         "filename": "bila_velryba_092.md",
         "xhtml": "bila_velryba_092.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXXXIV.DLOUHÝ VRH KOPÍM",
         "subtitleSuggest": "",
         "filename": "bila_velryba_093.md",
         "xhtml": "bila_velryba_093.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXXXV.FONTÁNA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_094.md",
         "xhtml": "bila_velryba_094.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXXXVI.OCAS",
         "subtitleSuggest": "",
         "filename": "bila_velryba_095.md",
         "xhtml": "bila_velryba_095.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXXXVII.VELKOLEPÁ FLOTILA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_096.md",
         "xhtml": "bila_velryba_096.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXXXVIII.ŠKOLY A UČITELÉ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_097.md",
         "xhtml": "bila_velryba_097.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "LXXXIX.PŘIPOUTANÁ RYBA A VOLNÁ RYBA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_098.md",
         "xhtml": "bila_velryba_098.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XC.HLAVY NEBO OCASY",
         "subtitleSuggest": "",
         "filename": "bila_velryba_099.md",
         "xhtml": "bila_velryba_099.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XCI.PEQUOD POTKÁVÁ RŮŽOVÉ POUPĚ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_100.md",
         "xhtml": "bila_velryba_100.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XCII.AMBRA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_101.md",
         "xhtml": "bila_velryba_101.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XCIII.VYVRŽENEC",
         "subtitleSuggest": "",
         "filename": "bila_velryba_102.md",
         "xhtml": "bila_velryba_102.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XCIV.STISK RUKY",
         "subtitleSuggest": "",
         "filename": "bila_velryba_103.md",
         "xhtml": "bila_velryba_103.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XCV.TALÁR",
         "subtitleSuggest": "",
         "filename": "bila_velryba_104.md",
         "xhtml": "bila_velryba_104.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XCVI.ŠKVAŘENÍ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_105.md",
         "xhtml": "bila_velryba_105.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XCVII.LAMPA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_106.md",
         "xhtml": "bila_velryba_106.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XCVIII.ULOŽENÍ A ÚKLID",
         "subtitleSuggest": "",
         "filename": "bila_velryba_107.md",
         "xhtml": "bila_velryba_107.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XCIX.DUBLON",
         "subtitleSuggest": "",
         "filename": "bila_velryba_108.md",
         "xhtml": "bila_velryba_108.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "C.NOHA A RUKAPEQUOD Z NANTUCKETU SE SETKÁVÁ SE SAMUELEM ENDERBYM Z LONDÝNA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_109.md",
         "xhtml": "bila_velryba_109.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Cl.KARAFA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_110.md",
         "xhtml": "bila_velryba_110.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CII.HÁJ NA ARSACIDÁCH",
         "subtitleSuggest": "",
         "filename": "bila_velryba_111.md",
         "xhtml": "bila_velryba_111.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CIII.ROZMĚRY VELRYBÍ KOSTRY",
         "subtitleSuggest": "",
         "filename": "bila_velryba_112.md",
         "xhtml": "bila_velryba_112.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CIV.VELRYBA FOSILNÍ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_113.md",
         "xhtml": "bila_velryba_113.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CV.ZMENŠUJE SE VELIKOST VELRYBY?— VYHYNE?",
         "subtitleSuggest": "",
         "filename": "bila_velryba_114.md",
         "xhtml": "bila_velryba_114.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CVI.ACHABOVA NOHA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_115.md",
         "xhtml": "bila_velryba_115.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CVII.TESAŘ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_116.md",
         "xhtml": "bila_velryba_116.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CVIII.ACHAB A TESAŘ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_117.md",
         "xhtml": "bila_velryba_117.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CIX.ACHAB A STARBUCK V KAJUTĚ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_118.md",
         "xhtml": "bila_velryba_118.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CX.KVÍKVEG V RAKVI",
         "subtitleSuggest": "",
         "filename": "bila_velryba_119.md",
         "xhtml": "bila_velryba_119.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXI.TICHÝ OCEÁN",
         "subtitleSuggest": "",
         "filename": "bila_velryba_120.md",
         "xhtml": "bila_velryba_120.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXII.KOVÁŘ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_121.md",
         "xhtml": "bila_velryba_121.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXIII.KOVÁRNA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_122.md",
         "xhtml": "bila_velryba_122.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXIV.POZLACOVAČ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_123.md",
         "xhtml": "bila_velryba_123.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXV.PEQUOD POTKÁVÁ MLÁDENCE",
         "subtitleSuggest": "",
         "filename": "bila_velryba_124.md",
         "xhtml": "bila_velryba_124.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXVI.UMÍRAJÍCÍ VELRYBA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_125.md",
         "xhtml": "bila_velryba_125.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXVII.HLÍDKA U VELRYBY",
         "subtitleSuggest": "",
         "filename": "bila_velryba_126.md",
         "xhtml": "bila_velryba_126.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXVIII.KVADRANT",
         "subtitleSuggest": "",
         "filename": "bila_velryba_127.md",
         "xhtml": "bila_velryba_127.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXIX.SVÍČKY",
         "subtitleSuggest": "",
         "filename": "bila_velryba_128.md",
         "xhtml": "bila_velryba_128.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXX.PALUBA KE KONCIPRVNÍ NOČNÍ HLÍDKY",
         "subtitleSuggest": "",
         "filename": "bila_velryba_129.md",
         "xhtml": "bila_velryba_129.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXXI.PŮLNOC — ZÁBRADLÍNA PŘEDNÍ PALUBĚ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_130.md",
         "xhtml": "bila_velryba_130.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXXII.O PŮLNOCI NA STOŽÁRUHROMY A BLESKY",
         "subtitleSuggest": "",
         "filename": "bila_velryba_131.md",
         "xhtml": "bila_velryba_131.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXXIII.MUŠKETA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_132.md",
         "xhtml": "bila_velryba_132.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXXIV.MAGNETICKÁ STŘELKA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_133.md",
         "xhtml": "bila_velryba_133.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXXV.RYCHLOMĚR A ŠŇŮRA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_134.md",
         "xhtml": "bila_velryba_134.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXXVI.ZÁCHRANNÁ PLAVATKA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_135.md",
         "xhtml": "bila_velryba_135.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXXVII.PALUBA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_136.md",
         "xhtml": "bila_velryba_136.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXXVIII.PEQUOD POTKÁVÁ RÁCHEL",
         "subtitleSuggest": "",
         "filename": "bila_velryba_137.md",
         "xhtml": "bila_velryba_137.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXXIX.KAJUTA",
         "subtitleSuggest": "",
         "filename": "bila_velryba_138.md",
         "xhtml": "bila_velryba_138.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXXX.KLOBOUK",
         "subtitleSuggest": "",
         "filename": "bila_velryba_139.md",
         "xhtml": "bila_velryba_139.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXXXI.PEQUOD POTKÁVÁ ROZKOŠ",
         "subtitleSuggest": "",
         "filename": "bila_velryba_140.md",
         "xhtml": "bila_velryba_140.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXXXII.SYMFONIE",
         "subtitleSuggest": "",
         "filename": "bila_velryba_141.md",
         "xhtml": "bila_velryba_141.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXXXIII.STÍHÁNÍ — PRVNÍ DEN",
         "subtitleSuggest": "",
         "filename": "bila_velryba_142.md",
         "xhtml": "bila_velryba_142.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXXXIV.STÍHÁNÍ — DRUHÝ DEN",
         "subtitleSuggest": "",
         "filename": "bila_velryba_143.md",
         "xhtml": "bila_velryba_143.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CXXXV.STÍHÁNÍ — TŘETÍ DEN",
         "subtitleSuggest": "",
         "filename": "bila_velryba_144.md",
         "xhtml": "bila_velryba_144.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "EPILOG",
         "subtitleSuggest": "",
         "filename": "bila_velryba_145.md",
         "xhtml": "bila_velryba_145.xhtml"
@@ -2344,6 +2916,6 @@
       "user": "books-are-next",
       "repo": "melville-bila-velryba"
     },
-    "generatedAt": 1638874242846
+    "generatedAt": 1647894414402
   }
 }
