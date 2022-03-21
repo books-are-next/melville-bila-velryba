@@ -1,5 +1,6 @@
 ---
 title: XII.ŽIVOTOPISNÁ
+contentType: prose
 ---
 
 Kvíkveg se narodil na ostrově Rokovoko, daleko na jihozápadě. Na žádné mapě není vyznačen; správná místa nikdy nebývají.

@@ -1,5 +1,6 @@
 ---
 title: CVI.ACHABOVA NOHA
+contentType: prose
 ---
 
 Ukvapenost, s jakou kapitán Achab opustil Samuela Enderbyho z Londýna, přivodila jemu samému malý úraz. Achab se spustil tak energicky na jedno sedadlo v člunu, že se mu noha ze slonoviny napolo rozštípla. A když se potom octl na palubě u své točné díry, obrátil se s naléhavým rozkazem tak prudce ke kormidelníkovi (bylo to jako obyčejně něco o tom, že neřídí loď dost rovně), že prasklá již kost se poznovu stočila a zkroutila; zůstávala sice ještě celá a na pohled pevná, ale Achabovi se už nezdála zcela spolehlivá.

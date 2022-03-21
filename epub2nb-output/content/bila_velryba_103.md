@@ -1,5 +1,6 @@
 ---
 title: XCIV.STISK RUKY
+contentType: prose
 ---
 
 Onu Stubbovu velrybu, tak draze vykoupenou, jsme řádně přitáhli k boku Pequody, kde námořníci pravidelně vykonávali všechny práce již dříve popsané, od sloupání tuku a vytažení hlavy až po stáčení heidelberského sudu nebo nádrže.

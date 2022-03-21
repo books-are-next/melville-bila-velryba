@@ -1,5 +1,6 @@
 ---
 title: CXXIII.MUŠKETA
+contentType: prose
 ---
 
 Kormidelník, řídící Pequodu držadlem z velrybí čelisti, byl jeho křečovitými pohyby za nejprudších nárazů tajfunu mnohokrát vržen na palubu, ačkoli bylo zajištěno výpomocnými lany – ale ta byla málo napjatá – poněvadž držadlo potřebovalo trochu volnosti k pohybu.

@@ -1,5 +1,6 @@
 ---
 title: XC.HLAVY NEBO OCASY
+contentType: prose
 ---
 
 „De balena vero sufficit, si rex habeat caput, et regina caudam.“

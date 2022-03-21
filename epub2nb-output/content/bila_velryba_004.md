@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Znění tohoto textu vychází z díla [Bílá velryba](https://search.mlp.cz/cz/titul/bila-velryba/126203/) tak, jak bylo vydáno v Praze nakladatelstvím Odeon v roce 1968. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.

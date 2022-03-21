@@ -1,5 +1,6 @@
 ---
 title: LXII.VRH HARPUNOU
+contentType: prose
 ---
 
 Malé vysvětlení o události líčené v minulé kapitole.

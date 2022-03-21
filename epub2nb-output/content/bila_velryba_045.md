@@ -1,5 +1,6 @@
 ---
 title: XXXVI.VELITELSKÁ PALUBA
+contentType: prose
 ---
 
 \[Vstoupí Achab, potom všichni.\]

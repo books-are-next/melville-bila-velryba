@@ -1,5 +1,6 @@
 ---
 title: XCI.PEQUOD POTKÁVÁ RŮŽOVÉ POUPĚ
+contentType: prose
 ---
 
 „Marně jsme prohrabávali žaludek tohoto leviatana, hledajíce ambru. Nesnesitelný zápach znemožnil hledání.“

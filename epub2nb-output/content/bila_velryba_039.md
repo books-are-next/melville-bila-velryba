@@ -1,5 +1,6 @@
 ---
 title: XXX.DÝMKA
+contentType: prose
 ---
 
 Když Stubb odešel, Achab chvíli stál, nahýbaje se přes zábradlí, a potom, jak si zvykl v poslední době, zavolal námořníka, který měl hlídku, a poslal ho dolů pro svou kostěnou stoličku a také pro dýmku. Zapálil si dýmku u kompasnicové lampy, a postaviv si stoličku na návětrné straně paluby, seděl a kouřil.

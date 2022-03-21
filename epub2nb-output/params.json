@@ -1358,7 +1358,7 @@
       "identifier": "urn:uuid:9c3c9e25-daa8-4528-8e91-4305eb8c5e8d",
       "author": "Herman Melville",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-07T13:47:50.248Z"
+      "modified": "2018-11-13T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -2341,6 +2341,6 @@
       "user": "books-are-next",
       "repo": "melville-bila-velryba"
     },
-    "generatedAt": 1638884871492
+    "generatedAt": 1647894414402
   }
 }

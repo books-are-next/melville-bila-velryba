@@ -1,5 +1,6 @@
 ---
 title: XXXV.VRCHOL STOŽÁRU
+contentType: prose
 ---
 
 Bylo už příjemnější počasí, když na mne došlo v povinném střídání s ostatními námořníky, abych konal hlídku na vrcholu stožáru.

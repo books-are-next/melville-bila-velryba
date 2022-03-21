@@ -1,5 +1,6 @@
 ---
 title: LXXX.ZÁVITNICE
+contentType: prose
 ---
 
 Je-li vorvaň z hlediska fyziognomického sfingou, tedy se jeho mozek zdá frenologovi takovým problémem jako neuskutečnitelná kvadratura kruhu.

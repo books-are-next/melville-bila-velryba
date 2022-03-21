@@ -1,5 +1,6 @@
 ---
 title: CX.KVÍKVEG V RAKVI
+contentType: prose
 ---
 
 Při prohlídce shledali, že sudy naposled uložené do skladiště jsou zcela neporušené a že trhlina je tedy někde dál. Počasí bylo klidné, a proto pronikali hlouběji a hlouběji, rušili spánek ohromných spodních vrstev a z půlnočního temna vytahovali na denní světlo obrovské krtky. Šlo se tak hluboko a nejspodnější sudy byly na pohled tak starobylé, zrezavělé a nevzhledné, že jste každou chvíli čekali, brzo-li se objeví jako základní kámen nějaká plesnivá truhla s mincemi kapitána Noema a s výtisky plakátů, marně varujících zaslepený starý svět před potopou. Káď za kádí byla vytahována, s vodou, chlebem a hovězím masem, i svazky dužin a železných obručí, až konečně byla paluba tak zaplněna, že se po ní dalo sotva chodit; vyprázdněný lodní trup duněl pod nohama ozvěnou, jako byste kráčeli nad prázdnými katakombami, a pohyboval se a válel v moři jako demižon naplněný vzduchem. Loď byla nahoře přetížena, jako když student s prázdným žaludkem nosí v hlavě celého Aristotela. Štěstí bylo, že nás v těch dnech nenavštívily žádné tajfuny.

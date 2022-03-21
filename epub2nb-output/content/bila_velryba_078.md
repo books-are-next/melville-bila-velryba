@@ -1,5 +1,6 @@
 ---
 title: LXIX.POHŘEB
+contentType: prose
 ---
 
 Vytáhněte řetězy! Pusťte mrchu na záď!“

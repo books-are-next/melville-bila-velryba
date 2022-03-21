@@ -1,5 +1,6 @@
 ---
 title: XXIV.OBHÁJCE
+contentType: prose
 ---
 
 Když jsme se tedy s Kvíkvegem doopravdy pustili do toho velrybářského podnikání, a poněvadž velrybářství je u lidí na pevnině považováno za zaměstnání nepoetické a nepočestné, chtěl bych vás, suchozemci, přesvědčit, jak jste nespravedliví k nám, lovcům velryb.

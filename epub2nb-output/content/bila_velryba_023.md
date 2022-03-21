@@ -1,5 +1,6 @@
 ---
 title: XIV.NANTUCKET
+contentType: prose
 ---
 
 Cestou se už nepřihodilo nic, co by stálo za zmínku, a po pěkné plavbě jsme tedy bezpečně přistáli v Nantucketu.

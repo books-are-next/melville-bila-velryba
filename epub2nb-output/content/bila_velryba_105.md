@@ -1,5 +1,6 @@
 ---
 title: XCVI.ŠKVAŘENÍ
+contentType: prose
 ---
 
 Kromě zavěšených člunů je americká velrybářská loď nápadná zvenčí svými kotli. Loď je podivnou odchylkou od pravidla, poněvadž teprve tehdy je zcela vybavena, když ve spojení s dílem tesařským a provaznickým je hotova také důkladná práce zednická. Vypadá to, jako by na palubu byla přenesena cihlářská pec z širého pole.

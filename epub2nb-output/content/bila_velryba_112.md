@@ -1,5 +1,6 @@
 ---
 title: CIII.ROZMĚRY VELRYBÍ KOSTRY
+contentType: prose
 ---
 
 Předně vám chci podat přehlednou a srozumitelnou zprávu o živé váze a velikosti leviatana, jehož kostrou se máme brzo zabývat. Takové údaje tady mohou být užitečné.

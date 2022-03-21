@@ -1,5 +1,6 @@
 ---
 title: CXIV.POZLACOVAČ
+contentType: prose
 ---
 
 Pronikajíc hlouběji a hlouběji do středu japonského loviště, byla Pequod plně zaujata rybařením. Za klidného, příjemného počasí bývali lovci často zaměstnáni v člunech nepřetržitě po dvanáct, patnáct, osmnáct až dvacet hodin: vytrvale veslovali, plachtili nebo pádlovali za velrybami nebo v přestávce šedesáti až sedmdesáti minut klidně čekali, až se vynoří. Jejich námaha však neměla valný výsledek.

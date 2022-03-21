@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 TATO KNIHA JE PŘIPSÁNA  

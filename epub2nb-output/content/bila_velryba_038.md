@@ -1,5 +1,6 @@
 ---
 title: XXIX.VCHÁZÍ ACHAB,K NĚMU PŘISTUPUJE STUBB
+contentType: prose
 ---
 
 Uplynulo několik dní, Pequod měla ledy a ledovce za sebou a brázdila teď vody v zářivém jihoamerickém jaru, které na moři panuje téměř neustále na prahu věčného srpna v tropech. Teple svěží dni, jasné, zvonivé, vonné, překypující a štědré dni byly jako křišťálové poháry, naplňované perským šerbetem až přes okraj, vypíjené do dna, se sněhem z růžové vody. Noci plné hvězd a nádhery vypadaly jako hrdé dámy v sametu, posázeném šperky, obírající se doma v pyšném osamění vzpomínkami na nepřítomné dobyvačné rytíře, slunce se zlatými helmicemi! Měl-li člověk spát, bylo nesnadno volit mezi takovými rozkošnými dny a svůdnými nocemi. Ale všechna čarovnost tohoto nepomíjejícího počasí nejen obdarovala vnější svět novými kouzly a novými silami – působila také niterně na duši, zvláště když nastaly tiché, lahodné hodiny večerní. Tehdy paměť vytvářela své krystaly, jako se průzračný led tvoří většinou za tichého soumraku. A všechny tyto jemné vlivy působily víc a víc na Achabovu mysl.

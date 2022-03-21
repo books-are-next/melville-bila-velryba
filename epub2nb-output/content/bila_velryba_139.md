@@ -1,5 +1,6 @@
 ---
 title: CXXX.KLOBOUK
+contentType: prose
 ---
 
 A nyní, když po tak dlouhém a rozsáhlém předběžném pátrání – při němž loď projela všemi ostatními lovišti – Achab patrně v pravý čas a na pravém místě zahnal svého nepřítele do kouta, aby jej tam tím bezpečněji zabil; nyní, když se octl skoro na téže šířce a délce, kde utržil svou mučivou ránu; nyní, když mluvil s lodí, která se právě předešlého dne opravdu setkala s Moby Dickem; – a když všechna jeho dosavadní setkání s různými loďmi velmi výrazně dosvědčovala, s jakou ďábelskou lhostejností trhá bílá velryba své pronásledovatele, ať už se prohřešili proti ní nebo ona proti nim; nyní bylo lze spatřit v očích starého muže cosi, co slabé duše sotva snesly. Jako nezapadající Polárka, která se po dlouhou arktickou šestiměsíční noc dívá pronikavým, stálým a soustředěným pohledem, tak pevně nyní zářil Achabův záměr na neustálou půlnoc jeho zachmuřené posádky. Ovládal je tak, že všechny jejich předtuchy, pochyby, zoufalství, strachy byly by se rády skryly pod jejich duše, aby nevyrazily ani jedinou jehličku nebo lístek.

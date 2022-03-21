@@ -1,5 +1,6 @@
 ---
 title: "CXXI.PŮLNOC\_— ZÁBRADLÍNA PŘEDNÍ PALUBĚ"
+contentType: prose
 ---
 
 \[Stubb a Flask sedí na zábradlí a připoutávají zavěšené tam kotvy dalšími lany.\]

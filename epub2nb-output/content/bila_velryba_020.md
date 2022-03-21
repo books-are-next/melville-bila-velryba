@@ -1,5 +1,6 @@
 ---
 title: XI.NOČNÍ KOŠILE
+contentType: prose
 ---
 
 Leželi jsme takto v posteli, chvílemi hovoříce, chvílemi dřímajíce, a Kvíkveg občas láskyplně přehodil své snědé tetované nohy přes moje a potom je zas odtáhl; dokonalá družnost, pohoda i pohova. Konečně naše povídání zapudilo poslední zbytky dřímoty a my si připadali už vyspalí, třebas bylo do úsvitu ještě daleko.

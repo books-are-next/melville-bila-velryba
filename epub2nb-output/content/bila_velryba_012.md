@@ -1,5 +1,6 @@
 ---
 title: "III.HOSTINEC „U\_VELRYBY“"
+contentType: prose
 ---
 
 Když člověk vešel do onoho štítnatého hostince „U velryby“, octl se v široké, nízké, rozlehlé předsíni se starosvětským pažením, které připomínalo zábradlí nad horní palubou na staré vyřazené lodi. Na jedné straně visela velká olejová malba, tak dokonale zakouřená a po všech stránkách zničená, že díval-li se na ni člověk v tom nevhodném a neklidném osvětlení, mohl smyslu obrazu trochu porozumět, teprve když ho bedlivě prostudoval, když se na něj přišel podívat několikrát a vyptal se obezřetně sousedů. Na obraze byla taková spousta záhadných světel a stínů, až zprvu skoro vzbuzoval dojem, že se nějaký ctižádostivý mladý umělec v dobách novoang­lických čarodějnic pokusil zachytit čarovný chaos. Člověk musel nejdřív mnoho a hluboce přemítat a vždy znovu rozvažovat a hlavně otevřít si okénko vzadu proti vchodu; nakonec došel k přesvědčení, že taková myšlenka, třebas fantastická, přece jen není zcela ne­oprávněna.

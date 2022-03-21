@@ -1,5 +1,6 @@
 ---
 title: XXXVIII.SOUMRAK
+contentType: prose
 ---
 
 \[U hlavního stožáru, o který se opírá Starbuck.\]

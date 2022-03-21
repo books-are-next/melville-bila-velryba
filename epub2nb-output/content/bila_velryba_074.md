@@ -1,5 +1,6 @@
 ---
 title: LXV.VELRYBA JAKO JÍDLO
+contentType: prose
 ---
 
 Že se smrtelník může živit tvorem, který živí jeho lampu, a jako Stubb jej jíst, možno říci, při jeho vlastním světle, to se zdá tak neobvyklé, že je třeba zabrat se trochu do dějin a filozofie této věci.

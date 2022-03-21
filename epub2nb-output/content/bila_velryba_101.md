@@ -1,5 +1,6 @@
 ---
 title: XCII.AMBRA
+contentType: prose
 ---
 
 Tato ambra je velmi zvláštní látka a tak důležitý obchodní artikl, že roku 1791 byl jistý kapitán Coffin, narozený v Nantucketu, vyslýchán o této věci v anglické dolní sněmovně. V oné době totiž, a vlastně až donedávna, nebyl přesně znám původ ambry ani jantaru. Ačkoli anglické označení ambry, ambergris, je francouzská složenina, znamenající šedý jantar, přece jsou to dvě věci zcela odlišné. Jantar se sice někdy najde na pobřeží moře, ale také jej vykopávají z některých půd daleko ve vnitrozemí, kdežto ambru najdete jen v moři. Mimoto je jantar látka tvrdá, průsvitná, křehká a bez vůně a užívá se jí k zhotovování náústků k dýmkám, na korále a ozdoby. Ambra je měkká, voskovitá a tolik libovonná a aromatická, že se jí hojně užívá ve voňavkářství na vonná vykuřovadla, do drahých svíček, do pudru na vlasy a do pomád. Turci ji užívají při vaření a také ji nosí do Mekky, jako se nosí kadidlo do chrámu svatého Petra v Římě. Někteří vinaři dávají pár zrníček do klaretu, aby mu dodali vůně.

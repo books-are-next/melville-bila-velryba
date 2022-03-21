@@ -1,5 +1,6 @@
 ---
 title: LVIII.PLANKTON
+contentType: prose
 ---
 
 Plujíce na severovýchod od Crozetských ostrovů, dostali jsme se do obrovské louky planktonu, té drobounké žluté látky, která je hlavní potravou grónských velryb. Vlnila se kolem nás na celé míle, takže se zdálo, že plujeme nekonečnými poli zralé zlaté pšenice.

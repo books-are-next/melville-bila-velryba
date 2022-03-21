@@ -1,5 +1,6 @@
 ---
 title: LXXIV.HLAVA VORVANĚ — Z HLEDISKA SROVNÁVACÍHO
+contentType: prose
 ---
 
 Zde tedy jsou dvě velké velryby a jejich hlavy leží vedle sebe. Přistupme k nim a dejme i my hlavy dohromady.

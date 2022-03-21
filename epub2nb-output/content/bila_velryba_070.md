@@ -1,5 +1,6 @@
 ---
 title: LXI.STUBB ZABÍJÍ VELRYBU
+contentType: prose
 ---
 
 Bylo-li pro Starbucka objevení chobotnice zlověstným znamením, pro Kvíkvega znamenalo něco docela jiného.

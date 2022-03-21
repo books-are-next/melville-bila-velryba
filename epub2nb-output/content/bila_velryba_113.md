@@ -1,5 +1,6 @@
 ---
 title: CIV.VELRYBA FOSILNÍ
+contentType: prose
 ---
 
 Svou ohromností skýtá velryba velmi vhodný příměr, chceme-li zveličovat, přepínat a všeobecně podat něco hodně obšírně. I kdybyste chtěli, nemohli byste ji zmenšit. Vším právem nutno o ní vykládat v majestátním foliu. Netřeba znovu připomínat její délku od dýchacího otvoru k ocasu, ani kolik yardů měří kolem pasu; stačí jen vzpomenout na ohromné závity jejích střev, která v ní leží jako obrovské kabely a těžká lana, stočená na nejspodnější palubě bitevní lodi.

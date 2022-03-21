@@ -1,5 +1,6 @@
 ---
 title: XXVII.RYTÍŘI A PANOŠI
+contentType: prose
 ---
 
 Stubb byl druhým důstojníkem. Pocházel od mysu Cod, a tak mu podle místního zvyku říkali „muž od mysu Cod“. Byl to bezstarostný člověk, ani zbabělec, ani hrdina; s lhostejnou tváří čelil nebezpečím, jak přicházela. Když při honbě nastávala nejkritičtější situace, hleděl si své práce klidně a soustředěně jako truhlářský dělník najatý na celý rok. Měl dobrou náladu, jako kdyby nejnebezpečnější srážka byla pouze společenskou večeří a jeho posádka pozvanými hosty. Potrpěl si nesmírně na pohodlné zařízení své části člunu, jako dbá starý postilion, aby to měl na kozlíku útulné. Ve chvíli, kdy se octl u samé velryby, přímo tváří v tvář smrti, zacházel s nemilosrdným kopím chladnokrevně a zručně jako pohvizdující klempíř s kladivem. Pobroukával si staré rozpustilé popěvky, i když stál proti nejzuřivější obludě. Náš Stubb dávno přivykl nebezpečí, takže tlama smrti mu připadala jako pohovka. Nedá se říci, co si myslil o smrti samé. Je otázka, zda na ni vůbec kdy myslil. A jestliže se mu po příjemné večeři myšlenky zatoulaly oním směrem, tedy to jako starý námořník jistě považoval za jakousi výzvu hlídky, aby vylezl nahoru a tam se čile něčím zabýval, něčím, co pozná, až uposlechne rozkazu, dříve ne.

@@ -1,5 +1,6 @@
 ---
 title: CXXIX.KAJUTA
+contentType: prose
 ---
 
 \[Achab chce odejít na palubu, Pip ho chytí za ruku, chtěje s ním.\]

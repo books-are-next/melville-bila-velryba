@@ -1,5 +1,6 @@
 ---
 title: CXVI.UMÍRAJÍCÍ VELRYBA
+contentType: prose
 ---
 
 Nezřídka se nám v životě stává, jsme-li na správné straně a přímo kolem nás plují miláčkové Štěstěny, že zachytíme přes všechnu dřívější skleslost cosi z jejich prudkého větru a s radostí cítíme, jak se nám zplihlé plachty naplňují. Tak tomu bylo i s Pequodou. Druhého dne po setkání s veselým Mládencem spatřila totiž velryby a čtyři byly zabity. Jednu zabil Achab.

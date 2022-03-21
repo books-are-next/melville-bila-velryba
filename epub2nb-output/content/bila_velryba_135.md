@@ -1,5 +1,6 @@
 ---
 title: CXXVI.ZÁCHRANNÁ PLAVATKA
+contentType: prose
 ---
 
 Plujíc nyní na jihovýchod podle Achabovy nové magnetické střelky a odhadujíc svou rychlost jen Achabovým rychloměrem na šňůře, mířila Pequod vytrvale k rovníku. Plula dlouho pustými vodami nikým nenavštěvovanými, nezahlédla jediné lodi, a poháněna ze strany neměnným pasátním větrem, brázdila brzo vlny jednotvárně mírné, takže to všechno vypadalo jako podivná klidná předehra k nějaké bouřlivé a zoufalé scéně.

@@ -1,5 +1,6 @@
 ---
 title: CXV.PEQUOD POTKÁVÁ MLÁDENCE
+contentType: prose
 ---
 
 A byla věru příjemná ta podívaná i ty zvuky, které připlouvaly před větrem několik týdnů po tom, co byla ukuta Achabova harpuna.

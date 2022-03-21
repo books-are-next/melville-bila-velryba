@@ -1,5 +1,6 @@
 ---
 title: "CXXXIV.STÍHÁNÍ\_— DRUHÝ DEN"
+contentType: prose
 ---
 
 Za úsvitu hlídky znovu dochvilně obsadily všechny tři stožáry.

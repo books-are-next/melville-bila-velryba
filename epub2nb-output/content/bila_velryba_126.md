@@ -1,5 +1,6 @@
 ---
 title: "CXVII.HLÍDKA U\_VELRYBY"
+contentType: prose
 ---
 
 Čtyři velryby, které byly onoho večera zabity, zahynuly daleko od sebe; jedna daleko na straně návětrné, druhá blíže na straně závětrné, jedna před přídí a jedna za zádí. Tyto poslední tři jsme přivlekli k lodi před setměním. Velryba na straně návětrné nemohla být přivlečena, až ráno, a člun, který ji zabil, zůstal u jejího boku po celou noc. Byl to člun Achabův.

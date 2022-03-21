@@ -1,5 +1,6 @@
 ---
 title: LXXXVII.VELKOLEPÁ FLOTILA
+contentType: prose
 ---
 
 Dlouhý a úzký poloostrov Malajský, táhnoucí se na jihovýchod od území Barmy, tvoří nejjižnější výběžek celé Asie. Od tohoto polo­ostrova se táhnou v souvislé řadě velké ostrovy Sumatra, Jáva, Bali a Timor a s mnohými jinými tvoří obrovské molo nebo hráz, která spojuje podélně Asii s Austrálií a odděluje dlouhý nerušený Indický oceán od hustě rozsetých souostroví na východě. Tato hráz je proražena mnoha průchody pro pohodlí lodí a velryb, nejvýznačnější z nich jsou průlivy Sundský a Malacký. Průlivem Sundským vplouvají do Čínského moře hlavně lodi mířící od západu do Číny.

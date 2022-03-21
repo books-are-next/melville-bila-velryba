@@ -1,5 +1,6 @@
 ---
 title: CVII.TESAŘ
+contentType: prose
 ---
 
 Usaďte se jako sultán mezi měsíce Saturnovy a podívejte se jen na člověka naprosto osamoceného, na pojem člověka; připadá vám jako zázrak, jako cosi velkolepého a strastného. Ale podívejte se z téhož hlediska na lidstvo vcelku, a bude se vám z větší části zdát stádem zbytečných duplikátů současných i dědičných. Tesař na Pequodě nebyl duplikátem, třebaže byl nejskromnější, a zdaleka nepředstavoval vznešenou lidskou odloučenost, a proto přichází osobně na toto jeviště.

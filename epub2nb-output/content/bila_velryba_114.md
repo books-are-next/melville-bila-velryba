@@ -1,5 +1,6 @@
 ---
 title: "CV.ZMENŠUJE SE VELIKOST VELRYBY?—\_VYHYNE?"
+contentType: prose
 ---
 
 Když k nám takto leviatan připlouvá od pramenů věčnosti, je snad vhodné se otázat, zda v dlouhém sledu pokolení nedegeneroval proti původní velikosti svých předků.

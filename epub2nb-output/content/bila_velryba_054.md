@@ -1,5 +1,6 @@
 ---
 title: XLV.OSVĚDČENÍ
+contentType: prose
 ---
 
 Pokud snad má tato kniha nějaké dějové pásmo, je pro ně ze všech kapitol, co jich svazek má, nejdůležitější kapitola předchozí, neboť se v prvních svých odstavcích nepřímo dotýká několika velmi zajímavých a pozoruhodných zvláštností ve zvycích vorvaňů, ale její hlavní námět si žádá ještě dalšího a zasvěcenějšího zevrubného výkladu, má-li být dokonale pochopen a má-li být také odstraněna všecka nedůvěra, pokud jde o nelíčenou pravdivost hlavních bodů tohoto vyprávění, nedůvěra, kterou může u někoho vzbudit naprostá neznalost celé látky.

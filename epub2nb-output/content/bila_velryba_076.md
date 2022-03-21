@@ -1,5 +1,6 @@
 ---
 title: LXVII.ROZSEKÁVÁNÍ VELRYBY
+contentType: prose
 ---
 
 Byla to sobotní noc, a po ní takováhle neděle! Všichni velrybáři jsou ex officio zastánci porušování neděle. Kostěná Pequod se proměnila v jakési jatky a každý námořník se stal řezníkem. Byli byste si mohli myslet, že jsme obětovali deset tisíc červených volů mořským bohům.

@@ -1,5 +1,6 @@
 ---
 title: LXXI.PŘÍBĚH JEROBOAMŮV
+contentType: prose
 ---
 
 Ruku v ruce se blížily loď a vítr. Vítr však byl rychlejší než loď a Pequod se brzy začala kolébat.

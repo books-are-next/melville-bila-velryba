@@ -1,5 +1,6 @@
 ---
 title: LXXIX.PRÉRIE
+contentType: prose
 ---
 
 Zkoumat rysy v obličeji nebo vyhmatávat hrboly na hlavě tohoto leviatana, tím se nezabýval dosud žádný fyziognom ani frenolog. Takový podnik by měl asi stejnou naději na úspěch, jako kdyby byl Lavater zkoumal vrásky na skále gibraltarské nebo Gall vystoupil po žebříku a ohmatával kupoli Panteonu. Lavater však ve svém slavném díle pojednává nejen o různých lidských tvářích, nýbrž studuje pozorně také tváře koní, ptáků, hadů a ryb a zabývá se dopodrobna změnami, které lze pozorovat v jejich výrazu. Také Gallovi a jeho žáku Spurzheimovi se podařilo zjistit stopy frenologických význaků i u jiných tvorů než u člověka. Proto se přece jen pokusím aplikovat ty dvě polovědy na velrybu, i když na průkopníka mám špatnou kvalifikaci. Pokusím se o všechno a dosáhnu toho, co se dá.

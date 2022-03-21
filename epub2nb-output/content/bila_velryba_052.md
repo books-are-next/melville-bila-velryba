@@ -1,5 +1,6 @@
 ---
 title: XLIII.SLYŠ!
+contentType: prose
 ---
 
 Psst! Slyšels ten hluk, Cabaco?“

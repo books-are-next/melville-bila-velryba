@@ -1,5 +1,6 @@
 ---
 title: XXXI.KRÁLOVNA MAB
+contentType: prose
 ---
 
 Příštího rána Stubb oslovil Flaska.

@@ -1,5 +1,6 @@
 ---
 title: IX.KÁZÁNÍ
+contentType: prose
 ---
 
 Otec Javor se vzpřímil a mírným hlasem nevtíravé autority nařídil rozptýleným věřícím, aby se srazili k sobě. „Pravobok sem, sem! Levobok doprostřed, sem, k pravoboku! Do středu lodi, doprostřed!“

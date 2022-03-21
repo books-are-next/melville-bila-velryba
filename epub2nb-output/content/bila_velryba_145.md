@@ -1,5 +1,6 @@
 ---
 title: EPILOG
+contentType: prose
 ---
 
 „Já pak utekl jsem toliko sám. Abych oznámil tobě.“

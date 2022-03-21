@@ -1,5 +1,6 @@
 ---
 title: LXVI.MASAKR ŽRALOKŮ
+contentType: prose
 ---
 
 Když rybáři na jihu přivlekou uloveného vorvaně po dlouhé a namáhavé práci pozdě na noc k lodi, nebývá zpravidla zvykem pustit se okamžitě do rozsekávání ryby. Tato práce je neobyčejně těžká, trvá dlouho a vyžaduje úsilí celé posádky. Proto bývá zvykem svinout všechny plachty, připoutat kormidlo na stranu závětrnou a nechat jen nezbytné stráže u kotev. Vždy dva a dva z posádky se po hodině vystřídají na palubě, aby dohlédli, zda je vše v pořádku.

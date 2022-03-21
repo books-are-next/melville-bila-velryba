@@ -1,5 +1,6 @@
 ---
 title: LI.PŘÍZRAČNÝ VODOMET
+contentType: prose
 ---
 
 Míjely dny a týdny a Pequod, svítící mořskou slonovinou, jen s několika plachtami projela pomalu čtyřmi lovišti: jedním u Azurových ostrovů, druhým u mysu de Verdes, dále lovištěm u ústí řeky Rio de la Plata a konečně lovištěm Carrolovým, které nebývá zakresleno a je jižně od Svaté Heleny.

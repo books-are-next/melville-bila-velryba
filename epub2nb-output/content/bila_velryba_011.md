@@ -1,5 +1,6 @@
 ---
 title: II.TLUMOK
+contentType: prose
 ---
 
 Nacpal jsem nějakou tu košili do svého starého cestovního tlumoku, vstrčil jej pod paždí a vydal se na cestu k mysu Hornu a k Tichému oceánu. Opustiv dobré město na starém Manhattanu, přibyl jsem v pořádku do New Bedfordu. Bylo to v sobotu večer, v prosinci. Velkým zklamáním pro mne byla zpráva, že parníček do Nantucketu již odplul a že teprve v pondělí bude zas možno se tam dostat.

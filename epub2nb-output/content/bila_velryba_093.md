@@ -1,5 +1,6 @@
 ---
 title: LXXXIV.DLOUHÝ VRH KOPÍM
+contentType: prose
 ---
 
 Aby se kola vozů otáčela snadno a rychle, bývají jejich osy namazány, a z téhož důvodu provádějí někteří velrybáři cosi obdobného na svých člunech: mažou dno tukem. Není pochyby, že takové opatření nemůže škodit, spíš může přinést výhodu, kterou nelze pohrdat, uvážíme-li, že tuk a voda jsou nepřátelé, že tuk je kluzký a že jde o to, aby člun po vodě dobře klouzal. Kvíkveg pevně věřil v namazání člunu tukem a jednoho rána, nedlouho potom, co zmizela německá loď Jungfrau, pustil se s neobvyklou horlivostí do této práce. Lezl pod spodkem člunu, visícího nad lodním bokem, a vtíral do něho mastnotu, jako by chtěl přičinlivě zajistit úrodu vlasů na lysém kýlu. Pracoval patrně pod vlivem zvláštní předtuchy. Události potvrdily, že měl dobré tušení.

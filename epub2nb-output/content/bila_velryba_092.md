@@ -1,5 +1,6 @@
 ---
 title: "LXXXIII.JONÁŠ Z\_HLEDISKA HISTORICKÉHO"
+contentType: prose
 ---
 
 V předešlé kapitole jsme se dotkli historického příběhu o Jonášovi a velrybě. Ale někteří Nantuckeťané tomuto historickému příběhu o Jonášovi a velrybě příliš nevěří. Ovšem také někteří skeptičtí Řekové a Římané, vynikající nad pravověrné pohany své doby, stejně nedůvěřovali příběhu o Heraklovi a velrybě, o Arionovi a delfínu, a přece jejich pochybnosti neučinily z těchto tradic fakta o nic méně pravdivá.

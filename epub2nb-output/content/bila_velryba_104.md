@@ -1,5 +1,6 @@
 ---
 title: XCV.TALÁR
+contentType: prose
 ---
 
 Kdybyste vstoupili na palubu Pequody v určité fázi tohoto posmrtného zpracování velryby a kdybyste zašli dopředu, blízko k rumpálu, jistě byste si s nemalou zvědavostí prohlíželi velmi zvláštní, záhadný předmět, který byste tu spatřili ležet podélně ve žlabu na straně závětrné. Ani podivuhodná cisterna v ohromné velrybí hlavě, ani obrovská vykloubená spodní čelist, ani zázračně symetrický ocas, nic z toho by vás tak nepřekvapilo jako pouhý letmý pohled na onen nevysvětlitelný kužel – delší nežli dlouhán z Kentucky, asi stopu v průměru u základny a smolně černý jako Jojo, ebenový bůžek Kvíkvegův. A je to opravdu bůžek, nebo spíše za starých dob se mu bůžkové podobali. Taková modla, jaká byla nalezena v tajných hájích královny Maachy v Judei. Její syn Aza ji pro uctívání modly sesadil, hroznou modlu zničil a spálil při potoku Gedron, jak je chmurně vylíčeno v patnácté kapitole První Knihy Královské.

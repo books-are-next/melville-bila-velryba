@@ -1,5 +1,6 @@
 ---
 title: "L.ACHABŮV ČLUN A\_POSÁDKA — FEDALLAH"
+contentType: prose
 ---
 
 „Kdo by si to byl pomyslil, Flasku,“ zvolal Stubb, „kdybych měl jen jednu nohu, nedostali byste mě do člunu, leda snad že bych tou dřevěnou nohou ucpával díru. Ach, on je báječný stařec!“

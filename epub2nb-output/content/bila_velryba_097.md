@@ -1,5 +1,6 @@
 ---
 title: "LXXXVIII.ŠKOLY A\_UČITELÉ"
+contentType: prose
 ---
 
 Předešlá kapitola vylíčila obrovské společenstvo nebo stádo vorvaňů a také uvedla pravděpodobné příčiny těchto nesmírných shluků.

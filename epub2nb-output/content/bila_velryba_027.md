@@ -1,5 +1,6 @@
 ---
 title: XVIII.JEHO ZNAČKA
+contentType: prose
 ---
 
 Jak jsme tak kráčeli na konec přístaviště k lodi, Kvíkveg s harpunou v ruce, zavolal na nás drsným hlasem kapitán Peleg ze svého vigvamu, že prý netušil, že můj přítel je lidojed, a kromě toho prohlašoval, že na loď nepustí žádného divocha, dokud se neprokáže svými papíry.

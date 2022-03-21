@@ -1,5 +1,6 @@
 ---
 title: "LXXXIX.PŘIPOUTANÁ RYBA A\_VOLNÁ RYBA"
+contentType: prose
 ---
 
 Zmínka o vlajkách a vlajkových tyčích v předminulé kapitole vyžaduje, abychom i trochu promluvili o velrybářských zákonech a pravidlech, za jejichž hlavní symbol a odznak lze považovat právě takovou tyč s vlajkou.

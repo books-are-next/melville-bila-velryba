@@ -1,5 +1,6 @@
 ---
 title: VIII.KAZATELNA
+contentType: prose
 ---
 
 Neseděl jsem příliš dlouho, a již vešel muž, jaksi úctyhodně silný. Sotva za ním zapadly dveře, na něž dorážela vichřice, hned jsem poznal podle toho, jak na něho celé shromáždění pozorně upřelo oči, že tento hezký, starý muž je kaplan. Ano, byl to proslulý otec Javor, jak mu říkali velrybáři, u nichž byl nesmírně oblíben. Za mlada byl námořníkem a harpunářem, ale již před mnoha lety zasvětil svůj život službě boží. V době, o které píši, prožíval otec Javor otužile zimu zdravého stáří; takového stáří, které jako by vplývalo v druhé kvetoucí mládí, vždyť jeho vráskami prozařoval mírný jas nového rozkvětu – jarní zeleň pučící zpod únorového sněhu. I u toho, kdo neznal jeho dřívější život, musel otec Javor vzbudit hned napoprvé živý zájem, protože se vyznačoval několika zvláštnostmi u duchovního neobvyklými, kterými ho poznamenal někdejší dobrodružný život na moři. Všiml jsem si, když vstoupil, že nemá deštník a že jistě nepřijel vlastním kočárem, protože mu z námořnického klobouku stékal roztávající sníh a jeho velký lodivodský plášť byl tak napitý vodou, že ho svou tíhou div nestáhl na zem. Ale klobouk, plášť i přezuvky postupně sňal a ve chvilce uložil opodál do kouta a potom ve vhodném rouchu klidně přistoupil ke kazatelně.

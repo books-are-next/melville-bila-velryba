@@ -1,5 +1,6 @@
 ---
 title: XV.ŠKEBLÍ POLÉVKA
+contentType: prose
 ---
 
 Za pozdního večera malý Mech pohodlně zakotvil a Kvíkveg vyšel se mnou na břeh. Toho dne jsme ovšem nemohli už nic podniknout, jenom si obstarat večeři a nocleh. Hostinský „U velryby“ nám doporučil hostinec svého bratrance Hosey Husseye „U dvou kotlů“, o němž pravil, že je nejlépe vedeným hotelem v celém Nantucketu. Také nás ujistil, že bratranec Hosea je proslulý škeblí polévkou. Zkrátka, dal nám jasně na srozuměnou, že uděláme nejlíp, zkusíme-li to „U dvou kotlů“. Ale směr, který nám naznačil – jít podle žlutého skladiště na pravoboku, až spatříme bílý kostel na levoboku, potom se držet levoboku, až dojdeme k nároží, tři čárky k pravoboku; potom že se máme zeptat prvního člověka, kterého potkáme, kde je ten hostinec – toto spletité určení směru nás zpočátku velmi mátlo, zvláště když Kvíkveg začal tvrdit, že žluté skladiště – naše první východisko – musí nám zůstat po levoboku, kdežto já rozuměl Petru Rakvovi, že říká na pravoboku. Ale když jsme se tak chvíli potloukali tmou a zaklepáním občas vyburcovali některého pokojného obyvatele, abychom se zeptali na cestu, konečně jsme došli k něčemu, co nás nenechalo na pochybách.

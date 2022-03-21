@@ -1,5 +1,6 @@
 ---
 title: XCIX.DUBLON
+contentType: prose
 ---
 
 Pověděli jsme už, jak měl Achab ve zvyku procházet se po velitelské palubě, od jednoho konce k druhému, s pravidelným obratem u kompasu a u hlavního stožáru. Ale při množství jiných věcí, o kterých bylo nutno vyprávět, nedodali jsme, že byl-li nejhloub ponořen do svých chmur, někdy se při těchto procházkách střídavě zastavoval na obou místech a stával tu, dívaje se podivně na předmět před sebou. Když se zastavil před kompasem a upřel oči na zahrocenou jehlu magnetky, vystřeloval jeho pohled jako oštěp a měl zaostřenou prudkost jeho úmyslu, a když zase vykročil a opět stanul u hlavního stožáru, ulpívaje stejným upřeným pohledem na přibité minci, měl stále ještě týž výraz soustředěné odhodlanosti, jen se k ní ještě přimísila jakási divoká touha, ne-li naděje.

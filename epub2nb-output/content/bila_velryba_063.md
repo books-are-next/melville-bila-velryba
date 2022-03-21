@@ -1,5 +1,6 @@
 ---
 title: LIV.PŘÍBĚH LODI TOWN-HO
+contentType: prose
 ---
 
 \[Podle vyprávění ve Zlatém hostinci.\]

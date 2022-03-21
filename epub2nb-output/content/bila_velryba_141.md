@@ -1,5 +1,6 @@
 ---
 title: CXXXII.SYMFONIE
+contentType: prose
 ---
 
 Byl jasný den, modrý jako ocel. Těžko rozlišit klenbu ovzduší od moře v tomto azuru rozprostřeném všude; ledaže zádumčivý vzduch byl průzračně čistý a měkký jako pohled ženy, kdežto mohutné a mužné moře se zvedalo dlouhými, silnými, táhlými výdechy jako hruď spícího Samsona.

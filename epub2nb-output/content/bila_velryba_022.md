@@ -1,5 +1,6 @@
 ---
 title: XIII.TRAKAŘ
+contentType: prose
 ---
 
 Příštího rána, v pondělí, zbavil jsem se balzamované hlavy, kterou jsem dal holičovi jako vlásenkářskou palici, a zaplatil jsem účet svůj a kamarádův, použiv ovšem přítelových peněz. Šklebící se hostinský a stejně i strávníci byli neobyčejně pobaveni náhlým přátelstvím, které jsme s Kvíkvegem uzavřeli, zvláště když mě předtím tak poplašily prolhané historky Petra Rakve právě o Kvíkvegovi, k němuž jsem se teď přidružil.
