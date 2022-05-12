@@ -1,5 +1,5 @@
 ---
-title: CXXVII.PALUBA
+title: CXXVII\.PALUBA
 contentType: prose
 ---
 

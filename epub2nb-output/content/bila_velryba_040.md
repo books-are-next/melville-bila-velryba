@@ -1,5 +1,5 @@
 ---
-title: XXXI.KRÁLOVNA MAB
+title: XXXI\.KRÁLOVNA MAB
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: XXXV.VRCHOL STOŽÁRU
+title: XXXV\.VRCHOL STOŽÁRU
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: VII.KAPLE
+title: VII\.KAPLE
 contentType: prose
 ---
 

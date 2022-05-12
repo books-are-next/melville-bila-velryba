@@ -1,5 +1,5 @@
 ---
-title: CXIII.KOVÁRNA
+title: CXIII\.KOVÁRNA
 contentType: prose
 ---
 

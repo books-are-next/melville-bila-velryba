@@ -1,5 +1,5 @@
 ---
-title: LXVII.ROZSEKÁVÁNÍ VELRYBY
+title: LXVII\.ROZSEKÁVÁNÍ VELRYBY
 contentType: prose
 ---
 

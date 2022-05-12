@@ -1,5 +1,5 @@
 ---
-title: XLIX.HYENA
+title: XLIX\.HYENA
 contentType: prose
 ---
 

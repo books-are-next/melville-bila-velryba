@@ -1,5 +1,5 @@
 ---
-title: XXXII.CETOLOGIE
+title: XXXII\.CETOLOGIE
 contentType: prose
 ---
 

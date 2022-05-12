@@ -1,5 +1,5 @@
 ---
-title: LII.ALBATROS
+title: LII\.ALBATROS
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: XCVII.LAMPA
+title: XCVII\.LAMPA
 contentType: prose
 ---
 

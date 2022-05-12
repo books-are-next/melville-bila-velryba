@@ -1,5 +1,5 @@
 ---
-title: "CXXII.O\_PŮLNOCI NA STOŽÁRUHROMY A\_BLESKY"
+title: "CXXII\\.O\_PŮLNOCI NA STOŽÁRUHROMY A\_BLESKY"
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: XXV.DODATEK
+title: XXV\.DODATEK
 contentType: prose
 ---
 

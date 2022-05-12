@@ -1,5 +1,5 @@
 ---
-title: CXVI.UMÍRAJÍCÍ VELRYBA
+title: CXVI\.UMÍRAJÍCÍ VELRYBA
 contentType: prose
 ---
 

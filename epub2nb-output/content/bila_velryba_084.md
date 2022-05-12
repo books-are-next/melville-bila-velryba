@@ -1,5 +1,5 @@
 ---
-title: "LXXV.HLAVA VELRYBY GRÓNSKÉ\_—Z\_HLEDISKA SROVNÁVACÍHO"
+title: "LXXV\\.HLAVA VELRYBY GRÓNSKÉ\_—Z\_HLEDISKA SROVNÁVACÍHO"
 contentType: prose
 ---
 

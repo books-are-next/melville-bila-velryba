@@ -1,5 +1,5 @@
 ---
-title: XC.HLAVY NEBO OCASY
+title: XC\.HLAVY NEBO OCASY
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: XX.PŘÍPRAVY K ODPLUTÍ
+title: XX\.PŘÍPRAVY K ODPLUTÍ
 contentType: prose
 ---
 

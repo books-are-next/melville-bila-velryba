@@ -1,5 +1,5 @@
 ---
-title: LXXX.ZÁVITNICE
+title: LXXX\.ZÁVITNICE
 contentType: prose
 ---
 

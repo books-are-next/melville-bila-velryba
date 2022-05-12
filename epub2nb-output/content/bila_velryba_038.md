@@ -1,5 +1,5 @@
 ---
-title: XXIX.VCHÁZÍ ACHAB,K NĚMU PŘISTUPUJE STUBB
+title: XXIX\.VCHÁZÍ ACHAB,K NĚMU PŘISTUPUJE STUBB
 contentType: prose
 ---
 

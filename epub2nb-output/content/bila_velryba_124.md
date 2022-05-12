@@ -1,5 +1,5 @@
 ---
-title: CXV.PEQUOD POTKÁVÁ MLÁDENCE
+title: CXV\.PEQUOD POTKÁVÁ MLÁDENCE
 contentType: prose
 ---
 

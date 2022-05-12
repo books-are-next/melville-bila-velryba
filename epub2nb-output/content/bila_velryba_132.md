@@ -1,5 +1,5 @@
 ---
-title: CXXIII.MUŠKETA
+title: CXXIII\.MUŠKETA
 contentType: prose
 ---
 

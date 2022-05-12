@@ -1,22 +1,167 @@
 {
-  "author": "Herman Melville",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "melville-bila-velryba-e79b211",
-  "languagecode": "cs",
-  "modified": "2021-12-07T10:50:41.658Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Bílá velryba",
-  "revision": "e79b211",
+  "author": "Herman Melville",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "melville-bila-velryba-66123c4",
+  "revision": "66123c4",
+  "readingOrder": [
+    "promo.html",
+    "bila_velryba_005.html",
+    "bila_velryba_006.html",
+    "bila_velryba_007.html",
+    "bila_velryba_008.html",
+    "bila_velryba_010.html",
+    "bila_velryba_011.html",
+    "bila_velryba_012.html",
+    "bila_velryba_013.html",
+    "bila_velryba_014.html",
+    "bila_velryba_015.html",
+    "bila_velryba_016.html",
+    "bila_velryba_017.html",
+    "bila_velryba_018.html",
+    "bila_velryba_019.html",
+    "bila_velryba_020.html",
+    "bila_velryba_021.html",
+    "bila_velryba_022.html",
+    "bila_velryba_023.html",
+    "bila_velryba_024.html",
+    "bila_velryba_025.html",
+    "bila_velryba_026.html",
+    "bila_velryba_027.html",
+    "bila_velryba_028.html",
+    "bila_velryba_029.html",
+    "bila_velryba_030.html",
+    "bila_velryba_031.html",
+    "bila_velryba_032.html",
+    "bila_velryba_033.html",
+    "bila_velryba_034.html",
+    "bila_velryba_035.html",
+    "bila_velryba_036.html",
+    "bila_velryba_037.html",
+    "bila_velryba_038.html",
+    "bila_velryba_039.html",
+    "bila_velryba_040.html",
+    "bila_velryba_041.html",
+    "bila_velryba_042.html",
+    "bila_velryba_043.html",
+    "bila_velryba_044.html",
+    "bila_velryba_045.html",
+    "bila_velryba_046.html",
+    "bila_velryba_047.html",
+    "bila_velryba_048.html",
+    "bila_velryba_049.html",
+    "bila_velryba_050.html",
+    "bila_velryba_051.html",
+    "bila_velryba_052.html",
+    "bila_velryba_053.html",
+    "bila_velryba_054.html",
+    "bila_velryba_055.html",
+    "bila_velryba_056.html",
+    "bila_velryba_057.html",
+    "bila_velryba_058.html",
+    "bila_velryba_059.html",
+    "bila_velryba_060.html",
+    "bila_velryba_061.html",
+    "bila_velryba_062.html",
+    "bila_velryba_063.html",
+    "bila_velryba_064.html",
+    "bila_velryba_065.html",
+    "bila_velryba_066.html",
+    "bila_velryba_067.html",
+    "bila_velryba_068.html",
+    "bila_velryba_069.html",
+    "bila_velryba_070.html",
+    "bila_velryba_071.html",
+    "bila_velryba_072.html",
+    "bila_velryba_073.html",
+    "bila_velryba_074.html",
+    "bila_velryba_075.html",
+    "bila_velryba_076.html",
+    "bila_velryba_077.html",
+    "bila_velryba_078.html",
+    "bila_velryba_079.html",
+    "bila_velryba_080.html",
+    "bila_velryba_081.html",
+    "bila_velryba_082.html",
+    "bila_velryba_083.html",
+    "bila_velryba_084.html",
+    "bila_velryba_085.html",
+    "bila_velryba_086.html",
+    "bila_velryba_087.html",
+    "bila_velryba_088.html",
+    "bila_velryba_089.html",
+    "bila_velryba_090.html",
+    "bila_velryba_091.html",
+    "bila_velryba_092.html",
+    "bila_velryba_093.html",
+    "bila_velryba_094.html",
+    "bila_velryba_095.html",
+    "bila_velryba_096.html",
+    "bila_velryba_097.html",
+    "bila_velryba_098.html",
+    "bila_velryba_099.html",
+    "bila_velryba_100.html",
+    "bila_velryba_101.html",
+    "bila_velryba_102.html",
+    "bila_velryba_103.html",
+    "bila_velryba_104.html",
+    "bila_velryba_105.html",
+    "bila_velryba_106.html",
+    "bila_velryba_107.html",
+    "bila_velryba_108.html",
+    "bila_velryba_109.html",
+    "bila_velryba_110.html",
+    "bila_velryba_111.html",
+    "bila_velryba_112.html",
+    "bila_velryba_113.html",
+    "bila_velryba_114.html",
+    "bila_velryba_115.html",
+    "bila_velryba_116.html",
+    "bila_velryba_117.html",
+    "bila_velryba_118.html",
+    "bila_velryba_119.html",
+    "bila_velryba_120.html",
+    "bila_velryba_121.html",
+    "bila_velryba_122.html",
+    "bila_velryba_123.html",
+    "bila_velryba_124.html",
+    "bila_velryba_125.html",
+    "bila_velryba_126.html",
+    "bila_velryba_127.html",
+    "bila_velryba_128.html",
+    "bila_velryba_129.html",
+    "bila_velryba_130.html",
+    "bila_velryba_131.html",
+    "bila_velryba_132.html",
+    "bila_velryba_133.html",
+    "bila_velryba_134.html",
+    "bila_velryba_135.html",
+    "bila_velryba_136.html",
+    "bila_velryba_137.html",
+    "bila_velryba_138.html",
+    "bila_velryba_139.html",
+    "bila_velryba_140.html",
+    "bila_velryba_141.html",
+    "bila_velryba_142.html",
+    "bila_velryba_143.html",
+    "bila_velryba_144.html",
+    "bila_velryba_145.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon Mar 21 2022 21:09:02 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647896942101
+    "date": "Thu May 12 2022 10:37:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351872948
   },
   "documents": [
     {
-      "title": "Bílá velryba",
-      "file": "bila_velryba_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +169,7 @@
       "order": 0,
       "prev": null,
       "next": "bila_velryba_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Bílá velryba",
@@ -42,7 +179,7 @@
       "ideas": 0,
       "role": "chapter",
       "order": 1,
-      "prev": "bila_velryba_002.html",
+      "prev": "promo.html",
       "next": "bila_velryba_006.html",
       "toc": [
         {
@@ -55,7 +192,7 @@
       ]
     },
     {
-      "title": "PŮVOD JMÉNA VELRYBY • Bílá velryba",
+      "title": "PŮVOD JMÉNA VELRYBY",
       "file": "bila_velryba_006.html",
       "words": 136,
       "chars": 907,
@@ -95,7 +232,7 @@
       ]
     },
     {
-      "title": "CITÁTY • Bílá velryba",
+      "title": "CITÁTY",
       "file": "bila_velryba_008.html",
       "words": 2695,
       "chars": 16913,
@@ -115,7 +252,7 @@
       ]
     },
     {
-      "title": "I.PŘELUDY • Bílá velryba",
+      "title": "I.PŘELUDY",
       "file": "bila_velryba_010.html",
       "words": 1894,
       "chars": 11367,
@@ -135,7 +272,7 @@
       ]
     },
     {
-      "title": "II.TLUMOK • Bílá velryba",
+      "title": "II.TLUMOK",
       "file": "bila_velryba_011.html",
       "words": 1165,
       "chars": 7039,
@@ -155,7 +292,7 @@
       ]
     },
     {
-      "title": "III.HOSTINEC „U VELRYBY“ • Bílá velryba",
+      "title": "III.HOSTINEC „U VELRYBY“",
       "file": "bila_velryba_012.html",
       "words": 4766,
       "chars": 28544,
@@ -175,7 +312,7 @@
       ]
     },
     {
-      "title": "IV.PŘIKRÝVKA • Bílá velryba",
+      "title": "IV.PŘIKRÝVKA",
       "file": "bila_velryba_013.html",
       "words": 1350,
       "chars": 7961,
@@ -195,7 +332,7 @@
       ]
     },
     {
-      "title": "V.SNÍDANĚ • Bílá velryba",
+      "title": "V.SNÍDANĚ",
       "file": "bila_velryba_014.html",
       "words": 619,
       "chars": 3778,
@@ -215,7 +352,7 @@
       ]
     },
     {
-      "title": "VI.ULICE • Bílá velryba",
+      "title": "VI.ULICE",
       "file": "bila_velryba_015.html",
       "words": 730,
       "chars": 4573,
@@ -235,7 +372,7 @@
       ]
     },
     {
-      "title": "VII.KAPLE • Bílá velryba",
+      "title": "VII.KAPLE",
       "file": "bila_velryba_016.html",
       "words": 799,
       "chars": 4951,
@@ -255,7 +392,7 @@
       ]
     },
     {
-      "title": "VIII.KAZATELNA • Bílá velryba",
+      "title": "VIII.KAZATELNA",
       "file": "bila_velryba_017.html",
       "words": 733,
       "chars": 4656,
@@ -275,7 +412,7 @@
       ]
     },
     {
-      "title": "IX.KÁZÁNÍ • Bílá velryba",
+      "title": "IX.KÁZÁNÍ",
       "file": "bila_velryba_018.html",
       "words": 2999,
       "chars": 17967,
@@ -295,7 +432,7 @@
       ]
     },
     {
-      "title": "X.DŮVĚRNÝ PŘÍTEL • Bílá velryba",
+      "title": "X.DŮVĚRNÝ PŘÍTEL",
       "file": "bila_velryba_019.html",
       "words": 1361,
       "chars": 8093,
@@ -315,7 +452,7 @@
       ]
     },
     {
-      "title": "XI.NOČNÍ KOŠILE • Bílá velryba",
+      "title": "XI.NOČNÍ KOŠILE",
       "file": "bila_velryba_020.html",
       "words": 564,
       "chars": 3439,
@@ -335,7 +472,7 @@
       ]
     },
     {
-      "title": "XII.ŽIVOTOPISNÁ • Bílá velryba",
+      "title": "XII.ŽIVOTOPISNÁ",
       "file": "bila_velryba_021.html",
       "words": 779,
       "chars": 4665,
@@ -355,7 +492,7 @@
       ]
     },
     {
-      "title": "XIII.TRAKAŘ • Bílá velryba",
+      "title": "XIII.TRAKAŘ",
       "file": "bila_velryba_022.html",
       "words": 1497,
       "chars": 9154,
@@ -375,7 +512,7 @@
       ]
     },
     {
-      "title": "XIV.NANTUCKET • Bílá velryba",
+      "title": "XIV.NANTUCKET",
       "file": "bila_velryba_023.html",
       "words": 666,
       "chars": 4046,
@@ -395,7 +532,7 @@
       ]
     },
     {
-      "title": "XV.ŠKEBLÍ POLÉVKA • Bílá velryba",
+      "title": "XV.ŠKEBLÍ POLÉVKA",
       "file": "bila_velryba_024.html",
       "words": 1000,
       "chars": 6041,
@@ -415,7 +552,7 @@
       ]
     },
     {
-      "title": "XVI.LOĎ • Bílá velryba",
+      "title": "XVI.LOĎ",
       "file": "bila_velryba_025.html",
       "words": 4552,
       "chars": 27900,
@@ -435,7 +572,7 @@
       ]
     },
     {
-      "title": "XVII.RAMADÁN • Bílá velryba",
+      "title": "XVII.RAMADÁN",
       "file": "bila_velryba_026.html",
       "words": 1879,
       "chars": 11256,
@@ -455,7 +592,7 @@
       ]
     },
     {
-      "title": "XVIII.JEHO ZNAČKA • Bílá velryba",
+      "title": "XVIII.JEHO ZNAČKA",
       "file": "bila_velryba_027.html",
       "words": 1195,
       "chars": 7299,
@@ -475,7 +612,7 @@
       ]
     },
     {
-      "title": "XIX.PROROK • Bílá velryba",
+      "title": "XIX.PROROK",
       "file": "bila_velryba_028.html",
       "words": 1012,
       "chars": 5721,
@@ -495,7 +632,7 @@
       ]
     },
     {
-      "title": "XX.PŘÍPRAVY K ODPLUTÍ • Bílá velryba",
+      "title": "XX.PŘÍPRAVY K ODPLUTÍ",
       "file": "bila_velryba_029.html",
       "words": 778,
       "chars": 4635,
@@ -515,7 +652,7 @@
       ]
     },
     {
-      "title": "XXI.CESTOU NA LOĎ • Bílá velryba",
+      "title": "XXI.CESTOU NA LOĎ",
       "file": "bila_velryba_030.html",
       "words": 969,
       "chars": 5786,
@@ -535,7 +672,7 @@
       ]
     },
     {
-      "title": "XXII.VESELÉ VÁNOCE • Bílá velryba",
+      "title": "XXII.VESELÉ VÁNOCE",
       "file": "bila_velryba_031.html",
       "words": 1451,
       "chars": 8718,
@@ -555,7 +692,7 @@
       ]
     },
     {
-      "title": "XXIII.BŘEH NA STRANĚ ZÁVĚTRNÉ • Bílá velryba",
+      "title": "XXIII.BŘEH NA STRANĚ ZÁVĚTRNÉ",
       "file": "bila_velryba_032.html",
       "words": 359,
       "chars": 2210,
@@ -575,7 +712,7 @@
       ]
     },
     {
-      "title": "XXIV.OBHÁJCE • Bílá velryba",
+      "title": "XXIV.OBHÁJCE",
       "file": "bila_velryba_033.html",
       "words": 1389,
       "chars": 9095,
@@ -595,7 +732,7 @@
       ]
     },
     {
-      "title": "XXV.DODATEK • Bílá velryba",
+      "title": "XXV.DODATEK",
       "file": "bila_velryba_034.html",
       "words": 237,
       "chars": 1449,
@@ -615,7 +752,7 @@
       ]
     },
     {
-      "title": "XXVI.RYTÍŘI A PANOŠI • Bílá velryba",
+      "title": "XXVI.RYTÍŘI A PANOŠI",
       "file": "bila_velryba_035.html",
       "words": 1002,
       "chars": 6494,
@@ -635,7 +772,7 @@
       ]
     },
     {
-      "title": "XXVII.RYTÍŘI A PANOŠI • Bílá velryba",
+      "title": "XXVII.RYTÍŘI A PANOŠI",
       "file": "bila_velryba_036.html",
       "words": 1318,
       "chars": 8409,
@@ -655,7 +792,7 @@
       ]
     },
     {
-      "title": "XXVIII.ACHAB • Bílá velryba",
+      "title": "XXVIII.ACHAB",
       "file": "bila_velryba_037.html",
       "words": 1151,
       "chars": 7137,
@@ -675,7 +812,7 @@
       ]
     },
     {
-      "title": "XXIX.VCHÁZÍ ACHAB,K NĚMU PŘISTUPUJE STUBB • Bílá velryba",
+      "title": "XXIX.VCHÁZÍ ACHAB,K NĚMU PŘISTUPUJE STUBB",
       "file": "bila_velryba_038.html",
       "words": 1035,
       "chars": 6128,
@@ -695,7 +832,7 @@
       ]
     },
     {
-      "title": "XXX.DÝMKA • Bílá velryba",
+      "title": "XXX.DÝMKA",
       "file": "bila_velryba_039.html",
       "words": 259,
       "chars": 1553,
@@ -715,7 +852,7 @@
       ]
     },
     {
-      "title": "XXXI.KRÁLOVNA MAB • Bílá velryba",
+      "title": "XXXI.KRÁLOVNA MAB",
       "file": "bila_velryba_040.html",
       "words": 713,
       "chars": 4099,
@@ -735,7 +872,7 @@
       ]
     },
     {
-      "title": "XXXII.CETOLOGIE • Bílá velryba",
+      "title": "XXXII.CETOLOGIE",
       "file": "bila_velryba_041.html",
       "words": 4201,
       "chars": 26879,
@@ -755,7 +892,7 @@
       ]
     },
     {
-      "title": "XXXIII.VRCHNÍ HARPUNÁŘ • Bílá velryba",
+      "title": "XXXIII.VRCHNÍ HARPUNÁŘ",
       "file": "bila_velryba_042.html",
       "words": 789,
       "chars": 5152,
@@ -775,7 +912,7 @@
       ]
     },
     {
-      "title": "XXXIV.STŮL V KAJUTĚ • Bílá velryba",
+      "title": "XXXIV.STŮL V KAJUTĚ",
       "file": "bila_velryba_043.html",
       "words": 1747,
       "chars": 10936,
@@ -795,7 +932,7 @@
       ]
     },
     {
-      "title": "XXXV.VRCHOL STOŽÁRU • Bílá velryba",
+      "title": "XXXV.VRCHOL STOŽÁRU",
       "file": "bila_velryba_044.html",
       "words": 2127,
       "chars": 13648,
@@ -815,7 +952,7 @@
       ]
     },
     {
-      "title": "XXXVI.VELITELSKÁ PALUBA • Bílá velryba",
+      "title": "XXXVI.VELITELSKÁ PALUBA",
       "file": "bila_velryba_045.html",
       "words": 2450,
       "chars": 15093,
@@ -835,7 +972,7 @@
       ]
     },
     {
-      "title": "XXXVII.ZÁPAD SLUNCE • Bílá velryba",
+      "title": "XXXVII.ZÁPAD SLUNCE",
       "file": "bila_velryba_046.html",
       "words": 493,
       "chars": 2856,
@@ -855,7 +992,7 @@
       ]
     },
     {
-      "title": "XXXVIII.SOUMRAK • Bílá velryba",
+      "title": "XXXVIII.SOUMRAK",
       "file": "bila_velryba_047.html",
       "words": 386,
       "chars": 2248,
@@ -875,7 +1012,7 @@
       ]
     },
     {
-      "title": "XXXIX.PRVNÍ NOČNÍ HLÍDKAPŘEDNÍ KOŠ • Bílá velryba",
+      "title": "XXXIX.PRVNÍ NOČNÍ HLÍDKAPŘEDNÍ KOŠ",
       "file": "bila_velryba_048.html",
       "words": 269,
       "chars": 1502,
@@ -895,7 +1032,7 @@
       ]
     },
     {
-      "title": "XL.PŮLNOC NA PŘÍDI • Bílá velryba",
+      "title": "XL.PŮLNOC NA PŘÍDI",
       "file": "bila_velryba_049.html",
       "words": 1523,
       "chars": 8957,
@@ -915,7 +1052,7 @@
       ]
     },
     {
-      "title": "XLI.MOBY DICK • Bílá velryba",
+      "title": "XLI.MOBY DICK",
       "file": "bila_velryba_050.html",
       "words": 3166,
       "chars": 20192,
@@ -935,7 +1072,7 @@
       ]
     },
     {
-      "title": "XLII.BĚLOST VELRYBY • Bílá velryba",
+      "title": "XLII.BĚLOST VELRYBY",
       "file": "bila_velryba_051.html",
       "words": 2983,
       "chars": 19184,
@@ -955,7 +1092,7 @@
       ]
     },
     {
-      "title": "XLIII.SLYŠ! • Bílá velryba",
+      "title": "XLIII.SLYŠ!",
       "file": "bila_velryba_052.html",
       "words": 274,
       "chars": 1598,
@@ -975,7 +1112,7 @@
       ]
     },
     {
-      "title": "XLIV.MAPA MOŘE • Bílá velryba",
+      "title": "XLIV.MAPA MOŘE",
       "file": "bila_velryba_053.html",
       "words": 1721,
       "chars": 10610,
@@ -995,7 +1132,7 @@
       ]
     },
     {
-      "title": "XLV.OSVĚDČENÍ • Bílá velryba",
+      "title": "XLV.OSVĚDČENÍ",
       "file": "bila_velryba_054.html",
       "words": 2816,
       "chars": 17661,
@@ -1015,7 +1152,7 @@
       ]
     },
     {
-      "title": "XLVI.DOHADY • Bílá velryba",
+      "title": "XLVI.DOHADY",
       "file": "bila_velryba_055.html",
       "words": 855,
       "chars": 5425,
@@ -1035,7 +1172,7 @@
       ]
     },
     {
-      "title": "XLVII.TKADLEC • Bílá velryba",
+      "title": "XLVII.TKADLEC",
       "file": "bila_velryba_056.html",
       "words": 767,
       "chars": 4852,
@@ -1055,7 +1192,7 @@
       ]
     },
     {
-      "title": "XLVIII.PRVNÍ SPUŠTĚNÍ ČLUNŮ • Bílá velryba",
+      "title": "XLVIII.PRVNÍ SPUŠTĚNÍ ČLUNŮ",
       "file": "bila_velryba_057.html",
       "words": 3263,
       "chars": 19979,
@@ -1075,7 +1212,7 @@
       ]
     },
     {
-      "title": "XLIX.HYENA • Bílá velryba",
+      "title": "XLIX.HYENA",
       "file": "bila_velryba_058.html",
       "words": 714,
       "chars": 4324,
@@ -1095,7 +1232,7 @@
       ]
     },
     {
-      "title": "L.ACHABŮV ČLUN A POSÁDKA — FEDALLAH • Bílá velryba",
+      "title": "L.ACHABŮV ČLUN A POSÁDKA — FEDALLAH",
       "file": "bila_velryba_059.html",
       "words": 824,
       "chars": 5010,
@@ -1115,7 +1252,7 @@
       ]
     },
     {
-      "title": "LI.PŘÍZRAČNÝ VODOMET • Bílá velryba",
+      "title": "LI.PŘÍZRAČNÝ VODOMET",
       "file": "bila_velryba_060.html",
       "words": 1348,
       "chars": 8102,
@@ -1135,7 +1272,7 @@
       ]
     },
     {
-      "title": "LII.ALBATROS • Bílá velryba",
+      "title": "LII.ALBATROS",
       "file": "bila_velryba_061.html",
       "words": 620,
       "chars": 3827,
@@ -1155,7 +1292,7 @@
       ]
     },
     {
-      "title": "LIII.GAM • Bílá velryba",
+      "title": "LIII.GAM",
       "file": "bila_velryba_062.html",
       "words": 1327,
       "chars": 8338,
@@ -1175,7 +1312,7 @@
       ]
     },
     {
-      "title": "LIV.PŘÍBĚH LODI TOWN-HO • Bílá velryba",
+      "title": "LIV.PŘÍBĚH LODI TOWN-HO",
       "file": "bila_velryba_063.html",
       "words": 6524,
       "chars": 40540,
@@ -1195,7 +1332,7 @@
       ]
     },
     {
-      "title": "LV.O NESTVŮRNÝCH ZOBRAZENÍCH VELRYB • Bílá velryba",
+      "title": "LV.O NESTVŮRNÝCH ZOBRAZENÍCH VELRYB",
       "file": "bila_velryba_064.html",
       "words": 1531,
       "chars": 9926,
@@ -1215,7 +1352,7 @@
       ]
     },
     {
-      "title": "LVI.O MÉNĚ NESPRÁVNÝCH OBRAZECH VELRYB A O PRAVDIVÝCH ZOBRAZENÍCH LOVU NA VELRYBY • Bílá velryba",
+      "title": "LVI.O MÉNĚ NESPRÁVNÝCH OBRAZECH VELRYB A O PRAVDIVÝCH ZOBRAZENÍCH LOVU NA VELRYBY",
       "file": "bila_velryba_065.html",
       "words": 1025,
       "chars": 6692,
@@ -1235,7 +1372,7 @@
       ]
     },
     {
-      "title": "LVII.O VELRYBÁCH NA PLÁTNĚ,NA ZUBECH, NA DŘEVĚ,NA PLECHU, NA KAMENI,NA HORÁCH A VE HVĚZDÁCH • Bílá velryba",
+      "title": "LVII.O VELRYBÁCH NA PLÁTNĚ,NA ZUBECH, NA DŘEVĚ,NA PLECHU, NA KAMENI,NA HORÁCH A VE HVĚZDÁCH",
       "file": "bila_velryba_066.html",
       "words": 787,
       "chars": 5227,
@@ -1255,7 +1392,7 @@
       ]
     },
     {
-      "title": "LVIII.PLANKTON • Bílá velryba",
+      "title": "LVIII.PLANKTON",
       "file": "bila_velryba_067.html",
       "words": 809,
       "chars": 5168,
@@ -1275,7 +1412,7 @@
       ]
     },
     {
-      "title": "LIX.CHOBOTNICE • Bílá velryba",
+      "title": "LIX.CHOBOTNICE",
       "file": "bila_velryba_068.html",
       "words": 793,
       "chars": 4919,
@@ -1295,7 +1432,7 @@
       ]
     },
     {
-      "title": "LX.PROVAZEC • Bílá velryba",
+      "title": "LX.PROVAZEC",
       "file": "bila_velryba_069.html",
       "words": 1158,
       "chars": 7205,
@@ -1315,7 +1452,7 @@
       ]
     },
     {
-      "title": "LXI.STUBB ZABÍJÍ VELRYBU • Bílá velryba",
+      "title": "LXI.STUBB ZABÍJÍ VELRYBU",
       "file": "bila_velryba_070.html",
       "words": 1637,
       "chars": 10082,
@@ -1335,7 +1472,7 @@
       ]
     },
     {
-      "title": "LXII.VRH HARPUNOU • Bílá velryba",
+      "title": "LXII.VRH HARPUNOU",
       "file": "bila_velryba_071.html",
       "words": 456,
       "chars": 2838,
@@ -1355,7 +1492,7 @@
       ]
     },
     {
-      "title": "LXIII.VIDLICE • Bílá velryba",
+      "title": "LXIII.VIDLICE",
       "file": "bila_velryba_072.html",
       "words": 407,
       "chars": 2457,
@@ -1375,7 +1512,7 @@
       ]
     },
     {
-      "title": "LXIV.STUBBOVA VEČEŘE • Bílá velryba",
+      "title": "LXIV.STUBBOVA VEČEŘE",
       "file": "bila_velryba_073.html",
       "words": 2567,
       "chars": 15314,
@@ -1395,7 +1532,7 @@
       ]
     },
     {
-      "title": "LXV.VELRYBA JAKO JÍDLO • Bílá velryba",
+      "title": "LXV.VELRYBA JAKO JÍDLO",
       "file": "bila_velryba_074.html",
       "words": 815,
       "chars": 5070,
@@ -1415,7 +1552,7 @@
       ]
     },
     {
-      "title": "LXVI.MASAKR ŽRALOKŮ • Bílá velryba",
+      "title": "LXVI.MASAKR ŽRALOKŮ",
       "file": "bila_velryba_075.html",
       "words": 523,
       "chars": 3224,
@@ -1435,7 +1572,7 @@
       ]
     },
     {
-      "title": "LXVII.ROZSEKÁVÁNÍ VELRYBY • Bílá velryba",
+      "title": "LXVII.ROZSEKÁVÁNÍ VELRYBY",
       "file": "bila_velryba_076.html",
       "words": 549,
       "chars": 3485,
@@ -1455,7 +1592,7 @@
       ]
     },
     {
-      "title": "LXVIII.POKRÝVKA • Bílá velryba",
+      "title": "LXVIII.POKRÝVKA",
       "file": "bila_velryba_077.html",
       "words": 996,
       "chars": 6136,
@@ -1475,7 +1612,7 @@
       ]
     },
     {
-      "title": "LXIX.POHŘEB • Bílá velryba",
+      "title": "LXIX.POHŘEB",
       "file": "bila_velryba_078.html",
       "words": 385,
       "chars": 2473,
@@ -1495,7 +1632,7 @@
       ]
     },
     {
-      "title": "LXX.SFINGA • Bílá velryba",
+      "title": "LXX.SFINGA",
       "file": "bila_velryba_079.html",
       "words": 740,
       "chars": 4508,
@@ -1515,7 +1652,7 @@
       ]
     },
     {
-      "title": "LXXI.PŘÍBĚH JEROBOAMŮV • Bílá velryba",
+      "title": "LXXI.PŘÍBĚH JEROBOAMŮV",
       "file": "bila_velryba_080.html",
       "words": 1825,
       "chars": 11402,
@@ -1535,7 +1672,7 @@
       ]
     },
     {
-      "title": "LXXII.OPIČÍ ŠŇŮRA • Bílá velryba",
+      "title": "LXXII.OPIČÍ ŠŇŮRA",
       "file": "bila_velryba_081.html",
       "words": 1391,
       "chars": 8575,
@@ -1555,7 +1692,7 @@
       ]
     },
     {
-      "title": "LXXIII.STUBB A FLASKZABIJÍ GRÓNSKOU VELRYBU A POTOM O NÍ ROZMLOUVAJÍ • Bílá velryba",
+      "title": "LXXIII.STUBB A FLASKZABIJÍ GRÓNSKOU VELRYBU A POTOM O NÍ ROZMLOUVAJÍ",
       "file": "bila_velryba_082.html",
       "words": 1769,
       "chars": 10388,
@@ -1575,7 +1712,7 @@
       ]
     },
     {
-      "title": "LXXIV.HLAVA VORVANĚ — Z HLEDISKA SROVNÁVACÍHO • Bílá velryba",
+      "title": "LXXIV.HLAVA VORVANĚ — Z HLEDISKA SROVNÁVACÍHO",
       "file": "bila_velryba_083.html",
       "words": 1300,
       "chars": 7994,
@@ -1595,7 +1732,7 @@
       ]
     },
     {
-      "title": "LXXV.HLAVA VELRYBY GRÓNSKÉ —Z HLEDISKA SROVNÁVACÍHO • Bílá velryba",
+      "title": "LXXV.HLAVA VELRYBY GRÓNSKÉ —Z HLEDISKA SROVNÁVACÍHO",
       "file": "bila_velryba_084.html",
       "words": 981,
       "chars": 6203,
@@ -1615,7 +1752,7 @@
       ]
     },
     {
-      "title": "LXXVI.BERAN • Bílá velryba",
+      "title": "LXXVI.BERAN",
       "file": "bila_velryba_085.html",
       "words": 713,
       "chars": 4386,
@@ -1635,7 +1772,7 @@
       ]
     },
     {
-      "title": "LXXVII.VELIKÝ SUD HEIDELBERSKÝ • Bílá velryba",
+      "title": "LXXVII.VELIKÝ SUD HEIDELBERSKÝ",
       "file": "bila_velryba_086.html",
       "words": 501,
       "chars": 3320,
@@ -1655,7 +1792,7 @@
       ]
     },
     {
-      "title": "LXXVIII.CISTERNY A OKOVY • Bílá velryba",
+      "title": "LXXVIII.CISTERNY A OKOVY",
       "file": "bila_velryba_087.html",
       "words": 1329,
       "chars": 8116,
@@ -1675,7 +1812,7 @@
       ]
     },
     {
-      "title": "LXXIX.PRÉRIE • Bílá velryba",
+      "title": "LXXIX.PRÉRIE",
       "file": "bila_velryba_088.html",
       "words": 766,
       "chars": 4900,
@@ -1695,7 +1832,7 @@
       ]
     },
     {
-      "title": "LXXX.ZÁVITNICE • Bílá velryba",
+      "title": "LXXX.ZÁVITNICE",
       "file": "bila_velryba_089.html",
       "words": 704,
       "chars": 4557,
@@ -1715,7 +1852,7 @@
       ]
     },
     {
-      "title": "LXXXI.PEQUOD POTKÁVÁ PANNU • Bílá velryba",
+      "title": "LXXXI.PEQUOD POTKÁVÁ PANNU",
       "file": "bila_velryba_090.html",
       "words": 3676,
       "chars": 22562,
@@ -1735,7 +1872,7 @@
       ]
     },
     {
-      "title": "LXXXII.ČEST A SLÁVA VELRYBÁŘSTVÍ • Bílá velryba",
+      "title": "LXXXII.ČEST A SLÁVA VELRYBÁŘSTVÍ",
       "file": "bila_velryba_091.html",
       "words": 916,
       "chars": 5804,
@@ -1755,7 +1892,7 @@
       ]
     },
     {
-      "title": "LXXXIII.JONÁŠ Z HLEDISKA HISTORICKÉHO • Bílá velryba",
+      "title": "LXXXIII.JONÁŠ Z HLEDISKA HISTORICKÉHO",
       "file": "bila_velryba_092.html",
       "words": 660,
       "chars": 4069,
@@ -1775,7 +1912,7 @@
       ]
     },
     {
-      "title": "LXXXIV.DLOUHÝ VRH KOPÍM • Bílá velryba",
+      "title": "LXXXIV.DLOUHÝ VRH KOPÍM",
       "file": "bila_velryba_093.html",
       "words": 707,
       "chars": 4399,
@@ -1795,7 +1932,7 @@
       ]
     },
     {
-      "title": "LXXXV.FONTÁNA • Bílá velryba",
+      "title": "LXXXV.FONTÁNA",
       "file": "bila_velryba_094.html",
       "words": 1636,
       "chars": 10097,
@@ -1815,7 +1952,7 @@
       ]
     },
     {
-      "title": "LXXXVI.OCAS • Bílá velryba",
+      "title": "LXXXVI.OCAS",
       "file": "bila_velryba_095.html",
       "words": 1516,
       "chars": 9402,
@@ -1835,7 +1972,7 @@
       ]
     },
     {
-      "title": "LXXXVII.VELKOLEPÁ FLOTILA • Bílá velryba",
+      "title": "LXXXVII.VELKOLEPÁ FLOTILA",
       "file": "bila_velryba_096.html",
       "words": 3970,
       "chars": 25060,
@@ -1855,7 +1992,7 @@
       ]
     },
     {
-      "title": "LXXXVIII.ŠKOLY A UČITELÉ • Bílá velryba",
+      "title": "LXXXVIII.ŠKOLY A UČITELÉ",
       "file": "bila_velryba_097.html",
       "words": 1014,
       "chars": 6520,
@@ -1875,7 +2012,7 @@
       ]
     },
     {
-      "title": "LXXXIX.PŘIPOUTANÁ RYBA A VOLNÁ RYBA • Bílá velryba",
+      "title": "LXXXIX.PŘIPOUTANÁ RYBA A VOLNÁ RYBA",
       "file": "bila_velryba_098.html",
       "words": 1169,
       "chars": 7554,
@@ -1895,7 +2032,7 @@
       ]
     },
     {
-      "title": "XC.HLAVY NEBO OCASY • Bílá velryba",
+      "title": "XC.HLAVY NEBO OCASY",
       "file": "bila_velryba_099.html",
       "words": 854,
       "chars": 5346,
@@ -1915,7 +2052,7 @@
       ]
     },
     {
-      "title": "XCI.PEQUOD POTKÁVÁ RŮŽOVÉ POUPĚ • Bílá velryba",
+      "title": "XCI.PEQUOD POTKÁVÁ RŮŽOVÉ POUPĚ",
       "file": "bila_velryba_100.html",
       "words": 2092,
       "chars": 12643,
@@ -1935,7 +2072,7 @@
       ]
     },
     {
-      "title": "XCII.AMBRA • Bílá velryba",
+      "title": "XCII.AMBRA",
       "file": "bila_velryba_101.html",
       "words": 791,
       "chars": 4947,
@@ -1955,7 +2092,7 @@
       ]
     },
     {
-      "title": "XCIII.VYVRŽENEC • Bílá velryba",
+      "title": "XCIII.VYVRŽENEC",
       "file": "bila_velryba_102.html",
       "words": 1365,
       "chars": 8614,
@@ -1975,7 +2112,7 @@
       ]
     },
     {
-      "title": "XCIV.STISK RUKY • Bílá velryba",
+      "title": "XCIV.STISK RUKY",
       "file": "bila_velryba_103.html",
       "words": 1059,
       "chars": 6602,
@@ -1995,7 +2132,7 @@
       ]
     },
     {
-      "title": "XCV.TALÁR • Bílá velryba",
+      "title": "XCV.TALÁR",
       "file": "bila_velryba_104.html",
       "words": 397,
       "chars": 2462,
@@ -2015,7 +2152,7 @@
       ]
     },
     {
-      "title": "XCVI.ŠKVAŘENÍ • Bílá velryba",
+      "title": "XCVI.ŠKVAŘENÍ",
       "file": "bila_velryba_105.html",
       "words": 1528,
       "chars": 9443,
@@ -2035,7 +2172,7 @@
       ]
     },
     {
-      "title": "XCVII.LAMPA • Bílá velryba",
+      "title": "XCVII.LAMPA",
       "file": "bila_velryba_106.html",
       "words": 206,
       "chars": 1223,
@@ -2055,7 +2192,7 @@
       ]
     },
     {
-      "title": "XCVIII.ULOŽENÍ A ÚKLID • Bílá velryba",
+      "title": "XCVIII.ULOŽENÍ A ÚKLID",
       "file": "bila_velryba_107.html",
       "words": 855,
       "chars": 5211,
@@ -2075,7 +2212,7 @@
       ]
     },
     {
-      "title": "XCIX.DUBLON • Bílá velryba",
+      "title": "XCIX.DUBLON",
       "file": "bila_velryba_108.html",
       "words": 2169,
       "chars": 12819,
@@ -2095,7 +2232,7 @@
       ]
     },
     {
-      "title": "C.NOHA A RUKAPEQUOD Z NANTUCKETU SE SETKÁVÁ SE SAMUELEM ENDERBYM Z LONDÝNA • Bílá velryba",
+      "title": "C.NOHA A RUKAPEQUOD Z NANTUCKETU SE SETKÁVÁ SE SAMUELEM ENDERBYM Z LONDÝNA",
       "file": "bila_velryba_109.html",
       "words": 2321,
       "chars": 13684,
@@ -2115,7 +2252,7 @@
       ]
     },
     {
-      "title": "Cl.KARAFA • Bílá velryba",
+      "title": "Cl.KARAFA",
       "file": "bila_velryba_110.html",
       "words": 1506,
       "chars": 9500,
@@ -2135,7 +2272,7 @@
       ]
     },
     {
-      "title": "CII.HÁJ NA ARSACIDÁCH • Bílá velryba",
+      "title": "CII.HÁJ NA ARSACIDÁCH",
       "file": "bila_velryba_111.html",
       "words": 1353,
       "chars": 8481,
@@ -2155,7 +2292,7 @@
       ]
     },
     {
-      "title": "CIII.ROZMĚRY VELRYBÍ KOSTRY • Bílá velryba",
+      "title": "CIII.ROZMĚRY VELRYBÍ KOSTRY",
       "file": "bila_velryba_112.html",
       "words": 736,
       "chars": 4610,
@@ -2175,7 +2312,7 @@
       ]
     },
     {
-      "title": "CIV.VELRYBA FOSILNÍ • Bílá velryba",
+      "title": "CIV.VELRYBA FOSILNÍ",
       "file": "bila_velryba_113.html",
       "words": 1182,
       "chars": 7745,
@@ -2195,7 +2332,7 @@
       ]
     },
     {
-      "title": "CV.ZMENŠUJE SE VELIKOST VELRYBY?— VYHYNE? • Bílá velryba",
+      "title": "CV.ZMENŠUJE SE VELIKOST VELRYBY?— VYHYNE?",
       "file": "bila_velryba_114.html",
       "words": 1264,
       "chars": 8199,
@@ -2215,7 +2352,7 @@
       ]
     },
     {
-      "title": "CVI.ACHABOVA NOHA • Bílá velryba",
+      "title": "CVI.ACHABOVA NOHA",
       "file": "bila_velryba_115.html",
       "words": 698,
       "chars": 4434,
@@ -2235,7 +2372,7 @@
       ]
     },
     {
-      "title": "CVII.TESAŘ • Bílá velryba",
+      "title": "CVII.TESAŘ",
       "file": "bila_velryba_116.html",
       "words": 932,
       "chars": 5862,
@@ -2255,7 +2392,7 @@
       ]
     },
     {
-      "title": "CVIII.ACHAB A TESAŘ • Bílá velryba",
+      "title": "CVIII.ACHAB A TESAŘ",
       "file": "bila_velryba_117.html",
       "words": 1458,
       "chars": 8166,
@@ -2275,7 +2412,7 @@
       ]
     },
     {
-      "title": "CIX.ACHAB A STARBUCK V KAJUTĚ • Bílá velryba",
+      "title": "CIX.ACHAB A STARBUCK V KAJUTĚ",
       "file": "bila_velryba_118.html",
       "words": 784,
       "chars": 4880,
@@ -2295,7 +2432,7 @@
       ]
     },
     {
-      "title": "CX.KVÍKVEG V RAKVI • Bílá velryba",
+      "title": "CX.KVÍKVEG V RAKVI",
       "file": "bila_velryba_119.html",
       "words": 1916,
       "chars": 11680,
@@ -2315,7 +2452,7 @@
       ]
     },
     {
-      "title": "CXI.TICHÝ OCEÁN • Bílá velryba",
+      "title": "CXI.TICHÝ OCEÁN",
       "file": "bila_velryba_120.html",
       "words": 389,
       "chars": 2509,
@@ -2335,7 +2472,7 @@
       ]
     },
     {
-      "title": "CXII.KOVÁŘ • Bílá velryba",
+      "title": "CXII.KOVÁŘ",
       "file": "bila_velryba_121.html",
       "words": 797,
       "chars": 5051,
@@ -2355,7 +2492,7 @@
       ]
     },
     {
-      "title": "CXIII.KOVÁRNA • Bílá velryba",
+      "title": "CXIII.KOVÁRNA",
       "file": "bila_velryba_122.html",
       "words": 1057,
       "chars": 6362,
@@ -2375,7 +2512,7 @@
       ]
     },
     {
-      "title": "CXIV.POZLACOVAČ • Bílá velryba",
+      "title": "CXIV.POZLACOVAČ",
       "file": "bila_velryba_123.html",
       "words": 599,
       "chars": 3688,
@@ -2395,7 +2532,7 @@
       ]
     },
     {
-      "title": "CXV.PEQUOD POTKÁVÁ MLÁDENCE • Bílá velryba",
+      "title": "CXV.PEQUOD POTKÁVÁ MLÁDENCE",
       "file": "bila_velryba_124.html",
       "words": 771,
       "chars": 4713,
@@ -2415,7 +2552,7 @@
       ]
     },
     {
-      "title": "CXVI.UMÍRAJÍCÍ VELRYBA • Bílá velryba",
+      "title": "CXVI.UMÍRAJÍCÍ VELRYBA",
       "file": "bila_velryba_125.html",
       "words": 489,
       "chars": 3021,
@@ -2435,7 +2572,7 @@
       ]
     },
     {
-      "title": "CXVII.HLÍDKA U VELRYBY • Bílá velryba",
+      "title": "CXVII.HLÍDKA U VELRYBY",
       "file": "bila_velryba_126.html",
       "words": 427,
       "chars": 2505,
@@ -2455,7 +2592,7 @@
       ]
     },
     {
-      "title": "CXVIII.KVADRANT • Bílá velryba",
+      "title": "CXVIII.KVADRANT",
       "file": "bila_velryba_127.html",
       "words": 773,
       "chars": 4661,
@@ -2475,7 +2612,7 @@
       ]
     },
     {
-      "title": "CXIX.SVÍČKY • Bílá velryba",
+      "title": "CXIX.SVÍČKY",
       "file": "bila_velryba_128.html",
       "words": 2150,
       "chars": 13096,
@@ -2495,7 +2632,7 @@
       ]
     },
     {
-      "title": "CXX.PALUBA KE KONCIPRVNÍ NOČNÍ HLÍDKY • Bílá velryba",
+      "title": "CXX.PALUBA KE KONCIPRVNÍ NOČNÍ HLÍDKY",
       "file": "bila_velryba_129.html",
       "words": 159,
       "chars": 971,
@@ -2515,7 +2652,7 @@
       ]
     },
     {
-      "title": "CXXI.PŮLNOC — ZÁBRADLÍNA PŘEDNÍ PALUBĚ • Bílá velryba",
+      "title": "CXXI.PŮLNOC — ZÁBRADLÍNA PŘEDNÍ PALUBĚ",
       "file": "bila_velryba_130.html",
       "words": 537,
       "chars": 3126,
@@ -2535,7 +2672,7 @@
       ]
     },
     {
-      "title": "CXXII.O PŮLNOCI NA STOŽÁRUHROMY A BLESKY • Bílá velryba",
+      "title": "CXXII.O PŮLNOCI NA STOŽÁRUHROMY A BLESKY",
       "file": "bila_velryba_131.html",
       "words": 49,
       "chars": 280,
@@ -2555,7 +2692,7 @@
       ]
     },
     {
-      "title": "CXXIII.MUŠKETA • Bílá velryba",
+      "title": "CXXIII.MUŠKETA",
       "file": "bila_velryba_132.html",
       "words": 1075,
       "chars": 6382,
@@ -2575,7 +2712,7 @@
       ]
     },
     {
-      "title": "CXXIV.MAGNETICKÁ STŘELKA • Bílá velryba",
+      "title": "CXXIV.MAGNETICKÁ STŘELKA",
       "file": "bila_velryba_133.html",
       "words": 1001,
       "chars": 6394,
@@ -2595,7 +2732,7 @@
       ]
     },
     {
-      "title": "CXXV.RYCHLOMĚR A ŠŇŮRA • Bílá velryba",
+      "title": "CXXV.RYCHLOMĚR A ŠŇŮRA",
       "file": "bila_velryba_134.html",
       "words": 1028,
       "chars": 6091,
@@ -2615,7 +2752,7 @@
       ]
     },
     {
-      "title": "CXXVI.ZÁCHRANNÁ PLAVATKA • Bílá velryba",
+      "title": "CXXVI.ZÁCHRANNÁ PLAVATKA",
       "file": "bila_velryba_135.html",
       "words": 1150,
       "chars": 6986,
@@ -2635,7 +2772,7 @@
       ]
     },
     {
-      "title": "CXXVII.PALUBA • Bílá velryba",
+      "title": "CXXVII.PALUBA",
       "file": "bila_velryba_136.html",
       "words": 645,
       "chars": 3769,
@@ -2655,7 +2792,7 @@
       ]
     },
     {
-      "title": "CXXVIII.PEQUOD POTKÁVÁ RÁCHEL • Bílá velryba",
+      "title": "CXXVIII.PEQUOD POTKÁVÁ RÁCHEL",
       "file": "bila_velryba_137.html",
       "words": 1245,
       "chars": 7391,
@@ -2675,7 +2812,7 @@
       ]
     },
     {
-      "title": "CXXIX.KAJUTA • Bílá velryba",
+      "title": "CXXIX.KAJUTA",
       "file": "bila_velryba_138.html",
       "words": 535,
       "chars": 3076,
@@ -2695,7 +2832,7 @@
       ]
     },
     {
-      "title": "CXXX.KLOBOUK • Bílá velryba",
+      "title": "CXXX.KLOBOUK",
       "file": "bila_velryba_139.html",
       "words": 1420,
       "chars": 8600,
@@ -2715,7 +2852,7 @@
       ]
     },
     {
-      "title": "CXXXI.PEQUOD POTKÁVÁ ROZKOŠ • Bílá velryba",
+      "title": "CXXXI.PEQUOD POTKÁVÁ ROZKOŠ",
       "file": "bila_velryba_140.html",
       "words": 373,
       "chars": 2351,
@@ -2735,7 +2872,7 @@
       ]
     },
     {
-      "title": "CXXXII.SYMFONIE • Bílá velryba",
+      "title": "CXXXII.SYMFONIE",
       "file": "bila_velryba_141.html",
       "words": 1462,
       "chars": 8746,
@@ -2755,7 +2892,7 @@
       ]
     },
     {
-      "title": "CXXXIII.STÍHÁNÍ — PRVNÍ DEN • Bílá velryba",
+      "title": "CXXXIII.STÍHÁNÍ — PRVNÍ DEN",
       "file": "bila_velryba_142.html",
       "words": 3116,
       "chars": 19019,
@@ -2775,7 +2912,7 @@
       ]
     },
     {
-      "title": "CXXXIV.STÍHÁNÍ — DRUHÝ DEN • Bílá velryba",
+      "title": "CXXXIV.STÍHÁNÍ — DRUHÝ DEN",
       "file": "bila_velryba_143.html",
       "words": 2904,
       "chars": 17571,
@@ -2795,7 +2932,7 @@
       ]
     },
     {
-      "title": "CXXXV.STÍHÁNÍ — TŘETÍ DEN • Bílá velryba",
+      "title": "CXXXV.STÍHÁNÍ — TŘETÍ DEN",
       "file": "bila_velryba_144.html",
       "words": 4034,
       "chars": 24034,
@@ -2815,7 +2952,7 @@
       ]
     },
     {
-      "title": "EPILOG • Bílá velryba",
+      "title": "EPILOG",
       "file": "bila_velryba_145.html",
       "words": 240,
       "chars": 1440,
@@ -2835,11 +2972,11 @@
       ]
     },
     {
-      "title": "Tiráž • Bílá velryba",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 162,
-      "chars": 1050,
-      "ideas": 26,
+      "words": 133,
+      "chars": 853,
+      "ideas": 18,
       "role": "colophon",
       "order": null,
       "prev": "bila_velryba_145.html",
@@ -2857,9 +2994,9 @@
   ],
   "totals": {
     "all": {
-      "words": 180043,
-      "chars": 1108614,
-      "ideas": 2970
+      "words": 180014,
+      "chars": 1108417,
+      "ideas": 2962
     },
     "chapters": {
       "words": 179875,

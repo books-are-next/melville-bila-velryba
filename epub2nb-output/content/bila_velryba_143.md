@@ -1,5 +1,5 @@
 ---
-title: "CXXXIV.STÍHÁNÍ\_— DRUHÝ DEN"
+title: "CXXXIV\\.STÍHÁNÍ\_— DRUHÝ DEN"
 contentType: prose
 ---
 

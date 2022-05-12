@@ -1,5 +1,5 @@
 ---
-title: LXX.SFINGA
+title: LXX\.SFINGA
 contentType: prose
 ---
 

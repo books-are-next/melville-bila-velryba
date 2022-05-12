@@ -1,5 +1,5 @@
 ---
-title: XXXIII.VRCHNÍ HARPUNÁŘ
+title: XXXIII\.VRCHNÍ HARPUNÁŘ
 contentType: prose
 ---
 

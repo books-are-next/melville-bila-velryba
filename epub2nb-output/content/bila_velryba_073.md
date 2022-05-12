@@ -1,5 +1,5 @@
 ---
-title: LXIV.STUBBOVA VEČEŘE
+title: LXIV\.STUBBOVA VEČEŘE
 contentType: prose
 ---
 

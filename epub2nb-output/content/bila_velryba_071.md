@@ -1,5 +1,5 @@
 ---
-title: LXII.VRH HARPUNOU
+title: LXII\.VRH HARPUNOU
 contentType: prose
 ---
 

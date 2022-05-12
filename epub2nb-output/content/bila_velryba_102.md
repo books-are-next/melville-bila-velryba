@@ -1,5 +1,5 @@
 ---
-title: XCIII.VYVRŽENEC
+title: XCIII\.VYVRŽENEC
 contentType: prose
 ---
 

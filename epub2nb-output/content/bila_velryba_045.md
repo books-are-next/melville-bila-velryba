@@ -1,5 +1,5 @@
 ---
-title: XXXVI.VELITELSKÁ PALUBA
+title: XXXVI\.VELITELSKÁ PALUBA
 contentType: prose
 ---
 

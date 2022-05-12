@@ -1,5 +1,5 @@
 ---
-title: CXII.KOVÁŘ
+title: CXII\.KOVÁŘ
 contentType: prose
 ---
 

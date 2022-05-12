@@ -1,5 +1,5 @@
 ---
-title: XCVI.ŠKVAŘENÍ
+title: XCVI\.ŠKVAŘENÍ
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: XXII.VESELÉ VÁNOCE
+title: XXII\.VESELÉ VÁNOCE
 contentType: prose
 ---
 

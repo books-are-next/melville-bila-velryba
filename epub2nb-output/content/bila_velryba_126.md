@@ -1,5 +1,5 @@
 ---
-title: "CXVII.HLÍDKA U\_VELRYBY"
+title: "CXVII\\.HLÍDKA U\_VELRYBY"
 contentType: prose
 ---
 

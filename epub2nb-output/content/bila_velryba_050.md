@@ -1,5 +1,5 @@
 ---
-title: XLI.MOBY DICK
+title: XLI\.MOBY DICK
 contentType: prose
 ---
 

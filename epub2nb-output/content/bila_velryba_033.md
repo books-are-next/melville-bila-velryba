@@ -1,5 +1,5 @@
 ---
-title: XXIV.OBHÁJCE
+title: XXIV\.OBHÁJCE
 contentType: prose
 ---
 

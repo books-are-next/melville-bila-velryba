@@ -1,5 +1,5 @@
 ---
-title: LXI.STUBB ZABÍJÍ VELRYBU
+title: LXI\.STUBB ZABÍJÍ VELRYBU
 contentType: prose
 ---
 

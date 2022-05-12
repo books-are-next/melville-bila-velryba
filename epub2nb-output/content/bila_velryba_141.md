@@ -1,5 +1,5 @@
 ---
-title: CXXXII.SYMFONIE
+title: CXXXII\.SYMFONIE
 contentType: prose
 ---
 

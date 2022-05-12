@@ -1,5 +1,5 @@
 ---
-title: LXVIII.POKRÝVKA
+title: LXVIII\.POKRÝVKA
 contentType: prose
 ---
 

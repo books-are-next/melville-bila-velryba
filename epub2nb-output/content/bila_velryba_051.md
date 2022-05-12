@@ -1,5 +1,5 @@
 ---
-title: XLII.BĚLOST VELRYBY
+title: XLII\.BĚLOST VELRYBY
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: XXXVIII.SOUMRAK
+title: XXXVIII\.SOUMRAK
 contentType: prose
 ---
 

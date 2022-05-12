@@ -1,5 +1,5 @@
 ---
-title: IX.KÁZÁNÍ
+title: IX\.KÁZÁNÍ
 contentType: prose
 ---
 

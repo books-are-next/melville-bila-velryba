@@ -1,5 +1,5 @@
 ---
-title: CXIV.POZLACOVAČ
+title: CXIV\.POZLACOVAČ
 contentType: prose
 ---
 

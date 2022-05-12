@@ -1,5 +1,5 @@
 ---
-title: "III.HOSTINEC „U\_VELRYBY“"
+title: "III\\.HOSTINEC „U\_VELRYBY“"
 contentType: prose
 ---
 

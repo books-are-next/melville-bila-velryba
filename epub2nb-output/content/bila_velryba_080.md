@@ -1,5 +1,5 @@
 ---
-title: LXXI.PŘÍBĚH JEROBOAMŮV
+title: LXXI\.PŘÍBĚH JEROBOAMŮV
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: LI.PŘÍZRAČNÝ VODOMET
+title: LI\.PŘÍZRAČNÝ VODOMET
 contentType: prose
 ---
 

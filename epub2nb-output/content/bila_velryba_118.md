@@ -1,5 +1,5 @@
 ---
-title: "CIX.ACHAB A\_STARBUCK V\_KAJUTĚ"
+title: "CIX\\.ACHAB A\_STARBUCK V\_KAJUTĚ"
 contentType: prose
 ---
 

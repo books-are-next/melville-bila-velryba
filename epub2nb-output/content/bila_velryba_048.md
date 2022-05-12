@@ -1,5 +1,5 @@
 ---
-title: XXXIX.PRVNÍ NOČNÍ HLÍDKAPŘEDNÍ KOŠ
+title: XXXIX\.PRVNÍ NOČNÍ HLÍDKAPŘEDNÍ KOŠ
 contentType: prose
 ---
 

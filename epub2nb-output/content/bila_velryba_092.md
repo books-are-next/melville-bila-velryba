@@ -1,5 +1,5 @@
 ---
-title: "LXXXIII.JONÁŠ Z\_HLEDISKA HISTORICKÉHO"
+title: "LXXXIII\\.JONÁŠ Z\_HLEDISKA HISTORICKÉHO"
 contentType: prose
 ---
 

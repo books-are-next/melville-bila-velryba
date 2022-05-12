@@ -1,5 +1,5 @@
 ---
-title: "XXXIV.STŮL V\_KAJUTĚ"
+title: "XXXIV\\.STŮL V\_KAJUTĚ"
 contentType: prose
 ---
 

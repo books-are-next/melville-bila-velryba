@@ -1,5 +1,5 @@
 ---
-title: "LXXXVIII.ŠKOLY A\_UČITELÉ"
+title: "LXXXVIII\\.ŠKOLY A\_UČITELÉ"
 contentType: prose
 ---
 

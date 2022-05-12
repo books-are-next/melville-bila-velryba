@@ -1,5 +1,5 @@
 ---
-title: XVI.LOĎ
+title: XVI\.LOĎ
 contentType: prose
 ---
 

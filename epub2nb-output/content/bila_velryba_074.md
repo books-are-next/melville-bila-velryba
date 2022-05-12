@@ -1,5 +1,5 @@
 ---
-title: LXV.VELRYBA JAKO JÍDLO
+title: LXV\.VELRYBA JAKO JÍDLO
 contentType: prose
 ---
 

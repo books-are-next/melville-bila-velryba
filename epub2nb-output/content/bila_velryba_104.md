@@ -1,5 +1,5 @@
 ---
-title: XCV.TALÁR
+title: XCV\.TALÁR
 contentType: prose
 ---
 

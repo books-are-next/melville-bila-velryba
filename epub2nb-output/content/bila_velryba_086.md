@@ -1,5 +1,5 @@
 ---
-title: LXXVII.VELIKÝ SUD HEIDELBERSKÝ
+title: LXXVII\.VELIKÝ SUD HEIDELBERSKÝ
 contentType: prose
 ---
 

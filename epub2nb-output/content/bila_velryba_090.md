@@ -1,5 +1,5 @@
 ---
-title: LXXXI.PEQUOD POTKÁVÁ PANNU
+title: LXXXI\.PEQUOD POTKÁVÁ PANNU
 contentType: prose
 ---
 

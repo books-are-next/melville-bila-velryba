@@ -1,5 +1,5 @@
 ---
-title: LXXIV.HLAVA VORVANĚ — Z HLEDISKA SROVNÁVACÍHO
+title: LXXIV\.HLAVA VORVANĚ — Z HLEDISKA SROVNÁVACÍHO
 contentType: prose
 ---
 

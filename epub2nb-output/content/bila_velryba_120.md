@@ -1,5 +1,5 @@
 ---
-title: CXI.TICHÝ OCEÁN
+title: CXI\.TICHÝ OCEÁN
 contentType: prose
 ---
 

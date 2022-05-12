@@ -1,5 +1,5 @@
 ---
-title: XII.ŽIVOTOPISNÁ
+title: XII\.ŽIVOTOPISNÁ
 contentType: prose
 ---
 

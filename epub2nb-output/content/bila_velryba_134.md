@@ -1,5 +1,5 @@
 ---
-title: "CXXV.RYCHLOMĚR A\_ŠŇŮRA"
+title: "CXXV\\.RYCHLOMĚR A\_ŠŇŮRA"
 contentType: prose
 ---
 

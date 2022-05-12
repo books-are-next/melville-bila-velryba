@@ -1,5 +1,5 @@
 ---
-title: XV.ŠKEBLÍ POLÉVKA
+title: XV\.ŠKEBLÍ POLÉVKA
 contentType: prose
 ---
 

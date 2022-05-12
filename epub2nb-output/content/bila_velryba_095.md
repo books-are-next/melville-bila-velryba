@@ -1,5 +1,5 @@
 ---
-title: LXXXVI.OCAS
+title: LXXXVI\.OCAS
 contentType: prose
 ---
 

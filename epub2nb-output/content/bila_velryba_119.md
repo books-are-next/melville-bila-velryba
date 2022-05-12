@@ -1,5 +1,5 @@
 ---
-title: CX.KVÍKVEG V RAKVI
+title: CX\.KVÍKVEG V RAKVI
 contentType: prose
 ---
 
