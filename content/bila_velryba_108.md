@@ -1,5 +1,5 @@
 ---
-title: XCIX.DUBLON
+title: XCIX\.DUBLON
 contentType: prose
 ---
 

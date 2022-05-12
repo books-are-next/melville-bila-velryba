@@ -1,5 +1,5 @@
 ---
-title: LX.PROVAZEC
+title: LX\.PROVAZEC
 contentType: prose
 ---
 

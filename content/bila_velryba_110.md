@@ -1,5 +1,5 @@
 ---
-title: Cl.KARAFA
+title: Cl\.KARAFA
 contentType: prose
 ---
 

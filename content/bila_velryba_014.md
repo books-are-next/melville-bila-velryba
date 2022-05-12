@@ -1,5 +1,5 @@
 ---
-title: V.SNÍDANĚ
+title: V\.SNÍDANĚ
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: CXXXI.PEQUOD POTKÁVÁ ROZKOŠ
+title: CXXXI\.PEQUOD POTKÁVÁ ROZKOŠ
 contentType: prose
 ---
 

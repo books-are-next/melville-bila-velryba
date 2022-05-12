@@ -1,5 +1,5 @@
 ---
-title: XXVI.RYTÍŘI A PANOŠI
+title: XXVI\.RYTÍŘI A PANOŠI
 contentType: prose
 ---
 

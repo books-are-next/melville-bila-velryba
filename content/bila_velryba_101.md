@@ -1,5 +1,5 @@
 ---
-title: XCII.AMBRA
+title: XCII\.AMBRA
 contentType: prose
 ---
 

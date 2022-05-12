@@ -1,5 +1,5 @@
 ---
-title: XLIII.SLYŠ!
+title: XLIII\.SLYŠ!
 contentType: prose
 ---
 

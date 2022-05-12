@@ -1,5 +1,5 @@
 ---
-title: LIII.GAM
+title: LIII\.GAM
 contentType: prose
 ---
 

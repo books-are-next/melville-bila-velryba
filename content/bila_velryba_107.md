@@ -1,5 +1,5 @@
 ---
-title: XCVIII.ULOŽENÍ A ÚKLID
+title: XCVIII\.ULOŽENÍ A ÚKLID
 contentType: prose
 ---
 

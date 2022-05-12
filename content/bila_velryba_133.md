@@ -1,5 +1,5 @@
 ---
-title: CXXIV.MAGNETICKÁ STŘELKA
+title: CXXIV\.MAGNETICKÁ STŘELKA
 contentType: prose
 ---
 

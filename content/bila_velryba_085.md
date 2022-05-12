@@ -1,5 +1,5 @@
 ---
-title: LXXVI.BERAN
+title: LXXVI\.BERAN
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: XIX.PROROK
+title: XIX\.PROROK
 contentType: prose
 ---
 

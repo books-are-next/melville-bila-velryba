@@ -1,5 +1,5 @@
 ---
-title: "LXXXII.ČEST A\_SLÁVA VELRYBÁŘSTVÍ"
+title: "LXXXII\\.ČEST A\_SLÁVA VELRYBÁŘSTVÍ"
 contentType: prose
 ---
 

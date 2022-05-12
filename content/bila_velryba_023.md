@@ -1,5 +1,5 @@
 ---
-title: XIV.NANTUCKET
+title: XIV\.NANTUCKET
 contentType: prose
 ---
 

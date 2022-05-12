@@ -1,5 +1,5 @@
 ---
-title: XCIV.STISK RUKY
+title: XCIV\.STISK RUKY
 contentType: prose
 ---
 

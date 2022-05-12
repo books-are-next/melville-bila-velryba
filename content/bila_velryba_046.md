@@ -1,5 +1,5 @@
 ---
-title: XXXVII.ZÁPAD SLUNCE
+title: XXXVII\.ZÁPAD SLUNCE
 contentType: prose
 ---
 

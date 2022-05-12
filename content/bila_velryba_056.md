@@ -1,5 +1,5 @@
 ---
-title: XLVII.TKADLEC
+title: XLVII\.TKADLEC
 contentType: prose
 ---
 

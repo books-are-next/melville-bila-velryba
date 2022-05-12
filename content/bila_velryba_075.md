@@ -1,5 +1,5 @@
 ---
-title: LXVI.MASAKR ŽRALOKŮ
+title: LXVI\.MASAKR ŽRALOKŮ
 contentType: prose
 ---
 

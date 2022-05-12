@@ -1,5 +1,5 @@
 ---
-title: CXXXIII.STÍHÁNÍ — PRVNÍ DEN
+title: CXXXIII\.STÍHÁNÍ — PRVNÍ DEN
 contentType: prose
 ---
 

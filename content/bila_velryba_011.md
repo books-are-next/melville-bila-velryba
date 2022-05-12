@@ -1,5 +1,5 @@
 ---
-title: II.TLUMOK
+title: II\.TLUMOK
 contentType: prose
 ---
 

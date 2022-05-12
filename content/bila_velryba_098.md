@@ -1,5 +1,5 @@
 ---
-title: "LXXXIX.PŘIPOUTANÁ RYBA A\_VOLNÁ RYBA"
+title: "LXXXIX\\.PŘIPOUTANÁ RYBA A\_VOLNÁ RYBA"
 contentType: prose
 ---
 

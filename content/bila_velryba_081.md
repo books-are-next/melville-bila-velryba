@@ -1,5 +1,5 @@
 ---
-title: LXXII.OPIČÍ ŠŇŮRA
+title: LXXII\.OPIČÍ ŠŇŮRA
 contentType: prose
 ---
 

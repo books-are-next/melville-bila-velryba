@@ -1,5 +1,5 @@
 ---
-title: LIX.CHOBOTNICE
+title: LIX\.CHOBOTNICE
 contentType: prose
 ---
 

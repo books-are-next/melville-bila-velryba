@@ -1,5 +1,5 @@
 ---
-title: XXI.CESTOU NA LOĎ
+title: XXI\.CESTOU NA LOĎ
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: CXXVI.ZÁCHRANNÁ PLAVATKA
+title: CXXVI\.ZÁCHRANNÁ PLAVATKA
 contentType: prose
 ---
 

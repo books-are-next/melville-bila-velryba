@@ -1,5 +1,5 @@
 ---
-title: XXX.DÝMKA
+title: XXX\.DÝMKA
 contentType: prose
 ---
 

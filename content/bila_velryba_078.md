@@ -1,5 +1,5 @@
 ---
-title: LXIX.POHŘEB
+title: LXIX\.POHŘEB
 contentType: prose
 ---
 

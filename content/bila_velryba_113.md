@@ -1,5 +1,5 @@
 ---
-title: CIV.VELRYBA FOSILNÍ
+title: CIV\.VELRYBA FOSILNÍ
 contentType: prose
 ---
 

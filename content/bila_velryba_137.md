@@ -1,5 +1,5 @@
 ---
-title: CXXVIII.PEQUOD POTKÁVÁ RÁCHEL
+title: CXXVIII\.PEQUOD POTKÁVÁ RÁCHEL
 contentType: prose
 ---
 

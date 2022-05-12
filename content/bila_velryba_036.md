@@ -1,5 +1,5 @@
 ---
-title: XXVII.RYTÍŘI A PANOŠI
+title: XXVII\.RYTÍŘI A PANOŠI
 contentType: prose
 ---
 

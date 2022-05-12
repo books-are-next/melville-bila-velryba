@@ -1,5 +1,5 @@
 ---
-title: CXXIX.KAJUTA
+title: CXXIX\.KAJUTA
 contentType: prose
 ---
 

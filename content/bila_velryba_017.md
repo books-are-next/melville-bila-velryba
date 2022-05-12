@@ -1,5 +1,5 @@
 ---
-title: VIII.KAZATELNA
+title: VIII\.KAZATELNA
 contentType: prose
 ---
 

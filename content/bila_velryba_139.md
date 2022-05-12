@@ -1,5 +1,5 @@
 ---
-title: CXXX.KLOBOUK
+title: CXXX\.KLOBOUK
 contentType: prose
 ---
 

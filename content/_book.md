@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - bila_velryba_002.html
+  - promo.html
   - bila_velryba_005.html
   - bila_velryba_006.html
   - bila_velryba_007.html

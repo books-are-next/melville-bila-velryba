@@ -1,5 +1,5 @@
 ---
-title: CXX.PALUBA KE KONCIPRVNÍ NOČNÍ HLÍDKY
+title: CXX\.PALUBA KE KONCIPRVNÍ NOČNÍ HLÍDKY
 contentType: prose
 ---
 

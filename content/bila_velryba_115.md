@@ -1,5 +1,5 @@
 ---
-title: CVI.ACHABOVA NOHA
+title: CVI\.ACHABOVA NOHA
 contentType: prose
 ---
 

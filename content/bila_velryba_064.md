@@ -1,5 +1,5 @@
 ---
-title: "LV.O\_NESTVŮRNÝCH ZOBRAZENÍCH VELRYB"
+title: "LV\\.O\_NESTVŮRNÝCH ZOBRAZENÍCH VELRYB"
 contentType: prose
 ---
 

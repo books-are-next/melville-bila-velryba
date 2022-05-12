@@ -1,5 +1,5 @@
 ---
-title: LXXXIV.DLOUHÝ VRH KOPÍM
+title: LXXXIV\.DLOUHÝ VRH KOPÍM
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: X.DŮVĚRNÝ PŘÍTEL
+title: X\.DŮVĚRNÝ PŘÍTEL
 contentType: prose
 ---
 

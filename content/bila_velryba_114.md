@@ -1,5 +1,5 @@
 ---
-title: "CV.ZMENŠUJE SE VELIKOST VELRYBY?—\_VYHYNE?"
+title: "CV\\.ZMENŠUJE SE VELIKOST VELRYBY?—\_VYHYNE?"
 contentType: prose
 ---
 

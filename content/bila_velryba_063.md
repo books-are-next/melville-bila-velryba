@@ -1,5 +1,5 @@
 ---
-title: LIV.PŘÍBĚH LODI TOWN-HO
+title: LIV\.PŘÍBĚH LODI TOWN-HO
 contentType: prose
 ---
 

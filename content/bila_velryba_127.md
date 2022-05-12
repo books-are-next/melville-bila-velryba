@@ -1,5 +1,5 @@
 ---
-title: CXVIII.KVADRANT
+title: CXVIII\.KVADRANT
 contentType: prose
 ---
 

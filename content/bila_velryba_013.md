@@ -1,5 +1,5 @@
 ---
-title: IV.PŘIKRÝVKA
+title: IV\.PŘIKRÝVKA
 contentType: prose
 ---
 

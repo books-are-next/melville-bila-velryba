@@ -1,5 +1,5 @@
 ---
-title: XXVIII.ACHAB
+title: XXVIII\.ACHAB
 contentType: prose
 ---
 

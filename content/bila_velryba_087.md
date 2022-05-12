@@ -1,5 +1,5 @@
 ---
-title: "LXXVIII.CISTERNY A\_OKOVY"
+title: "LXXVIII\\.CISTERNY A\_OKOVY"
 contentType: prose
 ---
 

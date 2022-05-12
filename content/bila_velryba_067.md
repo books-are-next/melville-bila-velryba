@@ -1,5 +1,5 @@
 ---
-title: LVIII.PLANKTON
+title: LVIII\.PLANKTON
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: CXXXV.STÍHÁNÍ — TŘETÍ DEN
+title: CXXXV\.STÍHÁNÍ — TŘETÍ DEN
 contentType: prose
 ---
 
