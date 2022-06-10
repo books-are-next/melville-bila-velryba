@@ -3,8 +3,6 @@ title: XCIX\.DUBLON
 contentType: prose
 ---
 
-  
-
 Pověděli jsme už, jak měl Achab ve zvyku procházet se po velitelské palubě, od jednoho konce k druhému, s pravidelným obratem u kompasu a u hlavního stožáru. Ale při množství jiných věcí, o kterých bylo nutno vyprávět, nedodali jsme, že byl-li nejhloub ponořen do svých chmur, někdy se při těchto procházkách střídavě zastavoval na obou místech a stával tu, dívaje se podivně na předmět před sebou. Když se zastavil před kompasem a upřel oči na zahrocenou jehlu magnetky, vystřeloval jeho pohled jako oštěp a měl zaostřenou prudkost jeho úmyslu, a když zase vykročil a opět stanul u hlavního stožáru, ulpívaje stejným upřeným pohledem na přibité minci, měl stále ještě týž výraz soustředěné odhodlanosti, jen se k ní ještě přimísila jakási divoká touha, ne-li naděje.
 
 Ale jednou ráno, když se chtěl u dublonu obrátit bez zastávky, upoutaly jej náhle podivné symboly a nápisy na minci vyražené, jako by si je teď poprvé začal vykládat nějakým monomanickým způsobem, ať už skrývají význam jakýkoli. A nějaký význam skrývají všechny věci, jinak by byly bezcenné a celý kulatý svět by byl jen prázdnou nulou, která se hodí leda k prodeji na fůry – jako se to dělá s kopci kolem Bostonu – aby se vyplnily bažiny v Mléčné dráze.

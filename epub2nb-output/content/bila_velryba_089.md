@@ -3,8 +3,6 @@ title: LXXX\.ZÁVITNICE
 contentType: prose
 ---
 
-  
-
 Je-li vorvaň z hlediska fyziognomického sfingou, tedy se jeho mozek zdá frenologovi takovým problémem jako neuskutečnitelná kvadratura kruhu.
 
 U dospělého vorvaně měří lebka na délku přinejmenším dvacet stop. Vysaďte z kloubů spodní čelist a podívejte se na tuto lebku ze strany: je to jako pohled na mírně nakloněnou rovinu, plně spočívající na vodorovné základně. Ale zaživa – jak jsme jinde viděli – spočívá na této nakloněné rovině ohromná klínovitá výplň z vorvaniny – výplň tak mohutná, že má přední stěnu téměř čtvercovou. U vyššího konce lebky je kráter, v němž je uložena vorvanina, kdežto pod dlouhou podlahou tohoto kráteru – v jiné dutině, obvykle jen deset palců dlouhé a asi stejně hluboké – je uložena pouhá hrstka mozku tohoto netvora. Zaživa je mozek aspoň dvacet stop od zdánlivého čela, je ukryt za jeho obrovskými předními baštami jako nejvnitřnější citadela v mohutném pevnostním pásu Quebeku. Je schován jako drahocenná krabička, takže někteří moji známí velrybáři zcela popírají, že by vorvaň vůbec měl jiný mozek nežli ten zdánlivý, jejž tvoří krychlové yardy jeho skladiště vorvaniny. S představou o jeho celkové síle se podle všeho lépe srovnává, považujeme-li za sídlo jeho inteligence onen mystický úkryt; pak také pochopíme, proč leží mezi podivnými záhyby, chodbičkami a závity.

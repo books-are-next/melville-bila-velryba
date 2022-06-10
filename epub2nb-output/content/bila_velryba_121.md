@@ -3,8 +3,6 @@ title: CXII\.KOVÁŘ
 contentType: prose
 ---
 
-  
-
 Využívaje mírného letního počasí, které nyní vládlo v těchto zeměpisných šířkách, a připravuje se na zvláště čilé lovy, jež bylo lze zakrátko očekávat, neodnesl Perth, zamazaný, popálený starý kovář, svou přenosnou kovárnu zpět do skladiště, když skončil pomocné práce pro Achabovu nohu, nýbrž ponechal ji na palubě, pevně přivázanou k okům svorníků na hlavním stožáru. Velitelé člunů i harpunáři a veslaři teď od něho skoro ustavičně žádali nějakou drobnou práci, aby jim buď předělal, opravil, nebo nově zhotovil různé jejich zbraně a výstroj pro čluny. Často jej obklopoval dychtivý kruh mužů čekajících, až budou obslouženi; drželi rýče, hlavice kopí, harpuny a oštěpy a žárlivě střežili každý pohyb jeho učerněných rukou při těžké práci. Ale starcovo kladivo bylo trpělivé a vládla jím trpělivá ruka. Nereptal ani nedával najevo netrpělivost nebo rozmrzelost. Mlčenlivý, obezřelý a vážný, ohýbaje nahrbená záda ještě víc, lopotil se ustavičně, jako by lopota byla život sám a těžké údery jeho kladiva jako by byly těžkými údery jeho srdce. A tak tomu bylo. – Přesmutný úděl!
 
 Zvláštní starcova chůze, jakési nepatrné, ale zřejmě bolestné podklesávání při chůzi vzbudilo zvědavost námořníků hned na začátku plavby. Konečně podlehl jejich neustálým a nepříjemným dotazům, a tak se stalo, že všichni nyní znali potupný příběh jeho nešťastného osudu.

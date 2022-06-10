@@ -3,8 +3,6 @@ title: XLIII\.SLYŠ!
 contentType: prose
 ---
 
-  
-
 Psst! Slyšels ten hluk, Cabaco?“
 
 Byl čas popůlnoční hlídky. Měsíc jasně svítil. Námořníci stáli v řadě, která se táhla od jedné kádě s pitnou vodou uprostřed lodi až ke kádi u zábradlí na zádi. Takto si podávali kbelíky s vodou, aby naplnili zadní káď. Stáli většinou na posvátném území velitelské paluby, proto si dávali pozor, aby ani nemluvili, ani nešoupali nohama. Kbelíky šly z ruky do ruky v nejhlubším tichu, přerušovaném občas jen plesknutím plachty a stálým šumem neúnavně postupujícího kýlu.

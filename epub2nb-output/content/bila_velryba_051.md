@@ -3,8 +3,6 @@ title: XLII\.BĚLOST VELRYBY
 contentType: prose
 ---
 
-  
-
 Čím byla bílá velryba Achabovi, to už jsme naznačili; čím byla někdy mně, to dosud řečeno nebylo.
 
 Vedle oněch dost pochopitelných úvah o Moby Dickovi, jež musely čas od času vyvolat poplach v duši každého člověka, byla tu ještě jiná myšlenka, či spíše neurčitá, bezejmenná hrůza, jíž byl obestřen a která někdy svou mohutností zcela přehlušila všechno ostatní. A přece to bylo něco tak mystického a téměř nevyslovitelného, že skoro ztrácím naději, že bych to dovedl srozumitelně vyjádřit. Ze všeho nejvíc mě totiž děsila právě bělost velryby. Jak mohu doufat, že vyjádřím své dojmy? A přesto je, třebas nejasně a zkusmo, vyjádřit musím, jinak by všechny tyto kapitoly byly bezcenné.

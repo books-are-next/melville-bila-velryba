@@ -3,8 +3,6 @@ title: XXX\.DÝMKA
 contentType: prose
 ---
 
-  
-
 Když Stubb odešel, Achab chvíli stál, nahýbaje se přes zábradlí, a potom, jak si zvykl v poslední době, zavolal námořníka, který měl hlídku, a poslal ho dolů pro svou kostěnou stoličku a také pro dýmku. Zapálil si dýmku u kompasnicové lampy, a postaviv si stoličku na návětrné straně paluby, seděl a kouřil.
 
 Za starých nordických časů, jak vypráví tradice, byly trůny dánských králů, milujících moře, zhotovovány z narvalích klů. Jak se potom člověk mohl dívat na Achaba sedícího na oné třínožce z kostí a nevzpomenout si na královský majestát, který symbolizovala? Vždyť Achab byl chánem na lodi, králem moře a velkým pánem leviatanů.

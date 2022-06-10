@@ -3,8 +3,6 @@ title: CXXVII\.PALUBA
 contentType: prose
 ---
 
-  
-
 \[Rakev leží na dvou bubnech pro stočený provazec, mezi tesařovým ponkem a otevřeným otvorem do podpalubí. Tesař ucpává spáry rakve; přitom se mu na prsou rozvinuje soukaný konopný provázek z velkého klubka, zastrčeného pod kabátem. – Achab přichází pomalu z chodby ke kajutě a slyší, jak Pip jde za ním.\]
 
   

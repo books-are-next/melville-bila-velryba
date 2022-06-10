@@ -3,8 +3,6 @@ title: LXXXV\.FONTÁNA
 contentType: prose
 ---
 
-  
-
 Ačkoli po šest tisíc let – a nikdo neví, kolik milionů věků předtím – velké velryby vyrážely vodotrysky všude nad mořem, kropíce i a zamlžujíce zahrady hlubin jakoby samými kropícími nebo zamlžovacími konvemi; ačkoli po mnohá století tisíce lovců bývalo u samé velrybí fontány a pozorovalo její kropení a vodomet – ačkoli se dálo to všechno, přece až do této požehnané minuty (jedna hodina a patnáct a čtvrt minuty odpoledne 16. prosince L. P. 1851) zůstává ještě problémem, jsou-li fontány opravdu fontánami vody nebo pouhé páry – to je zajisté hodno pozoru.
 
 Podívejme se tedy na tuto věc a zároveň na jiné zajímavé okolnosti. Každý ví, že tvorové ploutevnatí dýchají většinou zvláštním důmyslným zařízením žáber vzduch, neustále míšený s živlem, v kterém plují. Proto by mohl sled nebo treska žít třeba sto let a ani jednou nevystrčit hlavu nad vodu. Ale velryba může žít jenom vdechováním čistého vzduchu přímo z ovzduší, poněvadž její zvláštní vnitřní struktura ji vybavila normálními plícemi jako lidské tvory. Proto musí pravidelně navštěvovat hořejší svět. Nemůže však ani sebeméně dýchat tlamou, protože vorvaní tlama v obvyklém postavení je aspoň osm stop pod hladinou. A co víc, dýchací trubice velryby nemá žádné spojení s její tlamou. Ne, dýchá jenom dýchacím otvorem, který má na vršku hlavy.

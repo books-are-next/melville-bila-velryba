@@ -3,8 +3,6 @@ title: LXXI\.PŘÍBĚH JEROBOAMŮV
 contentType: prose
 ---
 
-  
-
 Ruku v ruce se blížily loď a vítr. Vítr však byl rychlejší než loď a Pequod se brzy začala kolébat.
 
 Ponenáhlu bylo lze dalekohledem rozeznat podle člunů a obsazených vrcholků stožárů, že je to loď velrybářská. Ale poněvadž byla tak daleko na straně návětrné a hnala se mimo, jako by měla namířeno do jiného loviště, nebylo naděje, že se s ní Pequod setká. Vyvěsili proto signál a čekali, jaká bude odpověď.

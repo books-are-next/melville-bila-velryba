@@ -3,8 +3,6 @@ title: LXVIII\.POKRÝVKA
 contentType: prose
 ---
 
-  
-
 Věnovali jsme nemalou pozornost onomu předmětu velmi spornému, totiž kůži velryby. Mluvil jsem o ní se zkušenými velrybáři na vodě a s učenými přírodopisci na souši. Můj původní názor zůstává nezměněn, ale je to jenom názor.
 
 Otázka zní, co a kde je vlastně velrybí kůže? Již víte, co to je velrybí tuk. Tento tuk je svou stavbou cosi na způsob pevného, hustě vláknitého svalu, ale je houževnatější, pružnější a hutnější; vrstva bývá vysoká od osmi až deseti do dvanácti až patnácti palců.

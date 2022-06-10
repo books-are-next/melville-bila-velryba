@@ -3,8 +3,6 @@ title: XXXV\.VRCHOL STOŽÁRU
 contentType: prose
 ---
 
-  
-
 Bylo už příjemnější počasí, když na mne došlo v povinném střídání s ostatními námořníky, abych konal hlídku na vrcholu stožáru.
 
 U většiny amerických velrybářských lodí bývá zvykem, že se téměř hned při vyplutí lodi z přístavu stavějí na vrchol stožáru hlídky, třebaže loď má před sebou patnáct tisíc mil i víc, než dospěje k vlastnímu lovišti. A když se po třech, čtyřech nebo pěti letech plavby blíží k domovu a má někde ještě něco prázdného, řekněme jen prázdnou láhev – tedy jsou vrcholky jejích stožárů obsazeny hlídkami do poslední chvíle, a teprve když se její nejvyšší plachty ztrácejí mezi věžemi přístavu, vzdává se zcela naděje, že chytne ještě jednu velrybu.

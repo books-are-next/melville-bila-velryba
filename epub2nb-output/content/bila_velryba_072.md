@@ -3,8 +3,6 @@ title: LXIII\.VIDLICE
 contentType: prose
 ---
 
-  
-
 Z kmene vyrůstají větve, z větví větvičky. Tak u obsáhlého námětu vznikají kapitoly.
 
 Vidlice, o níž jsme se zmínili na jedné z předcházejících stránek, zasluhuje samostatné zmínky. Je to vroubkovaná hůl zvláštního tvaru, dlouhá asi dvě stopy, svisle vsazená do hráze člunu po pravé straně od kormidla blízko přídě; slouží k tomu, aby v ní spočinula dřevěná násada harpuny, jejíž kovový konec s obnaženým ostřím šikmo vyčnívá z přídě. Tak má vrhač tuto zbraň hned po ruce a chopí se jí stejně hbitě, jako zálesák strhne se stěny svou pušku. Obvykle bývají ve vidlici dvě harpuny, kterým se říká první a druhá ocel.

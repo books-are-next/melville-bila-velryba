@@ -3,8 +3,6 @@ title: LXI\.STUBB ZABÍJÍ VELRYBU
 contentType: prose
 ---
 
-  
-
 Bylo-li pro Starbucka objevení chobotnice zlověstným znamením, pro Kvíkvega znamenalo něco docela jiného.
 
 „Jak vidět ta ‚botnice,‘“ řekl divoch, když si brousil harpunu na přídi svého zavěšeného člunu, „tak potom brzy vidět vorvaně.“ Příští den byl nezvykle klidný a dusný, a poněvadž nebylo nic zvláštního na práci, posádka Pequody stěží dovedla odolávat ospalosti, vyvolané mořem tak prázdným. Tato část Indického oceánu, kterou jsme nyní pluli, není tak zvaným živým lovištěm, jak říkají velrybáři; to znamená, že tu zahlédneme mnohem méně plískavic, delfínů, létajících ryb a jiných čilých občanů vod živějších, nežli jsou vody u Rio de la Plata nebo za peruánským pobřežím.

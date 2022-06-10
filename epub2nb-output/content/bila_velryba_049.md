@@ -3,8 +3,6 @@ title: XL\.PŮLNOC NA PŘÍDI
 contentType: prose
 ---
 
-  
-
 HARPUNÁŘI A NÁMOŘNÍCI:
 
 __(_Čelní plachta se zvedá a je vidět hlídku – muži stojí, leží, opírají se a povalují v různých polohách a všichni sborem zpívají._)__

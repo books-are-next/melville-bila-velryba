@@ -3,8 +3,6 @@ title: XXI\.CESTOU NA LOĎ
 contentType: prose
 ---
 
-  
-
 Bylo již skoro šest hodin, ale v šedé mlze zatím jen slabě svítalo, když jsme docházeli k přístavišti.
 
 „Vidím-li dobře,“ řekl jsem Kvíkvegovi, „tamhle před námi běží nějací námořníci, nejsou to přece stíny. Myslím, že loď vypluje při východu slunce, přidej do kroku!“

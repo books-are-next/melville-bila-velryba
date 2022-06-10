@@ -3,11 +3,11 @@ title: VII\.KAPLE
 contentType: prose
 ---
 
-  
-
 V tomto New Bedfordu stojí velrybářská kaple a jen málo zasmušilých rybářů, kteří se zakrátko mají vydat na Indický nebo Tichý oceán, sem v neděli nezajde. Já jsem k nim nepatřil.
 
 Sotva jsem se vrátil z první ranní procházky, vyšel jsem znovu právě s tímto předsevzetím. Počasí se změnilo, místo jasného, slunečného chladna byla plískanice a mlha. Zahalen do ošumělého kalmuku, razil jsem si cestu proti úporné vichřici. Vstoupiv do kaple, spatřil jsem malé rozptýlené shromáždění námořníků, manželek námořníků a vdov po námořnících. Panovalo tu tlumené ticho, rušené pouze jekem vichru. Mlčeli. Žádný věřící zřejmě nepřisedl k sousedovi, ale úmyslně opodál, jako by každý ten tichý žal byl ostrovně osamělý a nesdělitelný. Kněz dosud nepřišel a mlčenlivé ostrůvky mužů a žen seděly a vytrvale se dívaly na několik mramorových desek s černými rámy, zasazených do zdi po obou stranách kazatelny. Tři z nich zněly asi takto, ale netvrdím, že je to doslovné znění:
+
+  
 
 \_\_\_\_\_\_\_\_\_\_
 
@@ -73,6 +73,8 @@ TATO DESKA BYLA ZASAZENA
 NA PAMÁTKU JEHO
 
 VDOVOU
+
+  
 
 Setřásl jsem zmrzlý sníh ze zledovatělého klobouku a kabátu a usedl jsem hned u dveří. Když jsem se pootočil, uviděl jsem k svému překvapení, že poblíž mne sedí Kvíkveg. Velebnost místa dojista na něho působila: ve tváři se mu zračil údiv a nedůvěřivá zvědavost. Divoch byl snad jediný, kdo si všiml mého příchodu, poněvadž jediný neuměl číst, a tak nečetl ony mrazivé nápisy na stěně. Nevím, byl-li přítomen některý příbuzný námořníků, jejichž jména tam byla napsána; při rybolovu se však stane tolik nezaznamenaných neštěstí a výraz některých žen, nehledíc už na smuteční šaty, vyjadřoval zřetelně trvalý zármutek, a tak jsem nepochyboval, že jsou tu shromážděni lidé, kterým účastný pohled na ty chmurné desky rozdírá nezhojené srdce, až staré rány znovu krvácejí.
 

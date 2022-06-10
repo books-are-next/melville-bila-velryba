@@ -3,8 +3,6 @@ title: CVIII\.ACHAB A TESAŘ
 contentType: prose
 ---
 
-  
-
 PALUBA — PRVNÍ NOČNÍ HLÍDKA
 
   

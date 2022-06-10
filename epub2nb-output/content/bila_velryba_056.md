@@ -3,15 +3,11 @@ title: XLVII\.TKADLEC
 contentType: prose
 ---
 
-  
-
 Bylo zamračené, dusné odpoledne. Námořníci se líně ploužili po palubě nebo tupě civěli na olověnou vodu. Kvíkveg a já jsme byli příjemně zaměstnáni pletením tak zvané mečové rohože, kterou jsme chtěli ještě připevnit na svůj člun. Všude bylo takové ticho a klid nabitý očekáváním a ve vzduchu se vznášela taková zakletá nálada, že každý zamlklý námořník se zdál pohroužen do svého neviditelného já.
 
 Byl jsem pomocníkem nebo pážetem Kvíkvegovým při pletení té rohože. Jak jsem protahoval tam a zpět útek tenkého provázku mezi dlouhá vlákna osnovy, užívaje své ruky jako člunku, Kvíkveg, stojící vedle mne, znovu a znovu vsouval mezi provázky těžký meč z dubového dřeva a lhostejně se díval na vodu, nedbale a bezmyšlenkovitě přirážeje každé vlákno, kam patřilo. Jak říkám, na celé lodi i na moři zavládla podivná ospalost, přerušovaná jen tupými údery meče, takže se zdálo, jako by to byl tkalcovský stav času a já sám jen pouhý článek, který ustavičně mechanicky tká osud. Tam ležela upevněná vlákna osnovy, vystavená jen jedinému, stále se opakujícímu, neměnnému záchvěvu, a tento záchvěv stačil jen propustit jiné vlákno, tažené napříč, až se potom spojilo s druhým vláknem. Ta osnova mi připadala jako nutnost; tady, uvažoval jsem, si sám posunuji člunek a vetkávám svůj vlastní osud do těch nezměnitelných vláken. Mezitím na útek dopadal Kvíkvegův meč, neuvažující, lhostejný, jednou šikmo, jednou nakřivo, silně nebo slabě, jak kdy, a tato rozmanitost závěrečného úderu dávala hotovému předivu konečný vzhled obdobně rozmanitý. Ten divochův meč, který dává konečnou podobu a tvar jak osnově, tak útku, ten bezstarostný a lhostejný meč zajisté představuje náhodu. Ano, náhoda, svobodná vůle a nutnost pracují společně a nerozcházejí se. Napjatá osnova nutnosti nemůže být odchýlena od svého základního směru – ač o to usiluje každý její opětovný záchvěv, svobodné vůli pak je dovoleno, aby svým člunkem pohybovala mezi danými vlákny, a náhoda, třebaže je omezena napjatými liniemi nutnosti a je v svých pohybech jen postranně řízena svobodnou vůlí, třebaže je takto určována oběma činiteli, náhoda střídavě ovládá oba a posledním zásahem mění tvářnost událostí.
 
 * * *
-
-  
 
 Takto jsme tkali a tkali, až mě náhle vyburcoval zvuk tak zvláštní, protáhlý, divoký a nezemský, že mi klubko svobodné vůle vypadlo z ruky a já stál, dívaje se do oblak, odkud se ten hlas snášel jako pták. Vysoko na stožáru stál potrhlý Taštego z Gay Headu. Horlivě se nahýbal kupředu, ruku měl nataženou jako taktovku a v krátkých intervalech vyrážel výkřiky. Pravda, stejný zvuk se možná v téže chvíli ozýval po všech mořích z několika set hrdel velrybářských hlídek, stojících vysoko ve vzduchu, ale jen málokteré z těch hrdel umělo dát obvyklému starému pokřiku tak podivuhodný spád jako indián Taštego.
 

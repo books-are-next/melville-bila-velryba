@@ -3,8 +3,6 @@ title: CVII\.TESAŘ
 contentType: prose
 ---
 
-  
-
 Usaďte se jako sultán mezi měsíce Saturnovy a podívejte se jen na člověka naprosto osamoceného, na pojem člověka; připadá vám jako zázrak, jako cosi velkolepého a strastného. Ale podívejte se z téhož hlediska na lidstvo vcelku, a bude se vám z větší části zdát stádem zbytečných duplikátů současných i dědičných. Tesař na Pequodě nebyl duplikátem, třebaže byl nejskromnější, a zdaleka nepředstavoval vznešenou lidskou odloučenost, a proto přichází osobně na toto jeviště.
 
 Jako všichni lodní tesaři, sloužící na moři, a zejména ti, kteří patří k lodím velrybářským, byl do jisté míry prakticky zběhlý a pohotový v četných řemeslech a zaměstnáních spřízněných s jeho řemeslem; tesařství je totiž starodávný, rozvětvený kmen všech četných řemesel, která mají více nebo méně co dělat se dřevem. Ale kromě toho, že se na něho vztahuje všeobecná poznámka, vyslovená výše, byl tesař na Pequodě neobyčejně zručný v oněch tisícerých mechanických úkonech bezejmenných, potřebných v naléhavých případech, které se znovu a znovu vyskytují na velké lodi za tříleté nebo čtyřleté plavby v necivilizovaných a dalekých mořích. Nezmiňujeme-li se ani o jeho pohotovém plnění běžných povinností, když opravoval děravé čluny, prasklá ráhna, předělával tvar špatně formovaných vesel, zasazoval očnice do paluby (tak se říká dřevěným prstencům se žlábkovitým okrajem pro smyčku lana) nebo nové dřevěné hřeby do bočních planěk a konal rozmanité jiné práce, které přímo příslušely jeho vlastnímu řemeslu, byl nadto ještě neobyčejně zručný ve všemožných nesourodých pracích, užitečných i jen pro zábavu.

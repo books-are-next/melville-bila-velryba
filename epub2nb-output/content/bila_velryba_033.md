@@ -3,8 +3,6 @@ title: XXIV\.OBHÁJCE
 contentType: prose
 ---
 
-  
-
 Když jsme se tedy s Kvíkvegem doopravdy pustili do toho velrybářského podnikání, a poněvadž velrybářství je u lidí na pevnině považováno za zaměstnání nepoetické a nepočestné, chtěl bych vás, suchozemci, přesvědčit, jak jste nespravedliví k nám, lovcům velryb.
 
 Předně: zdálo by se snad téměř zbytečné dokazovat, že široká veřejnost nestaví velrybářství na roveň tak zvaným svobodným povoláním. Kdyby byl cizinec uveden do kterékoli smíšené velkoměstské společnosti a představen jako harpunář, jistě by to pramálo zvýšilo obecnou úctu k jeho přednostem, a kdyby pak chtěl napodobit důstojníky válečného loďstva a připojil k svému jménu na navštívence iniciálky L. V. – Lovec Vorvaňů, každý by to považoval za svrchovaně domýšlivé a směšné.

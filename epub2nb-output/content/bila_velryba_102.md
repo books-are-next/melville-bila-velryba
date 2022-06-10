@@ -3,8 +3,6 @@ title: XCIII\.VYVRŽENEC
 contentType: prose
 ---
 
-  
-
 Uplynulo teprve několik dnů od setkání s francouzskou lodí, když se přihodila velmi významná událost nejméně významnému členu posádky Pequody; událost nanejvýš žalostná, která mužstvu, občas bláznivě veselému a pověrčivému, nakonec dala živoucí a stále přítomnou předpověď, jaký děsivý osud může stihnout i je.
 
 Na velrybářské lodi nechodí všichni členové posádky do člunů. Několik mužů, zvaných lodní služba, je určeno k práci na lodi a jejich úkolem je obstarávat všechno, čeho je třeba, když se čluny ženou za velrybou. Tito členové lodní služby jsou vcelku stejně otužilí jako mužstvo tvořící posádky člunů. Ale vyskytne-li se na lodi chlapík neobvykle drobný, nemotorný nebo bázlivý, najisto se dostane do lodní služby. Tak tomu bylo na Pequodě s malým černochem, kterému přezdívali Pippin nebo zkratkou Pip. Chudák Pip! Už jste o něm slyšeli, jistě si vzpomínáte na jeho tamburínu v oné dramatické půlnoci, tak zasmušile veselé.

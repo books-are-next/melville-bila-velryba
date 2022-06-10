@@ -3,8 +3,6 @@ title: LIV\.PŘÍBĚH LODI TOWN-HO
 contentType: prose
 ---
 
-  
-
 \[Podle vyprávění ve Zlatém hostinci.\]
 
   
@@ -222,8 +220,6 @@ Nikdo neví, pánové, kde je nyní Steelkilt. Ale na ostrově Nantucketu se vdo
 „Promiňte, done Sebastiane, že běžím za vámi, ale smím-li vás prosit, snažte se opatřit evangelium pokud možno největší.“
 
 * * *
-
-  
 
 „Tady je kněz a přináší s sebou evangelium,“ řekl don Sebastian vážně, když se vrátil a s ním vysoká a velebná postava.
 

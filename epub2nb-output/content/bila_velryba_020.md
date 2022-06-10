@@ -3,8 +3,6 @@ title: XI\.NOČNÍ KOŠILE
 contentType: prose
 ---
 
-  
-
 Leželi jsme takto v posteli, chvílemi hovoříce, chvílemi dřímajíce, a Kvíkveg občas láskyplně přehodil své snědé tetované nohy přes moje a potom je zas odtáhl; dokonalá družnost, pohoda i pohova. Konečně naše povídání zapudilo poslední zbytky dřímoty a my si připadali už vyspalí, třebas bylo do úsvitu ještě daleko.
 
 Ano, všechna ospalost z nás spadla, takže nás unavovalo ležet a pomalu jsme se popošinovali, až jsme shledali, že oba sedíme. Přikrývkami jsme byli dobře obaleni, zády jsme se opírali o čelo postele, kolena jsme měli přitažena všechna čtyři dohromady a oba nosy k nim nakloněny, jako by v našich kolenou byla místo čéšek zahřívadla. Bylo nám blaze a teploučko, a to tím spíš, že venku bylo tak mrazivo; chlad obklopoval ovšem i naše přikrývky, když se ve světnici netopilo. Tím spíš, říkám, neboť máme-li mít opravdové potěšení z tělesného tepla, musí některá malá část těla zůstávat v chladu. Není totiž na světě vlastnosti, která by své hodnoty nabývala jinak než protikladem. Nic neexistuje samo o sobě. Libujete-li si, že je vám po celém těle báječně, a trvá-li tento stav delší dobu, potom už nelze říci, že by vám bylo tak báječně. Ale když jste jako Kvíkveg a já v posteli a špička nosu nebo temeno hlavy vás trochu zebe, potom si to rozkošné a neklamné teplo uvědomujete nejhlouběji. Z toho důvodu by v ložnici nikdy nemělo být vytápěcí zařízení, které je přepychovým nepohodlím boháčů. Tento druh rozkoše totiž dosáhne vrcholu, když je náš útulný pelíšek oddělen pouze přikrývkou od chladného vzduchu vnějšího. To pěkně ležíte jako jediná teplá jiskra v srdci arktického krystalu.

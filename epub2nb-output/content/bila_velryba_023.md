@@ -3,8 +3,6 @@ title: XIV\.NANTUCKET
 contentType: prose
 ---
 
-  
-
 Cestou se už nepřihodilo nic, co by stálo za zmínku, a po pěkné plavbě jsme tedy bezpečně přistáli v Nantucketu.
 
 Nantucket! Vezměte si mapu a podívejte se na ni. Hleďte, jaký si to vybral kout; jak tam stojí vzdálen břehu, osamělejší než eddystonský maják. Podívejte se naň! Pouhý kopeček a ostroh písku; samé pobřeží, žádná krajina. Je tady více písku, než byste spotřebovali za dvacet let, kdybyste jím nahrazovali pijavý papír. Někteří vtipálkové vám řeknou, že se tu musí sázet i plevel, neboť tady sám neroste; že sem dovážejí kanadský bodlák; že si musí poslat až do zámoří pro čep, chtějí-li zazátkovat sud s olejem; že v Nantucketu nosí kousky dříví právě s takovou úctou, jako v Římě nosí kousky pravého kříže; že si lidé sázejí před domy muchomůrky, aby v létě měli stín; že jedno stéblo trávy je již oázou, a minete-li za den tři stébla, je to už prérie. Že tu nosí zvláštní střevíce, aby se nebořili do sypkého písku – podobně jako nosí Laponci sněžnice; že jsou tak uzavřeni, tak izolováni, tak naprosto odříznuti a obklíčeni a mořem tak dokonale ohlodáni v ostrov, že se na jejich stolech a židlích často najdou přichycené malé mušličky jako na zádech mořských želv. Ale tyto nadsázky jen ukazují, že Nantucket není Illinois.

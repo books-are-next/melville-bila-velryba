@@ -3,8 +3,6 @@ title: CIV\.VELRYBA FOSILNÍ
 contentType: prose
 ---
 
-  
-
 Svou ohromností skýtá velryba velmi vhodný příměr, chceme-li zveličovat, přepínat a všeobecně podat něco hodně obšírně. I kdybyste chtěli, nemohli byste ji zmenšit. Vším právem nutno o ní vykládat v majestátním foliu. Netřeba znovu připomínat její délku od dýchacího otvoru k ocasu, ani kolik yardů měří kolem pasu; stačí jen vzpomenout na ohromné závity jejích střev, která v ní leží jako obrovské kabely a těžká lana, stočená na nejspodnější palubě bitevní lodi.
 
 Když už jsem se jednou odhodlal rázně chopit leviatana, sluší se, abych při tom díle projevil vševědoucí zevrubnost, nepřehlédl ani nejmenší semenné zárodky v jeho krvi a rozvinul i nejskrytější závit jeho vnitřností. Když jsem již popsal většinu jeho dnešních svérázných návyků a anatomických zvláštností, zbývá nyní, abych jej ocenil z hlediska archeologického, fosilního a předpotopního. U jiného tvora, nežli je leviatan – třeba u mravence nebo blechy – mohli bychom takové vážné výrazy považovat právem za hrubé nadsázky. Ale když jde o leviatana, je to něco jiného. Rád klopýtám k tomuto cíli mezi nejtěžšími výrazy ve slovníku. A budiž zde řečeno, že kdykoli bylo nutno použít k výkladu nějakého slovníku, vždy jsem se uchyloval k velkému kvartovému vydání Johnsona, zvlášť k tomu účelu koupeného, poněvadž neobvyklá osobní objemnost tohoto proslulého slovníkáře ho jen uzpůsobovala k sestavení slovníku, kterého může používat velrybářský spisovatel, jako jsem já.

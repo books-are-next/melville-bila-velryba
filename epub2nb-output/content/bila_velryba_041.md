@@ -3,8 +3,6 @@ title: XXXII\.CETOLOGIE
 contentType: prose
 ---
 
-  
-
 Již jsme odvážně daleko nad hlubinami oceánu, ale brzy budeme ztraceni v jeho nesmírnosti bez břehů a přístavů. Než se tak stane, nežli se trup Pequody, ověšený řasami, požene podle trupu leviatana pokrytého vilejši, je třeba hned na začátku důkladně probrat látku téměř nezbytnou, máme-li dokonale pochopit všemožné odbornější narážky a výklady o leviatanech, které se později vyskytnou.
 
 Nyní bych vám rád systematicky předvedl velrybu, její hlavní druhy. Není to snadný úkol. Nejde o nic menšího než o pokus roztřídit chaos. Poslechněte si, co soudí nejlepší a nejnovější znalci.
@@ -94,8 +92,6 @@ KNIHA III. (Duodecimo), kapitola II. (Delfín pirátský). Pirát. Velmi dravý.
 KNIHA III. (Duodecimo), kapitola III. (Delfín moučnohubý). Největší druh delfínů, pokud je známo, vyskytuje se pouze v Tichém oceánu. Jediné anglické jméno, pod nímž byl až dosud znám, mu dali rybáři; ti mu říkají delfín grónské velryby, a to proto, že ho nacházíme hlavně v blízkosti onoho folia. Tvarem se poněkud liší od delfína hravého, je méně oblý a blahobytný, opravdu, má pěknou a elegantní postavu. Na hřbetě nemá ploutev (u ostatních delfínů se většinou vyskytuje), má roztomilý ocas a sentimentální indiánské oči hnědé barvy. Ale pomoučená tlama jej hyzdí. Ačkoli celá jeho záda až k postranním ploutvím jsou úplně černá, přece hraniční čára, zřetelná jako ponorová čára u lodí, zvaná ‚bílý pás‘, dělí jej od přídě až k zádi ve dvě různobarevné části, černou nahoře, bílou dole. Bílá barva zasahuje část hlavy a celou tlamu, takže delfín vypadá, jako by se vrátil z loupežné návštěvy v moučnici. Velmi žalostné na pohled! Jeho olej je velice podoben oleji obyčejného delfína.
 
 * * *
-
-  
 
 Za DUODECIMU již tato soustava nejde, poněvadž delfín je nejmenší velryba. Tady máte všechny významné leviatany. Ale ještě existuje spousta neurčitých, nestálých a zpola vybájených velryb, které znám jako americký velrybář z doslechu, ale ne osobně. Vyjmenuji je podle toho, jak jim říká mužstvo na lodní přídi. Možná že se takový seznam dobře hodí budoucím badatelům, kteří snad doplní, co jsem jen začal. Budou-li některé z těchto velryb později chyceny a popsány, mohou být snadno zařazeny do naší soustavy podle velikosti jako folio, octavo nebo duodecimo: velryba s pijáckým nosem, velryba džunka, velryba pitomá, velryba kapská, velryba velitelská, velryba dělová, velryba kostnatá, velryba mědibarvá, velryba sloní, velryba ledovcová, velryba mušlová, velryba modrá atd. Z pramenů islandských, holandských a starých anglických lze uvést další seznam nejistých velryb, obdařených všemožnými podivínskými jmény. Vynechám je jako zcela zastaralé. Stěží se mohu ubránit podezření, že jsou to pouhé zvuky plné leviatanismu, ale nic neznamenající.
 

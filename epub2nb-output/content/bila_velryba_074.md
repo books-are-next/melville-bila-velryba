@@ -3,8 +3,6 @@ title: LXV\.VELRYBA JAKO JÍDLO
 contentType: prose
 ---
 
-  
-
 Že se smrtelník může živit tvorem, který živí jeho lampu, a jako Stubb jej jíst, možno říci, při jeho vlastním světle, to se zdá tak neobvyklé, že je třeba zabrat se trochu do dějin a filozofie této věci.
 
 Je zaznamenáno, že před třemi sty lety byl jazyk grónské velryby považován ve Francii za vybranou lahůdku a platily se tam za něj velké peníze. V dobách Jindřicha VIII. dostal jakýsi kuchař u jeho dvora krásnou odměnu za to, že vynašel znamenitou omáčku, s níž lze jíst plískavice pečené na rožni, které, jak si vzpomínáte, jsou odrůdou velryb. Plískavice se ostatně až do dnešních dob považují za dobré jídlo. Z masa se dělají kuličky asi jako kulečníkové koule, a jsou-li dobře osoleny a okořeněny, mohou být považovány za karbanátky z masa želvího nebo telecího. Staří mniši z Dunfermlinu je jedli tuze rádi. Koruna jim darovala velkou výsadu lovit plískavice.

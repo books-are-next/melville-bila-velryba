@@ -3,8 +3,6 @@ title: LXIV\.STUBBOVA VEČEŘE
 contentType: prose
 ---
 
-  
-
 Stubb zabil velrybu v nevelké vzdálenosti od lodi. Bylo bezvětří, proto jsme utvořili ze tří člunů tandem a pustili se do zdlouhavé práce, totiž přitahovat kořist k Pequodě. A teď jsme se my, osmnáct mužů se šestatřiceti pažemi a se sto osmdesáti prsty, pomalu dřeli po celé hodiny s touto nehybnou, nemotornou mrtvolou v moři; zdálo se nám, jako by se skoro ani nehýbala z místa, leda vždycky za dlouhý čas – to bylo výmluvným důkazem, jak ohromné tělo vlečeme. Po velkém čínském kanále Hang-Ho – nebo jak mu říkají – může táhnout asi pět nádeníků na břehu velkou naloženou džunku rychlostí jedné míle za hodinu. Ale tento velký koráb jsme za sebou vlekli tak těžce a namáhavě, jako by byl plně naložen olovem.
 
 Nastala tma, ale tři světla, prokmitávající v horním lanoví Pequody, nám mdle svítila na cestu, a když jsme se přiblížili, spatřili jsme Achaba, jak spouští přes zábradlí jednu z mnoha dalších svítilen. Chvíli si lhostejně prohlížel taženou velrybu, dal obvyklé rozkazy, jak ji zajistit na noc, a potom podal svítilnu námořníkovi, odešel do kajuty a neukázal se na palubě až zase ráno.
