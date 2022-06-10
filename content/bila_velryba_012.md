@@ -3,6 +3,8 @@ title: "III\\.HOSTINEC „U\_VELRYBY“"
 contentType: prose
 ---
 
+<section>
+
 Když člověk vešel do onoho štítnatého hostince „U velryby“, octl se v široké, nízké, rozlehlé předsíni se starosvětským pažením, které připomínalo zábradlí nad horní palubou na staré vyřazené lodi. Na jedné straně visela velká olejová malba, tak dokonale zakouřená a po všech stránkách zničená, že díval-li se na ni člověk v tom nevhodném a neklidném osvětlení, mohl smyslu obrazu trochu porozumět, teprve když ho bedlivě prostudoval, když se na něj přišel podívat několikrát a vyptal se obezřetně sousedů. Na obraze byla taková spousta záhadných světel a stínů, až zprvu skoro vzbuzoval dojem, že se nějaký ctižádostivý mladý umělec v dobách novoang­lických čarodějnic pokusil zachytit čarovný chaos. Člověk musel nejdřív mnoho a hluboce přemítat a vždy znovu rozvažovat a hlavně otevřít si okénko vzadu proti vchodu; nakonec došel k přesvědčení, že taková myšlenka, třebas fantastická, přece jen není zcela ne­oprávněna.
 
 Z celého obrazu vám ovšem nejvíc vrtalo mozkem a mátlo vás dlouhé, pružné těleso, cosi zlověstně černého, co se vznášelo uprostřed obrazu nad třemi modrými, neurčitými svislými čarami, plujícími v nevylíčitelném vření. Bahnitý, parnatý, rozpitý obraz, který stačil dohnat nervózního člověka k zuřivosti. A přece v něm byla jakási zvláštní vznešenost, polojasná, nepostižná, která vás na místě přimrazila, až jste se bezděky zapřísáhl, že vypátráte, co tato podivná malba představuje. Tu a tam vám probleskla myšlenka jasná, ale žel klamná. Snad je to Černé moře v půlnoční vichřici. – Snad nepřirozený zápas čtyř hlavních živlů. – Pošlapané vřesoviště. – Je to arktický zimní výjev. – Je to pukání ledu na řece času. Ale všechny ty nápady konečně ustoupily tomu zlověstnému tělesu uprostřed obrazu. Jen zjistit, co je tohle, a všechno ostatní bude snadné. Počkat, nepodobá se to trochu obrovské rybě? Snad samému velkému leviatanu?
@@ -150,3 +152,5 @@ Když to bylo řečeno Kvíkvegovi, okamžitě uposlechl a znovu mi zdvořile p
 „Dobrou noc, pane hostinský,“ řekl jsem, „můžete jít.“
 
 Odebral jsem se na lůžko a nikdy v životě jsem nespal lépe.
+
+</section>

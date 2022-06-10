@@ -3,6 +3,8 @@ title: LXXXVI\.OCAS
 contentType: prose
 ---
 
+<section>
+
 Jiní básníci zpívali chválu mírných očí antilopy a krásného peří toho ptáka, který nikdy nevzlétne: já, člověk méně božský, oslavuji ocas.
 
 Počítáme-li, že ocas největšího vorvaně začíná tam, kde se trup zužuje asi tak na objem lidského pasu, pak jenom na horním povrchu zabírá ocas plochu nejméně kolem padesáti čtverečních stop. Hutné, oblé těleso jeho kořene se rozšiřuje ve dva široké, pevné ploché vějíře neboli ploutve ocasní, jež se postupně ztenčují až na tloušťku menší než jeden palec. Ve vidlici, to jest v místě, kde k sobě ploutve přisedají, jsou slabě vyklenuty a potom se od sebe rozestupují jako křídla, ponechávajíce mezi sebou široký prostor. U žádného živého tvora nenajdeme krásné linie vykroužené skvěleji než tento půlměsícový okraj ocasních ploutví. Ocas dospělé velryby má v místě největšího rozpětí o hodně víc než dvacet stop na šíř.
@@ -32,3 +34,5 @@ Náhodné srovnání mezi velrybou a slonem v této kapitole, pokud jde o ně
 Čím víc uvažuji o tomto mohutném ocase, tím víc je mi líto, že jej nedovedu dobře znázornit, časem vykonává pohyby, které by sice šlechtily lidskou ruku, ale u něho jsou zcela nevysvětlitelné. V mohutném stádu bývají někdy jeho záhadná gesta tak neobyčejná, že jsem slyšel, jak lovci ukazovali na jejich příbuznost se znameními a symboly zednářskými; velryba prý se tak inteligentně dohovořuje se světem. Také jinak najdeme u velryby pohyby zcela překvapující a nepochopitelné i pro nejzkušenějšího útočníka. Ať ji pitvám jak chci, pronikám přece jen pod povrch kůže. Neznám ji a nikdy ji znát nebudu. Ale neznám-li ani ocas této velryby, jak mohu porozumět její hlavě? A co víc, jak mám pochopit její tvář, když žádné tváře nemá? Zdá se, že říká: „Uzříš část mých zad, můj ocas, ale mého obličeje nespatříš.“ Nedovedu však zplna porozumět jiným částem jejího těla. Ať si už o své tváři naznačuje cokoli, pravím znovu, že obličej nemá.
 
 [^18]: Ačkoli je nevhodné srovnávat vůbec velrybu a slona, pokud jde o celkovou velikost, protože v této věci se má slon k velrybě asi tak jako pes ke slonu, přece tu nechybí několik znaků podivné podobnosti. K nim patří také vodotrysk. Je dobře známo, že slon často vtáhne do chobotu vodu nebo prach, potom vztyčí chobot a proudem obsah vychrlí.
+
+</section>

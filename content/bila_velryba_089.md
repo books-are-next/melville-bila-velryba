@@ -3,6 +3,8 @@ title: LXXX\.ZÁVITNICE
 contentType: prose
 ---
 
+<section>
+
 Je-li vorvaň z hlediska fyziognomického sfingou, tedy se jeho mozek zdá frenologovi takovým problémem jako neuskutečnitelná kvadratura kruhu.
 
 U dospělého vorvaně měří lebka na délku přinejmenším dvacet stop. Vysaďte z kloubů spodní čelist a podívejte se na tuto lebku ze strany: je to jako pohled na mírně nakloněnou rovinu, plně spočívající na vodorovné základně. Ale zaživa – jak jsme jinde viděli – spočívá na této nakloněné rovině ohromná klínovitá výplň z vorvaniny – výplň tak mohutná, že má přední stěnu téměř čtvercovou. U vyššího konce lebky je kráter, v němž je uložena vorvanina, kdežto pod dlouhou podlahou tohoto kráteru – v jiné dutině, obvykle jen deset palců dlouhé a asi stejně hluboké – je uložena pouhá hrstka mozku tohoto netvora. Zaživa je mozek aspoň dvacet stop od zdánlivého čela, je ukryt za jeho obrovskými předními baštami jako nejvnitřnější citadela v mohutném pevnostním pásu Quebeku. Je schován jako drahocenná krabička, takže někteří moji známí velrybáři zcela popírají, že by vorvaň vůbec měl jiný mozek nežli ten zdánlivý, jejž tvoří krychlové yardy jeho skladiště vorvaniny. S představou o jeho celkové síle se podle všeho lépe srovnává, považujeme-li za sídlo jeho inteligence onen mystický úkryt; pak také pochopíme, proč leží mezi podivnými záhyby, chodbičkami a závity.
@@ -16,3 +18,5 @@ Soudíte-li však podle poměrně malých rozměrů vlastního velrybího mozku,
 Použijme tohoto páteřního odvětví frenologie u vorvaně. Jeho lebeční dutina souvisí s prvním krčním obratlem, v tomto obratli měří dno páteřní dutiny deset palců napříč, osm na výšku a má podobu trojúhelníku se základnou dole. Jak páteřní kanál postupuje ostatními obratli, zužuje se, ale do značné délky zůstává velmi prostorný. A páteřní kanál je ovšem vyplněn skoro stejnou podivně vláknitou látkou – míchou – jako mozek a je s mozkem přímo spojen. K tomu přistupuje ta zvláštnost, že mícha ještě mnoho stop od místa, kde vybíhá z mozkové dutiny, zůstává stejně široká, takže se objem téměř rovná mozku. Bylo by za všech těchto okolností nerozumné, kdybychom si prozkoumali a vymapovali velrybí páteř frenologicky? Díváme-li se totiž na věc takto, je podivuhodná poměrná nepatrnost velrybího mozku víc než vyvážena podivuhodnou poměrnou velikostí její míchy.
 
 Ale tímto nápadem ať se po libosti zabývají frenologové; sám na chvíli přijmu teorii páteře, jen abych jí použil na vorvaní hrb. Tento vznešený hrb, nemýlím-li se, zvedá se nad jedním z větších obratlů, a je proto do jisté míry jeho vnější vypuklinou. Podle polohy bych tento vysoký hrb nazval orgánem vorvaňovy síly a nezdolnosti. A že je tato obrovská obluda nezkrotná, o tom se ještě přesvědčíte.
+
+</section>

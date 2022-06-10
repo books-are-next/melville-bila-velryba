@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 κήτος (_řecky)_  
 
 CETUS _(latinsky)_
@@ -27,3 +29,5 @@ BALLENA _(španělsky)_
 PIKÍ-NUÍ-NUÍ _(fidžijsky)_
 
 PIKÍ-NUÍ-NUÍ _(eromangosky)_
+
+</section>

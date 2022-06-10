@@ -3,6 +3,8 @@ title: CX\.KVÍKVEG V RAKVI
 contentType: prose
 ---
 
+<section>
+
 Při prohlídce shledali, že sudy naposled uložené do skladiště jsou zcela neporušené a že trhlina je tedy někde dál. Počasí bylo klidné, a proto pronikali hlouběji a hlouběji, rušili spánek ohromných spodních vrstev a z půlnočního temna vytahovali na denní světlo obrovské krtky. Šlo se tak hluboko a nejspodnější sudy byly na pohled tak starobylé, zrezavělé a nevzhledné, že jste každou chvíli čekali, brzo-li se objeví jako základní kámen nějaká plesnivá truhla s mincemi kapitána Noema a s výtisky plakátů, marně varujících zaslepený starý svět před potopou. Káď za kádí byla vytahována, s vodou, chlebem a hovězím masem, i svazky dužin a železných obručí, až konečně byla paluba tak zaplněna, že se po ní dalo sotva chodit; vyprázdněný lodní trup duněl pod nohama ozvěnou, jako byste kráčeli nad prázdnými katakombami, a pohyboval se a válel v moři jako demižon naplněný vzduchem. Loď byla nahoře přetížena, jako když student s prázdným žaludkem nosí v hlavě celého Aristotela. Štěstí bylo, že nás v těch dnech nenavštívily žádné tajfuny.
 
 Tehdy se stalo, že mého ubohého pohanského společníka a oddaného důvěrného přítele Kvíkvega zachvátila horečka, která ho přibližovala k věčnému konci.
@@ -42,3 +44,5 @@ Mezi divochem a civilizovaným člověkem je pozoruhodný rozdíl.
 Civilizovaný člověk se musí obyčejně po nemoci zotavovat šest měsíců, kdežto nemocný divoch je opět zpola zdráv skoro za den. Tak můj Kvíkveg velmi rychle nabýval sil; seděl na rumpálu po několik dní nečinně (s velkou chutí však jedl), až konečně náhle vyskočil, rozkročil se a rozpřáhl paže, protáhl se notně, zívl si trochu a potom vyskočil na příď svého zavěšeného člunu, a mávaje harpunou prohlásil, že je připraven k boji.
 
 Z fantastického rozmaru si teď udělal z rakve námořnickou truhlu, a vyprázdniv plátěný vak se šaty, pěkně si je do ní složil. Mnohou volnou hodinu strávil tím, že na víko vyřezával různé groteskní figury a kresby, a zdálo se, že se přitom snaží neuměle napodobovat některé spletité vytetované obrazce na svém těle. Toto tetování bylo prací zesnulého proroka a věštce z jeho ostrova, který hieroglyfickými značkami vypsal na jeho kůži úplnou teorii nebes a země a tajemné pojednání o umění, jak dosáhnout pravdy – takže Kvíkveg byl v své vlastní osobě vlastně hádankou, kterou bylo třeba rozluštit. Báječné dílo v jednom svazku. Ale jeho tajemství nedovedl přečíst ani on sám, ačkoli pod nimi tlouklo jeho vlastní srdce. Oněm tajemstvím bylo proto souzeno, aby se nakonec rozpadla i s živým pergamenem, na kterém byla napsána, takže nebyla vůbec rozluštěna. Právě tato myšlenka asi vedla Achaba k divokému výkřiku, když se kteréhosi rána odvrátil od chudáka Kvíkvega, kterého si prohlížel: „Ach, ďábelská muka bohů!“
+
+</section>

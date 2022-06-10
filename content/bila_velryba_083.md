@@ -3,6 +3,8 @@ title: LXXIV\.HLAVA VORVANĚ — Z HLEDISKA SROVNÁVACÍHO
 contentType: prose
 ---
 
+<section>
+
 Zde tedy jsou dvě velké velryby a jejich hlavy leží vedle sebe. Přistupme k nim a dejme i my hlavy dohromady.
 
 Z velkého řádu foliových leviatanů jsou vorvaň a velryba grónská daleko nejpozoruhodnější. Jsou to jediné velryby, na které člověk pořádá pravidelný lov. Pro Nantuckeťana jsou to dvě krajnosti všech známých velrybích odrůd. Vnější rozdíl mezi nimi je nejpatrnější na hlavě, a protože v této chvíli visí hlavy obou velryb z boků Pequody a my můžeme pohodlně přecházet od jedné k druhé – máme to jen přes palubu – rád bych věděl, kde by se nám naskytla lepší příležitost k praktickému studiu cetologie nežli tady.
@@ -30,3 +32,5 @@ Vyjděme nyní a podívejme se na zlověstnou spodní čelist, podobnou dlouhé
 Ve většině případů tuto spodní čelist – kterou zkušený odborník snadno vykloubí – námořníci oddělí a vytáhnou na palubu, aby z ní vytrhli zuby ze slonoviny. Zuby tvoří zásobu tvrdé bílé velrybí kosti, z níž rybáři vykouzlují všelijaké podivné předměty, jako hole, držadla deštníků a rukojeti k jezdeckým bičíkům.
 
 Čelist bývá namáhavě a zdlouhavě vytažena na palubu, jako by to byla kotva; když přijde pravý čas – několik dní po ostatní práci – Kvíkveg, Dagů a Taštego, všichni se jako vycvičení zubaři pustí do vytahování zubů. Kvíkveg otevře dásně ostrým sekacím rýčem. Potom čelist uvážou dole ke svorníkům, shora spustí kladkostroj a zuby trhají tak, jako v Michiganu voli vytahují pařezy starých dubů v lesní divočině. Obyčejně tam bývá dvaačtyřicet zubů; staré velryby mívají zuby hodně ubroušené, ale nezkažené; a také ne uměle plombované jako my. Čelist se potom rozřeže na desky, které se složí jako trámce na stavbu domů.
+
+</section>

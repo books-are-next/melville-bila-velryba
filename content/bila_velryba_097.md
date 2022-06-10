@@ -3,6 +3,8 @@ title: "LXXXVIII\\.ŠKOLY A\_UČITELÉ"
 contentType: prose
 ---
 
+<section>
+
 Předešlá kapitola vylíčila obrovské společenstvo nebo stádo vorvaňů a také uvedla pravděpodobné příčiny těchto nesmírných shluků.
 
 I když se někdy setkáme s tak velkými společenstvy, přece se i za našich dnů, jak už jsme viděli, vyskytnou občas menší, samostatné skupiny o dvaceti až padesáti členech. Takové skupiny se nazývají školy. Jsou obyčejně dvojího druhu: jedny se skládají téměř jen ze samiček a druhé jedině z mladých, silných samců neboli býků, jak se jim obvykle říká.
@@ -24,3 +26,5 @@ Táž uzavřenost a samotářství, kterým se v pokročilém věku oddává v
 Školy čtyřicetisudových býků jsou větší než školy harémové. Jako zástup univerzitních studentů jsou tito vorvani plni bojového zápalu, samý žert a rozpustilost; prohánějí se po světě tak bezstarostně a dovádivě, že by je žádný rozumný vedoucí pojišťovny nepojistil proti úrazu, jako by nepojistil výtržnického mladíčka z univerzity yalské nebo Harvardovy. Brzy ovšem skoncují s tímto bouřliváctvím, a když jsou asi ze tří čtvrtin dorostlí, rozejdou se a samostatně si hledají postavení, totiž harém.
 
 Jiný rozdíl mezi samčí a samičí školou je ještě příznačnější pro obě pohlaví. Řekněme, že zasáhnete čtyřicetisudového býka – chudák, všichni jeho kamarádi ho opustí. Ale zasáhněte příslušnici harémové školy, a její družky ji obklopí se všemi známkami starostlivosti a někdy se drží tak blízko ní a tak dlouho, až to zaplatí životem.
+
+</section>

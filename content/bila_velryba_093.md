@@ -3,6 +3,8 @@ title: LXXXIV\.DLOUHÝ VRH KOPÍM
 contentType: prose
 ---
 
+<section>
+
 Aby se kola vozů otáčela snadno a rychle, bývají jejich osy namazány, a z téhož důvodu provádějí někteří velrybáři cosi obdobného na svých člunech: mažou dno tukem. Není pochyby, že takové opatření nemůže škodit, spíš může přinést výhodu, kterou nelze pohrdat, uvážíme-li, že tuk a voda jsou nepřátelé, že tuk je kluzký a že jde o to, aby člun po vodě dobře klouzal. Kvíkveg pevně věřil v namazání člunu tukem a jednoho rána, nedlouho potom, co zmizela německá loď Jungfrau, pustil se s neobvyklou horlivostí do této práce. Lezl pod spodkem člunu, visícího nad lodním bokem, a vtíral do něho mastnotu, jako by chtěl přičinlivě zajistit úrodu vlasů na lysém kýlu. Pracoval patrně pod vlivem zvláštní předtuchy. Události potvrdily, že měl dobré tušení.
 
 K polednímu hlídky spatřily velryby, ale sotva se k nim loď přiblížila, obrátily se a prchaly překotnou rychlostí; byl to nespořádaný útěk, jako když prchaly Kleopatřiny lodi od Aktia.
@@ -18,3 +20,5 @@ Podívejte se nyní na Stubba, kterému právě humorná, uvážlivá chladnokre
 „To v ní otevřelo pípu!“ zvolal Stubb. „To je nesmrtelný Čtvrtý červenec. Ze všech fontán dnes musí tryskat víno! Teď kdyby to tak byla stará orleánská whisky nebo stará ohijská nebo i ta mizerná žitná! Taštego, kamaráde, to potom nastavíš konvici k fontáně a budeme pít dokola! Ano, opravdu, na mou duši! Uvařili bychom znamenitý punč v otvoru jejího chrliče a z té živé punčové bowle můžeme zunkat živou vodu.“
 
 Za takového žertovného hovoru se opakuje znovu a znovu zručný vrh a kopí se vrací k svému pánu jako chrt obratně držený na šňůře. Umírající velryba sebou začíná trhat v předsmrtné křeči. Natažený provazec se uvolňuje. Vrhač usedne na záď se založenýma rukama a mlčky pozoruje, jak obluda umírá.
+
+</section>

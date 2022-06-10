@@ -3,6 +3,8 @@ title: XXI\.CESTOU NA LOĎ
 contentType: prose
 ---
 
+<section>
+
 Bylo již skoro šest hodin, ale v šedé mlze zatím jen slabě svítalo, když jsme docházeli k přístavišti.
 
 „Vidím-li dobře,“ řekl jsem Kvíkvegovi, „tamhle před námi běží nějací námořníci, nejsou to přece stíny. Myslím, že loď vypluje při východu slunce, přidej do kroku!“
@@ -76,3 +78,5 @@ Oddával se nějakým divošským vzpomínkám, spjatým s jeho tomahavkovou d�
 Chtěl jsem se vyptávat na Achaba, ale zaslechli jsme na palubě hluk. „Hola! Starbuck je vzhůru,“ řekl lanovník. „To je náš čiperný první důstojník, dobrý člověk a nábožný. Ale už jsou všichni v práci, musím taky jít.“ Po těch slovech vyšel na palubu a my za ním.
 
 Slunce už jasně vycházelo. Brzy přicházela posádka na palubu – po dvou, po třech, lanovníci se tužili, důstojníci měli plné ruce práce a několik lidí z města stále ještě pilně přinášelo na loď různé věci. Kapitán Achab zůstával nepřístupně uzavřen ve své kajutě.
+
+</section>

@@ -3,6 +3,8 @@ title: CXXX\.KLOBOUK
 contentType: prose
 ---
 
+<section>
+
 A nyní, když po tak dlouhém a rozsáhlém předběžném pátrání – při němž loď projela všemi ostatními lovišti – Achab patrně v pravý čas a na pravém místě zahnal svého nepřítele do kouta, aby jej tam tím bezpečněji zabil; nyní, když se octl skoro na téže šířce a délce, kde utržil svou mučivou ránu; nyní, když mluvil s lodí, která se právě předešlého dne opravdu setkala s Moby Dickem; – a když všechna jeho dosavadní setkání s různými loďmi velmi výrazně dosvědčovala, s jakou ďábelskou lhostejností trhá bílá velryba své pronásledovatele, ať už se prohřešili proti ní nebo ona proti nim; nyní bylo lze spatřit v očích starého muže cosi, co slabé duše sotva snesly. Jako nezapadající Polárka, která se po dlouhou arktickou šestiměsíční noc dívá pronikavým, stálým a soustředěným pohledem, tak pevně nyní zářil Achabův záměr na neustálou půlnoc jeho zachmuřené posádky. Ovládal je tak, že všechny jejich předtuchy, pochyby, zoufalství, strachy byly by se rády skryly pod jejich duše, aby nevyrazily ani jedinou jehličku nebo lístek.
 
 Ve stínu toho nadcházejícího mezidobí zmizel také všechen humor násilný i přirozený. Stubb se již nepokoušel vyvolat úsměv, Starbuck se již nepokoušel potlačovat jej. Stejně radost i žal, naděje a strach jako by byly po tu dobu drceny na nejjemnější prach v okovaném moždíři Achabovy železné vůle. Muži se pohybovali po palubě jako stroje za ustavičného vědomí, že na nich spočívá starcovo despotické oko.
@@ -32,3 +34,5 @@ Achab upíral oči na mlhavý a vzdálený obzor, jako by ani nepozoroval divok
 Vtom už se černé křídlo sneslo až k starcovým očím a dlouhý, zahnutý zobák k jeho hlavě, černý jestřáb vyrazil skřek a odletěl s kořistí.
 
 Kolem Tarquiniovy hlavy třikrát zakroužil orel, odnesl mu čapku a opět mu ji vrátil; potom jeho manželka Tanaquil prohlásila, že Tarquinius bude králem římským. Ale toto znamení bylo pokládáno za dobré jen proto, že orel čapku navrátil. Achabův klobouk vrácen nebyl; divoký jestřáb s ním letěl dál a dál před lodní přídí, až konečně zmizel, a tam, kde zmizel, bylo nejasně vidět, jak malý černý bod padá z obrovské výše do moře.
+
+</section>

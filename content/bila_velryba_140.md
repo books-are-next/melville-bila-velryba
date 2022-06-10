@@ -3,6 +3,8 @@ title: CXXXI\.PEQUOD POTKÁVÁ ROZKOŠ
 contentType: prose
 ---
 
+<section>
+
 _Pequod_ horlivě plula dál; kolem ní se valily vlny a dny; rakev teď přeměněná v záchrannou plavatku se lehce houpala; vtom byla hlášena jiná loď, pojmenovaná velmi nešťastně Rozkoš. Jak se blížila, utkvěly všechny očí na širokých trámech, které na některých velrybářských lodích běží nad zadní palubou ve výši osmi nebo devíti stop; na trámech bývají náhradní, nevystrojené nebo poškozené čluny.
 
 Na těchto trámech cizí lodi byla zpřerážená bílá žebra a několik roztříštěných desek z toho, co bylo kdysi velrybářským člunem. Nyní však jsme viděli skrze tento vrak tak jasně jako při pohledu skrz kostru staženého koně, zpola rozpadlou a sluncem vybílenou.
@@ -24,3 +26,5 @@ Na těchto trámech cizí lodi byla zpřerážená bílá žebra a několik roz
 Když Achab klouzal pryč od zkormoucené Rozkoše, vynikala podivná záchranná plavatka na zádi Pequody zvlášť zřetelně.
 
 „Ha! Tamhle! Podívejte se tamhle, lidé!“ křičel za nimi varovný hlas. „Marně, vy cizinci, prcháte před naším smutným pohřbem. Jen se k nám obracíte zády, abyste nám ukázali svou rakev!“
+
+</section>

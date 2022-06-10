@@ -3,6 +3,8 @@ title: CXIV\.POZLACOVAČ
 contentType: prose
 ---
 
+<section>
+
 Pronikajíc hlouběji a hlouběji do středu japonského loviště, byla Pequod plně zaujata rybařením. Za klidného, příjemného počasí bývali lovci často zaměstnáni v člunech nepřetržitě po dvanáct, patnáct, osmnáct až dvacet hodin: vytrvale veslovali, plachtili nebo pádlovali za velrybami nebo v přestávce šedesáti až sedmdesáti minut klidně čekali, až se vynoří. Jejich námaha však neměla valný výsledek.
 
 Když člověk za takových časů pluje pod mírným sluncem po celý den na hladkých vlnách zvolna se zvedajících, usazen v člunu lehkém jako březová kánoe, a tak družně se přátelí s laskavými vlnami, že u okraje člunu předou jako kočky u krbu, když se v takových časech snivého míru člověk dívá na klidnou krásu a zářivost pokožky oceánu, snadno zapomíná, že pod ní tluče tygří srdce, a nerad si uvědomuje, že tato sametová tlapa jen skrývá nemilosrdný dráp.
@@ -24,3 +26,5 @@ A téhož dne si také Starbuck tiše povídal, dívaje se z boku svého člun
 A Stubb jako ryba s jiskřícími šupinami vskočil do téhož zlatého světla:
 
 „Já jsem Stubb, a Stubb má svou minulost. Tady však Stubb přísahá, že býval vždy vesel!“
+
+</section>

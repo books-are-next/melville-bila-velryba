@@ -3,6 +3,8 @@ title: XXII\.VESELÉ VÁNOCE
 contentType: prose
 ---
 
+<section>
+
 Konečně k polednímu, když přístavní dělníci byli propuštěni a Pequod odtažena z přístaviště a když věčně starostlivá Charita připlula k lodi v jednom velrybářském člunu, aby odevzdala poslední dárek – noční čepici pro svého švagra Stubba, druhého důstojníka, a náhradní bibli pro stewarda – po tom po všem oba kapitáni, Peleg a Bildad, vyšli z kajuty. Peleg se obrátil k prvnímu důstojníkovi:
 
 „Nuže, pane Starbucku, jste si jist, že je všechno v pořádku? Kapitán Achab je připraven – právě jsem s ním mluvil – nepotřebujeme už nic z města, co? Dobře, tak tedy svolejte mužstvo. Ať se shromáždí tamhle na zádi, aby je kat spral!“
@@ -47,3 +49,5 @@ Konečně se obrátil k příteli a rozhlédl se naposledy kolem sebe. „Kapi
 „Pojď, pojď, kapitáne Bildade, přestaň řečnit! Pojď – půjdeme!“ S těmi slovy ho Peleg tlačil k okraji lodi a oba se spustili do člunu.
 
 Loď a člun se od sebe vzdalovaly. Studený, vlhký noční vítr fičel mezi nimi. Skřehotající racek letěl na hlavami. Oba lodní trupy se divoce zmítaly. Zvolali jsme třikrát s těžkým srdcem hurá a ponořili se slepě jako osud do osamělého Atlantiku.
+
+</section>

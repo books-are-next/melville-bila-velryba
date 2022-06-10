@@ -3,6 +3,8 @@ title: "LXXIII\\.STUBB A FLASKZABIJÍ GRÓNSKOU VELRYBU A\_POTOM O\_NÍ ROZMLOUV
 contentType: prose
 ---
 
+<section>
+
 Nesmíme zapomenout, že po celý ten čas nám visela po boku Pequody obrovská hlava vorvaňova. Musíme ji tam nechat viset, dokud se nenaskytne příležitost, abychom se jí zabývali. Pro tuto chvíli spěchají jiné věci a jediné, co nyní pro tu hlavu můžeme udělat, je prosit nebe, aby kladkostroj vydržel.
 
 Za uplynulou noc a za dopoledne Pequod pomalu doplula na moře, které občasnými plochami žlutého planktonu dávalo neobvyklé znamení, že jsou nablízku grónské velryby, druh leviatanů, o kterých by jen málokdo předpokládal, že v tuto roční dobu budou někde poblíž. Ačkoli všichni námořníci obyčejně pohrdali lovem těchto nižších tvorů a třeba Pequod vůbec neměla za úkol je lovit, a přestože jsme jich u Crozetských ostrovů mnoho minuli a nespustili člun, přece nyní, když jsme přivlekli k lodi vorvaně a zbavili ho hlavy, k obecnému překvapení jsme uslyšeli, že onoho dne má být chycena grónská velryba, naskytne-li se příležitost.
@@ -86,3 +88,5 @@ Zakrátko se ukázalo, že Flask měl pravdu. Jestliže se předtím Pequod př�
 Při zpracovávání těla grónské velryby, když je upevněno podél lodi, dochází k stejným předběžným opatřením jako u vorvaně. Jenže hlava vorvaně se odřízne celá, kdežto u grónské velryby se pysky a jazyk oddělí zvlášť a vyzvednou na palubu se všemi dobře známými černými kosticemi, přirostlými k takzvané koruně. Tentokrát však jsme neučinili nic podobného. Zdechliny obou velryb jsme pustili za záď, takže se loď, obtížená hlavami, nemálo podobala mule nesoucí dva velmi těžké košíky.
 
 Zatím Fedallah klidně prohlížel hlavu grónské velryby a zalétal ustavičně zrakem od hlubokých vrásek na ní k čarám na své ruce. Achab náhodou stál tak, že Pársí Fedallah zabíral jeho stín. Měl-li Pársí vůbec nějaký stín, zdálo se, že splývá se stínem Achabovým a prodlužuje jej. Posádka se lopotila a pronášela o všem, co se dělo, divoké názory.
+
+</section>

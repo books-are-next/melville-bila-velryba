@@ -3,6 +3,8 @@ title: CII\.HÁJ NA ARSACIDÁCH
 contentType: prose
 ---
 
+<section>
+
 Až dosud jsem se při popisu vorvaně zabýval hlavně divy jeho zevnějšku a jenom jednotlivě a v určitých maličkostech některými vnitřními ústrojími. Ale máte-li vorvaně pochopit hlouběji a důkladněji, je nutno, abych jej ještě více rozepjal, rozvázal mu šňůrky u nohavic pod koleny, rozepjal podvazky a uvolnil háčky a oka kloubů jeho nejvnitřnějších kostí, a tak ho před vás postavil v jeho poslední podobě, totiž jako nezahalenou kostru.
 
 Ale jak teď, Izmaeli? Jak to, že ty, prostý veslař na velrybářské výpravě, osobuješ si znalost skrytých částí velryby? Vystoupil snad učený Stubb na vratidlo a přednášel vám o anatomii kytovců? A zvedl rumpálem ukázku žebra, abyste si ji prohlédli? Vysvětli nám to, Izmaeli! Což můžeš vytáhnout dospělou velrybu na palubu, abys ji prohlížel, jako třeba kuchař předkládá pečeného vepře? Jistě ne! Dosud jsi byl, Izmaeli, věrohodným svědkem, ale dej si pozor, zmocňuješ se výsady, kterou má pouze Jonáš: výsady pojednávat o příčných trámcích a trámech; o krokvích a hřebenových vaznicích, podložkách a podpěrných trámcích, které tvoří hrázděnou konstrukci leviatana, a snad i o nádržích tuku, mlékárnách, výrobnách másla a sýrárnách v jeho útrobách.
@@ -30,3 +32,5 @@ Nyní vám chci sdělit jeho výsledek. Nejdříve musím podotknout, že v tom
 V obou případech majitelé velryb vyvržených na břeh, kterým kostry patřívaly, uplatňovali na ně od počátku své nároky, a to ze stejných důvodů. Král Tranquo se zmocnil velryby, protože ji chtěl, a Sir Clifford proto, že je vrchností v oněch končinách. Velrybu Sira Clifforda vybavili klouby, takže ji můžete ve všech kosterních dutinách otvírat jako velkou skříň se zásuvkami – rozevřít její žebra jako obrovský vějíř a po celý den se houpat na její spodní čelisti. Měli by dát zámky na některé její padací dveře a uzávěry a sluha může vodit budoucí návštěvníky se svazkem klíčů u pasu. Sir Clifford hodlá vybírat dvě pence za nahlédnutí do šumící galerie páteřního sloupu; tři pence za poslouchání ozvěny v dutině jejího malého mozku a šest pencí za pohled z jejího čela, kterému se nic nevyrovná.
 
 Rozměry kostry, které nyní napíši, jsou přesně opsány z mé pravé paže, kam jsem si je dal vytetovat, poněvadž při mém divokém cestování v oné době nebylo jiného bezpečného způsobu, jak uchovat tuto cennou statistiku. Ale poněvadž jsem měl málo místa a přál jsem si, aby ostatní části mého těla zůstaly nepopsány – abych na ně mohl napsat báseň, kterou jsem skládal – pokud totiž na mně zůstala místa netetovaná – netrápil jsem se zlomky. Zlomky by se vlastně ani neměly při měření velryby uvádět.
+
+</section>

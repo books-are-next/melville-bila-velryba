@@ -3,6 +3,8 @@ title: "CV\\.ZMENŠUJE SE VELIKOST VELRYBY?—\_VYHYNE?"
 contentType: prose
 ---
 
+<section>
+
 Když k nám takto leviatan připlouvá od pramenů věčnosti, je snad vhodné se otázat, zda v dlouhém sledu pokolení nedegeneroval proti původní velikosti svých předků.
 
 Při zkoumání však shledáme, že dnešní velryby jsou nejen mohutnější nežli ty, jejichž fosilní pozůstatky se vyskytují v útvaru třetihorním (který zaujímá určitou geologickou periodu před člověkem), nýbrž že z velryb třetihorního útvaru jsou příslušnice jeho časnějších formací co do velikosti předstihovány velrybami z formací pozdějších.
@@ -32,3 +34,5 @@ Je sice přirozené, že tak trochu nedůvěřujeme údajům o množství velk�
 Nadto musíme uvážit, že při domnělé dlouhověkosti velryb, které se patrně dožívají sta let i více, žije v každém časovém údobí několik různých dospělých generací současně. Co to znamená, to snadno pochopíme, představíme-li si, že by všechna pohřebiště, hřbitovy a rodinné hrobky vydaly oživlá těla mužů, žen a dětí, kteří žili v minulých pětasedmdesáti letech, a přidaly tento nesčetný zástup k dnešnímu obyvatelstvu zeměkoule.
 
 Ze všech těchto důvodů považujeme velrybu jako druh za nesmrtelnou, byť v jednotlivcích hynula sebevíc. Brázdila moře, dříve než pevniny prorazily vodou. Plavala kdysi nad místy, kde dnes stojí Tuilerie, Windsorský zámek a Kreml. Za Noemovy potopy pohrdla Noemovou archou. A bude-li svět zase zatopen jako Nizozemsko při hubení krys, věčná velryba to přece jen přežije, a vzpínajíc se na nejvyšším hřebenu rovníkové povodně, bude chrlit k obloze svůj zpěněný vzdor.
+
+</section>

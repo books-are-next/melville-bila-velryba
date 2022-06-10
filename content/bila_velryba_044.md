@@ -3,6 +3,8 @@ title: XXXV\.VRCHOL STOŽÁRU
 contentType: prose
 ---
 
+<section>
+
 Bylo už příjemnější počasí, když na mne došlo v povinném střídání s ostatními námořníky, abych konal hlídku na vrcholu stožáru.
 
 U většiny amerických velrybářských lodí bývá zvykem, že se téměř hned při vyplutí lodi z přístavu stavějí na vrchol stožáru hlídky, třebaže loď má před sebou patnáct tisíc mil i víc, než dospěje k vlastnímu lovišti. A když se po třech, čtyřech nebo pěti letech plavby blíží k domovu a má někde ještě něco prázdného, řekněme jen prázdnou láhev – tedy jsou vrcholky jejích stožárů obsazeny hlídkami do poslední chvíle, a teprve když se její nejvyšší plachty ztrácejí mezi věžemi přístavu, vzdává se zcela naděje, že chytne ještě jednu velrybu.
@@ -29,3 +31,5 @@ Kapitáni takových lodí velmi často vezmou roztržité mladé filozofy na pa�
 „Jak to, ty opičáku,“ řekl jeden harpunář takovému mladíkovi, „křižujeme už ve vodách poctivě na třetí rok, a tys ještě ani jednou neohlásil velrybu! Když jsi na stožáru ty, pak jsou velryby tak vzácné jako slepičí zuby!“ Možná že vzácné byly; ale možná že jich na vzdáleném obzoru plula celá stáda. Takový roztržitý mladík je však ukolébáván oslnivým splýváním myšlenek s vlnami do netečnosti tak opiově omamné, do snění tak čiře bezvědomého, že nakonec ztratí pocit své individuality, mystický oceán u svých nohou považuje za viditelný obraz té hluboké, modré, bezedné duše pronikající lidstvo a přírodu a každá nezvyklá krása jen zpola viditelná, která před ním uniká, každá vyčnívající ploutev, spíš tušená než spatřená, jejíž tvar nelze rozeznat – to všechno mu připadá jako ztělesnění prchavých myšlenek, které zabydlují duši jen tak, že jí ustavičně prokmitávají. V tomto okouzlení tvůj duch uniká tam, odkud přišel, rozplývá se v čase a v prostoru jako rozvátý panteistický popel Cranmerův, stávaje se nakonec součástí každého pobřeží kolem celé zeměkoule.
 
 Není v tobě života kromě onoho kolébání, způsobeného mírným houpáním lodi, a loď má zase pohyb od moře, a tomu jej udílí nevyzpytatelný boží příliv a odliv. Ale ve chvíli, kdy tě ovládá toto snění, pohni nohou nebo hlavou jen nepatrně, přestaň se držet a s hrůzou si zas uvědomíš, kdo jsi. Vznášíš se nad descartovskými víry. A třeba uprostřed dne, za nejkrásnějšího počasí, propadneš se průzračným vzduchem s přidušeným výkřikem do letního moře a již se nikdy nevynoříš. Dejte si dobrý pozor, panteisté!
+
+</section>

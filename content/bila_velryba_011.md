@@ -3,6 +3,8 @@ title: II\.TLUMOK
 contentType: prose
 ---
 
+<section>
+
 Nacpal jsem nějakou tu košili do svého starého cestovního tlumoku, vstrčil jej pod paždí a vydal se na cestu k mysu Hornu a k Tichému oceánu. Opustiv dobré město na starém Manhattanu, přibyl jsem v pořádku do New Bedfordu. Bylo to v sobotu večer, v prosinci. Velkým zklamáním pro mne byla zpráva, že parníček do Nantucketu již odplul a že teprve v pondělí bude zas možno se tam dostat.
 
 Většina mladých kandidátů strastí a útrap velrybářství ovšem zůstává právě tady v New Bedfordu a odtud se vydávají na svou plavbu; proto chci hned podotknout, že já jsem nic takového neměl v úmyslu. Byl jsem totiž rozhodnut, že nepopluji na žádné jiné lodi než právě na nantucketské, poněvadž vše, co souviselo s tímto proslulým starým ostrovem, bylo nějak skvělé, divoké, a to právě mě nesmírně vábilo.
@@ -28,3 +30,5 @@ Co však soudí Lazar? Může si ohřát zmodralé ruce od nádherné severní z
 Že má Lazar ležet opuštěn na kameni přede dveřmi boháčovými, to je věru mnohem podivnější, než kdyby ledovec zakotvil u některého ostrova Moluckého. Ale boháč přece také žije jako car v ledovém paláci, zbudovaném ze zmrzlých vzdechů, a jako předseda abstinentního spolku pije jenom vlahé slzy sirotků.
 
 Ale dost již toho nářku, jedeme na lov velryb a na něco podobného budeme mít ještě dost času. Oškrabme led z promrzlých nohou a podívejme se, jak to vlastně vypadá v hostinci „U velryby“.
+
+</section>

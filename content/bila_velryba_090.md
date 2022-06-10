@@ -3,6 +3,8 @@ title: LXXXI\.PEQUOD POTKÁVÁ PANNU
 contentType: prose
 ---
 
+<section>
+
 Nastal předurčený den, a jak se mělo stát, potkali jsme loď Jungfrau z Brém, jíž velel Derick De Deer. Holanďané a Němci, kdysi největší velrybářští národové na světě, jsou dnes mezi posledními. Ale tu a tam se dosud náhodou setkáte s jejich vlajkou na Tichém oceáně, ve velmi dlouhých rozmezích zeměpisné šíře a délky.
 
 Zdálo se, že Jungfrau by nás z nějakého důvodu velmi ráda navštívila. Ještě byla dosti daleko od Pequody, a již stočila plachty na jalovo, kapitán si dal spustit člun a zamířil k nám, stoje netrpělivě na přídi místo na zádi člunu.
@@ -94,3 +96,5 @@ Nutno však říci, že u vorvaně se toto nevítané klesnutí vyskytuje mnohe
 Nedlouho po zmizení zdechliny jsme ze stožáru Pequody slyšeli výkřik, který oznamoval, že Jungfrau opět spustila čluny, ačkoli bylo vidět jen vodotrysk velryby s hřbetní ploutví, patřící k druhu velryb nepolapitelných, poněvadž je plavkyní neuvěřitelně zdatnou. Ale vodotrysk této velryby se tolik podobá vodotrysku vorvaně, že si je nezkušení velrybáři často zmýlí. Proto nyní Derick a všichni jeho společníci statečně pronásledovali obludu, kterou nelze dostihnout. Panna napjala všechny plachty a pustila se za svými čtyřmi čilými čluny, a tak zmizeli všichni daleko na straně závětrné, stále ještě při odvážné, slibné honbě.
 
 Ach, mnoho je velryb s hřbetní ploutví a mnoho je Dericků, milý příteli!
+
+</section>

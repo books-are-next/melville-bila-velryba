@@ -3,6 +3,8 @@ title: XVIII\.JEHO ZNAČKA
 contentType: prose
 ---
 
+<section>
+
 Jak jsme tak kráčeli na konec přístaviště k lodi, Kvíkveg s harpunou v ruce, zavolal na nás drsným hlasem kapitán Peleg ze svého vigvamu, že prý netušil, že můj přítel je lidojed, a kromě toho prohlašoval, že na loď nepustí žádného divocha, dokud se neprokáže svými papíry.
 
 „Co to má znamenat, kapitáne Pelegu?“ otázal jsem se a vyskočil jsem na zábradlí, nechávaje svého přítele na břehu.
@@ -52,3 +54,5 @@ V řeči starého Bildada se ještě ozývalo slané moře, a bylo nestejnorod
 „Slyšíte ho, slyšíte ho,“ křičel Peleg, přecházeje po kajutě a zarývaje ruce hluboko do kapes, „jen si ho oba poslechněte! Představte si to! Když jsme mysleli, že se loď každým okamžikem potopí! Tehdy myslet na smrt a na Poslední soud? Co? Když všechny tři stožáry neustále jako údery hromu buší do boku lodi a moře se převaluje přes příď i záď – tehdy myslet na smrt a na Poslední soud? Ne, to nebylo kdy myslet na smrt. Na život jsme tehdy mysleli, kapitán Achab a já, a jak zachránit celou posádku – jak postavit nouzové stožáry a jak se dostat do nejbližšího přístavu, na to jsem tenkrát myslel.“
 
 Bildad již neřekl ani slovo, ale zapjal si plášť až ke krku a kráčel na palubu, kam jsme ho následovali. Tam stál a zcela klidně pozoroval několik lodníků, kteří na střední palubě spravovali vrchní plachtu. Občas se sehnul a zvedl záplatu nebo kousíček dehtové příze, která by jinak přišla nazmar.
+
+</section>

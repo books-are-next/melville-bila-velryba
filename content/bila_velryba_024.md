@@ -3,6 +3,8 @@ title: XV\.ŠKEBLÍ POLÉVKA
 contentType: prose
 ---
 
+<section>
+
 Za pozdního večera malý Mech pohodlně zakotvil a Kvíkveg vyšel se mnou na břeh. Toho dne jsme ovšem nemohli už nic podniknout, jenom si obstarat večeři a nocleh. Hostinský „U velryby“ nám doporučil hostinec svého bratrance Hosey Husseye „U dvou kotlů“, o němž pravil, že je nejlépe vedeným hotelem v celém Nantucketu. Také nás ujistil, že bratranec Hosea je proslulý škeblí polévkou. Zkrátka, dal nám jasně na srozuměnou, že uděláme nejlíp, zkusíme-li to „U dvou kotlů“. Ale směr, který nám naznačil – jít podle žlutého skladiště na pravoboku, až spatříme bílý kostel na levoboku, potom se držet levoboku, až dojdeme k nároží, tři čárky k pravoboku; potom že se máme zeptat prvního člověka, kterého potkáme, kde je ten hostinec – toto spletité určení směru nás zpočátku velmi mátlo, zvláště když Kvíkveg začal tvrdit, že žluté skladiště – naše první východisko – musí nám zůstat po levoboku, kdežto já rozuměl Petru Rakvovi, že říká na pravoboku. Ale když jsme se tak chvíli potloukali tmou a zaklepáním občas vyburcovali některého pokojného obyvatele, abychom se zeptali na cestu, konečně jsme došli k něčemu, co nás nenechalo na pochybách.
 
 Dva ohromné dřevěné hrnce, černě natřené a zavěšené za ucha, houpaly se na příčném trámu přibitém k starému stožáru, který stál před starým průjezdem. Ramena trámu byla na jedné straně seříznuta, takže se ten starý stožár nemálo podobal šibenici. Snad jsem byl tehdy příliš přístupný takovým dojmům, ale při pohledu na tuto šibenici jsem se neubránil neurčitým obavám. Cítil jsem divnou křeč v krku, když jsem se díval na přečnívající dva konce; ano, byly dva, jeden pro Kvíkvega a druhý pro mne. To je zlé znamení, řekl jsem si. Mým prvním ubytovatelem ve velrybářském přístavu byl pan Rakev; v kapli lovců velryb na mne zíraly náhrobní desky a tady šibenice! A ještě pár hrozných černých kotlů! Mají připomínat pekelné kotle?
@@ -36,3 +38,5 @@ Po večeři jsme dostali od paní Husseyové lampu a poučení, kudy vede nejkr
 „Protože je to nebezpečné,“ odpověděla. „Od té doby, co se mladý Stiggs vrátil z té nešťastné plavby, kdy byl půl páta roku pryč a přivezl jen tři sudy tuku, a potom jsme ho našli mrtvého vzadu v přízemí a v boku měl harpunu, nedovolím žádnému nocležníkovi, aby si na noc bral do světnice takové nějaké nebezpečné zbraně. Tak, pane Kvíkvegu (neboť už znala jeho jméno), já si vezmu to vaše železo a dám vám na ně pozor až do rána. Ale polévka – jakou chcete k snídani, lidi, škeblí nebo tresčí?“
 
 „Obojí,“ řekl jsem, „a pro změnu si dáme pár uzených slanečků.“
+
+</section>

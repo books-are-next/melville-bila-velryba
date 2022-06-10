@@ -3,6 +3,8 @@ title: LVIII\.PLANKTON
 contentType: prose
 ---
 
+<section>
+
 Plujíce na severovýchod od Crozetských ostrovů, dostali jsme se do obrovské louky planktonu, té drobounké žluté látky, která je hlavní potravou grónských velryb. Vlnila se kolem nás na celé míle, takže se zdálo, že plujeme nekonečnými poli zralé zlaté pšenice.
 
 Druhého dne bylo vidět několik grónských velryb, jež se neměly čeho obávat od lodi lovící vorvaně, jako byla Pequod, a proto s otevřenými tlamami pomalu plovaly planktonem, který se přilepoval na třapcovitá vlákna oněch podivuhodných benátských žaluzií v jejich tlamách a byl takto oddělován od vody unikající u pysků.
@@ -26,3 +28,5 @@ Všimněte si zchytralosti moře; jak jeho nejobávanější tvorové plují pod
 Všimněte si toho všeho, a potom se vraťte k této zelené, vlídné a nejvýš poddajné zemi a uvažujte o obou, o zemi i o moři. Nenajdeme snad sami v sobě cosi podivuhodně obdobného? Jako tento hrůzostrašný oceán obklopuje zelenající se pevninu, tak leží kdesi v duši lidské jeden osamělý ostrov Tahiti, plný míru a radosti, ale obklopený všemi hrůzami života zpola neznámého. Bůh tě opatruj! Neodplouvej od tohoto ostrova, nikdy se nemůžeš vrátit!
 
 [^10]: Ona část moře, známá velrybářům pod jménem „Brazilské břehy“, nedostala toto jméno jako „Břehy Novofoundlandské“ proto, že by tam byly mělčiny a měřitelné hloubky, nýbrž pro tuto pozoruhodnou podobnost s lukami, kterou způsobují ohromné nánosy planktonu, plovoucí neustále v oněch zeměpisných šířkách, kde velrybáři často loví grónskou velrybu.
+
+</section>

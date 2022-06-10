@@ -3,6 +3,8 @@ title: IX\.KÁZÁNÍ
 contentType: prose
 ---
 
+<section>
+
 Otec Javor se vzpřímil a mírným hlasem nevtíravé autority nařídil rozptýleným věřícím, aby se srazili k sobě. „Pravobok sem, sem! Levobok doprostřed, sem, k pravoboku! Do středu lodi, doprostřed!“
 
 Ozval se tlumený zvuk těžkých námořnických bot mezi lavicemi a ještě tišší šoupání ženských botek a všechno se zas uklidnilo a všechny oči byly upřeny na kazatele.
@@ -71,3 +73,5 @@ To je, námořníci, ono druhé naučení. Běda lodivodovi živého Boha, kter�
 Zmlkl na okamžik a pohřížil se v přemítání. Když potom zase zvedl obličej k posluchačům, hleděla mu z očí velká radost a on volal se zbožným nadšením: „Ach, námořníci, vždyť na pravoboku každého hoře je opravdová rozkoš; a vyšší je vrchol této rozkoše, než je hluboké dno moře. Což není hlavní stožár vyšší, než je hluboký kýl? Radost čeká každého – radost velmi, velmi povznášející a hřejivá – každého, kdo se nesmiřitelně postaví proti pyšným bohům a admirálům tohoto světa. Radovat se bude ten, koho ještě udrží nad vodou jeho silné paže, až loď tohoto nízkého, zrádného světa se pod ním potopí. Radovat se bude ten, kdo neustává hledat pravdu a zabíjí, pálí a ničí všechen hřích, i když jej musí vytrhávat z rouch senátorů a soudců. Radosti – svrchované radosti se dostane tomu, kdo neuznává jiného zákona ani pána kromě Hospodina, Boha svého, a nemá jiné vlasti nežli nebesa. Radost bude údělem tomu, koho ani všechny vlny přílivu v moři řvoucího davu nedovedou odervati od tohoto bezpečného kýlu věčnosti. Věčné radosti a potěšení se dostane tomu, kdo při posledním vydechnutí může říci – ‚Ach, Otče – známý mně hlavně metlou svého hněvu – ať jsem smrtelný či nesmrtelný, tady umírám. Snažil jsem se patřit Tobě – víc než tomuto světu nebo sobě samému. Ale to nic není, věčnost ponechávám Tobě, neboť který člověk by mohl žít tak dlouho jako jeho Bůh?‘“
 
 Již nepromluvil. Pomalu udělil požehnání, zakryl si tvář rukama a tak zůstal klečet, až všichni lidé odešli a on zbyl v kapli sám.
+
+</section>

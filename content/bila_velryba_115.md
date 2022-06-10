@@ -3,6 +3,8 @@ title: CVI\.ACHABOVA NOHA
 contentType: prose
 ---
 
+<section>
+
 Ukvapenost, s jakou kapitán Achab opustil Samuela Enderbyho z Londýna, přivodila jemu samému malý úraz. Achab se spustil tak energicky na jedno sedadlo v člunu, že se mu noha ze slonoviny napolo rozštípla. A když se potom octl na palubě u své točné díry, obrátil se s naléhavým rozkazem tak prudce ke kormidelníkovi (bylo to jako obyčejně něco o tom, že neřídí loď dost rovně), že prasklá již kost se poznovu stočila a zkroutila; zůstávala sice ještě celá a na pohled pevná, ale Achabovi se už nezdála zcela spolehlivá.
 
 A opravdu nebylo divu, že při vší převládající šílené bezohlednosti občas zkoumal velmi pečlivě, v jakém stavu je mrtvá kost, na níž zčásti stál. Vždyť nedlouho předtím, než Pequod vyplula z Nantucketu, byl jedné noci nalezen na zemi v bezvědomí – jakousi neznámou a zdánlivě nevysvětlitelnou náhodou se jeho kostěná končetina vymkla tak prudce, že se rozštípla jako tyčka a div mu neprorazila slabiny. Jen s nesmírnou námahou se podařilo tuto bolestivou ránu zcela zahojit.
@@ -14,3 +16,5 @@ Bezděčně jsme tu prozradili jedno tajemství, které snad mělo být mnohem v
 Ale ať už je tomu jakkoli; ať už neviditelný, nejasný synod ve vzduchu nebo mstivá knížata a vládcové ohně mají nebo nemají co dělat s pozemským Achabem, přece Achab, když to s jeho nohou takto vypadalo, podnikl praktické kroky – zavolal tesaře.
 
 Když se před ním onen řemeslník objevil, požádal ho, aby mu bez prodlení zhotovil novou nohu, a důstojníkům nařídil, aby tesaři vydali všechny sloupky a trámce z vorvaní čelisti, které se nahromadily za plavby, aby si tesař mohl pečlivě vybrat materiál nejpevnější, nejčistšího zrna. Potom dostal tesař rozkaz, aby nohu dohotovil ještě téže noci a opatřil ji vším potřebným, nepoužívaje součástek z nohy nespolehlivé. Dále bylo nařízeno vytáhnout lodní kovadlinu, která dočasně zahálela ve skladišti, a aby se věc uspíšila, dostal kovář rozkaz, aby ihned ukoval železné součástky, kterých bude zapotřebí.
+
+</section>

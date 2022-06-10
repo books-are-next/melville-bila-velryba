@@ -3,6 +3,8 @@ title: CIII\.ROZMĚRY VELRYBÍ KOSTRY
 contentType: prose
 ---
 
+<section>
+
 Předně vám chci podat přehlednou a srozumitelnou zprávu o živé váze a velikosti leviatana, jehož kostrou se máme brzo zabývat. Takové údaje tady mohou být užitečné.
 
 Své vlastní přesné výpočty zčásti opírám o odhad kapitána Scoresbyho, že totiž největší grónská velryba, dlouhá šedesát stop, váží sedmdesát tun. Podle mého pečlivého výpočtu tedy vorvaň největší velikosti, který je dlouhý pětaosmdesát až devadesát stop a kolem těla měří na nejširším místě necelých čtyřicet stop, taková velryba bude vážit nejméně devadesát tun. Počítáme-li na jednu tunu třináct mužů, pak by ten vorvaň váhou hodně převýšil veškeré obyvatelstvo jedné vesnice, čítající tisíc jedno sto obyvatel.
@@ -24,3 +26,5 @@ Jak je to marné a pošetilé, uvažoval jsem, kdyby chtěl bázlivý, nescesto
 A což páteř? Tu bychom nejlépe mohli posoudit, kdybychom jeřábem navršili kosti do výšky. Není to snadná práce. Ale když už je hotova, hodně se to podobá Pompejovu sloupu v Alexandrii.
 
 Je tu celkem něco přes čtyřicet obratlů, které v kostře do sebe nezapadají. Leží většinou jako velké bloky s výčnělky na gotické věži, která tvoří pevné vrstvy těžkého zdiva. Největší, uprostřed, je široký necelé tři stopy a vysoký přes čtyři stopy. Nejmenší obratel z místa, kde se páteř zužuje v ocas, má na šíř jen dvě stopy a trochu se podobá bílé kulečníkové kouli. Bylo mi řečeno, že jsou ještě menší obratle, ale roznesli je malí rozpustilí lidojedi, děti jednoho kněze, které je ukradly, aby s nimi hrály v kuličky. Tak vidíme, jak páteř i největšího žijícího tvora nakonec poklesne tak, že je z ní jen dětská hračka.
+
+</section>

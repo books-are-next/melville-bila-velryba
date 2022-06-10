@@ -3,6 +3,8 @@ title: XII\.ŽIVOTOPISNÁ
 contentType: prose
 ---
 
+<section>
+
 Kvíkveg se narodil na ostrově Rokovoko, daleko na jihozápadě. Na žádné mapě není vyznačen; správná místa nikdy nebývají.
 
 Když ještě jako divoch nedávno narozený pobíhal bezstarostně po rodných lesích v zástěrce z trávy, sledován mlsnými kozami, jako by sám byl zeleným stromečkem, už tenkrát dřímala v Kvíkvegově ctižádostivé duši silná touha spatřit z křesťanského světa více než sem tam nějakého toho velrybáře. Jeho otec byl velkým náčelníkem, králem; strýc veleknězem; z matčiny strany měl tety, které byly manželkami nepřemožitelných válečníků. V jeho žilách proudila znamenitá krev – krev královská – i když, jak se obávám, hodně pokažená lidojedskými sklony, kterým holdoval v mládí, kdy na něho nikdo nedozíral.
@@ -18,3 +20,5 @@ Vyptával jsem se ho v náznacích, hodlá-li se vrátit domů a dát se korun
 Zeptal jsem se ho, jaké plány má pro nejbližší budoucnost. Odpověděl, že půjde zas na moře a věnuje se svému řemeslu. Řekl jsem mu na to, že se chci také vydat na velrybářskou výpravu a že hodlám vyplout z Nantucketu, neboť je to nejslibnější přístav, z kterého může vyplout lovec velryb za dobrodružstvím. Okamžitě se rozhodl, že na ten ostrov pojede se mnou, dá se najmout na touž loď, půjde na touž hlídku, do téhož člunu, do téhož oddílu, který jí ze společné mísy, zkrátka a dobře – bude se mnou sdílet každý můj krok; ruku v ruce se mnou se odvážně vrhne do jakéhokoli dobrodružství na moři i na souši. S tím vším jsem radostně souhlasil. Nejenže jsem cítil náklonnost ke Kvíkvegovi, ale on byl zkušeným harpunářem, a mohl tedy velmi prospět člověku jako já, který nevěděl nic o tajemstvích velrybaření, třeba se už důkladně obeznámil s mořem, ovšem jen při obchodních plavbách.
 
 Když Kvíkveg při posledním, skomírajícím bafnutí z dýmky dokončil svůj příběh, objal mě, přitiskl čelo k mému čelu a sfoukl světlo. Potom jsme se překulili každý na svou stranu, jeden vpravo, druhý vlevo, a zanedlouho jsme spali.
+
+</section>

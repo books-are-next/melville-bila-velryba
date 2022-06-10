@@ -3,6 +3,8 @@ title: LX\.PROVAZEC
 contentType: prose
 ---
 
+<section>
+
 Se zřetelem k velrybářské scéně, kterou zakrátko vylíčím, a také abyste lépe porozuměli všem podobným výjevům uvedeným jinde, musíme zde promluvit o magickém, často hrozném velrybářském provazci.
 
 Původně se v rybářství používalo provazce z nejlepšího konopí, který býval lehce napouštěn dehtovou párou, ale ne dehtem samým, jak tomu bývá u obyčejných lan. Obvyklé dehtování sice dodá konopí poddajnosti, provazník je snáze zvládne a námořník dostane lano vhodnější pro běžnou potřebu na lodi, ale při obvyklé dávce dehtu by velrybí provazec příliš ztuhl, neboť musí být navíjen hustě. Jak většina námořníků začíná poznávat, dehet lanu nijak nepřidává trvanlivosti ani síly, byť mu dodával tuhosti a hladkosti sebevíc.
@@ -22,3 +24,5 @@ Takto provazec obtáčí celý člun složitými křivkami, kroutě a svíjeje 
 Stačí snad jen na chvilku se zamyslit, abyste pochopili, proč při velrybářství dochází znovu a znovu k neštěstím – jen málo jich je tu a tam zaznamenáno – při nichž je některý muž stržen provazcem z člunu a ztracen. Sedět v člunu ve chvíli, kdy se šňůra rozvíjí, je jako sedět v mnohonásobném hvízdání parního stroje v plném chodu, kdy se o vás otírá každá pohybující se páka, píst a kolo. A je to horší: uprostřed tohoto vrcholného nebezpečí nemůžete sedět nehnutě, poněvadž se člun houpá jako kolébka a hází člověkem sem a tam docela nepředvídaně, takže jen zásluhou jakési přizpůsobivé čilosti a souladu vůle a činu se vyhnete osudu Mazeppovu a nejste strženi tam, kde vás ani vševidoucí slunce nikdy nevypátrá.
 
 A dále: tak jako hluboké ticho, které zřejmě jen předchází a věští bouři, bývá snad hroznější než bouře sama, poněvadž ticho je jen pláštěm a obalem bouře a bouři v sobě jen skrývá, jako puška na pohled neškodná v sobě nese osudný prach, kulku a výbuch – tak i půvabný klid provazce, který se tiše vine kolem veslařů, než je opravdu uveden v činnost – ten v sobě mívá více skutečné hrůzy než kterákoli jiná stránka tohoto nebezpečného zaměstnání. Ale nač o tom ještě mluvit! Všechny lidi ovíjí velrybářský provazec; všichni se narodili s oprátkou na krku. Ale teprve tehdy, když jsou zachváceni prudkým, náhlým děsem smrti, uvědomují si smrtelníci mlčenlivá, skrytá a stále přítomná nebezpečí života. A jste-li filozof, tedy ani na sedadle velrybářského člunu neucítíte v srdci o nic větší hrůzu, než kdybyste seděli u svého večerního ohně a měli vedle sebe pohrabáč, a ne harpunu.
+
+</section>

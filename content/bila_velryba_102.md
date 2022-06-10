@@ -3,6 +3,8 @@ title: XCIII\.VYVRŽENEC
 contentType: prose
 ---
 
+<section>
+
 Uplynulo teprve několik dnů od setkání s francouzskou lodí, když se přihodila velmi významná událost nejméně významnému členu posádky Pequody; událost nanejvýš žalostná, která mužstvu, občas bláznivě veselému a pověrčivému, nakonec dala živoucí a stále přítomnou předpověď, jaký děsivý osud může stihnout i je.
 
 Na velrybářské lodi nechodí všichni členové posádky do člunů. Několik mužů, zvaných lodní služba, je určeno k práci na lodi a jejich úkolem je obstarávat všechno, čeho je třeba, když se čluny ženou za velrybou. Tito členové lodní služby jsou vcelku stejně otužilí jako mužstvo tvořící posádky člunů. Ale vyskytne-li se na lodi chlapík neobvykle drobný, nemotorný nebo bázlivý, najisto se dostane do lodní služby. Tak tomu bylo na Pequodě s malým černochem, kterému přezdívali Pippin nebo zkratkou Pip. Chudák Pip! Už jste o něm slyšeli, jistě si vzpomínáte na jeho tamburínu v oné dramatické půlnoci, tak zasmušile veselé.
@@ -30,3 +32,5 @@ Cožpak Stubb opravdu nechal ubohého černouška jeho osudu? Ne; aspoň to nem�
 Ale stalo se, že druhé čluny nespatřily Pipa, a když po jedné straně objevily nablízku velryby, obrátily a pustily se za nimi. Stubbův člun byl teď už tak daleko a on a jeho posádka byli tak zaujati lovem, že se obzor kolem Pipa začal hrozivě rozšiřovat. Konečně jej zachránila čirou náhodou loď sama. Ale od té chvíle chodil černoušek po palubě jako smyslů zbavený, aspoň se to o něm říkalo. Moře sice pohrdavě vydalo jeho smrtelné tělo, ale utopilo jeho nesmrtelnou duši. A přece ji neutopilo docela. Spíše ji stáhlo zaživa do úžasných hloubek, kde se před jeho trpnýma očima míhaly podivné útvary prvotního světa, nesvedeného z cesty, a chamtivý mořský muž, Rozum, ukázal mu své nahromaděné poklady. Mezi těmito veselými, bezcitnými, věčně mladými věčnostmi spatřil Pip přerozmanité, božsky všudypřítomné korálové polypy, kteří ze základů vod vyzvedávají obrovské kulovité světy. Spatřil boží nohu na podložce tkalcovského stavu a mluvil o tom, proto ho spoluplavci nazývali bláznem. Tak je lidské šílenství božskou rozumností, člověk, vzdalující se ode všeho pozemského rozumu, přichází nakonec k oné nebeské myšlence, která je pro rozum nesmyslná a šílená. Ať potom prožívá dobré či zlé, cítí se neotřesitelný a lhostejný jako jeho Bůh.
 
 Konec konců, nekárejte příliš přísně Stubba. V rybaření je to běžné; a v závěru vyprávění uvidíte, že i mne postihlo podobné opuštění.
+
+</section>

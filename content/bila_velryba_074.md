@@ -3,6 +3,8 @@ title: LXV\.VELRYBA JAKO JÍDLO
 contentType: prose
 ---
 
+<section>
+
 Že se smrtelník může živit tvorem, který živí jeho lampu, a jako Stubb jej jíst, možno říci, při jeho vlastním světle, to se zdá tak neobvyklé, že je třeba zabrat se trochu do dějin a filozofie této věci.
 
 Je zaznamenáno, že před třemi sty lety byl jazyk grónské velryby považován ve Francii za vybranou lahůdku a platily se tam za něj velké peníze. V dobách Jindřicha VIII. dostal jakýsi kuchař u jeho dvora krásnou odměnu za to, že vynašel znamenitou omáčku, s níž lze jíst plískavice pečené na rožni, které, jak si vzpomínáte, jsou odrůdou velryb. Plískavice se ostatně až do dnešních dob považují za dobré jídlo. Z masa se dělají kuličky asi jako kulečníkové koule, a jsou-li dobře osoleny a okořeněny, mohou být považovány za karbanátky z masa želvího nebo telecího. Staří mniši z Dunfermlinu je jedli tuze rádi. Koruna jim darovala velkou výsadu lovit plískavice.
@@ -16,3 +18,5 @@ Mozek malého vorvaně bývá pokládán za chutné jídlo. Lebeční kost se pr
 Neobyčejná tučnost velryby není snad jedinou příčinou, proč obyvatelé pevniny pohlížejí na jídlo z ní s odporem. Tento odpor, zdá se, vzniká do jisté míry z úvahy dříve uvedené, že totiž člověk má jíst čerstvě zabitého mořského tvora, a to při jeho vlastním světle. Není pochyby, že první člověk, který zabil býka, byl považován za vraha – možná, že byl oběšen. A kdyby ho byl soudil skot sám, jistě by oběšen byl; a jestliže některý vrah zasloužil smrti, tedy jí on jistě zasloužil. Jděte v sobotu večer do tržnice a podívejte se na zástupy živých dvounožců, očumujících dlouhé řady zabitých čtvernožců. Zda ten pohled poněkud neomlouvá dravost kanibala? Kanibalové? Kdo vlastně není kanibal? Říkám, že více milosrdenství se dostane obyvateli Fidži, jenž si nasolil hubeného misionáře a uchovával jej ve sklepě, až zase bude hlad; pravím, tomuto prozíravému Fidžijci se při Posledním soudu dostane více milosrdenství nežli tobě, civilizovaný a vzdělaný labužníku, jenž přibíjíš husy k zemi a hoduješ na jejich ztučnělých játrech v své pâté de foie gras.
 
 Ale Stubb jí velrybu při jejím vlastním světle, že ano? A tak zločin ještě zvětšuje o urážku, což? Podívej se na střenku svého nože, můj civilizovaný a vzdělaný labužníku, když si pochutnáváš na hovězí pečeni! Z čeho je ta střenka? Z čeho jiného než z kosti bratra právě toho vola, kterého jíš! A čím se páráš v zubech, když sis pochutnal na tučné huse? Brkem z téhož ptáka. A jakým perem psal své oběžníky tajemník Společnosti pro ochranu hus proti krutosti? Teprve před nějakými dvěma měsíci se tento spolek usnesl, aby se používalo jen ocelových per.
+
+</section>

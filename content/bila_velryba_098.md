@@ -3,6 +3,8 @@ title: "LXXXIX\\.PŘIPOUTANÁ RYBA A\_VOLNÁ RYBA"
 contentType: prose
 ---
 
+<section>
+
 Zmínka o vlajkách a vlajkových tyčích v předminulé kapitole vyžaduje, abychom i trochu promluvili o velrybářských zákonech a pravidlech, za jejichž hlavní symbol a odznak lze považovat právě takovou tyč s vlajkou.
 
 Stává se často, když několik lodí křižuje společně, že jedna loď zasáhne velrybu, ta však unikne a nakonec ji zabije a chytí loď jiná. V tom už je nepřímo zahrnuto mnoho podružných nahodilostí, které všechny patří k jednomu případu hlavnímu. Například – po únavné a nebezpečné honbě je velryba polapena, ale její tělo se za silné bouře od lodi odpoutá, odplave daleko na stranu závětrnou a vyloví je jiná velrybářská loď, která si za klidného moře velrybu pohodlně připoutá k boku, neriskujíc přitom jediný život nebo provazec. Z toho by často mohly vzniknout mezi velrybáři spory velmi prudké a nebezpečné, kdyby tu nebyly jisté všeobecné, nepopiratelné zákony, psané nebo nepsané, které platí pro všechny případy.
@@ -36,3 +38,5 @@ Možno-li nauky o připoutané rybě použít takto všeobecně, lze příbuzn�
 Nebyla Amerika v roce 1492 volnou rybou, do které Kolumbus zarazil španělskou vlajku, jako by ji vlajkovou tyčí označil za vlastnictví svého královského pána a paní? Čím bylo pro cara Polsko? Čím pro Turka Řecko? Čím Indie pro Anglii? Čím konečně bude Mexiko pro Spojené státy? Ve všech případech volnou rybou.
 
 Co jiného jsou lidská práva a svobody světa než volné ryby? Co jsou myšlenky a názory všech lidí než volné ryby? Co je zásada náboženské víry v lidech nežli volná ryba? Čím jsou pro okázalého podloudného slovíčkáře myšlenky mudrců než volnými rybami? Co je sama velká zeměkoule než volná ryba? A jste snad vy, čtenáři, něco jiného než také jen volná ryba a připoutaná ryba?
+
+</section>

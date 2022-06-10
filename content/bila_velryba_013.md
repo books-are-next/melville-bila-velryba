@@ -3,6 +3,8 @@ title: IV\.PŘIKRÝVKA
 contentType: prose
 ---
 
+<section>
+
 Když jsem se nazítří za bílého dne probudil, shledal jsem, že Kvíkvegova paže je ovinuta kolem mne nesmírně láskyplně a oddaně. Někdo by si mohl bezmála myslit, že jsem jeho manželka. Přikrývka byla sešívaná z různobarevných kusů, plná zvláštních malých mnohobarevných čtverečků a trojúhelníků. Jeho paže, tetovaná po celé délce nekonečným krétským bludištěm obrazů, z nichž se žádný odstínem nepodobal druhému – snad proto, že paže byla na moři vystavena slunci a stínu nesoustavně, poněvadž rukávy košile bývají vyhrnuty v různých dobách nestejně – ta paže, musím říci, vypadala jako pruh naší sešívané přikrývky. Opravdu, když jsem se probudil a jeho paže ležela na přikrývce, stěží jsem ji od ní rozeznal, tak barvy splývaly; jen podle tíhy a tlaku jsem poznal, že mě Kvíkveg objímá.
 
 Měl jsem divné pocity. Dovolte, pokusím se je vysvětlit. Vzpomínám si, že se mi přihodilo něco podobného ještě v dětství; nikdy jsem si nebyl zcela jist, byl-li to sen či skutečnost. Takhle to bylo. Provedl jsem nějaké darebáctví – myslím, že jsem se pokoušel vlézt do komína, poněvadž jsem před několika dny viděl kominíka, jak tam leze. Moje macecha, jež mě beztoho neustále bila nebo mě posílala bez večeře spat, vytáhla mě za nohu z komína a poslala mě do postele, neohlížejíc se na to, že jsou dvě hodiny odpoledne, dne 21. června, nejdelšího dne v roce na naší polokouli. Bylo mi hrozně. Nedalo se nic dělat, proto jsem šel nahoru do svého pokojíčka v druhém patře, svlékal jsem se co nejpomaleji, jen abych zabil čas, a s hořkým povzdechem jsem zalezl pod přikrývku.
@@ -16,3 +18,5 @@ Začal se oblékat od hlavy, narazil si nejprve kastorový klobouk – mimochod
 Povšiml jsem si teď, že okno nemá záclony a že sem je přes úzkou ulici z protějšího domu dobře vidět, a uvědomil jsem si, jak málo slušný je Kvíkveg, když má na sobě o málo více než klobouk a boty; poprosil jsem ho tedy, jak nejlépe jsem dovedl, aby si s oblékáním pospíšil a zejména aby si co nejrychleji natáhl kalhoty. Uposlechl a začal se mýt. V tu ranní dobu by si každý křesťan umyl obličej, ale Kvíkveg se k mému úžasu spokojil s omytím hrudi, paží a rukou. Potom oblékl vestu, a uchopiv kus tvrdého mýdla z umyvadla na stole, ponořil je do vody a začal si mydlit tvář. Dával jsem pozor, kde asi má břitvu, on však, hleďme, vzal harpunu stojící u postele, oddělal dlouhé dřevěné držadlo, stáhl chránítko ze špice, ostří trochu obtáhl na botě, přistoupil k střípku zrcadla na stěně a začal energicky škrabat či spíše harpunovat své tváře. Kvíkvegu, myslím si, takhle užíváš Rogerovy nejlepší oceli po čertech důkladně! Později – když jsem poznal, z jaké znamenité oceli jsou špice harpuny a jak nesmírně ostré jsou vždy její dlouhé a rovné kraje, už jsem se tolik nedivil takovémuto holení.
 
 Kvíkveg se brzy dooblékl a pyšně vypochodoval z pokoje, zahalen do velké, tlusté lodivodské kazajky a třímaje svou harpunu jako maršálskou hůl.
+
+</section>

@@ -3,6 +3,8 @@ title: XC\.HLAVY NEBO OCASY
 contentType: prose
 ---
 
+<section>
+
 _„De balena vero sufficit, si rex habeat caput, et regina caudam.“_
 
 de Bracton, l. 3, c. 3.
@@ -46,3 +48,5 @@ Ale proč má mít král hlavu a královna ocas? Nuže, právníci, nějaký d�
 V pojednání o „královnině zlatě neboli královnině kapesném“ vykládá starý královský soudce, jakýsi William Prynne, toto: „Ocas patří královně, protože šatna královnina musí být zásobena kosticemi.“ To ovšem psal v době, kdy se na dámské šněrovačky hojně používalo černých ohebných kostic z velryb grónských neboli pravých. Ale kostice není v ocase, což je žalostný omyl u takového bystrého právníka jako Prynne. Či je snad královna mořskou pannou, aby jí dávali velrybí ocas? V tom se bude možná skrývat nějaký jinotaj.
 
 Podle anglických zákonodárců jsou dvě královské ryby – velryba a jeseter. Obě jsou královským vlastnictvím s určitými výhradami a podle jména tvoří desáté odvětví řádných korunních příjmů. Nevím, že by se toho byl dotkl některý jiný autor, ale domnívám se podle obdoby, že jeseter musí být rozdělen stejně jako velryba, takže král obdrží neobyčejně pevnou a elastickou hlavu této ryby, což snad, symbolicky vzato, může být žertovně odůvodněno předpokladem nějaké spřízněnosti. A tak se zdá, že je důvod ve všem, i v zákoně.
+
+</section>

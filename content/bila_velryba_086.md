@@ -3,6 +3,8 @@ title: LXXVII\.VELIKÝ SUD HEIDELBERSKÝ
 contentType: prose
 ---
 
+<section>
+
 Nyní přijde stáčení sudu. Abychom je správně pochopili, musíme se dovědět něco o zvláštní vnitřní stavbě oné věci.
 
 Považujeme-li vorvaňovu hlavu za pravoúhlý plný hranol, můžeme ji šikmou rovinou rozdělit ve dva klíny[^17], z nichž spodní tvoří kostěná stavba lebky a čelisti, kdežto vrchní klín je z tukové hmoty naprosto bez kostí a jeho široký přední konec tvoří rozšířené, svislé zdánlivé čelo velryby. Rozdělte tento vrchní klín vodorovně uprostřed čela, a dostanete dvě skoro stejné části, které už příroda rozdělila vnitřní stěnou z tuhé, šlachovité látky.
@@ -18,3 +20,5 @@ Poněvadž se při odsekávání hlavy dostává námořníkův nástroj blízko
 Když jsem tohle všechno uvedl, zvu vás teď k účasti na této báječné – a v našem zvláštním případě – téměř osudné operaci, totiž na narážení velkého heidelberského sudu vorvaního.
 
 [^17]: Klín tu není termín euklidovský. Patří do matematiky čistě námořnické. Nevím, že by byl už definován. Tento klín je těleso, jehož jedna stěna svírá se základnou úhel ostrý, druha úhel pravý. Tím se liší od jiných klínů, jejichž obě stěny svírají stejný úhel ostrý.
+
+</section>

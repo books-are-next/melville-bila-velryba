@@ -3,6 +3,8 @@ title: "LXXXII\\.ČEST A\_SLÁVA VELRYBÁŘSTVÍ"
 contentType: prose
 ---
 
+<section>
+
 Jsou některá podnikání, při nichž je nejlepší metodou pečlivý nepořádek.
 
 Čím hlouběji pronikám do této látky o velrybaření a docházím v svém pátrání až k samému jeho původu, tím víc jsem dojat jeho velkou ctihodností a starobylostí. Zejména když shledávám, že tolik velkých polobohů, hrdinů a všemožných proroků tak či onak vyznamenalo toto podnikání, uvádí mě v nadšení myšlenka, že také já, třeba jen okrajově, patřím k takovému slavnému bratrstvu.
@@ -20,3 +22,5 @@ Ale nejlepší odporující si autority pokládají řecký příběh o Heraklo
 Členy našeho řádu však nejsou jen samí hrdinové, svatí, polobozi a proroci. Náš velmistr má být teprve jmenován; jako vznešení králové starověku shledáváme, že u pramenů našeho bratrstva nechybějí ani sami velicí bohové. Měl bych teď vyprávět krásný orientální příběh ze šáster, posvátného zákoníku Indů, který nám dává hrozného Višnua, jednoho z božské trojice hindské; dává nám božského Višnua za Pána – neboť Višnu si při prvním ze svých deseti pozemských vtělení vybral a navždy posvětil velrybu. Když se Bráhma neboli Bůh Bohů – jak praví šástry – odhodlal znovu vytvořit svět po jedné z jeho periodických zkáz, zrodil Višnua, aby toto dílo řídil. Ale Védy, posvátné knihy, jejichž znalost byla pro Višnua, než začal tvořit, patrně nezbytná a které tedy musely obsahovat jakési praktické pokyny pro mladé architekty, Védy ležely na dně mořském. Proto se Višnu vtělil ve velrybu, a ponořiv se s jejím tělem do největších hloubek, zachránil posvátné knihy. Nebyl tedy Višnu velrybářem? Vždyť člověku, který jezdí na koni, se také říká koňař.
 
 Perseus, svatý Jiří, Herakles, Jonáš a Višnu – to je seznam našich členů! Který klub kromě velrybářského má v čele členy tak vynikající?
+
+</section>

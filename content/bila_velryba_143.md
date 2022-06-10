@@ -3,6 +3,8 @@ title: "CXXXIV\\.STÍHÁNÍ\_— DRUHÝ DEN"
 contentType: prose
 ---
 
+<section>
+
 Za úsvitu hlídky znovu dochvilně obsadily všechny tři stožáry.
 
 „Vidíte ji?“ volal Achab, když vyčkal jen maličko, až se trochu rozjasnilo.
@@ -96,3 +98,5 @@ Ale brzy se vrátili se zprávou, že Parse nelze nikde najít.
 Za soumraku viděli velrybu dosud na straně závětrné.
 
 Znovu tedy skasali plachty a všechno se dálo asi tak jako minulé noci. Jen zvuk kladiv a bzukot brusu bylo slyšet skoro až do bílého rána, jak muži pracovali při svítilnách, aby úplně a pečlivě vystrojili náhradní čluny a nabrousili si nové zbraně na zítřek. Zatím tesař dělal z rozbitého kýlu Achabova zničeného člunu novou nohu pro něho. Achab stál jako předešlé noci se staženým kloboukem nehnutě v svém palubním otvoru. Jeho skrytý pohled, točící se za sluncem, vracel se už napřed po ciferníku slunečních hodin a utkvěl ve směru východním tam, kde mělo nejdřív vyjít slunce.
+
+</section>
