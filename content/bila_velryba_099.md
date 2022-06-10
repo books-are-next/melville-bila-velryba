@@ -7,8 +7,6 @@ _„De balena vero sufficit, si rex habeat caput, et regina caudam.“_
 
 de Bracton, l. 3, c. 3.
 
-  
-
 Tento latinský citát z anglického zákoníku znamená v souvislosti s ostatním textem, že ze všech velryb, chycených kýmkoli u pobřeží oné země, musí hlavu dostat král jakožto čestný Velký harpunář a královně má být uctivě nabídnut ocas. Rozdělení, které se u velryby hodně podobá rozpůlení jablka; mezi těmi dvěma částmi uprostřed už nic nezbývá. Poněvadž tento zákon v pozměněné formě dosud v Anglii platí a poněvadž je po některých stránkách podivnou odchylkou od všeobecného zákona o rybě připoutané a volné, promluvíme o něm ve zvláštní kapitole podle téže zásady zdvořilosti, s níž anglické železnice vydržují na vlastní náklad zvláštní vůz, vyhrazený jedině pro královskou rodinu. Abych především dokázal, že zmíněný zákon dosud platí, vylíčím vám jednu příhodu, která se udála v posledních dvou letech.
 
 Nějací počestní námořníci z Doveru nebo ze Sandwiche nebo z některého ze Cinque Ports zabili po úporné honbě a vytáhli na břeh krásnou velrybu, kterou původně spatřili daleko od pobřeží. Ale Cinque Ports jsou částečně nebo vůbec pod pravomocí jakéhosi strážníka nebo dozorce, nazvaného nejvyšší strážce. Poněvadž je mu jeho úřad svěřen přímo korunou, myslím, že všechna královská práva v území Cinque Ports přecházejí na tohoto nejvyššího strážce. Někteří pisatelé označují tento úřad za sinekuru, ale není tomu tak. Nejvyšší strážce je občas pilně zaměstnán šizením, aby získal své vzatky, které jsou jeho hlavně proto, že je získal šizením.

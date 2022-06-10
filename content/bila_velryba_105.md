@@ -3,8 +3,6 @@ title: XCVI\.ŠKVAŘENÍ
 contentType: prose
 ---
 
-  
-
 Kromě zavěšených člunů je americká velrybářská loď nápadná zvenčí svými kotli. Loď je podivnou odchylkou od pravidla, poněvadž teprve tehdy je zcela vybavena, když ve spojení s dílem tesařským a provaznickým je hotova také důkladná práce zednická. Vypadá to, jako by na palubu byla přenesena cihlářská pec z širého pole.
 
 Kotle na škvaření stojí mezi předním a hlavním stožárem, na největším prostranství na palubě. Žebroví pod nimi je neobyčejně silné, aby udrželo váhu skoro plného kvádru z cihel a malty, o základně nějakých desetkrát osm čtverečných stop a pět stop na výšku. Základy nejsou zapuštěny do paluby, zdivo je připevněno k podlaze silnými železnými opěrami; jejich svislá ramena svírají stavbu na všech stranách a vodorovná jsou přišroubována k palubě. Po stranách je zdivo obloženo dřevem a nahoře je úplně pokrývá velký, vypouklý, těžký poklop. Sejmeme-li tento poklop, objeví se nám dva velké kotle, každý o obsahu několika sudů. Nepoužívá-li se jich, jsou udržovány ve vzorné čistotě. Leštívají je často saponitem a pískem, až se uvnitř lesknou jako stříbrné mísy na punč. Za nočních hlídek si někteří otrlí staří námořníci do nich zalezou a svinou se tu k spánku. Při leštění bývá v každém kotli jeden muž, a ti si v tom blízkém sousedství prozradí přes železné okraje kotlů lecjaké důvěrnosti. Jsou také vhodným místem pro hluboké matematické úvahy. Právě v levém kotli na Pequodě, když jsem pilně kroužil kolem sebe saponitem, právě tam mi poprvé přímo napadl pozoru hodný fakt, že v geometrii všechna tělesa klouzající po cykloidě, například můj saponit, sjedou z každého bodu přesně za touž dobu.

@@ -9,6 +9,8 @@ contentType: prose
 
 Vidím ho jako dnes, toho bledého suplenta – všechno na něm bylo zchátralé: kabát i srdce, tělo i mozek. Neustále oprašoval své staré slovníky a mluvnice divným kapesníkem, jejž výsměšně zdobily pestré vlajky všech známých národů světa. Své staré mluvnice oprašoval rád; připomínalo mu to tak trochu jeho pomíjejícnost.
 
+  
+
 _„Vezmete-li si za úkol vzdělávat lidi a naučit je, že se tomu zvířeti má správně říkat velryba, a přitom bezděky spolknete slabiku vel, jež téměř samojediná vytváří smysl toho slova, říkáte něco, co není pravdivé.“_
 
 HACKLUYT

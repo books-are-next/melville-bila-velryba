@@ -3,8 +3,6 @@ title: CXI\.TICHÝ OCEÁN
 contentType: prose
 ---
 
-  
-
 Proklouzli jsme kolem ostrovů Batanských a vypluli konečně do velkého Jižního moře, takže jsem mohl pozdravit svůj drahý Pacifik nesčetnými díky – když ne za nic jiného, tedy aspoň za to, že nyní se konečně splnilo dávné přání mého mládí a klidný oceán přede mnou rozestřel na východ tisíc mil modři.
 
 Jakési nepochopitelné, sladké tajemství leží na tomto moři, jehož něžně hrůzné oddychování jako by hovořilo o duši skryté pod hladinou – podobně jako ono legendární vlnění efezského trávníku nad pohřbeným svatým Janem Evangelistou. A je to tak v pořádku, že nad mořskými pastvinami, široce zvlněnými vodními prériemi a pohřebišti pro chudé všech čtyř pevnin se vlny neustále zvedají a klesají v neustálém přílivu a odlivu; vždyť tady leží miliony splynulých přízraků a stínů, utonulých snů, magnetických spánků, snění; všechno, čemu říkáme životy a duše, leží tu a sní, tiše sní, převracejíc se jako spáči na lůžkách, a jenom z tohoto neklidného spánku se rodí věčný pohyb vln.

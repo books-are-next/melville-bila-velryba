@@ -3,8 +3,6 @@ title: CXXVI\.ZÁCHRANNÁ PLAVATKA
 contentType: prose
 ---
 
-  
-
 Plujíc nyní na jihovýchod podle Achabovy nové magnetické střelky a odhadujíc svou rychlost jen Achabovým rychloměrem na šňůře, mířila Pequod vytrvale k rovníku. Plula dlouho pustými vodami nikým nenavštěvovanými, nezahlédla jediné lodi, a poháněna ze strany neměnným pasátním větrem, brázdila brzo vlny jednotvárně mírné, takže to všechno vypadalo jako podivná klidná předehra k nějaké bouřlivé a zoufalé scéně.
 
 Když se konečně loď blížila k okraji rovníkových lovišť a za hluboké tmy, která předchází úsvit, plula kolem skupiny skalnatých ostrůvků, byla pojednou hlídka, jíž tehdy velel Flask, ohromena křikem tak žalostně divokým a nezemským – jako zalykavé kvílení duší všech neviňátek zavražděných Herodem – že každý námořník byl vyburcován ze snění a po několik okamžiků stál, seděl nebo se opíral, strnule naslouchaje, podoben soše římského otroka. Divoký křik byl stále na doslech. Křesťanská nebo civilizovaná část posádky tvrdila, že to jsou mořské panny, a chvěla se; jen pohanští harpunáři nebyli ustrašeni. Šedivý muž z Manu – nejstarší námořník – prohlásil, že ty divoké, pronikavé zvuky jsou hlasy lidí nedávno utonulých v moři.

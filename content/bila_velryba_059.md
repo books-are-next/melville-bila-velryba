@@ -3,8 +3,6 @@ title: "L\\.ACHABŮV ČLUN A\_POSÁDKA — FEDALLAH"
 contentType: prose
 ---
 
-  
-
 „Kdo by si to byl pomyslil, Flasku,“ zvolal Stubb, „kdybych měl jen jednu nohu, nedostali byste mě do člunu, leda snad že bych tou dřevěnou nohou ucpával díru. Ach, on je báječný stařec!“
 
 „Tohle se mi konec konců nezdá tak zvláštní,“ odpověděl Flask. „Kdyby měl nohu pryč v kyčli, to by pak bylo něco jiného. To by byl neschopný. Ale jak víš, jedno koleno má a z druhého mu pěkný kus zbývá.“
@@ -12,8 +10,6 @@ contentType: prose
 „O tom nevím, můj milý. Klečet jsem ho ještě nikdy neviděl.“
 
 * * *
-
-  
 
 Mezi zkušenými lovci velryb se často debatovalo o tom, zda je správné, aby kapitán lodi, jenž je přece tak nesmírně důležitý pro úspěch plavby, dával svůj život v sázku tím, že se osobně vrhá do nebezpečí při lovu. Tamerlanovi vojáci také často se slzami v očích rokovali, je-li nutno, aby jeho neocenitelný život byl vystavován nejprudší bitevní vřavě.
 

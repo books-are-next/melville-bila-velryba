@@ -3,8 +3,6 @@ title: XVII\.RAMADÁN
 contentType: prose
 ---
 
-  
-
 Protože Kvíkvegův ramadán čili půst a pokora měl trvat po celý den, nechtěl jsem ho až do večera vyrušovat, neboť chovám největší úctu k náboženským povinnostem každého svého bližního, nechť jsou jakkoli komické, a nenašel bych v sobě odvahu posmívat se ani shromáždění mravenců uctívajících muchomůrku – ba dokonce ani oněm tvorům v některých našich krajinách, kteří se s lokajstvím, jemuž není rovno na jiných planetách, sklánějí před poprsím zemřelého boháče jen proto, že podle jména je dosud majitelem a pronajímatelem rozlehlých pozemků.
 
 Pravím, že my dobří presbyteriánští křesťané máme být v těchto otázkách shovívaví, a ne se považovat za nesmírně povýšené nad ostatní smrtelníky, pohany a podobné tvory, protože mají polobláznivé názory na tyto věci. Kvíkveg má jistě pošetilé názory o Jojovi a svém ramadánu, ale co na tom? Podle mého si Kvíkveg myslil, že ví, co chce, a vypadal spokojen; proto ho nechme na pokoji. Jakékoli přesvědčování by u něho nic nezmohlo; nechme ho na pokoji, říkám. Bože, smiluj se nad námi nade všemi – jak nad presbyteriány, tak nad pohany, protože všichni jsme nějak hrozně pytlem praštění a potřebujeme nutně nápravy.

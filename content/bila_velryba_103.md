@@ -3,8 +3,6 @@ title: XCIV\.STISK RUKY
 contentType: prose
 ---
 
-  
-
 Onu Stubbovu velrybu, tak draze vykoupenou, jsme řádně přitáhli k boku Pequody, kde námořníci pravidelně vykonávali všechny práce již dříve popsané, od sloupání tuku a vytažení hlavy až po stáčení heidelberského sudu nebo nádrže.
 
 Zatímco se někteří zaměstnávali stáčením, jiní odtahovali větší kádě, jakmile byly naplněny vorvaninou, a když nadešel příslušný čas, ještě než se začalo vyškvařovat, pečlivě tuto vorvaninu upravovali, o čemž si hned promluvíme.
@@ -18,8 +16,6 @@ Mačkat, mačkat, mačkat! po celé dopoledne; mačkával jsem vor­vaninu, až 
 Kéž bych tak mohl mačkat vorvaninu věčně! Neboť od té doby, co jsem po mnoha delších opětovných zkušenostech pochopil, že ve všech případech musí člověk nakonec omezit nebo aspoň přesunout svou představu o dosažitelném štěstí, nehledat je v rozumu nebo obraznosti, nýbrž v ženě, srdci, lůžku, stolu, sedle, krbu, ve vlasti; když jsem to všechno pochopil, jsem připraven hníst vorvaninu věčně. V myšlenkách na noční vidiny zřel jsem dlouhé řady andělů v ráji a každý z nich měl ruce v nádobě s vorvaninou.
 
 * * *
-
-  
 
 Mluvíme-li o vorvanině, je záhodno zmínit se o jiných věcech s ní spřízněných, na které dojde, když se připravuje vorvaň k vyškvařování.
 

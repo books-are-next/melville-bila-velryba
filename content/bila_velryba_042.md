@@ -3,8 +3,6 @@ title: XXXIII\.VRCHNÍ HARPUNÁŘ
 contentType: prose
 ---
 
-  
-
 Pokud jde o důstojníky velrybářské lodi, zdá se, že tady je vhodné místo, abych popsal drobnou zvláštnost domácího zřízení na palubě, jež vznikla z harpunářské třídy důstojníků, třídy ovšem neznámé u jiného loďstva než u velrybářské flotily.
 
 Velká důležitost povolání harpunářského je prokázána tím, že už víc než před dvěma sty lety staří holandští velrybáři nesvěřovali velení nad velrybářskou lodí pouze osobě nazývané teď kapitán, nýbrž rozdělili je mezi kapitána a důstojníka zvaného specksynder. Znamená to doslova kráječ tuku, avšak v praxi začal během času tuto práci zastávat vrchní harpunář. V oněch dobách byla kapitánova autorita omezena na řízení plavby a celkovou správu lodi; nad lovem velryb a nade vším, co k tomu patří, měl svrchovanou moc vrchní harpunář. Angličtí rybáři lovící kolem Grónska dosud uchovávají tuto starou holandskou hodnost pod zkomoleným názvem specksioneer; její dřívější důstojnost však je žalostně omezena. Dnes je specksioneer prostě nejstarší harpunář, a je tedy pouze jedním z nižších kapitánových podřízených. Poněvadž však na řádném vykonávání povinností harpunářů záleží do značné míry úspěch velrybářské výpravy a protože v americkém velrybářství je harpunář nejen důležitou osobou v člunu, nýbrž za jistých okolností (noční hlídky na velrybářských lovištích) má v rukou velení na lodi, vyžaduje hlavní zásada námořní diplomacie, aby žil odděleně od mužstva a byl od nich nějak odlišen jako nadřízený odborník, i když ho po stránce společenské považují za sobě rovného.

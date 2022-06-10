@@ -3,8 +3,6 @@ title: "LXXXII\\.ČEST A\_SLÁVA VELRYBÁŘSTVÍ"
 contentType: prose
 ---
 
-  
-
 Jsou některá podnikání, při nichž je nejlepší metodou pečlivý nepořádek.
 
 Čím hlouběji pronikám do této látky o velrybaření a docházím v svém pátrání až k samému jeho původu, tím víc jsem dojat jeho velkou ctihodností a starobylostí. Zejména když shledávám, že tolik velkých polobohů, hrdinů a všemožných proroků tak či onak vyznamenalo toto podnikání, uvádí mě v nadšení myšlenka, že také já, třeba jen okrajově, patřím k takovému slavnému bratrstvu.

@@ -3,8 +3,6 @@ title: "LV\\.O\_NESTVŮRNÝCH ZOBRAZENÍCH VELRYB"
 contentType: prose
 ---
 
-  
-
 Vymaluji vám zanedlouho, pokud je to bez plátna možné, skutečnou podobu velryby, jak se opravdu jeví zraku velrybáře, když je přivázána podél velrybářské lodi, takže si na ni může klidně stoupnout. Proto snad bude záhodno, abych vás nejdřív upozornil na ty podivné, vymyšlené podoby velryby, které jsou obyvatelům pevniny podnes drze předkládány k věření. Je na čase, aby se v této věci svět dověděl pravdu a zjistil, že takové podoby velryb jsou docela falešné.
 
 Původní pramen všech těchto obrazových klamů lze podle všeho hledat mezi nejstaršími skulpturami indickými, egyptskými a řeckými. Od těch vynalézavých, ale nesvědomitých dob, kdy byla velryba zpodobována na mramorových vlysech chrámových, na podstavcích soch, na štítech, medailonech, pohárech a mincích, kdy delfín byl zobrazován na brnění, jako bylo Saladdínovo, i na přílbě svatého Jiří, od těch dob neustále převládala určitá umělecká volnost, a to nejen u většiny lidových obrazů velryby, ale i v mnohých vědeckých vyobrazeních.

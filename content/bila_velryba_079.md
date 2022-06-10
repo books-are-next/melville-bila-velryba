@@ -3,8 +3,6 @@ title: LXX\.SFINGA
 contentType: prose
 ---
 
-  
-
 Neměli bychom vynechat zmínku o tom, že dříve než jsme tělo leviatanovo úplně stáhli, oddělili jsme mu hlavu. Useknout vorvaňovi hlavu je vědecký, anatomický výkon, jímž se zkušení velrybářští chirurgové velmi pyšní, a mají proč.
 
 Představte si, že velryba nemá nic, co by se právem dalo nazvat krkem. Naopak, tam, kde se trup a hlava podle všeho spojují, právě tam je velryba nejtlustší. Pamatujte také, že chirurg musí operovat svrchu, že mezi ním a mrtvolou je nějakých osm nebo deset stop a že je téměř skryta v měňavém, zvlněném a často vzbouřeném a dorážejícím moři. A nezapomeňte, že za těchto nepříznivých okolností musí řezat mnoho stop hluboko do masa, nemůže jedinkrát nahlédnout do řezu takto způsobeného, který se ustavičně svírá, a při této podzemní práci se musí obratně vyhýbat všem přilehlým a zakázaným částem a oddělit páteř přesně v určitém místě, právě tam, kde vniká do lebky. Už se tedy nepodivíte Stubbovu vychloubání, že potřebuje jen deset minut k useknutí vorvaní hlavy?

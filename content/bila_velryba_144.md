@@ -3,8 +3,6 @@ title: CXXXV\.STÍHÁNÍ — TŘETÍ DEN
 contentType: prose
 ---
 
-  
-
 Příjemné a svěží jitro třetího dne se rozbřesklo a osamělou noční hlídku na vrcholu předního stožáru opět vystřídaly skupiny denních pozorovatelů, kteří obsadili každý stožár a snad každé ráhno.
 
 „Vidíš ji?“ volal Achab. Ale velrybu nebylo možno spatřit.

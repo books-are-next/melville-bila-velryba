@@ -3,8 +3,6 @@ title: CXX\.PALUBA KE KONCIPRVNÍ NOČNÍ HLÍDKY
 contentType: prose
 ---
 
-  
-
 \[Achab stojí u kormidla. Starbuck přichází k němu.\]
 
   

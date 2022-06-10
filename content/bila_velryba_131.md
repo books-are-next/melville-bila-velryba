@@ -3,8 +3,6 @@ title: "CXXII\\.O\_PŮLNOCI NA STOŽÁRUHROMY A\_BLESKY"
 contentType: prose
 ---
 
-  
-
 \[Taštego připevňuje provazy ráhno košové plachty hlavního stožáru.\]
 
   

@@ -3,8 +3,6 @@ title: CXXVIII\.PEQUOD POTKÁVÁ RÁCHEL
 contentType: prose
 ---
 
-  
-
 Příštího dne hlásila hlídka velkou loď Ráchel, jež plula přímo k Pequodě. Všechna její ráhna byla hustě obsazena muži. V tu dobu Pequod brázdila vodu slušnou rychlostí, ale když se cizí loď se širokými plachtami přihnala až k ní na straně návětrné, sklesly nadmuté plachty jako prasklé měchýře, a všechen život vyprchal z postiženého trupu.
 
 „Špatné zprávy, přináší špatné zprávy,“ zahučel muž z Manu. Ale než mohl její velitel, který stál s hlásnicí u úst v svém člunu, než mohl s důvěrou zavolat, ozval se hlas Achabův.

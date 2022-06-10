@@ -3,8 +3,6 @@ title: "XXXIV\\.STŮL V\_KAJUTĚ"
 contentType: prose
 ---
 
-  
-
 Je poledne; zpod poklopu, kryjícího schody do kajuty, se vynořil bledý bochníkovitý obličej – to steward ohlašuje oběd svému pánu a veliteli, jenž právě pozoroval slunce, sedě v člunu na levoboku paluby, a teď mlčky vypočítává zeměpisnou šířku na černé tabulce, podobné medailonu, kterou k tomuto účelu stále nosí na horní části kostěné nohy. Podle toho, jak si naprosto nevšímá oznámení, domníval by se někdo, že zamračený Achab volání neslyšel. Ale pojednou, chopiv se lana, přehoupl se na palubu a klidným, ne právě nadšeným hlasem řekl: „Oběd, pane Starbucku,“ a zmizel v kajutě.
 
 Když poslední ozvěna jeho sultánského kroku dozní a Starbuck, první emír, se může právem domnívat, že kapitán sedí u stolu, probere se Starbuck z klidu, několikrát přejde po palubě, a pohlédnuv vážně na kompasnici, řekne s názvukem radosti: „Oběd, pane Stubbe,“ a sejde po schodech. Druhý emír otálí chvíli u lanoví, potom lehce zatřese hlavním lanem, aby se přesvědčil, je-li tento důležitý provaz v pořádku, rovněž na sebe vezme staré břemeno a s rychlým: „Oběd, pane Flasku,“ následuje své předchůdce.

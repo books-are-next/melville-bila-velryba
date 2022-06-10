@@ -3,8 +3,6 @@ title: LXXXVI\.OCAS
 contentType: prose
 ---
 
-  
-
 Jiní básníci zpívali chválu mírných očí antilopy a krásného peří toho ptáka, který nikdy nevzlétne: já, člověk méně božský, oslavuji ocas.
 
 Počítáme-li, že ocas největšího vorvaně začíná tam, kde se trup zužuje asi tak na objem lidského pasu, pak jenom na horním povrchu zabírá ocas plochu nejméně kolem padesáti čtverečních stop. Hutné, oblé těleso jeho kořene se rozšiřuje ve dva široké, pevné ploché vějíře neboli ploutve ocasní, jež se postupně ztenčují až na tloušťku menší než jeden palec. Ve vidlici, to jest v místě, kde k sobě ploutve přisedají, jsou slabě vyklenuty a potom se od sebe rozestupují jako křídla, ponechávajíce mezi sebou široký prostor. U žádného živého tvora nenajdeme krásné linie vykroužené skvěleji než tento půlměsícový okraj ocasních ploutví. Ocas dospělé velryby má v místě největšího rozpětí o hodně víc než dvacet stop na šíř.

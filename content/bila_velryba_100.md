@@ -7,8 +7,6 @@ _„Marně jsme prohrabávali žaludek tohoto leviatana, hledajíce ambru. Nesne
 
 Sir T. Browne, V. E.
 
-  
-
 Za nějaký týden po velrybářské scéně naposled vylíčené, když jsme pomalu pluli po ospalém, mlžném poledním moři, osvědčily se mnohé nosy na palubě Pequod jako hlídky mnohem bdělejší než tři páry očí na vrcholcích stožárů. Zvláštní, nepříliš příjemný pach bylo cítit z moře.
 
 „Teď bych se vsadil,“ řekl Stubb, „že tady někde v okolí jsou některé z těch velryb, které jsme onehdy připoutali k drogám. Věděl jsem, že se zanedlouho obrátí břichem vzhůru.“

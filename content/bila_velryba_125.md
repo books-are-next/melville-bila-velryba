@@ -3,8 +3,6 @@ title: CXVI\.UMÍRAJÍCÍ VELRYBA
 contentType: prose
 ---
 
-  
-
 Nezřídka se nám v životě stává, jsme-li na správné straně a přímo kolem nás plují miláčkové Štěstěny, že zachytíme přes všechnu dřívější skleslost cosi z jejich prudkého větru a s radostí cítíme, jak se nám zplihlé plachty naplňují. Tak tomu bylo i s Pequodou. Druhého dne po setkání s veselým Mládencem spatřila totiž velryby a čtyři byly zabity. Jednu zabil Achab.
 
 Bylo to pozdě odpoledne. A když se v krvavém zápase zabodl poslední oštěp a za překrásného západu plulo slunce po nebi a velryba po moři, tiše umírajíc zároveň se sluncem – tehdy se v onom růžovém vzduchu vlnila taková sladkost a tesknota ověnčených modliteb, že se téměř zdálo, jako by se daleký španělský pozemní vítr bezděky stal námořníkem a z hloubi zelených klášterních údolí na Filipínách vyrazil na moře s nákladem těchto večerních hymen.
