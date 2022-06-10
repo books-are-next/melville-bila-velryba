@@ -3,6 +3,8 @@ title: "LVII\\.O\_VELRYBÁCH NA PLÁTNĚ,NA ZUBECH, NA DŘEVĚ,NA PLECHU, NA KAM
 contentType: prose
 ---
 
+<section>
+
 Sestupujete-li do londýnských doků, můžete spatřit na Tower-hillu zmrzačeného žebráka (nebo kotvaře, jak říkají námořníci), jenž před sebou drží pomalovanou tabuli, představující tragickou scénu, kdy ztratil nohu. Jsou na ní tři velryby a tři čluny; jeden člun (obsahující prý ztracenou nohu ve vší původní neporušenosti) je drcen vpředu čelistmi velryby. Každého dne po celých deset let, jak mi bylo řečeno, držel žebrák před sebou onen obraz a ukazoval pahýl své nohy nevěřícímu světu. Nyní přišel čas, kdy bude ospravedlněn. Jeho tři velryby jsou určitě stejně dobré jako kterékoli jiné velryby, o kterých si kdy vyprávěli v námořnických krčmách, a jeho pahýl je stejně nepochybný jako všechny pařezy, které najdete na mýtinách na západě. Ač místo nohy má navždy pahýl, přece ten chudák velrybář o něm nikdy neřeční, nýbrž stojí se sklopenýma očima a smutně uvažuje o své ztrátě.
 
 Podél Tichého oceánu a také v Nantucketu i New Bedfordu, jakož i a v Sag Harboru se setkáte s životnými kresbami velryb a velrybářských výjevů, jak je vyryli sami velrybáři na zuby vorvaně nebo na kostice z grónské velryby pro dámské šněrovačky a na jiné podobné důmyslné předměty, které velrybáři pracně vyřezávají z hrubého materiálu ve chvílích prázdně na moři. Někteří mají malé skřínky s nářadím podobným zubařským nástrojům, které je určeno právě k té výrobě ozdobných předmětů. Většinou však pracují pouze svými zavíráky a tímto snad všemohoucím nástrojem námořníků vyrobí, co si jen vymyslí námořnická obraznost.
@@ -26,3 +28,5 @@ A zase v hornatých krajinách, kde je cestující neustále obklopen amfiteat
 A máte-li o svůj předmět zájem opravdu hluboký, nemůžete ani na hvězdné obloze nenajít velké velryby a čluny, které je pronásledují; stejně východní národové vídali v oblacích bojující armády, když se dlouho obírali válečnými záměry. Tak jsem na severu pronásledoval leviatana kolem dokola pólu zároveň s kruhovými pohyby jasných bodů, které mi ho nejdřív označily. A pod zářivým nebem antarktickým jsem vsedal na loď Argo a připojil se k lovu na hvězdnatého Cetuse daleko za nejvzdálenější dráhou Hydry a Létající ryby.
 
 Fregatní kotvy místo uzdy, svazek harpun místo ostruh – kéž bych mohl vsednout na onu velrybu, vyhoupnout se do nejvyšších prostor nebeských a podívat se, zda vybájená nebesa se všemi nesčetnými stany opravdu mají svůj tábor mimo dosah mého smrtelného zraku!
+
+</section>

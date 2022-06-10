@@ -3,6 +3,8 @@ title: "CXXV\\.RYCHLOMĚR A\_ŠŇŮRA"
 contentType: prose
 ---
 
+<section>
+
 Ačkoli Pequod, osudem stíhaná, byla za této plavby již tak dlouho na moři, užívali jejího rychloměru na šňůře jen zřídka. Některé lodi obchodní a mnohé velrybářské zanedbávají úplně měření, zejména když křižují. Pevně spoléhají na jiné způsoby, jak určit postavení lodi. Zároveň ovšem, a často spíše jen pro formu a pro nic jiného, zaznamenávají pravidelně každou hodinu na obvyklou tabulku směr, kterým loď pluje, i odhadnutou průměrnou rychlost. Tak tomu bylo i na Pequodě. Dřevěné kolo s připojeným hranatým rychloměrem visely dlouho netknuty pod zábradlím na zádi. Deštěm a vodní sprší navlhly, na slunci a ve větru se zbortily a přístroj, visící tak dlouho nečinně, zpuchřel spojeným působením všech živlů. Ale Achab toho všeho nedbal, ovládnut svým rozmarem, a když se za několik hodin po scéně s magnetkou podíval na kolo, uvědomil si, že kvadrant už nemá, a vzpomněl si na svou vášnivou přísahu o rychloměru. Loď při plavbě zapadala, vzadu se vlny bouřlivě vzdouvaly.
 
 „Haló, vy tam vpředu! Spustit rychloměr!“
@@ -62,3 +64,5 @@ Rup! Šňůra příliš napjatá se prohnula v dlouhou girlandu. Vlečný rychl
 „Ach hochu, ani já nechci pustit tvou ruku, ledaže bych tě tím zavlékal do hrůz ještě větších než ty dosavadní. Nuže, pojď do mé kajuty. Hle, vy, kteří věříte, že v bozích je soustředěno všechno dobro a v člověku všechno zlo, podívejte se, jak vševědoucí bohové zapomínají na trpícího člověka! A člověk, třeba je idiot a neví, co dělá, přece je pln něžných citů lásky a vděčnosti. Pojď! Jsem pyšnější na to, že tě vedu za tvou černou ruku, než kdybych tiskl ruku císaře!“
 
 „Tam jdou dva blázniví,“ hučel si starý muž z Manu. „Jeden blázní, že je silný, druhý blázní slabostí. Ale tady je konec té shnilé šňůry – a jak z ní teče! Spravovat ji, co? Myslím, že by bylo nejlepší mít šňůru celou novou. Zeptám se na to pana Stubba.“
+
+</section>

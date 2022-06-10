@@ -3,6 +3,8 @@ title: XX\.PŘÍPRAVY K ODPLUTÍ
 contentType: prose
 ---
 
+<section>
+
 Uplynul den nebo dva a na palubě Pequody nastala horečná činnost. Nejenom se spravovaly staré plachty, ale na palubu se přinášely nové plachty, balíky plátna a kola lanoví; zkrátka všechno naznačovalo, že se přípravy k vyplutí lodi spěšně dokončují. Kapitán Peleg snad vůbec ani nechodil na břeh; seděl ve svém vigvamu a bystře dohlížel na všechno mužstvo, zatímco Bildad obstarával nákupy a zásoby v obchodech. Přístavní dělníci zaměstnaní ve skladišti a na stožárech pracovali ještě dlouho po západu slunce.
 
 Druhého dne po tom, kdy Kvíkveg podepsal smlouvu, bylo oznámeno ve všech hostincích, v kterých přespávala posádka lodi Pequod, že truhly námořníků musí být do večera na lodi, poněvadž se nedá říci, jak brzy loď vypluje. Kvíkveg a já jsme si tam dopravili své věci, ale byli jsme odhodláni spát na pevnině až do poslední chvíle. Jak se zdá, v těchto případech se dává výzva vždycky dlouho napřed; loď ještě několik dní nevyplula. A nebylo divu – bylo nutno ještě hodně udělat a nevědělo se, na kolik věcí si ještě kdo vzpomene, než bude Pequod plně vystrojena.
@@ -18,3 +20,5 @@ Ale bylo přece jen podivné, když tato dobrosrdečná kvakerka přišla na lo�
 V těchto dnech příprav jsme se s Kvíkvegem často přišli podívat na loď a já jsem se několikrát ptal na kapitána Achaba, jak se mu daří a kdy míní přijít na svou loď. Na tyto otázky mi vždycky odpovídali, že je mu čím dál tím lépe a že ho čekají každý den; zatím se oba kapitáni, Peleg a Bildad, postarají o vše, čeho je třeba k vystrojení lodi na výpravu. Kdybych se nebyl bránil, mohl jsem už tenkrát v hloubi duše vidět docela jasně, že se mi moc nelíbí, jsem-li vázán vydat se na tak dlouhou plavbu, a přitom ani jednou nespatřit muže, který má být naprostým diktátorem lodi, jakmile vypluje na širé moře. Má-li člověk podezření, že něco není v pořádku, stane se někdy, je-li už do věci zatažen, že se nerozumně snaží zakrýt podezření i sám sobě. Tak tomu bylo i v mém případě. Neříkal jsem nic a hleděl jsem na nic nemyslit.
 
 Konečně bylo oznámeno, že někdy druhého dne loď najisto vypluje. Nazítří ráno jsme tedy velmi časně vyrazili, Kvíkveg a já.
+
+</section>

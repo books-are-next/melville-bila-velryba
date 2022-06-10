@@ -3,6 +3,8 @@ title: LIX\.CHOBOTNICE
 contentType: prose
 ---
 
+<section>
+
 Pomalu se brouzdajíc planktonovými lukami, Pequod se stále držela svého směru na severovýchod k ostrovu Jávě. Mírný vítr poháněl její kýl klidnými vodami, takže se její tři vysoké hrotité stožáry lehce kývaly v slabém vánku jako tři vlídné palmy na rovině. A dosud – v dlouhých mezidobích – bylo za měsíčných nocí stále vidět lákající vodotrysk.
 
 Ale jednoho průzračného modrého rána, kdy se nad mořem prostíral klid téměř nepřirozený, ač to nebylo ticho nijak tíživé, a kdy se na vodách leskla táhlá sluneční stezka, jako by se přes hladinu položil zlatý prst, ukládající zachovat nějaké tajemství; ve chvíli, kdy si lehké vlnky šeptaly, jak tiše ubíhaly, za takového hlubokého ticha viditelné sféry spatřil Dagů z vrcholu hlavního stožáru podivný přízrak.
@@ -28,3 +30,5 @@ Ať už lovci vorvaňů obecně spojovali s podívanou na tohoto tvora pověry 
 Jsou již důvody k domněnce, že obluda kraken biskupa Pontoppidana bude nakonec určena jako chobotnice. Jak ji biskup líčí, její střídavé vynořování a potápění a ještě jiné podrobnosti, o kterých se zmiňuje, jsou společné oběma těmto tvorům. Ale je třeba velké zdrženlivosti, pokud jde o jeho údaje o neuvěřitelných rozměrech té obludy.
 
 Někteří přírodopisci, mlhavě obeznámení s pověstmi o tajemném tvoru, o kterém se tu mluví, zařadili chobotnici mezi sépie, kam, jak se zdá, podle některých vnějších znaků opravdu patří, ale jen jako Anak, obr svého rodu.
+
+</section>

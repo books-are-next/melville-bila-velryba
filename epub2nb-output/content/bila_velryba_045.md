@@ -3,9 +3,13 @@ title: XXXVI\.VELITELSKÁ PALUBA
 contentType: prose
 ---
 
+<section>
+
 \[Vstoupí Achab, potom všichni.\]
 
-  
+</section>
+
+<section>
 
 Nedlouho po té události s dýmkou vystoupil Achab, jak bývalo jeho zvykem, jednoho rána, hned jak posnídal, po schodech od kajuty na palubu. Tam se v tu dobu obyčejně prochází většina námořních kapitánů, jako se venkovští páni po snídani několikrát projdou po zahradě.
 
@@ -104,3 +108,5 @@ Přistupte, důstojníci! Zkřižte kopí přímo přede mnou! Tak je to dobře!
 „Nyní stojíte tři proti třem. Zvedněte vražedné číše! Nabídněte si je jako členové tohoto nového nerozlučného svazku! Hola! Starbucku! Už se stalo! Slunce na vás nyní spočine, aby to potvrdilo. Pijte, vy harpunáři! Pijte a přísahejte, vy mužové, kteří řídíte smrtonosný velrybářský člun – smrt Moby Dickovi! Bůh nechť nás všechny uštve, neuštveme-li Moby Dicka k smrti!“
 
 Dlouhé ocelové číše zakončené ostnem byly pozdviženy a za volání a proklínání bílé velryby kořalku naráz vypili, jen to syklo. Starbuck zbledl, obrátil se a zachvěl. Ještě jednou a naposled si rozohněná posádka podávala naplněný džbán dokola a potom na ně Achab zamával volnou rukou a všichni se rozešli. Achab se uchýlil do své kajuty.
+
+</section>

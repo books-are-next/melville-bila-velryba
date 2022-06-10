@@ -3,6 +3,8 @@ title: XLIX\.HYENA
 contentType: prose
 ---
 
+<section>
+
 V této podivné, ztřeštěné motanici, které říkáme život, jsou jisté zvláštní chvíle a okolnosti, kdy člověk považuje celý náš vesmír za nesmírně podařený šprým, i když tuší jeho vtip jen nejasně a spíš má podezření, že se tu šprýmuje jen a jen na jeho účet. A přece mu nic nevezme odvahu a nic mu nestojí za to, aby ztrácel čas nějakými námitkami. Spolkne všechny události, všechna přesvědčení, názory a přemlouvání, všechny útrapy viditelné a neviditelné, nechť jsou mu sebevíc proti mysli, jako pštros dobře trávící spolyká kule a křesací kameny. A pokud jde o drobné nesnáze a starosti, vyhlídky na náhlé pohromy, na smrtelné nebezpečí nebo úraz, to všechno, i sama smrt, připadá mu jen jako lehké, dobromyslné štulce a rozjařená rýpnutí do boku, která mu uštědřuje neviděný a nevypočitatelný starý vtipálek. Takováto podivně vrtošivá nálada, o níž mluvím, přepadá člověka jen v době největšího trápení, přichází, když je člověk nejvážnější, takže záležitost, která se mu právě předtím snad zdála nesmírně významná, vypadá teď jen jako složka toho celkového šprýmu. Pro tenhle bezstarostný a nenucený způsob utěšené filozofie zoufalců není lepší živné půdy než nebezpečí lovu na velryby. A právě z tohoto hlediska jsem se začal dívat na celou plavbu Pequody a na její velký cíl, bílou velrybu.
 
 „Kvíkvegu,“ řekl jsem, když mě posledního vytáhli na palubu a když jsem se ještě v kazajce otřepával, abych se zbavil vody: „Kvíkvegu, můj skvělý příteli, jsou takové příhody časté?“ Ačkoli byl promočen jako já, dal mi bez velkého vzrušení na srozuměnou, že se stávají často.
@@ -20,3 +22,5 @@ Zde jsem tedy měl od tří nestranných svědků rozvážné prohlášení o c
 Může se zdát divné, že se námořníci ze všech lidí nejvíc zabývají psaním posledních vůlí a závětí, ale nikdo na světě si tím tak rád nekrátí čas. V mém plaveckém životě to bylo již počtvrté, co jsem to dělal. Po skončeném obřadu se mi ulevilo, kámen mi spadl ze srdce. Kromě toho celý můj budoucí život mi teď bude tak vzácný jako Lazarovi život po vzkříšení. Každý měsíc nebo týden, který ještě prožiji, bude nyní čistým ziskem. Přežil jsem sám sebe a má smrt a pohřeb jsou uzavřeny v mé hrudi. Rozhlédl jsem se klidně a spokojeně jako tichý duch, sedící s čistým svědomím za mřížemi útulné rodinné hrobky.
 
 Nyní tedy, myslil jsem si, vyhrnuje si přitom bezděčně rukávy kabátu, nyní se chladnokrevně, s rozmyslem vrhneme v náruč smrti a zkázy, a po nás potopa!
+
+</section>

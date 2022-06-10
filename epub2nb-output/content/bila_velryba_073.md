@@ -3,6 +3,8 @@ title: LXIV\.STUBBOVA VEČEŘE
 contentType: prose
 ---
 
+<section>
+
 Stubb zabil velrybu v nevelké vzdálenosti od lodi. Bylo bezvětří, proto jsme utvořili ze tří člunů tandem a pustili se do zdlouhavé práce, totiž přitahovat kořist k Pequodě. A teď jsme se my, osmnáct mužů se šestatřiceti pažemi a se sto osmdesáti prsty, pomalu dřeli po celé hodiny s touto nehybnou, nemotornou mrtvolou v moři; zdálo se nám, jako by se skoro ani nehýbala z místa, leda vždycky za dlouhý čas – to bylo výmluvným důkazem, jak ohromné tělo vlečeme. Po velkém čínském kanále Hang-Ho – nebo jak mu říkají – může táhnout asi pět nádeníků na břehu velkou naloženou džunku rychlostí jedné míle za hodinu. Ale tento velký koráb jsme za sebou vlekli tak těžce a namáhavě, jako by byl plně naložen olovem.
 
 Nastala tma, ale tři světla, prokmitávající v horním lanoví Pequody, nám mdle svítila na cestu, a když jsme se přiblížili, spatřili jsme Achaba, jak spouští přes zábradlí jednu z mnoha dalších svítilen. Chvíli si lhostejně prohlížel taženou velrybu, dal obvyklé rozkazy, jak ji zajistit na noc, a potom podal svítilnu námořníkovi, odešel do kajuty a neukázal se na palubě až zase ráno.
@@ -120,3 +122,5 @@ Chundela udělal sotva tři kroky a už byl zase volán zpět.
 „Tak bych rád, aby velryba jedla jeho, a ne on velrybu. Na mou duši, vždyť on je víc žralok než pan žralok sám,“ bručel starý muž, belhaje se odtud. A s tímto moudrým povzdechem zalezl do visutého lůžka.
 
 [^13]: Je docela na místě zmínit se tady o jedné drobnosti. Loď k sobě může velrybu připoutat nejpevněji a nejspolehlivěji buď za ocasní ploutve, nebo za ocas, a poněvadž je tato část těla pro svou hutnost poměrně těžší než všechny ostatní (až na postranní ploutve) a je ohebná i po smrti, klesá hluboko pod hladinu vodní, takže z člunu se k ní nemůžete rukou dostat, abyste kolem ní upevnili řetěz. Ale tato nesnáz se důmyslně překonává: připraví se tenké, pevné lano, na jehož konci je dřevěný plovák a uprostřed závaží; na druhém konci je lano přivázáno k lodi. Obratným manévrováním se nechá dřevěný plovák vyplout na druhé straně těla, takže řetěz může potom následovat lano, které obepíná tělo. Řetěz je posunován po těle, až konečně pevně obemkne nejužší část ocasu na místě, kde se spojuje se širokými ploutvemi neboli laloky.
+
+</section>

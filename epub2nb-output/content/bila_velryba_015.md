@@ -3,6 +3,8 @@ title: VI\.ULICE
 contentType: prose
 ---
 
+<section>
+
 Žasl-li jsem při pohledu na individuum tak cizokrajné, jako byl Kvíkveg, pohybující se v slušné společnosti civilizovaného města, tento úžas brzo zmizel, hned při první procházce ulicemi New Bedfordu za denního světla.
 
 Na ulicích každého většího mořského přístavu často potkáme blízko doků postavy nejpodivnějšího vzezření z cizích končin světa. I na Broadwayi a Chestnutu někdy námořníci ze Středozemního moře vrazí do polekaných dam. Regent Street není neznámá námořníkům z Indie a Malajska; a v Bombaji, v Apollo Green, živí Yankeeové často vyděsili domorodce. New Bedford však předčí všechny přístavní ulice a námořní čtvrti. V těchto čtvrtích spatříte jen námořníky, ale v New Bedfordu stojí na nárožích a rozprávějí opravdoví lidojedi, praví divoši; mnozí z nich ještě mají na kostech pohanské maso. Cizinec na nich div oči nenechá.
@@ -20,3 +22,5 @@ Vypráví se, že v New Bedfordu dávají otcové svým dcerám věnem velrybu 
 V létě je na město radost pohledět; dlouhé třídy, vroubené krásnými javory, jsou jako ze zeleně a ze zlata. A v srpnu krásné a štědré plané kaštany, větvící se jako svícny vysoko do vzduchu, nabízejí chodcům vztyčené hrotité kužele svých soukvětí. Tak všemohoucí je lidská dovednost: v mnohých čtvrtích New Bedfordu vytvořila jásavé terasy květin tam, kde dříve byly jen holé skály, pohozené v poslední den stvoření světa.
 
 Ženy v New Bedfordu kvetou stejně jako jejich rudé růže. Růže však kvetou jenom v létě, kdežto krásné růžičky na tvářích žen jsou trvalé jako světlo sluneční v sedmém nebi. Jinde se jejich svěžesti nic nevyrovná, jenom prý v Salemu, kde, jak jsem slyšel, dívky prý tolik voní muškátem, že jejich milenci, námořníci, je cítí na míle od břehu, jako kdyby se blížili k ostrovům Moluckým, a ne k puritánským písčinám.
+
+</section>

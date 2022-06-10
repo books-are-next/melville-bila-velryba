@@ -3,13 +3,19 @@ title: CVIII\.ACHAB A TESAŘ
 contentType: prose
 ---
 
+<section>
+
 PALUBA — PRVNÍ NOČNÍ HLÍDKA
 
-  
+</section>
+
+<section>
 
 \[Tesař stojí u svěráku a při světle dvou svítilen horlivě piluje kostěný sloupek pro nohu, pevně sevřený ve svěráku. Na stole se povaluji pláty kosti, kožené řemeny, vycpávky, šrouby a nejrozmanitější nástroje. Vpředu je vidět rudý plamen výhně u kovadliny, kde pracuje kovář.\]
 
-  
+</section>
+
+<section>
 
 Čert aby vzal ten pilník a tu kost! Co má být měkké, je tvrdé, a co má být tvrdé, je měkké. Tak to máme, když chceme pilovat staré čelisti a holenní kosti. Zkusíme jinou. Ba, teď to jde líp (kýchne). Hrome, ten prach z kostí je (kýchne) – vždyť je (kýchne) – ba, to je (kýchne) – na mou duši, nepustí mě to k slovu! To má na stará kolena člověk za to, že pracuje s mrtvým dřevem. Řežte živý strom, a nedělá se vám přitom tenhle prach; uřezávejte živou kost, a nebudete ho mít (kýchne). Dělej, dělej, ty starý Moure, hoď sebou, ať už mám ten kroužek a šroubek k přezce; hned je budu potřebovat. Ještě štěstí (kýchne), že nemusím dělat kolenní kloub. To by byla pěkná páračka! Ale obyčejnou holenní kost – to nic není, to jako bych dělal chmelové tyčky. Jen bych to rád pěkně uhladil, čas, jen čas! Kdybych jen měl čas, dovedl bych mu udělat takovou krásnou nohu (kýchne), nejkrásnější, jaká kdy jen vysekla poklonu dámě v salonu. Ty jelení a telecí nohy, které jsem viděl ve výkladních skříních, ty by se s ní nedaly ani srovnávat. Ty vlhnou, ano, a dostanou revmatismus a musí je kurýrovat (kýchne) mazáním a koupáním stejně jako živé nohy. Tak; ale než ji odříznu, musím si zavolat starého velkého Mogula a podívat se, bude-li ta délka správná – zdá se mi, že bude naopak moc krátká. Aha, to je jeho chůze, mám štěstí, jde sem – nebo je to někdo jiný, to je jisté.
 
@@ -82,3 +88,5 @@ Tedy ji slátej a přines mi ji. (Obrátí se k odchodu.) Ach, živote! Zde js
 TESAŘ (vrátil se k práci):
 
 No, ba, ba! Stubb ho zná ze všech nejlíp a Stubb vždycky říká, že je podivín. Neříká nic než to jedno slůvko – podivín; a to stačí. Je to podivín, říká Stubb; je to podivín – podivín, podivín; a pořád to vtlouká do pana Starbucka – podivín – pane – podivín, velký podivín! A tady je jeho noha. Ano, když tak o tom přemýšlím, tady je jeho spoluspáč. Má místo ženy kus velrybí čelisti! A tohle je jeho noha, bude na ní stát. Co to bylo o té jedné noze, že stojí na třech místech a všechna tři místa že stojí v jednom pekle – jak to vlastně bylo? Ach, nedivím se, že se na mne díval tak opovržlivě! Mívám prý někdy divné nápady, ale to jen tak náhodou. Ostatně, takový skrčený, malý staroch jako já by se nikdy neměl odvažovat na hlubokou vodu s velkými kapitány, vytáhlými jako volavky. Voda tě tuze rychle zašimrá pod bradou, a hned je tu náramné volání po záchranných člunech. A tady je ta volavčí noha! Dlouhá a tenká, opravdu! No, většině lidí vydrží jeden pár nohou celý život, a to jistě jen proto, že jich používají milosrdně, jako útlocitná stará dáma používá svých tlustých, starých kočárových koní. Ale Achab, ó, to je bezohledný kočí. Podívejme se, jednu nohu uhnal k smrti a druhou strhal, že má nadosmrti špánek, a teď spotřebuje kostěných noh na sáhy. Haló, ty tam, Moure, pospěš si s těmi šroubky a dělej, ať to skončíme, než ten anděl vzkříšení začne vytrubovat a svolávat polnicí všechny nohy, pravé i umělé, jako obcházejí pivovarští a sbírají staré sudy od piva, aby je mohli znova naplnit. To je ale noha! Vypadá jako skutečná živá noha, opilovaná až na kost; na téhle bude zítra stát a bude na ní měřit výšku slunce. Ouha! Div jsem nezapomněl na malou oválnou destičku z hlazené slonoviny, na které sumíruje zeměpisné šířky. Tak, tak; dláto, pilník a ještě skelný papír!
+
+</section>

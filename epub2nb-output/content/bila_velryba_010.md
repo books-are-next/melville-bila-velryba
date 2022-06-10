@@ -3,6 +3,8 @@ title: I\.PŘELUDY
 contentType: prose
 ---
 
+<section>
+
 Říkejte mi Izmael. Před několika lety – nezáleží na tom, kdy to přesně bylo – měl jsem v peněžence sotva pár grošů a nic zvláštního mě nepoutalo k pevnině; napadlo mi tedy, že bych mohl na moře, trochu se zas podívat na tu vodní část světa. Dělávám to tak, chci-li zahnat omrzelost a upravit si krevní oběh. Kdykoli zpozoruji, že se začínám tvářit zatrpkle, kdykoli má duše prožívá svůj teskně mživý listopad, kdykoli si všimnu, že se nevědomky zastavuji před obchody s rakvemi a kráčím v poslední řadě každého pohřebního průvodu, který potkám, ale zejména kdykoli těžkomyslnost nabude nade mnou takové moci, že musím volat na pomoc všecky své mravní zásady, abych záměrně nešel na ulici a soustavně lidem nesrážel klobouky z hlavy – tehdy vím, že je svrchovaný čas, abych se co nejrychleji dostal na moře. Nahrazuje mi to kulku z revolveru. Kato s filozofickou okázalostí nalehl na meč; já prostě odcházím na loď. Není na tom nic překvapujícího. Téměř všichni lidé v podobném stavu, kdyby si to jen uvědomili, dříve nebo později zatouží po moři bezmála stejně jako já.
 
 Tady máte to své ostrovní město kmene Manhattů, kol dokola obehnané doky jako Indické ostrovy korálovými útesy – obchod je obklopuje svým příbojem. Vpravo vlevo vedou vás ulice k vodě. Dole na nejzazším konci města jsou Baterie, kde to honosné nábřeží omývají vlny a ochlazují vánky, které ještě před několika hodinami byly nedozírně daleko. Všimněte si, jaké davy se tu soustředěně dívají na vodu.
@@ -38,3 +40,5 @@ Nemohu ovšem říci, proč vlastně mi režisérky – Sudičky – přiděli
 Hlavní pohnutkou byla sama představa obrovské velryby, jíž jsem nemohl odolat. Hrozná a tajemná obluda plně rozněcovala mou zvědavost. Potom divoká a daleká moře, v kterých se velryba povaluje jako ostrov; nezbadatelná, bezejmenná nebezpečí, jež nám od velryby hrozí, to spolu se všemi tisícerými dalšími divy, kterými působí pobřeží Patagonie na náš zrak i sluch, přispělo, že jsem uposlechl svého přání. Jiné muže by snad něco podobného nezlákalo; mne však trápí neustálá touha po všem dalekém. Rád pluji do zakázaných moří a přistávám u barbarských pobřeží. Nenechám bez povšimnutí, co je dobré, ale mám živý postřeh i pro hrůznost věcí a umím se s ní spřátelit – pokud to jde – poněvadž je jen dobré být v přátelských vztazích se všemi obyvateli míst, kde se octneme.
 
 Proto jsem tedy velrybářskou výpravu uvítal; velká vrata propusti se otevřela dokořán do světa divů a v divokých představách, které mě hnaly za mým plánem, vplouvaly velryby do hlubin mé duše – dvojice za dvojicí – nekonečná velrybí procesí, a uprostřed nich veliký zakuklený fantom, čnějící do vzduchu jako ledová hora.
+
+</section>

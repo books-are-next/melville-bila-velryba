@@ -3,6 +3,8 @@ title: CXXXV\.STÍHÁNÍ — TŘETÍ DEN
 contentType: prose
 ---
 
+<section>
+
 Příjemné a svěží jitro třetího dne se rozbřesklo a osamělou noční hlídku na vrcholu předního stožáru opět vystřídaly skupiny denních pozorovatelů, kteří obsadili každý stožár a snad každé ráhno.
 
 „Vidíš ji?“ volal Achab. Ale velrybu nebylo možno spatřit.
@@ -126,3 +128,5 @@ Strnulá posádka člunu zůstala na okamžik bez hnutí. Potom se obrátili: �
 Ale když se poslední zátopa střídavě přelévala přes potopenou hlavu indiánovu na hlavním stožáru, bylo několik palců jeho čnělky ještě vidět nad vodou a na ní dlouhý, vlající prapor, který ironickou náhodou klidně povíval nad ničivými vlnami, jichž se téměř dotýkal. V tu chvíli bylo vidět, jak se rudá paže s kladivem zvedá nazad do vzduchu, jako když chce k ponořujícímu se stožáru přibíjet vlajku pevněji a pevněji. Jestřábovi, který se předtím výsměšně snesl k vrcholku hlavního stěžně ze svého přirozeného domova mezi hvězdami, kloval do vlajky a obtěžoval tam Taštega, tomuto ptáku se nyní dostalo široké mávající křídlo náhodou mezi kladivo a dřevo, a právě v tom okamžiku potopený divoch dole ucítil lehký záchvěv a v smrtelné křeči přitiskl kladivo pevně na křídlo. A tak se nebeský pták s archandělskými výkřiky potápěl, královský zobák vztažený vzhůru, zajaté tělo celé zahalené do Achabovy vlajky; potápěl se zároveň s lodí, která se jako Satan nemínila propadnout do pekla, dokud s sebou nestrhne živou část nebe a nepokryje se jí jako přílbou.
 
 Malí ptáčkové s křikem poletovali nad propastí dosud zející, prudký bílý příboj narážel na její příkré stěny; potom se všechno zhroutilo a ohromný příkrov moře se vlnil jako před pěti tisíci lety.
+
+</section>

@@ -3,6 +3,8 @@ title: CXIX\.SVÍČKY
 contentType: prose
 ---
 
+<section>
+
 Nejteplejší podnebí jen živí nejkrutější drápy – bengálský tygr se krčí v prostorných hájích věčně zelených. Nejzářivější obloha jen skrývá nejsmrtelnější bouře – nádherná Kuba zná tornáda, jaká se nikdy nepřeženou přes mírné země severní. Tak i v těchto třpytných japonských mořích se námořník setkává s nejhroznější ze všech bouří, s tajfunem. Někdy se snese z bezmračné oblohy jako vybuchující puma na omámené a ospalé město.
 
 K večeru toho dne měla Pequod plachty servané a musela zápasit o holých stěžních s tajfunem, který ji napadl přímo zpředu. Když se setmělo, nebe a moře řvaly a pukaly duněním hromu, ozařovány blesky, které osvětlovaly ochromené stožáry, kde se tu a tam třepetaly cáry, jež tam první zuřivý nápor bouře nechal na později.
@@ -90,3 +92,5 @@ Posádka zaslechla, co volá Starbuck, a zachvácena panikou okamžitě utíkal
 „Všechny vaše přísahy, že budete pronásledovat bílou velrybu, jsou tak závazné jako moje, a starý Achab je vázán srdcem, duší i tělem, slovem a životem. A abyste věděli, jakým rytmem bije toto srdce, podívejte se: takto uhasím poslední strach!“ A jedním fouknutím udusil plamen.
 
 Jako za větrné bouře, řádící na rovině, lidé utíkají od osamělého obrovského jilmu, jehož výška a síla je tím víc ohrožuje, poněvadž je hromosvodem pro blesky, tak při těchto slovech mnozí námořníci v zoufalé hrůze prchali od Achaba.
+
+</section>

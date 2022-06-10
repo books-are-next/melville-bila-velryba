@@ -3,6 +3,8 @@ title: XLIII\.SLYŠ!
 contentType: prose
 ---
 
+<section>
+
 Psst! Slyšels ten hluk, Cabaco?“
 
 Byl čas popůlnoční hlídky. Měsíc jasně svítil. Námořníci stáli v řadě, která se táhla od jedné kádě s pitnou vodou uprostřed lodi až ke kádi u zábradlí na zádi. Takto si podávali kbelíky s vodou, aby naplnili zadní káď. Stáli většinou na posvátném území velitelské paluby, proto si dávali pozor, aby ani nemluvili, ani nešoupali nohama. Kbelíky šly z ruky do ruky v nejhlubším tichu, přerušovaném občas jen plesknutím plachty a stálým šumem neúnavně postupujícího kýlu.
@@ -28,3 +30,5 @@ Za tohoto ticha Archy, jeden z mužů v řadě, jehož místo bylo u zadních
 „Jen se pošklebuj, uvidíme, co se z toho vyklube! Poslechni, Cabaco, tam dole v zadním skladišti je někdo, koho jsme ještě na palubě neviděli, a mám dojem, že náš starý Mogul o tom taky bude něco vědět. Při jedné ranní hlídce jsem slyšel, jak Stubb říká Flaskovi, že něco takového je ve vzduchu.“
 
 „Pst! Hleď si kbelíku!“
+
+</section>

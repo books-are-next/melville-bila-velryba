@@ -3,6 +3,8 @@ title: XCI\.PEQUOD POTKÁVÁ RŮŽOVÉ POUPĚ
 contentType: prose
 ---
 
+<section>
+
 _„Marně jsme prohrabávali žaludek tohoto leviatana, hledajíce ambru. Nesnesitelný zápach znemožnil hledání.“_
 
 Sir T. Browne, V. E.
@@ -100,3 +102,5 @@ Po celou tu dobu nesčetní ptáci se spouštěli, potápěli, křičeli a skř
 „Mám ji, mám ji,“ zvolal nadšeně Stubb, naraziv na cosi v podzemních končinách, „peněženka, peněženka!“
 
 Odhodil rýč, vstrčil dovnitř obě ruce a vytáhl plné hrsti něčeho, co vypadalo jako hotové windsorské mýdlo nebo tučný, plesnivý starý sýr. Bylo to mastné a vonné, snadno jste do toho mohli zabořit palec. Barva mezi žlutou a popelavou. A to, drazí přátelé, je ambra. Za unci každý lékárník zaplatí zlatou guineu. Vytáhli asi šest hrstí, ale více jí bylo nevyhnutelně ztraceno v moři, a ještě více by snad byli získali, nebýt toho, že netrpělivý Achab hlasitě volal na Stubba, aby toho nechal a vrátil se na palubu, jinak že jim loď ujede.
+
+</section>

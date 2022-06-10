@@ -3,9 +3,13 @@ title: CXXVII\.PALUBA
 contentType: prose
 ---
 
+<section>
+
 \[Rakev leží na dvou bubnech pro stočený provazec, mezi tesařovým ponkem a otevřeným otvorem do podpalubí. Tesař ucpává spáry rakve; přitom se mu na prsou rozvinuje soukaný konopný provázek z velkého klubka, zastrčeného pod kabátem. – Achab přichází pomalu z chodby ke kajutě a slyší, jak Pip jde za ním.\]
 
-  
+</section>
+
+<section>
 
 „Jdi zpátky, hochu. Vrátím se k tobě za chvilinku. Jde! Ani vlastní ruka neposlouchá mého rozmaru ochotněji než ten chlapec. – Střední lodi chrámová! Co je to tady?“
 
@@ -50,3 +54,5 @@ contentType: prose
 (Achab sám k sobě):
 
 „To je podívaná! To jsou zvuky, když ten šedohlavý datel oklepává dutý strom! Slepým a hluchým je teď možno závidět. Hle! Ta věc spočívá na dvou bubnech na provazce a oba jsou plné provazů. Ten chlapík je hrozně škodolibý vtipálek. Ratata. Tak tikají lidské vteřiny. Ach, jak nehmotné jsou všechny hmoty! Co je tady skutečného než nezvažitelné myšlenky? Tady je právě nejobávanější symbol chmurné smrti čirou náhodou předěláván ve výrazný obraz pomoci a naděje, až bude život nejvíc ohrožen. Záchranná plavatka z rakve! Možno tu myšlenku rozvést? Je možné, že v duchovním smyslu je rakev konec konců jen jakýmsi chránidlem pro nesmrtelnost! Budu o tom přemýšlet. Ale ne. Zašel jsem již tak daleko po temné straně země, že se mi druhá její strana, teoreticky jasná, jeví jen jako neurčité šero. Což s tím nebudeš nikdy hotov, tesaři, s tím proklatým rámusením? Půjdu dolů; až se vrátím, ať už tady tu věc nevidím. A teď si, Pipe, o tomhle pohovoříme. Přejímám od tebe prazvláštní filozofii! Do tebe se vlily nějaké neznámé světy!“
+
+</section>

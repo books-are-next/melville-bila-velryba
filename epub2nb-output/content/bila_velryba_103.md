@@ -3,6 +3,8 @@ title: XCIV\.STISK RUKY
 contentType: prose
 ---
 
+<section>
+
 Onu Stubbovu velrybu, tak draze vykoupenou, jsme řádně přitáhli k boku Pequody, kde námořníci pravidelně vykonávali všechny práce již dříve popsané, od sloupání tuku a vytažení hlavy až po stáčení heidelberského sudu nebo nádrže.
 
 Zatímco se někteří zaměstnávali stáčením, jiní odtahovali větší kádě, jakmile byly naplněny vorvaninou, a když nadešel příslušný čas, ještě než se začalo vyškvařovat, pečlivě tuto vorvaninu upravovali, o čemž si hned promluvíme.
@@ -30,3 +32,5 @@ Gurry je název, jehož původci jsou vlastně lovci velryb grónských, ale ně
 Klíšťky. Toto slovo vlastně nepatří do velrybářského slovníku, ale když ho používají velrybáři, nabývá tam domovského práva. Velrybářské klíšťky jsou krátký, tuhý pás šlachovité látky, vyříznutý ze zužující se ocasní části leviatana. Je na palec tlustý a velký asi jako železná část motyky. Vytíráte-li jím podlahu napuštěnou olejem, působí jako kožené stěradlo a zcela hravě jako kouzlem k sobě přitahuje všechnu nečistotu.
 
 Chceme-li se poučit o všech těchto skrytých věcech, bude nejlépe, sestoupíme-li rovnou do tukárny a důkladně si promluvíme s těmi, kdo tam pracují. O tomto místě jsme už pověděli, že slouží za úschovnu pokrývkových pásů odloupnutých a odvinutých z velryby. Když nastane vhodná doba k rozsekávání tuku, tato místnost nahání hrůzu všem začátečníkům, zvláště v noci. Po jedné straně, kde bliká svítilna, zůstává kus místa volný pro dělníky. Ti obyčejně pracují ve dvojicích, jeden má bodec a hák a druhý rýč. Velrybářský bodec se podobá fregatnímu zlezačskému kopí téhož jména a hák se podobá háku k zachycení člunu. Dělník hákem nabodne pruh tuku a snaží se jej držet, aby neklouzal, jak se loď houpe a naklání na bok. Muž s rýčem stojí na vrstvě samé a rozsekává ji svisle na velké kusy. Rýč je tak ostrý, jak jen ho brousek dokáže naostřit. Muž s rýčem je bos. Tuk mu někdy pod nohama ujede jako sáňky. Usekne-li si některý prst u nohy své nebo u nohy svého pomocníka – nesmíte se tomu ani příliš divit! Prsty na nohou bývají vzácné u veteránů z tukárny.
+
+</section>

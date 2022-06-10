@@ -3,6 +3,8 @@ title: LXXI\.PŘÍBĚH JEROBOAMŮV
 contentType: prose
 ---
 
+<section>
+
 Ruku v ruce se blížily loď a vítr. Vítr však byl rychlejší než loď a Pequod se brzy začala kolébat.
 
 Ponenáhlu bylo lze dalekohledem rozeznat podle člunů a obsazených vrcholků stožárů, že je to loď velrybářská. Ale poněvadž byla tak daleko na straně návětrné a hnala se mimo, jako by měla namířeno do jiného loviště, nebylo naděje, že se s ní Pequod setká. Vyvěsili proto signál a čekali, jaká bude odpověď.
@@ -60,3 +62,5 @@ Achab zatím držel dopis v ruce a slabikoval: „Pan Har- ano, pan Harry (že
 „Zalkni se kletbami!“ zařval Achab. „Kapitáne Mayhewe, přiraz trochu a vezmi si jej.“ Vzal osudný dopis ze Starbuckových rukou, zasunul jej do štěrbiny v tyči a podával jej do člunu. Když to učinil, veslaři v očekávání přestali veslovat a člun byl trochu unášen k zádi naší lodi, takže se dopis jako z učarování octl náhle v dosahu Gabrielovy lačné ruky. V mžiku se ho chopil, popadl nůž, nabodl na něj dopis a vrhl jej takto zatížený zpátky na loď. Dopadl k Achabovým nohám. Potom Gabriel zavřískl na své kamarády, aby zabrali vesly, a rebelující člun rychle odrazil od Pequody.
 
 Když se po této mezihře námořníci zase ujali své práce na pokrývce velryby, dělali narážky na mnohé zvláštnosti toho podivného příběhu.
+
+</section>

@@ -3,6 +3,8 @@ title: CXXVIII\.PEQUOD POTKÁVÁ RÁCHEL
 contentType: prose
 ---
 
+<section>
+
 Příštího dne hlásila hlídka velkou loď Ráchel, jež plula přímo k Pequodě. Všechna její ráhna byla hustě obsazena muži. V tu dobu Pequod brázdila vodu slušnou rychlostí, ale když se cizí loď se širokými plachtami přihnala až k ní na straně návětrné, sklesly nadmuté plachty jako prasklé měchýře, a všechen život vyprchal z postiženého trupu.
 
 „Špatné zprávy, přináší špatné zprávy,“ zahučel muž z Manu. Ale než mohl její velitel, který stál s hlásnicí u úst v svém člunu, než mohl s důvěrou zavolat, ozval se hlas Achabův.
@@ -38,3 +40,5 @@ Kvapně se otočil a s odvrácenou tváří sestupoval do své kajuty, necháv
 Brzy se obě lodi od sebe vzdalovaly: a pokud měla Pequod cizí loď v dohledu, bylo vidět, jak míří hned sem, hned tam, ke každé sebemenší tmavé skvrně v moři. Její ráhna přehazovali ze strany na stranu; kymácela se ustavičně z boku na bok. Hned si razila cestu proti vlnám a hned zas je hnala před sebou. A po celou tu dobu byly její stožáry a ráhna mužstvem hustě obsazeny jako tři vysoké třešně, když je hoši češou ve větvích.
 
 Ale podle toho, jak se ustavičně zastavovala a žalostně obracela, bylo zřetelně vidět, že tato loď, která tak plakala lodní tříští, zůstává dosud bez útěchy. Byla to Ráchel oplakávající děti, kterých už není.
+
+</section>

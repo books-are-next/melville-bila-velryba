@@ -3,6 +3,8 @@ title: "LXXV\\.HLAVA VELRYBY GRÓNSKÉ\_—Z\_HLEDISKA SROVNÁVACÍHO"
 contentType: prose
 ---
 
+<section>
+
 Přejděme teď přes palubu a důkladně si prohlédněme hlavu velryby grónské.
 
 Jako lze vznešenou hlavu vorvaně v celkové její podobě srovnat s římským válečným vozem (zejména vpředu, kde je tak široce zaokrouhlena), tak zase hlava velryby grónské vypadá zhruba jako obrovská vysoká bota – podobnost poněkud neelegantní! Před dvěma sty lety holandský cestovatel přirovnal její tvar k ševcovskému kopytu. A v takovém kopytě nebo botě – jako je to v té chůvině pohádce o staré ženě s celým rojem dětí – může být velmi pohodlně ubytována ta žena i všechno její potomstvo.
@@ -24,3 +26,5 @@ Pohleďme tedy naposled na tyto ctihodné hlavy s kapucí, dokud ještě leží
 Dovedete zachytit výraz tohoto vorvaně? Právě s tímto výrazem zemřel, snad jenom některé delší vrásky na čele se teď vyhladily. Zdá se mi, že po jeho širokém čele se rozprostírá prérijní klid, zrozený z přemítavé lhostejnosti k smrti. Ale všimněte si výrazu hlavy druhé! Podívejte se na ten úžasný spodní pysk, náhodou přitisknutý k lodnímu boku, takže pevně objímá čelist. Nevyjadřuje tato celá hlava obrovské praktické odhodlání čelit smrti? Grónskou velrybu považuji za bývalého stoika a vorvaně za platonika, který si v pozdějších letech třebas oblíbil Spinozu.
 
 [^16]: To nám připomíná, že grónská velryba má opravdu jakési vousy či spíše kníry, jež tvoří několik roztroušených bílých vlasů na horní části vnějšího konce spodní čelisti. Někdy tyto štětičky dodávají jejímu jinak slavnostnímu zjevu poněkud lupičského výrazu.
+
+</section>

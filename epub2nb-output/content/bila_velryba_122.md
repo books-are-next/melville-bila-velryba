@@ -3,6 +3,8 @@ title: CXIII\.KOVÁRNA
 contentType: prose
 ---
 
+<section>
+
 S rozcuchanou bradou, opásán zkornatělou zástěrou ze žraločí kůže, stál Perth asi o polednách mezi kovářskou výhní a kovadlinou, kterou měl na špalku pobitém plechem. Jednou rukou držel v ohni hlavici kopí a druhou dmýchal měchem. V tu chvíli přicházel kapitán Achab, v ruce kožený váček rezavé barvy. Ještě kousek před kovárnou se zadumaný Achab zastavil. Perth konečně vytáhl železo z ohně a začal do něho na kovadlině bušit perlíkem. Z rozžhaveného železa sršely husté snopy jisker, z nichž některé doletovaly až k Achabovi.
 
 „To jsou tvoji buřňáci, Perthe? Lítají ustavičně za tebou. Jsou to ptáci, kteří věští štěstí, ale ne pro každého; – podívej se, jak pálí; ale ty – ty mezi nimi žiješ, a nejsi popálen.“
@@ -56,3 +58,5 @@ Ocel konečně dostala šípovitý tvar, Perth ji přivařil k násadci ze žel
 Potom si dal zdola přinést zásobní násady, vybral jednu z bílého ořešáku, obalenou dosud kůrou, a konec upravil pro tulej harpuny. Potom byl rozmotán kotouč nové šňůry, několik sáhů jí vzali na rumpál a silně napínali. Achab stlačoval provazec nohou, až zvučel jako struna harfy, potom se k němu dychtivě naklonil, a vida, že nepovoluje, zvolal: „Dobrá! A teď upevnit!“
 
 Provaz byl na jednom konci rozpleten a jednotlivá soukaná vlákna byla obtočena a opletena kolem tuleje harpuny: potom násadu důkladně zarazili do tuleje. Provazec táhli do poloviny tyče a v této poloze jej na několika místech pevně přivázali omotaným provazem. Tak už zůstaly násada, ocel a provaz – jako tři sudičky – nerozlučně spojeny. Achab si zamyšleně vykračoval se zbraní a zvuk jeho kostěné nohy a zvuk ořešákové násady se dutě rozléhaly po všech prknech. Než však vstoupil do kajuty, bylo slyšet lehký zvuk, nepřirozený, trochu škádlivý, a přitom velmi žalostný. Ach Pipe! Tvůj ubohý smích, tvůj prázdný, ale neklidný pohled, všechny tvé podivné maškarády významně splynuly s neblahou tragédií melancholické lodi a posmívaly se jí!
+
+</section>

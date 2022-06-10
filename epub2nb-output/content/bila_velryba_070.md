@@ -3,6 +3,8 @@ title: LXI\.STUBB ZABÍJÍ VELRYBU
 contentType: prose
 ---
 
+<section>
+
 Bylo-li pro Starbucka objevení chobotnice zlověstným znamením, pro Kvíkvega znamenalo něco docela jiného.
 
 „Jak vidět ta ‚botnice,‘“ řekl divoch, když si brousil harpunu na přídi svého zavěšeného člunu, „tak potom brzy vidět vorvaně.“ Příští den byl nezvykle klidný a dusný, a poněvadž nebylo nic zvláštního na práci, posádka Pequody stěží dovedla odolávat ospalosti, vyvolané mořem tak prázdným. Tato část Indického oceánu, kterou jsme nyní pluli, není tak zvaným živým lovištěm, jak říkají velrybáři; to znamená, že tu zahlédneme mnohem méně plískavic, delfínů, létajících ryb a jiných čilých občanů vod živějších, nežli jsou vody u Rio de la Plata nebo za peruánským pobřežím.
@@ -48,3 +50,5 @@ Velryba, ochabující v zuřivosti, se vynořila ještě jednou. Převalovala s
 [^11]: Na jiném místě uvidíme, z jaké lehounké látky je celý vnitřek obrovské vorvaní hlavy. Ačkoli je na pohled částí nejmasivnější, je přece jen nejschopnější plout nad vodou. Proto vorvaň snadno zvedá hlavu do vzduchu a vždycky ji zvedne, když se řítí největší rychlostí. Mimoto má předek hlavy horní část tak širokou a spodní tak zúženou, že dobře proráží vodu; když vorvaň zvedne šikmo hlavu, lze o něm říci, že se proměnil z lodice s tupou přídí v zašpičatělý člun newyorského lodivoda.
 
 [^12]: Abychom zčásti ukázali nutnost tohoto počinu, chceme tady připomenout, že v starém holandském rybářství se užívá hadru k namokření vrženého provazce, na jiných lodích dřevěné sběračky, zvlášť k tomu určené. Klobouk však bývá nejpříhodnější.
+
+</section>

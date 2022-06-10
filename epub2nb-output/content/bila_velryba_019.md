@@ -3,6 +3,8 @@ title: X\.DŮVĚRNÝ PŘÍTEL
 contentType: prose
 ---
 
+<section>
+
 Z kaple jsem se vrátil do hostince „U velryby“ a našel jsem tam Kvíkvega samotného. Odešel z kaple krátce před požehnáním. Seděl na lavici u ohně, nohy měl opřeny o krb a jednou rukou si držel u obličeje toho malého černého bůžka; upřeně se mu díval do tváře a zavírákem mu jemně přiřezával nos, brumlaje si přitom po pohansku.
 
 Vyrušil jsem ho, takže bůžka odložil; po chvíli šel ke stolu, vzal si tam velkou knihu, položil si ji na klín a začal počítat stránky, rozvážně a opatrně. U každé padesáté stránky – jak se mi zdálo – se na okamžik zastavil, rozhlédl se nepřítomným pohledem a táhle, klokotavě hvízdl úžasem. Potom se zas pustil do další padesátky; podle všeho začínal vždy od jednotky, jako by nedovedl počítat dál než do padesáti, a teprve když napočítal mnoho padesátek, byl ohromen tím množstvím stránek.
@@ -24,3 +26,5 @@ Po večeři a dalším družném hovoru a kouření jsme šli do našeho pokoj
 Jsem dobrý křesťan, narozený a vychovaný v lůně neomylné presbyteriánské církve. Jak bych se tedy mohl připojit k tomuto divošskému modloslužebníku a klanět se jeho kusu dřeva? Co však je bohoslužba? uvažoval jsem. Myslíš, Izmaeli, že velkomyslný Bůh nebes a země s pohany a se vším všudy – by mohl žárlit na bezvýznamný kousek černého dřeva? Vyloučeno! Vždyť co je bohoslužba? – Konat vůli boží, to je bohoslužba. A co je vůle boží? – Činit svému bližnímu, co bych si přál, aby bližní činil mně – to je vůle boží. Nuže, Kvíkveg je můj bližní. A co bych si přál, aby tento Kvíkveg pro mne udělal? Nu, aby spolu se mnou uctíval Boha po mém způsobu – po presbyteriánsku. Z toho plyne, že já musím Boha uctívat po jeho, čili musím se stát modloslužebníkem. Zapálil jsem tedy hoblovačky, pomohl postavit a podepřít nevinného malého bůžka a nabídli jsme mu, Kvíkveg a já, opečený suchar. Dvakrát či třikrát jsem se před bůžkem poklonil a políbil mu nos. Když jsme s tím byli hotovi, svlékli jsme se a šli do postele usmířeni s vlastním svědomím a celým světem. Před spaním jsme ještě trochu rozprávěli.
 
 Nevím, čím to je, ale pro důvěrná sdělení mezi přáteli se nejlépe hodí postel. Právě tady prý si muž se ženou navzájem otvírají duše dokořán. Některé staré manželské dvojice často leží a hovoří o starých časech téměř až do rána. Takto tedy jsme leželi v líbánkách našich srdcí, já a Kvíkveg – přátelská dvojice milenců.
+
+</section>

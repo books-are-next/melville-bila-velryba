@@ -3,6 +3,8 @@ title: CXV\.PEQUOD POTKÁVÁ MLÁDENCE
 contentType: prose
 ---
 
+<section>
+
 A byla věru příjemná ta podívaná i ty zvuky, které připlouvaly před větrem několik týdnů po tom, co byla ukuta Achabova harpuna.
 
 Byla to nantucketská loď Mládenec, jež právě naplnila poslední sud olejem a přirazila poklopy nad přecpanými skladišti, a teď, nežli zaměří svou příď k domovu, v radostné sváteční výstroji proplouvala vesele, třebas poněkud marnivě mezi loďmi na lovišti daleko od sebe rozptýlenými.
@@ -30,3 +32,5 @@ A Achab? Také on stál na velitelské palubě, ale ošumělý a temný, zatvr
 „Jak úžasně kamarádští jsou blázni!“ zahučel Achab. Potom nahlas odpověděl: „Tvá loď je plná a na cestě domů, jak říkáš. Nuže, mne nazývej lodí prázdnou a vyplouvající na moře. Jdi tedy svou cestou, a já půjdu také svou. Kupředu! Napni všechny plachty a drž se větru!“
 
 A tak zatímco jedna loď plula vesele po větru, druhá si tvrdohlavě razila cestu proti němu. Takto se obě lodi rozešly. Posádka Pequody se dívala vážnými, tesknými pohledy za vzdalujícím se Mládencem, ale mužstvo této lodi si vůbec nevšímalo jejich pohledu a věnovalo se bujnému veselí. A když Achab, opřený o zábradlí na zádi, pozoroval loď vracející se domů, vyňal z kapsy lahvičku s pískem a potom, pohlížeje střídavě na loď a na lahvičku, v duchu přitom nejspíše spojoval dvě vzdálené představy, neboť lahvička byla naplněna pískem z nantucketského pobřeží.
+
+</section>

@@ -3,6 +3,8 @@ title: CXXXIII\.STÍHÁNÍ — PRVNÍ DEN
 contentType: prose
 ---
 
+<section>
+
 Oné noci za střední hlídky, když stařec – jak bývalo občas jeho zvykem – vystoupil z palubního otvoru, o který se opíral, a šel k svému důlku, najednou prudce zvedl tvář a větřil v mořském vzduchu, jako začne větřit bystrý lodní pes, když se loď blíží k nějakému barbarskému ostrovu. Prohlásil, že musí být nablízku velryba. Brzy všichni muži na hlídce cítili onen zvláštní pach, který vydává živý vorvaň často na velkou vzdálenost. Žádný námořník nebyl ani překvapen, když si Achab podle kompasu a povětrnostní vlajky zjistil přesný směr pachu, jak to jen bylo možné, a potom rychle poručil, aby poněkud změnili kurz lodi a skasali plachty.
 
 Že tato opatření byla bystrá a prozíravá, potvrdilo se dostatečně za úsvitu, neboť na moři přímo vpředu bylo vidět dlouhou, rovnou stopu, hladkou jako olej; vodními varhánkami na okraji a vyleštěným kovovým povrchem připomínala rychlou proudovou vlnu při ústí hlubokého a prudkého toku do moře.
@@ -104,3 +106,5 @@ Den se chýlil ke konci, jenom lem jeho zlatého roucha ještě šustil. Brzy by
 Po těchto slovech si stoupl do palubního otvoru vedoucího ke kajutě, stáhl klobouk přes oči a stál tam až do svítání. Jen v určitých intervalech se pohnul, aby se podíval, jak noc pokročila.
 
 [^22]: Tento pohyb je pro vorvaně příznačný. Své jméno, vyvažování, dostal proto, že se podobá předběžnému vyrovnávání velrybářského kopí při tak zvaném dlouhém vrhu, popsaném již dříve. Při tomto pohybu může velryba jistě nejlépe a nejobsáhleji přehlédnout všechno, co ji obklopuje.
+
+</section>

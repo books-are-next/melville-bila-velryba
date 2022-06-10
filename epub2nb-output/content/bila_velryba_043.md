@@ -3,6 +3,8 @@ title: "XXXIV\\.STŮL V\_KAJUTĚ"
 contentType: prose
 ---
 
+<section>
+
 Je poledne; zpod poklopu, kryjícího schody do kajuty, se vynořil bledý bochníkovitý obličej – to steward ohlašuje oběd svému pánu a veliteli, jenž právě pozoroval slunce, sedě v člunu na levoboku paluby, a teď mlčky vypočítává zeměpisnou šířku na černé tabulce, podobné medailonu, kterou k tomuto účelu stále nosí na horní části kostěné nohy. Podle toho, jak si naprosto nevšímá oznámení, domníval by se někdo, že zamračený Achab volání neslyšel. Ale pojednou, chopiv se lana, přehoupl se na palubu a klidným, ne právě nadšeným hlasem řekl: „Oběd, pane Starbucku,“ a zmizel v kajutě.
 
 Když poslední ozvěna jeho sultánského kroku dozní a Starbuck, první emír, se může právem domnívat, že kapitán sedí u stolu, probere se Starbuck z klidu, několikrát přejde po palubě, a pohlédnuv vážně na kompasnici, řekne s názvukem radosti: „Oběd, pane Stubbe,“ a sejde po schodech. Druhý emír otálí chvíli u lanoví, potom lehce zatřese hlavním lanem, aby se přesvědčil, je-li tento důležitý provaz v pořádku, rovněž na sebe vezme staré břemeno a s rychlým: „Oběd, pane Flasku,“ následuje své předchůdce.
@@ -24,3 +26,5 @@ Byla to podívaná, když Kvíkveg seděl naproti Taštegovi a cenil na indián
 Ačkoli tedy tito barbaři jedli v kajutě a domněle tam bydlili, přece se příčilo jejich zvykům někde vysedávat, a proto se tam ukazovali jen při jídle a krátce před spaním, kdy kajutou prošli do své zvláštní místnosti.
 
 V této věci se Achab zřejmě nelišil od většiny amerických velrybářských kapitánů, kteří jako celek jsou spíše toho názoru, že lodní kajuta právem patří jim a že je to jen zdvořilý ústupek, když tam někdy někoho pustí. Máme-li tedy povědět čistou pravdu, důstojníci a harpunáři Pequody žili víc mimo kajutu než v ní. Když do ní vstoupili, bylo to asi tak, jako když se domovní dveře otevřou do domu: dveře se obrátí na okamžik dovnitř, ale za chvíli se zavřou a trvale zůstanou na čerstvém vzduchu. Muži tím o mnoho nepřišli, v kajutě nebylo kamarádské ovzduší a společensky byl Achab nepřístupný. Třeba podle matriky patřil ke křesťanům, přece mu byli cizí. Žil na světě, jako žil poslední ze šedých medvědů v osazeném Missouri. A když jaro a léto odešly, ukryl se do dutého stromu jako onen divoký kanadský geolog Logan a přežíval tam zimu, dumlaje vlastní pracky. Podobně se Achabova duše za nevlídného, skuhravého období stáří uzavírala do dutého kmene jeho těla a živila se tam neblahými prackami svých chmur.
+
+</section>

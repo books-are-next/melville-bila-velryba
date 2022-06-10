@@ -3,6 +3,8 @@ title: V\.SNÍDANĚ
 contentType: prose
 ---
 
+<section>
+
 Rychle jsem následoval jeho příkladu, sešel do nálevny a docela přátelsky jsem se tam pozdravil se zubícím se hostinským. Nehněval jsem se na něho, ačkoli si mě nemálo dobíral pro mého spoluspáče.
 
 Zdravý smích je tuze dobrá věc, a nadto příliš vzácná – tím hůře pro nás! Když některý člověk už sám sebou dává někomu námět pro dobrý vtip, ať tedy neuhýbá, naopak, ať ochotně dovolí, aby se na jeho účet lidé zasmáli, člověk, který má v sobě od přírody něco blahodárně směšného, má věru daleko víc, než byste myslili.
@@ -20,3 +22,5 @@ Mám dobrý důvod, proč kladu tyto úvahy právě sem: sedaje ke stolu, oček�
 Pokud jde o Kvíkvega, nu, seděl mezi nimi – a náhodou dokonce v čele stolu – a byl docela klidný. Pravda, nemohu příliš chválit jeho chování. I největší obdivovatel by mu sotva shovívavě prominul, že si k snídani vzal s sebou harpunu a bez rozpaků ji tu používal: natahoval se s ní přes stůl, uváděje tím mnohé hlavy v nebezpečí, a napichoval jí bifteky. Ale dělal to chladnokrevně a všichni víme, že podle názoru většiny lidí chladnokrevné vystupování je vystupování uhlazené.
 
 Nebudeme tu mluvit o všech Kvíkvegových zvláštnostech, jak polykal kávu a horké žemle a jak pozorně a cele se věnoval polosyrovým biftekům. Stačí, řeknu-li, že po snídani odešel jako ostatní do nálevny, zapálil si dýmku podobnou tomahavku a tam seděl, na hlavě svůj nerozlučný klobouk, klidně zažíval a kouřil, kdežto já jsem se vydal na procházku.
+
+</section>

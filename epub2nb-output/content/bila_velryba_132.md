@@ -3,6 +3,8 @@ title: CXXIII\.MUŠKETA
 contentType: prose
 ---
 
+<section>
+
 Kormidelník, řídící Pequodu držadlem z velrybí čelisti, byl jeho křečovitými pohyby za nejprudších nárazů tajfunu mnohokrát vržen na palubu, ačkoli bylo zajištěno výpomocnými lany – ale ta byla málo napjatá – poněvadž držadlo potřebovalo trochu volnosti k pohybu.
 
 Za bouře tak prudké jako tato, kdy se loď ve vichřici zmítá jako pouhý korkový míček, nebývá zjevem nijak neobvyklým, že se jehly v kompasech občas točí kolem dokola. Tak tomu bylo i na Pequodě: při každém nárazu mohl kormidelník pozorovat, s jakou závratnou rychlostí se jehly otáčejí na mapách. Je to podívaná, při které se sotva kdo ubrání jakémusi neobvyklému rozčilení.
@@ -28,3 +30,5 @@ Taková slova zazněla z neklidného spánku starého muže, jako kdyby Starbuc
 Mušketa dosud napřažená se zachvěla na dveřích jako paže opilcova. Zdálo se, že Starbuck zápasí s andělem. Obrátil se však ode dveří, položil smrtící hlaveň na polici a odešel.
 
 „Spí příliš tvrdě, pane Stubbe. Sejdi dolů, probuď ho a řekni mu to. Musím tu dohlédnout na palubu. Však víš, co mu říci.“
+
+</section>

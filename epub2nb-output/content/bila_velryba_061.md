@@ -3,6 +3,8 @@ title: LII\.ALBATROS
 contentType: prose
 ---
 
+<section>
+
 Jihovýchodně od Mysu, u vzdálených ostrovů Crozetských, kde je dobré loviště velryb grónských, objevila se před námi plachta lodi pojmenované Albatros. Z mého vysokého stanoviště na předním stožáru bylo dobře vidět, jak se pomalu přibližuje – zajisté pozoruhodná podívaná pro nováčka v dalekých mořských lovištích: velrybářská loď na moři, tak dlouho z domova.
 
 Loď byla vybílena jako kostra mrože vyvrženého z moře na břeh, jako by ji měli v práci valcháři. Po celé délce boků byl tento strašidelný přízrak poznamenán dlouhými pásy zčervenalé rzi a ráhnové trámce a lanoví vypadaly jako silné větve stromů obalené jinovatkou. Měla rozvinuty jen spodní plachty. Fantasticky vypadaly na vrcholech tří stožárů její hlídky, muži s dlouhými plnovousy. Zdálo se, že vězí ve zvířecích kůžích, tak rozedrané a záplatované byly jejich oděvy, které přetrvaly skoro čtyři léta plavby. Stojíce v železných kruzích přibitých ke stožáru, houpali se a kolébali nad bezedným mořem. Když se loď pomalu sunula k naší zádi, nás šest mužů ve vzduchu se k sobě tak přiblížilo, že jsme téměř mohli přeskočit ze stožáru jedné lodi na stožár lodi druhé, a přece se tito sešlí rybáři na nás klidně dívali, když nás míjeli, a neřekli ani slůvko našim hlídkám, kdežto z velitelské paluby bylo slyšet pozdravy.
@@ -18,3 +20,5 @@ V té chvíli se již brázdy od obou lodí zkřížily a hejna malých, nešk
 Kolem světa! Mnoho v těchto slovech vzbuzuje hrdé pocity. Ale kam vede všechno to obeplouvání světa? Přes nesčetná nebezpečí jen k místu, odkud jsme vyrazili, kde všichni, které jsme zanechali v bezpečí, byli po celý ten čas před námi.
 
 Kdyby tento svět byl nekonečnou rovinou a kdybychom se, plujíce na východ, mohli dostávat do dálek vždy nových a objevovat pohledy líbeznější a podivnější než nějaké ty Kyklady nebo Šalomounovy ostrovy, tehdy by taková plavba něco slibovala. Ale při honbě za těmi dalekými tajemstvími, o nichž sníme, nebo při mučivém pronásledování onoho démonického přízraku, který se občas vznáší před každým člověkem, při takové honbě kolem naší kulaté země jsme buď zavedeni do prázdného bludiště, nebo nás na půl cestě pochovají ve vlnách.
+
+</section>

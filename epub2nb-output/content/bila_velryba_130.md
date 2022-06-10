@@ -3,9 +3,13 @@ title: "CXXI\\.PŮLNOC\_— ZÁBRADLÍNA PŘEDNÍ PALUBĚ"
 contentType: prose
 ---
 
+<section>
+
 \[Stubb a Flask sedí na zábradlí a připoutávají zavěšené tam kotvy dalšími lany.\]
 
-  
+</section>
+
+<section>
 
 Ne, Stubbe, můžeš tam do toho uzlu tlouci, jak chceš, ale do mne nikdy nevtlučeš, cos právě povídal. Jak je to dlouho, cos říkal pravý opak? Neříkals jednou, že každá loď, na které pluje Achab, měla by platit zvláštní zvýšené pojistné, jako kdyby byla naložena na zádi soudky prachu a na přídi bedničkami sirek? Počkej, neříkals to?“
 
@@ -14,3 +18,5 @@ Ne, Stubbe, můžeš tam do toho uzlu tlouci, jak chceš, ale do mne nikdy nevtl
 „To nevím, Stubbe. I tobě to někdy připadá těžké.“
 
 „Ano, když je člověk promočený na kůži, pak je těžké mít rozum, to je pravda. A já už budu od toho lijáku skrz naskrz. Ale nechme toho; chyť tamtu smyčku a podej mi ji! Připadá mi, že teď přivazujeme ty kotvy tak důkladně, jako by se jich už nikdy nemělo použít. Připadá mi, Flasku, že připoutávat tyhle dvě kotvy je asi tak jako svazovat člověku ruce za zády. A jaké náramné ruce to jsou! Jak dovedou držet! Rád bych věděl, Flasku, zda je svět někde zakotven. Je-li opravdu, to se tedy houpá na kabelu náramně dlouhém. Sklepni ten uzel, a jsme hotovi. Dobře; nejvíc nás uspokojí, vyskočíme-li na palubu, když už nemůžeme na pevninu. Poslechni, vyždímej mi kabát, ano? Děkuji. Lidé se smějí šosům u kabátu, Flasku, ale mně se zdá, že za všech bouří by se měl na moři nosit šosatý kabát. Šosy se dolů zužují, víš, a pěkně odvádějí vodu. Zrovna tak třírohé klobouky. Ty ohrnuté okraje chrání jako okapy. Nechci už žádné krátké kazajky a námořnické klobouky. Budu nosit kabáty s dlouhými šosy a narazím si ohrnutý klobouk. Ouha! Ach, klobouk mi letí do moře. Bože, bože, že ten vítr z nebe je tak nevychovaný! To je ošklivá noc, kamaráde.“
+
+</section>

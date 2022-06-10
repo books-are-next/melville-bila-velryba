@@ -3,6 +3,8 @@ title: LXVIII\.POKRÝVKA
 contentType: prose
 ---
 
+<section>
+
 Věnovali jsme nemalou pozornost onomu předmětu velmi spornému, totiž kůži velryby. Mluvil jsem o ní se zkušenými velrybáři na vodě a s učenými přírodopisci na souši. Můj původní názor zůstává nezměněn, ale je to jenom názor.
 
 Otázka zní, co a kde je vlastně velrybí kůže? Již víte, co to je velrybí tuk. Tento tuk je svou stavbou cosi na způsob pevného, hustě vláknitého svalu, ale je houževnatější, pružnější a hutnější; vrstva bývá vysoká od osmi až deseti do dvanácti až patnácti palců.
@@ -18,3 +20,5 @@ Ještě několik slov o velrybí kůži neboli tuku. Jak už bylo řečeno, trh
 Zdá se mi, že v tom je vidět, jak vzácnou předností je silná životnost jednotlivce, jak vzácně výhodné jsou silné stěny a jak vzácným věnem je vnitřní prostornost. Ó člověče, obdivuj se velrybě a utvářej se podle ní! Zůstávej také ty teplý mezi ledem. Žij také na tomto světě, ale nepatři k němu. Buď chladný na rovníku a zachovej si tekutou krev u pólu. Jako ohromný svatopetrský dóm a jako ohromná velryba zachovej si, ó člověče, za všech období svou teplotu.
 
 Ale jak je to snadné a zároveň beznadějné, dávat tato pěkná naučení! Kolik staveb je tak klenutých jako dóm svatého Petra a jak málo tvorů je tak obrovských jako velryba!
+
+</section>

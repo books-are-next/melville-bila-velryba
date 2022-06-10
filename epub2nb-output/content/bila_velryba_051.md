@@ -3,6 +3,8 @@ title: XLII\.BĚLOST VELRYBY
 contentType: prose
 ---
 
+<section>
+
 Čím byla bílá velryba Achabovi, to už jsme naznačili; čím byla někdy mně, to dosud řečeno nebylo.
 
 Vedle oněch dost pochopitelných úvah o Moby Dickovi, jež musely čas od času vyvolat poplach v duši každého člověka, byla tu ještě jiná myšlenka, či spíše neurčitá, bezejmenná hrůza, jíž byl obestřen a která někdy svou mohutností zcela přehlušila všechno ostatní. A přece to bylo něco tak mystického a téměř nevyslovitelného, že skoro ztrácím naději, že bych to dovedl srozumitelně vyjádřit. Ze všeho nejvíc mě totiž děsila právě bělost velryby. Jak mohu doufat, že vyjádřím své dojmy? A přesto je, třebas nejasně a zkusmo, vyjádřit musím, jinak by všechny tyto kapitoly byly bezcenné.
@@ -64,3 +66,5 @@ Pokud jde o bílého žraloka, když ho spatříme v jeho normální náladě,
 Tvrdím tedy, že tajemství kouzla toho ptáka záleží hlavně v nádherné bělosti jeho těla. To dotvrzuje ještě okolnost, že existují ptáci, kteří byli protimluvně pojmenováni šedí albatrosi, a ty jsem také často viděl, ale nikdy jsem neměl takový pocit, jako když jsem spatřil onoho ptáka v Antarktiku.
 
 Avšak jak byl tento mystický tvor lapen? Nešeptejte, povím vám to: na zrádný hák a šňůru, jak plul po moři. Kapitán si z něho nakonec udělal listonoše, uvázal mu kolem krku kožený lístek se jménem lodi a udáním času a místa a potom jej pustil na svobodu. Nepochybuji o tom, že ten kožený lístek, určený člověku, byl odnesen do nebe, kam ten bílý pták odlétl, aby se připojil k okřídleným cherubínům, vzývajícím a chválícím Boha!
+
+</section>

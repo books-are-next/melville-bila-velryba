@@ -3,6 +3,8 @@ title: CIV\.VELRYBA FOSILNÍ
 contentType: prose
 ---
 
+<section>
+
 Svou ohromností skýtá velryba velmi vhodný příměr, chceme-li zveličovat, přepínat a všeobecně podat něco hodně obšírně. I kdybyste chtěli, nemohli byste ji zmenšit. Vším právem nutno o ní vykládat v majestátním foliu. Netřeba znovu připomínat její délku od dýchacího otvoru k ocasu, ani kolik yardů měří kolem pasu; stačí jen vzpomenout na ohromné závity jejích střev, která v ní leží jako obrovské kabely a těžká lana, stočená na nejspodnější palubě bitevní lodi.
 
 Když už jsem se jednou odhodlal rázně chopit leviatana, sluší se, abych při tom díle projevil vševědoucí zevrubnost, nepřehlédl ani nejmenší semenné zárodky v jeho krvi a rozvinul i nejskrytější závit jeho vnitřností. Když jsem již popsal většinu jeho dnešních svérázných návyků a anatomických zvláštností, zbývá nyní, abych jej ocenil z hlediska archeologického, fosilního a předpotopního. U jiného tvora, nežli je leviatan – třeba u mravence nebo blechy – mohli bychom takové vážné výrazy považovat právem za hrubé nadsázky. Ale když jde o leviatana, je to něco jiného. Rád klopýtám k tomuto cíli mezi nejtěžšími výrazy ve slovníku. A budiž zde řečeno, že kdykoli bylo nutno použít k výkladu nějakého slovníku, vždy jsem se uchyloval k velkému kvartovému vydání Johnsona, zvlášť k tomu účelu koupeného, poněvadž neobvyklá osobní objemnost tohoto proslulého slovníkáře ho jen uzpůsobovala k sestavení slovníku, kterého může používat velrybářský spisovatel, jako jsem já.
@@ -24,3 +26,5 @@ Nelze tu opominout ani další podivné osvědčení o starobylosti velryby v 
 „Nedaleko mořského břehu mají chrám, v němž jsou krokve a trámy z velrybích kostí, neboť na toto pobřeží bývají často vyvrženy mrtvé velryby obrovských rozměrů. Prostí lidé si představují, že pro tajemnou moc, danou od Boha tomuto chrámu, nemůže okolo plout žádná velryba, aby okamžitě nezahynula. Pravda však jest, že na obou stranách chrámu jsou skály, které vybíhají dvě míle do moře a zraňují velryby, když na ně narazí. V chrámě chovají velrybí žebro neuvěřitelně dlouhé, které považují za zázrak; žebro leží vypouklou částí vzhůru, tvoříc tak oblouk, na jehož vrchol nemůže dosáhnout ani jezdec na velbloudu. Toto žebro (praví John Leo) tam prý leželo sto let předtím, než jsem je spatřil. Jejich dějepisci prohlašují, že prorok, který předpověděl příchod Mohamedův, přišel z tohoto chrámu, a někteří nepřestávají tvrdit, že proroka Jonáše vyvrhla velryba právě před oním chrámem.“
 
 V tomto africkém chrámu Velryby tě nechám, čtenáři. Jsi-li z Nantucketu a přitom velrybář, budeš se tu mlčky modlit.
+
+</section>

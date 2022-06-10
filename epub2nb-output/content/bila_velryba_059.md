@@ -3,6 +3,8 @@ title: "L\\.ACHABŮV ČLUN A\_POSÁDKA — FEDALLAH"
 contentType: prose
 ---
 
+<section>
+
 „Kdo by si to byl pomyslil, Flasku,“ zvolal Stubb, „kdybych měl jen jednu nohu, nedostali byste mě do člunu, leda snad že bych tou dřevěnou nohou ucpával díru. Ach, on je báječný stařec!“
 
 „Tohle se mi konec konců nezdá tak zvláštní,“ odpověděl Flask. „Kdyby měl nohu pryč v kyčli, to by pak bylo něco jiného. To by byl neschopný. Ale jak víš, jedno koleno má a z druhého mu pěkný kus zbývá.“
@@ -20,3 +22,5 @@ Achab dobře věděl, že by jeho přátelé doma sice mnoho nenamítali, kdyby 
 Když se služebné přízraky objevily, údiv brzy vyprchal; na velrybářské lodi každý div brzy zevšední. Ostatně takové nevídané ukázky divných národů se občas vynořují z různých neznámých koutů a děr světa a přidružují se k plujícím vyděděncům z velrybářských lodí, a lodi samy často vyloví takové zvláštní ztroskotance, zmítané po širém moři na prknech, vracích, veslech, velrybářských člunech, kánoích, na japonských džunkách, zahnaných větrem, a na podobných plavidlech, že by se mohl vyšplhat přes zábradlí sám Belzebub a sestoupit dolů do kajuty, aby si popovídal s kapitánem, a na přídi u mužstva by to nezpůsobilo žádné velké vzrušení.
 
 Ale ať již je tomu jakkoli, jisté je, že i když si posádka brzo zvykla na podřízené přízraky, třeba se od ní ještě poněkud odlišovaly, přece onen Fedallah s turbanem na vlasech zůstal až do poslední chvíle zahalen tajemstvím. Odkud přišel do tohoto slušného světa, jakým nevysvětlitelným poutem se brzy svázal s Achabovým zvláštním osudem; proč dokonce měl i jakýsi nenápadný vliv, a kdož ví, zda vůbec neovládal Achaba – to všechno nikdo nevěděl, ale nikdo nemohl zůstat k Fedallahovi lhostejný. Byl to tvor, jakého civilizovaní, usedlí lidé v mírném pásmu vídají jenom ve svých snech, a to ještě mlhavě. Ale takoví tvorové se tu a tam vyskytnou v neměnných obcích asijských, zejména na ostrovech na východ od pevniny – v těch prastarých, nezměnitelných krajinách, od světa odloučených, které si dokonce i dnes ještě v mnohém zachovávají duchovou rázovitost praobyvatelů země, těch generací, kdy první člověk žil dosud v paměti jasnou vzpomínkou a všichni lidé se pokládali za jeho potomky, a poněvadž nevěděli, odkud přišel, dívali se na sebe jako na přeludy a ptali se slunce a měsíce, proč byli stvořeni a k jakému účelu: těch generací, kdy podle Geneze andělé vskutku vcházeli k dcerám lidským a ďáblové, jak připojují nekanoničtí rabíni, rovněž si dopřávali světských lásek.
+
+</section>

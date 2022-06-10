@@ -3,6 +3,8 @@ title: "CIX\\.ACHAB A\_STARBUCK V\_KAJUTĚ"
 contentType: prose
 ---
 
+<section>
+
 Nazítří zrána čerpali jako obvykle vodu z lodi; a hle! s vodou vycházelo nemalé množství oleje. Sudy dole měly asi ošklivou trhlinu. Vzbudilo to mnoho obav; Starbuck sešel do kajuty, hlásit tuto nepříjemnou zprávu.[^21] Pequod, plující od jihozápadu, blížila se nyní k Tajvanu a k ostrovům Batanes, mezi kterými leží tropická brána z vod čínských do Tichého oceánu. Starbuck tedy našel Achaba nad rozvinutou celkovou mapou východních souostroví a ještě nad jinou, představující dlouhá východní pobřeží japonských ostrovů – Nipponu, Matsmai a Šikoku. Sněhobílou novou nohu ze slonoviny měl opřenu o přišroubovanou nohu stolu a v ruce držel dlouhý nůž, zahnutý jako zahradnická žabka. Podivuhodný stařec, obrácen zády ke dveřím, vraštil čelo a znovu sledoval své staré plavby.
 
 „Kdo je tu?“ zvolal, když uslyšel kroky u dveří, ale neobrátil se. „Na palubu! Zmiz!“
@@ -40,3 +42,5 @@ Podle důstojníkových planoucích očí a rozpálených tváří byste se byl
 Bylo by asi marné dohadovat se, proč tak Achab jednal, jako by respektoval Starbucka. Mohl to být záblesk čestnosti nebo pouhá opatrná diplomacie, jež za těchto okolností naprosto zakazovala nejmenší náznak otevřené, třebas jen přechodné nespokojenosti u nejdůležitějšího důstojníka na lodi. Malé kladkostroje byly tedy vytaženy.
 
 [^21]: U lodí lovících vorvaně, které mají větší množství oleje na palubě, je pravidelnou povinností dvakrát týdně zavést hadici do skladiště a pokropit sudy mořskou vodou, která je potom v různých intervalech odčerpávána lodními pumpami. Tak se námořníci snaží udržet sudy vlhké a nepropustné. Když se změní složení odčerpávané vody, námořníci snadno poznají každé vážnější unikání drahocenného nákladu.
+
+</section>

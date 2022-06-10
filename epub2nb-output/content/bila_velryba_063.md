@@ -3,9 +3,13 @@ title: LIV\.PŘÍBĚH LODI TOWN-HO
 contentType: prose
 ---
 
+<section>
+
 \[Podle vyprávění ve Zlatém hostinci.\]
 
-  
+</section>
+
+<section>
 
 Mys Dobré naděje a celá vodní oblast kolem něho se hodně podobá některé známé křižovatce velkých silnic, kde potkáte víc cestujících než kdekoli jinde.
 
@@ -228,3 +232,5 @@ Nikdo neví, pánové, kde je nyní Steelkilt. Ale na ostrově Nantucketu se vdo
 K tomu mi dopomáhej Bůh a na mou čest: příběh, který jsem vám, pánové, vyprávěl, je v základě a v svých hlavních bodech pravdivý. Vím, že je pravdivý. Stal se na této zeměkouli, byl jsem na oné lodi, znal jsem její posádku a viděl jsem Steelkilta a mluvil s ním po smrti Radneyově.“
 
 [^9]: Town-Ho! starodávný velrybářský výkřik při prvním spatření velryby ze stožáru. Dosud ho užívají velrybáři při lovení proslulých želv z ostrovů Galapagos.
+
+</section>

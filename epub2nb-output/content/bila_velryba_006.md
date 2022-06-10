@@ -3,13 +3,19 @@ title: PŮVOD JMÉNA VELRYBY
 contentType: prose
 ---
 
+<section>
+
 (SESTAVENO STŘEDOŠKOLSKÝM SUPLENTEM, KTERÝ ZEMŘEL NA SOUCHOTINY)
 
-  
+</section>
+
+<section>
 
 Vidím ho jako dnes, toho bledého suplenta – všechno na něm bylo zchátralé: kabát i srdce, tělo i mozek. Neustále oprašoval své staré slovníky a mluvnice divným kapesníkem, jejž výsměšně zdobily pestré vlajky všech známých národů světa. Své staré mluvnice oprašoval rád; připomínalo mu to tak trochu jeho pomíjejícnost.
 
-  
+</section>
+
+<section>
 
 _„Vezmete-li si za úkol vzdělávat lidi a naučit je, že se tomu zvířeti má správně říkat velryba, a přitom bezděky spolknete slabiku vel, jež téměř samojediná vytváří smysl toho slova, říkáte něco, co není pravdivé.“_
 
@@ -22,3 +28,5 @@ WEBSTERŮV SLOVNÍK
 _„_WHALE.\*\*\*_ Pochází spíše z hol. a něm. Wallen; anglosasky _Wal-w-ian_ znamená valiti, kouleti.“_
 
 RICHARDSONŮV SLOVNÍK
+
+</section>

@@ -3,6 +3,8 @@ title: "CXVII\\.HLÍDKA U\_VELRYBY"
 contentType: prose
 ---
 
+<section>
+
 Čtyři velryby, které byly onoho večera zabity, zahynuly daleko od sebe; jedna daleko na straně návětrné, druhá blíže na straně závětrné, jedna před přídí a jedna za zádí. Tyto poslední tři jsme přivlekli k lodi před setměním. Velryba na straně návětrné nemohla být přivlečena, až ráno, a člun, který ji zabil, zůstal u jejího boku po celou noc. Byl to člun Achabův.
 
 Do dýchacího otvoru mrtvé velryby zarazili zpříma vlajkovou tyč a lampa zavěšená na jejím konci vrhala světlo mdle blikající na lesklý černý hřbet a daleko vůkol na půlnoční vlny, které něžně omývaly široké boky velryby jako mírný příboj na pláži.
@@ -30,3 +32,5 @@ Když se Achab vytrhl z dřímoty, spatřil Fedallaha tváří v tvář. Obklo
 „Přijmi ještě jednu záruku, starý muži,“ řekl Pars a jeho oči zasvítily jako světlušky ve tmě. „Tebe může usmrtit jen konopí.“
 
 „Oprátka, myslíš. Pak jsem nesmrtelný na zemi i na moři,“ zvolal Achab s posupným smíchem. „Nesmrtelný na zemi i na moři!“ Oba opět zmlkli jako jeden muž. Nadešel úsvit a spící posádka se začala zvedat ze dna člunu. Ještě před polednem byla mrtvá velryba přivlečena k lodi.
+
+</section>

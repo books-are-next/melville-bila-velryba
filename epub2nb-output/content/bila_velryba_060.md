@@ -3,6 +3,8 @@ title: LI\.PŘÍZRAČNÝ VODOMET
 contentType: prose
 ---
 
+<section>
+
 Míjely dny a týdny a Pequod, svítící mořskou slonovinou, jen s několika plachtami projela pomalu čtyřmi lovišti: jedním u Azurových ostrovů, druhým u mysu de Verdes, dále lovištěm u ústí řeky Rio de la Plata a konečně lovištěm Carrolovým, které nebývá zakresleno a je jižně od Svaté Heleny.
 
 Při plavbě těmito vodami posledně jmenovanými, za jedné jasné měsíčné noci, kdy se všechny vlny valily jako svitky stříbra a svým jemným, splynulým šumotem ztvářely stříbrné ztišení, ne samotu, za takové ztichlé noci jsme spatřili stříbrný sloup daleko před bílými bublinami naší přídě. Osvětlen měsíční září vypadal božsky; zdálo se, že zářící bůh ozdobený pery se zvedá z moře. Fedallah první objevil tento vodotrysk. Míval ve zvyku za takových měsíčných nocí vylézat na vrchol hlavního stožáru a tam stát na stráži tak svědomitě, jako kdyby byl den. A přece, i kdyby loď v noci spatřila celá stáda velryb, ani jeden ze sta velrybářů by se neodvážil spustit čluny na lov. Dovedete si představit, s jakými pocity se asi námořníci dívali na toho starého orientálce, když stál nahoře v takovou nezvyklou dobu; a jeho turban a měsíc se zdály souputníky na téže obloze. Ale když tam po několik nocí za sebou prostál svůj vymezený čas, nevydav ze sebe jediného zvuku, a když po všem tom mlčení pojednou uslyšeli, jak jeho příšerný hlas oznamuje onen stříbrný vodotrysk ozářený měsícem, tu každý odpočívající námořník vyskočil na nohy, jako by se byl v ráhnoví zjevil okřídlený duch a volal na pozemskou posádku. „Tam chrlí!“ Kdyby byla zazněla polnice volající k Poslednímu soudu, nebyli by se muži chvěli víc, a přece neměli strach, spíše se radovali. I když to byla naprosto nežádoucí hodina, volání bylo tak působivé a tak opojně vzrušovalo, že téměř každý na lodi bezděčně zatoužil spustit čluny.
@@ -26,3 +28,5 @@ Ve vší té temnotě živlů projevoval Achab velmi chmurnou zdrženlivost, ač
 Strašný starče! pomyslil si Starbuck a zachvěl se. I když usneš za takové bouře, přece neúchylně upíráš oči k svému cíli.
 
 [^8]: Kompas v kajutě je zván vyzrazovač, poněvadž kapitán ani nemusí chodit ke kompasu u kormidla a může se informovat o kurzu lodi, i když je dole.
+
+</section>

@@ -3,6 +3,8 @@ title: XIX\.PROROK
 contentType: prose
 ---
 
+<section>
+
 Plavci, dali jste se najmout na tu loď?“
 
 Kvíkveg a já jsme právě opustili Pequod a vzdalovali jsme se pomalu od vody, každý na okamžik zabrán do svých vlastních myšlenek; vtom nás takto oslovil cizinec, který se před námi zastavil a ukázal těžkým ukazovákem na naši loď. Byl ošuměle oděn ve vybledlý kabátec a záplatované kalhoty; kolem krku měl cár černého šátku. Neštovice se mu rozlily všemi směry po obličeji a ten zůstal poznamenán spletí vrásek jako koryto rozvodněné řeky, když proudící voda vyschla.
@@ -72,3 +74,5 @@ Ukazuje prstem a upíraje oči na Pequod, žebrácký cizinec chvíli stál, ja
 Eliáš! myslil jsem si a odcházeli jsme, posuzujíce každý po svém toho starého otrhaného námořníka; shodli jsme se v tom, že je to tlučhuba, který se pokouší děsit jiné lidi. Ušli jsme sotva sto metrů, a když jsme zahýbali za roh, ohlédl jsem se a viděl jsem, jak nás Eliáš zpovzdálí sleduje. Pohled na něho mě nějak divně zarazil, ale Kvíkvegovi jsem neřekl, že je za námi, a šel jsem dále se svým přítelem – zvědav, zabočí-li cizinec také za roh jako my. Zabočil a potom se mi zdálo, že nás stopuje, ale zaboha jsem nedovedl pochopit, proč to dělá. Tato okolnost, spolu s jeho dvojsmyslným humorem, zpola naznačujícím, zpola odhalujícím i tajivým, vzbudila teď ve mně nejasné pocity podivu a podezření a všecko to souviselo s Pequodou, s kapitánem Achabem, s nohou, kterou ztratil, se záchvatem u mysu Hornu i se stříbrnou mísou a s tím, co o něm řekl kapitán Peleg, když jsem minulého dne odcházel z lodi, a s předpovědí indiánky Tistigy a s plavbou, ke které jsme se zavázali; a s mnoha jinými mlhavými otázkami.
 
 Rozhodl jsem se, že zjistím, zda nás ten otrhaný Eliáš vskutku stopuje či ne, a s tím úmyslem jsme s Kvíkvegem přešli přes cestu a vraceli jsme se po druhé straně. Eliáš však kráčel dále a nevšímal si nás. To mě uklidnilo a znovu a podle mého s konečnou platností jsem si v duchu řekl, že je to tlučhuba.
+
+</section>

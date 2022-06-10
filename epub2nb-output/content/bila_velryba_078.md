@@ -3,6 +3,8 @@ title: LXIX\.POHŘEB
 contentType: prose
 ---
 
+<section>
+
 Vytáhněte řetězy! Pusťte mrchu na záď!“
 
 Obrovské kladkostroje už vykonaly svou povinnost. Oloupané bílé tělo bezhlavé velryby svítí jako mramorový náhrobek. Ačkoli změnilo barvu, neztratilo znatelně na objemu. Je dosud ohromné. Pomalu odplouvá dál a dál, vodu kolem něho tříští a rozstřikují nenasytní žraloci a vzduch nad ním rozviřují dravým letem skřečící ptáci, jejich zobáky se zabodávají jako samé proradné dýky do velryby. Ohromná, bílá, bezhlavá příšera pluje od lodi dál a dál a s každými několika yardy, o něž zůstává za námi, vzrůstá strašlivý lomoz, jejž tropí ty čtverečné yardy žraloků a kubické yardy ptactva. Po celé hodiny můžeme z lodi, téměř nehybné, pozorovat tuto příšernou podívanou. Pod jasnou a vlídnou azurovou oblohou, na klidné hladině rozkošného moře, zametané rozmarnými vánky, pluje dál a dále tato obrovská masa smrti, až se konečně ztratí v nedozírnu.
@@ -14,3 +16,5 @@ Ale to ještě není konec. Třebaže je tělo takto zhanobeno, mstivý duch ži
 A tak velryba, jejíž velké tělo bývalo zaživa pravým postrachem jejích nepřátel, ještě po smrti vyvolává svým duchem u mnohých bezmocnou paniku.
 
 Příteli, věříte v duchy? Jsou ještě jiní duchové, nežli je pověstné londýnské strašidlo z ulice Cock-Lane, a ještě učenější lidé, nežli je doktor Johnson, kteří v ně věří.
+
+</section>

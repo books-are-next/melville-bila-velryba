@@ -3,6 +3,8 @@ title: "LXXXIII\\.JONÁŠ Z\_HLEDISKA HISTORICKÉHO"
 contentType: prose
 ---
 
+<section>
+
 V předešlé kapitole jsme se dotkli historického příběhu o Jonášovi a velrybě. Ale někteří Nantuckeťané tomuto historickému příběhu o Jonášovi a velrybě příliš nevěří. Ovšem také někteří skeptičtí Řekové a Římané, vynikající nad pravověrné pohany své doby, stejně nedůvěřovali příběhu o Heraklovi a velrybě, o Arionovi a delfínu, a přece jejich pochybnosti neučinily z těchto tradic fakta o nic méně pravdivá.
 
 Jeden starý rybář ze Sag Harboru uváděl za hlavní důvod svých pochyb o pravdě hebrejského příběhu toto: Má prý jednu z těch zvláštních starosvětských biblí, vyzdobenou podivnými, nevědeckými rytinami; jedna z nich ukazuje Jonášovu velrybu se dvěma vodotrysky na hlavě – zvláštnost, která je typická jen u jednoho druhu leviatana (u grónské velryby a jejích odrůd); je to velryba, o níž velrybáři říkají: „Houstičkou by se udusila“, tak malý má hltan. Ale na to má biskup Jebb odpověď již napřed připravenou. Není třeba, praví biskup, představovat si, že byl Jonáš pohřben v břiše velryby, nýbrž mohl být dočasně ukryt v některé části její tlamy. A to se zdá od toho dobrého biskupa docela rozumné. Věru, grónská velryba by mohla pojmout do tlamy dva hrací stolky a pohodlně k nim usadit všechny hráče whistu. Snad se také mohl Jonáš schovat ve vykotlaném zubu. Ale rozvážíme-li si to, řekneme, že grónská velryba zuby nemá.
@@ -12,3 +14,5 @@ Další důvod, který Sag Harbor (tak mu říkali) uváděl pro to, že v tét
 A neměla velryba jinou cestu, kudy by dopravila proroka tak blízko k Ninive? Měla. Mohla ho nést kolem mysu Dobré naděje. Ale nemluvíme-li ani o cestě přes celé Středozemní moře a o další plavbě Perským zálivem a Rudým mořem, tedy by taková domněnka předpokládala úplné obeplutí celé Afriky ve třech dnech, nemluvě o tom, že vody Tigridu jsou blízko Ninive příliš mělké, aby v nich mohla plout nějaká velryba. Mimoto by taková představa o Jonášově obeplutí mysu Dobré naděje odňala čest objevení tohoto významného mysu Bartoloměji Diazovi, jeho obecně uznávanému objeviteli, a tak by usvědčila moderní dějiny ze lži.
 
 Všechny tyto pošetilé námitky starého Sag Harbora byly jen důkazem jeho bláhové pýchy z rozumu – pýchy hodné pokárání, a tím víc u něho, poněvadž jeho vzdělání bylo nepatrné a věděl jen to, co pochytil na slunci a na moři. Pravím, že to jen ukazuje jeho bláhovou, bezbožnou pýchu a ohavnou, ďábelskou vzpouru proti důstojnému kněžstvu. Vždyť jeden portugalský katolický kněz právě tuto představu o Jonášově cestě do Ninive kolem mysu Dobré naděje velebil jako velkolepé oslavení celého zázraku. A tak to také bylo. Vysoce vzdělaní Turci dodnes zbožně věří v historický příběh Jonášův. A asi před třemi sty lety vypráví anglický cestovatel v starých Harrisových cestopisech o turecké mešitě vystavěné na počest Jonášovu: v této mešitě byla zázračná lampa, která hořela bez oleje.
+
+</section>

@@ -3,6 +3,8 @@ title: XLV\.OSVĚDČENÍ
 contentType: prose
 ---
 
+<section>
+
 Pokud snad má tato kniha nějaké dějové pásmo, je pro ně ze všech kapitol, co jich svazek má, nejdůležitější kapitola předchozí, neboť se v prvních svých odstavcích nepřímo dotýká několika velmi zajímavých a pozoruhodných zvláštností ve zvycích vorvaňů, ale její hlavní námět si žádá ještě dalšího a zasvěcenějšího zevrubného výkladu, má-li být dokonale pochopen a má-li být také odstraněna všecka nedůvěra, pokud jde o nelíčenou pravdivost hlavních bodů tohoto vyprávění, nedůvěra, kterou může u někoho vzbudit naprostá neznalost celé látky.
 
 Nejde mi o to, abych se této části svého úkolu zhostil metodicky, spíše hodlám vzbudit žádoucí dojem tím, že uvedu jednotlivě několik případů, které jsem jako velrybář skutečně poznal v praxi nebo o nichž vím z hodnověrných pramenů, a z těchto případů, jak doufám, vyplyne potom závěr sám sebou.
@@ -52,3 +54,5 @@ Pokud jsem mohl zjistit, v Propontidě se nevyskytuje zvláštní látka zvaná
 Dále uvádím Chaceovy myšlenky ve chvílích, kdy již opustil loď a seděl za temné noci v nekrytém člunu, téměř bez naděje, že dosáhne nějakého pohostinného břehu: „Tmavý oceán a vzedmuté vlny, to nebylo nic. Strach, že budeme pohlceni nějakou hroznou bouří nebo vrženi na skryté skály, spolu s obvyklými obavami jiného původu, ty byly sotva hodny jediného pomyšlení. Truchlivý vrak a hrozný vzhled vorvaně a jeho mstivost zcela upoutaly mé myšlenky, než konečně nastal den.“
 
 Na jiném místě, str. 45, mluví Chace o „tajemném a smrtonosném útoku toho zvířete“.
+
+</section>

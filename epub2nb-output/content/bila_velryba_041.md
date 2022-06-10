@@ -3,6 +3,8 @@ title: XXXII\.CETOLOGIE
 contentType: prose
 ---
 
+<section>
+
 Již jsme odvážně daleko nad hlubinami oceánu, ale brzy budeme ztraceni v jeho nesmírnosti bez břehů a přístavů. Než se tak stane, nežli se trup Pequody, ověšený řasami, požene podle trupu leviatana pokrytého vilejši, je třeba hned na začátku důkladně probrat látku téměř nezbytnou, máme-li dokonale pochopit všemožné odbornější narážky a výklady o leviatanech, které se později vyskytnou.
 
 Nyní bych vám rád systematicky předvedl velrybu, její hlavní druhy. Není to snadný úkol. Nejde o nic menšího než o pokus roztřídit chaos. Poslechněte si, co soudí nejlepší a nejnovější znalci.
@@ -100,3 +102,5 @@ Konečně: Na začátku bylo řečeno, že tato soustava nemůže být vytvořen
 [^2]: Jsem si vědom, že až po naše dny bývají ryby zvané ochechule a sirény (Goffinové z Nantucketu jim říkají mořské krávy a mořské panny) mnohými přírodozpytci zahrnovány mezi velryby. Jelikož tyto mořské krávy tvoří hlučná, opovrženíhodná stáda, číhající většinou u ústí řek a krmící se mokrým senem, a hlavně proto, že nechrlí vodu, odpírám jim nárok říkat si velryby. A tímto jim vystavuji pasy, aby mohly opustit království kytovců.
 
 [^3]: Proč tato kniha není označena jako kvartová, je velmi jasné. Velryby tohoto druhu, i když jsou menší než velryby předešlé, přece v proporcích zachovávají s nimi podobnost; ale knihařské kvartové svazky v své zmenšené formě nezachovávají tvar svazku foliového, kdežto svazek oktávový ano.
+
+</section>
