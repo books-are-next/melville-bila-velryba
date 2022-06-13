@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "melville-bila-velryba-26d59f9",
-  "revision": "26d59f9",
+  "identifier": "melville-bila-velryba-49f5085",
+  "revision": "49f5085",
   "readingOrder": [
     "promo.html",
     "bila_velryba_005.html",
@@ -155,8 +155,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:07:02 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949222044
+    "date": "Mon Jun 13 2022 21:32:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655155928200
   },
   "documents": [
     {
@@ -2974,9 +2974,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 85,
-      "chars": 571,
-      "ideas": 7,
+      "words": 128,
+      "chars": 822,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "bila_velryba_145.html",
@@ -2994,9 +2994,9 @@
   ],
   "totals": {
     "all": {
-      "words": 179977,
-      "chars": 1108200,
-      "ideas": 2954
+      "words": 180020,
+      "chars": 1108451,
+      "ideas": 2964
     },
     "chapters": {
       "words": 179886,

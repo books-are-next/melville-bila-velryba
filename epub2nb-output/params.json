@@ -9,7 +9,8 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-12-07T10:50:41.658Z",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "isbn": "978-80-274-2487-0"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola ",
@@ -2915,6 +2916,6 @@
       "user": "books-are-next",
       "repo": "melville-bila-velryba"
     },
-    "generatedAt": 1654948605410
+    "generatedAt": 1655155787751
   }
 }

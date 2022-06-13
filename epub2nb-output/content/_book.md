@@ -13,6 +13,7 @@ meta:
   modified: '2021-12-07T10:50:41.658Z'
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2487-0
 readingOrder:
   - promo.html
   - bila_velryba_005.html

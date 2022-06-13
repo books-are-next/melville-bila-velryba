@@ -18,7 +18,6 @@ _Nuže, hodně zdaru, chudáčku knihovnický praktikante, jehož jsem vykladač
 </section>
 
 
-
 <section>
 
 _I stvořil Bůh velryby veliké._
