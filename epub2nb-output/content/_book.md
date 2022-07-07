@@ -156,7 +156,7 @@ readingOrder:
   - bila_velryba_143.html
   - bila_velryba_144.html
   - bila_velryba_145.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

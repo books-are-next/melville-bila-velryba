@@ -63,7 +63,7 @@
             "filename": "bila_velryba_003.md",
             "xhtml": "bila_velryba_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -74,7 +74,7 @@
             "filename": "bila_velryba_004.md",
             "xhtml": "bila_velryba_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -1914,7 +1914,7 @@
             "filename": "bila_velryba_146.md",
             "xhtml": "bila_velryba_146.xhtml",
             "id": 145,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -2916,6 +2916,6 @@
       "user": "books-are-next",
       "repo": "melville-bila-velryba"
     },
-    "generatedAt": 1655979117535
+    "generatedAt": 1657182189952
   }
 }

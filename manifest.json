@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "melville-bila-velryba-5e5c722",
-  "revision": "5e5c722",
+  "identifier": "melville-bila-velryba-87a9af9",
+  "revision": "87a9af9",
   "readingOrder": [
     "promo.html",
     "bila_velryba_005.html",
@@ -152,11 +152,11 @@
     "bila_velryba_143.html",
     "bila_velryba_144.html",
     "bila_velryba_145.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:15:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979322138
+    "date": "Thu Jul 07 2022 08:33:50 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182830011
   },
   "documents": [
     {
@@ -645,7 +645,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XX.PŘÍPRAVY K ODPLUTÍ",
+          "name": "XX.PŘÍPRAVY K ODPLUTÍ",
           "id": null,
           "children": []
         }
@@ -665,7 +665,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXI.CESTOU NA LOĎ",
+          "name": "XXI.CESTOU NA LOĎ",
           "id": null,
           "children": []
         }
@@ -705,7 +705,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXIII.BŘEH NA STRANĚ ZÁVĚTRNÉ",
+          "name": "XXIII.BŘEH NA STRANĚ ZÁVĚTRNÉ",
           "id": null,
           "children": []
         }
@@ -765,7 +765,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXVI.RYTÍŘI A PANOŠI",
+          "name": "XXVI.RYTÍŘI A PANOŠI",
           "id": null,
           "children": []
         }
@@ -785,7 +785,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXVII.RYTÍŘI A PANOŠI",
+          "name": "XXVII.RYTÍŘI A PANOŠI",
           "id": null,
           "children": []
         }
@@ -825,7 +825,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXIX.VCHÁZÍ ACHAB,K NĚMU PŘISTUPUJE STUBB",
+          "name": "XXIX.VCHÁZÍ ACHAB,K NĚMU PŘISTUPUJE STUBB",
           "id": null,
           "children": []
         }
@@ -1045,7 +1045,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XL.PŮLNOC NA PŘÍDI",
+          "name": "XL.PŮLNOC NA PŘÍDI",
           "id": null,
           "children": []
         }
@@ -1365,7 +1365,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LVI.O MÉNĚ NESPRÁVNÝCH OBRAZECH VELRYB A O PRAVDIVÝCH ZOBRAZENÍCH LOVU NA VELRYBY",
+          "name": "LVI.O MÉNĚ NESPRÁVNÝCH OBRAZECH VELRYB A O PRAVDIVÝCH ZOBRAZENÍCH LOVU NA VELRYBY",
           "id": null,
           "children": []
         }
@@ -1385,7 +1385,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LVII.O VELRYBÁCH NA PLÁTNĚ,NA ZUBECH, NA DŘEVĚ,NA PLECHU, NA KAMENI,NA HORÁCH A VE HVĚZDÁCH",
+          "name": "LVII.O VELRYBÁCH NA PLÁTNĚ,NA ZUBECH, NA DŘEVĚ,NA PLECHU, NA KAMENI,NA HORÁCH A VE HVĚZDÁCH",
           "id": null,
           "children": []
         }
@@ -1705,7 +1705,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXIII.STUBB A FLASKZABIJÍ GRÓNSKOU VELRYBU A POTOM O NÍ ROZMLOUVAJÍ",
+          "name": "LXXIII.STUBB A FLASKZABIJÍ GRÓNSKOU VELRYBU A POTOM O NÍ ROZMLOUVAJÍ",
           "id": null,
           "children": []
         }
@@ -1725,7 +1725,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXIV.HLAVA VORVANĚ — Z HLEDISKA SROVNÁVACÍHO",
+          "name": "LXXIV.HLAVA VORVANĚ — Z HLEDISKA SROVNÁVACÍHO",
           "id": null,
           "children": []
         }
@@ -2205,7 +2205,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XCVIII.ULOŽENÍ A ÚKLID",
+          "name": "XCVIII.ULOŽENÍ A ÚKLID",
           "id": null,
           "children": []
         }
@@ -2245,7 +2245,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "C.NOHA A RUKAPEQUOD Z NANTUCKETU SE SETKÁVÁ SE SAMUELEM ENDERBYM Z LONDÝNA",
+          "name": "C.NOHA A RUKAPEQUOD Z NANTUCKETU SE SETKÁVÁ SE SAMUELEM ENDERBYM Z LONDÝNA",
           "id": null,
           "children": []
         }
@@ -2285,7 +2285,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "CII.HÁJ NA ARSACIDÁCH",
+          "name": "CII.HÁJ NA ARSACIDÁCH",
           "id": null,
           "children": []
         }
@@ -2345,7 +2345,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "CV.ZMENŠUJE SE VELIKOST VELRYBY?— VYHYNE?",
+          "name": "CV.ZMENŠUJE SE VELIKOST VELRYBY?— VYHYNE?",
           "id": null,
           "children": []
         }
@@ -2405,7 +2405,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "CVIII.ACHAB A TESAŘ",
+          "name": "CVIII.ACHAB A TESAŘ",
           "id": null,
           "children": []
         }
@@ -2445,7 +2445,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "CX.KVÍKVEG V RAKVI",
+          "name": "CX.KVÍKVEG V RAKVI",
           "id": null,
           "children": []
         }
@@ -2645,7 +2645,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "CXX.PALUBA KE KONCIPRVNÍ NOČNÍ HLÍDKY",
+          "name": "CXX.PALUBA KE KONCIPRVNÍ NOČNÍ HLÍDKY",
           "id": null,
           "children": []
         }
@@ -2685,7 +2685,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "CXXII.O PŮLNOCI NA STOŽÁRUHROMY A BLESKY",
+          "name": "CXXII.O PŮLNOCI NA STOŽÁRUHROMY A BLESKY",
           "id": null,
           "children": []
         }
@@ -2960,7 +2960,7 @@
       "role": "chapter",
       "order": 140,
       "prev": "bila_velryba_144.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -2973,11 +2973,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 151,
-      "chars": 994,
+      "chars": 993,
       "ideas": 19,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "bila_velryba_145.html",
       "next": null,
@@ -2995,7 +2995,7 @@
   "totals": {
     "all": {
       "words": 180043,
-      "chars": 1108623,
+      "chars": 1108622,
       "ideas": 2966
     },
     "chapters": {
