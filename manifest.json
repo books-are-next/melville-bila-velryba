@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "melville-bila-velryba-f5be457",
-  "revision": "f5be457",
+  "identifier": "melville-bila-velryba-e1f7fab",
+  "revision": "e1f7fab",
   "readingOrder": [
     "promo.html",
     "bila_velryba_005.html",
@@ -155,8 +155,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:57:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417438828
+    "date": "Fri Oct 21 2022 11:37:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352268450
   },
   "documents": [
     {
